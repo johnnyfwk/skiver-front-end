@@ -4,48 +4,78 @@ import { Routes, Route } from 'react-router-dom';
 import Logo from './components/Logo';
 import Nav from './components/Nav';
 import Home from './pages/Home';
-import City from './pages/City';
 import About from './pages/About';
+import TravelInput from './components/TravelInput';
+import Destination from './pages/Destination';
+import Footer from './components/Footer';
 
 function App() {
-    const [cityInput, setCityInput] = useState("");
-    const [citiesMatchingInput, setCitiesMatchingInput] = useState(null);
-    const [selectedCity, setSelectedCity] = useState({});
+    const departureAirportInputLabel = "UK Departure Airport:";
+    const departureAirportInputName = "uk-departure-airport-input";
+    const departureAirportInputPlaceholder = "Enter UK departure airport";
+    const [departureAirportInput, setDepartureAirportInput] = useState("");
+
+    const arrivalAirportInputLabel = "Arrival Airport Abroad:";
+    const arrivalAirportInputName = "arrival-airport-abroad-input";
+    const arrivalAirportInputPlaceholder = "Enter arrival airport abroad";
+    const [arrivalAirportInput, setArrivalAirportInput] = useState("");
 
     return (
         <div className="App">
             <Logo
-                setCityInput={setCityInput}
-                setCitiesMatchingInput={setCitiesMatchingInput}
-                setSelectedCity={setSelectedCity}
+                setDepartureAirportInput={setDepartureAirportInput}
+                setArrivalAirportInput={setArrivalAirportInput}
             />
+
             <Nav />
+
             <Routes>
                 <Route
                     path="/"
                     element={
                         <Home
-                            cityInput={cityInput}
-                            setCityInput={setCityInput}
-                            citiesMatchingInput={citiesMatchingInput}
-                            setCitiesMatchingInput={setCitiesMatchingInput}
-                            selectedCity={selectedCity}
-                            setSelectedCity={setSelectedCity}
-                        />
-                } />
-                <Route
-                    path="/city"
-                    element={
-                        <City
-                            cityInput={cityInput}
-                            setCityInput={setCityInput}
-                            citiesMatchingInput={citiesMatchingInput}
-                            setCitiesMatchingInput={setCitiesMatchingInput}
+                            departureAirportInputLabel={departureAirportInputLabel}
+                            departureAirportInputName={departureAirportInputName}
+                            departureAirportInputPlaceholder={departureAirportInputPlaceholder}
+                            departureAirportInput={departureAirportInput}
+                            setDepartureAirportInput={setDepartureAirportInput}
+                            arrivalAirportInputLabel={arrivalAirportInputLabel}
+                            arrivalAirportInputName={arrivalAirportInputName}
+                            arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
+                            arrivalAirportInput={arrivalAirportInput}
+                            setArrivalAirportInput={setArrivalAirportInput}
                         />
                     }
                 />
-                <Route path="/about" element={<About />} />
+                <Route
+                    path="/destination/:destination_airport_id"
+                    element={
+                        <Destination
+                            departureAirportInputLabel={departureAirportInputLabel}
+                            departureAirportInputName={departureAirportInputName}
+                            departureAirportInputPlaceholder={departureAirportInputPlaceholder}
+                            departureAirportInput={departureAirportInput}
+                            setDepartureAirportInput={setDepartureAirportInput}
+                            arrivalAirportInputLabel={arrivalAirportInputLabel}
+                            arrivalAirportInputName={arrivalAirportInputName}
+                            arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
+                            arrivalAirportInput={arrivalAirportInput}
+                            setArrivalAirportInput={setArrivalAirportInput}
+                        />
+                    }
+                />
+                <Route
+                    path="/about"
+                    element={
+                        <About />
+                    }
+                />
             </Routes>
+
+            <Footer
+                setDepartureAirportInput={setDepartureAirportInput}
+                setArrivalAirportInput={setArrivalAirportInput}
+            />
         </div>
     );
 }

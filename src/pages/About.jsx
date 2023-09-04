@@ -11,7 +11,6 @@ export default function About() {
 
             <header>
                 <h1>About</h1>
-                <p>This is some text in the header.</p>
             </header>
 
             <main>
