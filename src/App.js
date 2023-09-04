@@ -9,13 +9,15 @@ import About from './pages/About';
 
 function App() {
     const [cityInput, setCityInput] = useState("");
-    const [citiesMatchingInput, setCitiesMatchingInput] = useState([]);
+    const [citiesMatchingInput, setCitiesMatchingInput] = useState(null);
+    const [selectedCity, setSelectedCity] = useState({});
 
     return (
         <div className="App">
             <Logo
                 setCityInput={setCityInput}
                 setCitiesMatchingInput={setCitiesMatchingInput}
+                setSelectedCity={setSelectedCity}
             />
             <Nav />
             <Routes>
@@ -27,6 +29,8 @@ function App() {
                             setCityInput={setCityInput}
                             citiesMatchingInput={citiesMatchingInput}
                             setCitiesMatchingInput={setCitiesMatchingInput}
+                            selectedCity={selectedCity}
+                            setSelectedCity={setSelectedCity}
                         />
                 } />
                 <Route
