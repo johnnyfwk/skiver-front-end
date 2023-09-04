@@ -1,45 +1,42 @@
 import { useEffect, useState } from 'react';
-import { useSearchParams, useNavigate } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 import CityInput from '../components/CityInput';
-import countriesAndCities from '../assets/data/countries-and-cities';
+
 import * as api from '../api';
 
 export default function Home({
-    cityEntered,
-    setCityEntered,
-    citiesMatchingCityEntered,
-    setCitiesMatchingCityEntered,
-    selectedCity,
-    setSelectedCity
+    cityInput,
+    setCityInput,
+    citiesMatchingInput,
+    setCitiesMatchingInput
 }) {
 
     const [searchParams, setSearchParams] = useSearchParams();
     const cityIdQuery = searchParams.get("city_id");
 
-    const navigate = useNavigate();
-
-    function handleMatchingCities(event) {
-
-    }
-
     useEffect(() => {
 
     }, [cityIdQuery])
 
-    console.log(govUkForeignTravelCityInfoEntryRequirements)
-
     return (
         <div>
             <Helmet>
-
+                <link rel="canonical" href="https://skiver.co.uk/" />
+                <title>Get travel information for cities around the world • Skiver</title>
+                <meta name="description" content="Get entry requirements, flight, accommodation, weather, and events information for cities around the world." />
             </Helmet>
 
             <header>
-                <h1>Get travel plans for cities around the world</h1>
                 <form>
-
+                    <CityInput
+                        cityInput={cityInput}
+                        setCityInput={setCityInput}
+                        citiesMatchingInput={citiesMatchingInput}
+                        setCitiesMatchingInput={setCitiesMatchingInput}
+                    />
                 </form>
+                
             </header>
 
             <main>
