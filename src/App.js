@@ -4,32 +4,42 @@ import { Routes, Route } from 'react-router-dom';
 import Logo from './components/Logo';
 import Nav from './components/Nav';
 import Home from './pages/Home';
+import City from './pages/City';
 import About from './pages/About';
 
 function App() {
-    const [cityEntered, setCityEntered] = useState("");
-    const [citiesMatchingCityEntered, setCitiesMatchingCityEntered] = useState([]);
-    const [selectedCity, setSelectedCity] = useState({});
+    const [cityInput, setCityInput] = useState("");
+    const [citiesMatchingInput, setCitiesMatchingInput] = useState([]);
 
     return (
         <div className="App">
             <Logo
-                setCityEntered={setCityEntered}
-                setCitiesMatchingCityEntered={setCitiesMatchingCityEntered}
-                setSelectedCity={setSelectedCity}
+                setCityInput={setCityInput}
+                setCitiesMatchingInput={setCitiesMatchingInput}
             />
             <Nav />
             <Routes>
-                <Route path="/" element={
-                    <Home
-                        cityEntered={cityEntered}
-                        setCityEntered={setCityEntered}
-                        citiesMatchingCityEntered={citiesMatchingCityEntered}
-                        setCitiesMatchingCityEntered={setCitiesMatchingCityEntered}
-                        selectedCity={selectedCity}
-                        setSelectedCity={setSelectedCity}
-                    />
-                }></Route>
+                <Route
+                    path="/"
+                    element={
+                        <Home
+                            cityInput={cityInput}
+                            setCityInput={setCityInput}
+                            citiesMatchingInput={citiesMatchingInput}
+                            setCitiesMatchingInput={setCitiesMatchingInput}
+                        />
+                } />
+                <Route
+                    path="/city"
+                    element={
+                        <City
+                            cityInput={cityInput}
+                            setCityInput={setCityInput}
+                            citiesMatchingInput={citiesMatchingInput}
+                            setCitiesMatchingInput={setCitiesMatchingInput}
+                        />
+                    }
+                />
                 <Route path="/about" element={<About />} />
             </Routes>
         </div>
