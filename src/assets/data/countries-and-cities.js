@@ -118380,16195 +118380,16195 @@ const countriesAndCities = [
     subCountry: "Northern Region"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4046704,
     city: "Fort Hunt",
     subCountry: "Virginia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4048023,
     city: "Bessemer",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4048662,
     city: "Paducah",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4049979,
     city: "Birmingham",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4054378,
     city: "Center Point",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4058219,
     city: "Daphne",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4058553,
     city: "Decatur",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4059102,
     city: "Dothan",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4059870,
     city: "East Florence",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4060791,
     city: "Enterprise",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4061234,
     city: "Fairhope",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4062577,
     city: "Florence",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4063619,
     city: "Gadsden",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4066811,
     city: "Helena",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4067927,
     city: "Homewood",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4067994,
     city: "Hoover",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4068446,
     city: "Hueytown",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4068590,
     city: "Huntsville",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4074267,
     city: "Madison",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4076598,
     city: "Mobile",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4076784,
     city: "Montgomery",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4078646,
     city: "Mountain Brook",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4080555,
     city: "Northport",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4081644,
     city: "Opelika",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4081914,
     city: "Oxford",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4082569,
     city: "Pelham",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4082866,
     city: "Phenix City",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4084796,
     city: "Prattville",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4084888,
     city: "Prichard",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4089114,
     city: "Selma",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4092788,
     city: "Talladega",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4093753,
     city: "Tillmans Corner",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4094163,
     city: "Troy",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4094212,
     city: "Trussville",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4094455,
     city: "Tuscaloosa",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4095415,
     city: "Vestavia Hills",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4101114,
     city: "Bella Vista",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4101241,
     city: "Benton",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4101260,
     city: "Bentonville",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4102412,
     city: "Blytheville",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4103448,
     city: "Bryant",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4103957,
     city: "Cabot",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4106458,
     city: "Conway",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4109785,
     city: "El Dorado",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4110486,
     city: "Fayetteville",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4111382,
     city: "Forrest City",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4111410,
     city: "Fort Smith",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4115412,
     city: "Hot Springs",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4116315,
     city: "Jacksonville",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4116834,
     city: "Jonesboro",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4119403,
     city: "Little Rock",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4120792,
     city: "Maumelle",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4124112,
     city: "North Little Rock",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4125388,
     city: "Paragould",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4126226,
     city: "Pine Bluff",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4128894,
     city: "Rogers",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4129397,
     city: "Russellville",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4130430,
     city: "Searcy",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4131116,
     city: "Siloam Springs",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4132093,
     city: "Springdale",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4133367,
     city: "Texarkana",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4134716,
     city: "Van Buren",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4135865,
     city: "West Memphis",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4140963,
     city: "Washington, D.C.",
     subCountry: "Washington, D.C."
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4141363,
     city: "Bear",
     subCountry: "Delaware"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4142290,
     city: "Dover",
     subCountry: "Delaware"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4143637,
     city: "Middletown",
     subCountry: "Delaware"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4143861,
     city: "Newark",
     subCountry: "Delaware"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4145381,
     city: "Wilmington",
     subCountry: "Delaware"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4145805,
     city: "Allapattah",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4145941,
     city: "Altamonte Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4146166,
     city: "Apopka",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4146429,
     city: "Aventura",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4146723,
     city: "Bartow",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4146901,
     city: "Bayonet Point",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4146934,
     city: "Bayshore Gardens",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4147241,
     city: "Belle Glade",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4147290,
     city: "Bellview",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148207,
     city: "Bloomingdale",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148399,
     city: "Boca Del Mar",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148411,
     city: "Boca Raton",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148533,
     city: "Bonita Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148677,
     city: "Boynton Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148708,
     city: "Bradenton",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148757,
     city: "Brandon",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4148803,
     city: "Brent",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4149077,
     city: "Brownsville",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4149269,
     city: "Buenaventura Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4149956,
     city: "Cantonment",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4149962,
     city: "Cape Coral",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4150066,
     city: "Carol City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4150115,
     city: "Carrollwood",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4150118,
     city: "Carrollwood Village",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4150190,
     city: "Casselberry",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151157,
     city: "Citrus Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151316,
     city: "Clearwater",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151352,
     city: "Clermont",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151440,
     city: "Cocoa",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151455,
     city: "Coconut Creek",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151460,
     city: "Coconut Grove",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151824,
     city: "Cooper City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151871,
     city: "Coral Gables",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151909,
     city: "Coral Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4151921,
     city: "Coral Terrace",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152064,
     city: "Country Walk",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152093,
     city: "Country Club",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152311,
     city: "Crestview",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152564,
     city: "Cutler",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152574,
     city: "Cutler Ridge",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152772,
     city: "Dania Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152820,
     city: "Davie",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152872,
     city: "Daytona Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152890,
     city: "DeLand",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4152926,
     city: "DeBary",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4153071,
     city: "Deerfield Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4153132,
     city: "Delray Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4153146,
     city: "Deltona",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4153471,
     city: "Doral",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4153759,
     city: "Dunedin",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154008,
     city: "East Lake",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154047,
     city: "East Pensacola Heights",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154205,
     city: "Edgewater",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154280,
     city: "Egypt Lake-Leto",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154489,
     city: "Ensley",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154568,
     city: "Estero",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4154606,
     city: "Eustis",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4155017,
     city: "Ferry Pass",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4155529,
     city: "Flagami",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4155726,
     city: "Florida Ridge",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4155966,
     city: "Fort Lauderdale",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4155995,
     city: "Fort Myers",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156018,
     city: "Fort Pierce",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156042,
     city: "Fort Walton Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156091,
     city: "Fountainebleau",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156331,
     city: "Fruit Cove",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156404,
     city: "Gainesville",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156857,
     city: "Glenvar Heights",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156920,
     city: "Golden Gate",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4156931,
     city: "Golden Glades",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4157467,
     city: "Greenacres City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4157827,
     city: "Haines City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4157898,
     city: "Hallandale Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4158476,
     city: "Hialeah",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4158482,
     city: "Hialeah Gardens",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4158865,
     city: "Holiday",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4158928,
     city: "Hollywood",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4159050,
     city: "Homestead",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4159553,
     city: "Immokalee",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4159805,
     city: "Iona",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4159896,
     city: "Ives Estates",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160021,
     city: "Jacksonville",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160023,
     city: "Jacksonville Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160100,
     city: "Jasmine Estates",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160610,
     city: "Jupiter",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160705,
     city: "Kendale Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160711,
     city: "Kendall",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160812,
     city: "Key West",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160822,
     city: "Keystone",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4160983,
     city: "Kissimmee",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161178,
     city: "Lake Butler",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161313,
     city: "Lake Magdalene",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161422,
     city: "Lake Worth",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161424,
     city: "Lake Worth Corridor",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161438,
     city: "Lakeland",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161461,
     city: "Lakeside",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161534,
     city: "Land O' Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161580,
     city: "Largo",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161616,
     city: "Lauderdale Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161625,
     city: "Lauderhill",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161705,
     city: "Lealman",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161771,
     city: "Leesburg",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161785,
     city: "Lehigh Acres",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4161797,
     city: "Leisure City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163033,
     city: "Lutz",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163049,
     city: "Lynn Haven",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163220,
     city: "Maitland",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163407,
     city: "Margate",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163918,
     city: "Meadow Woods",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4163971,
     city: "Melbourne",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164092,
     city: "Merritt Island",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164138,
     city: "Miami",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164143,
     city: "Miami Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164167,
     city: "Miami Gardens",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164186,
     city: "Miami Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4164601,
     city: "Miramar",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4165519,
     city: "Myrtle Grove",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4165565,
     city: "Naples",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4165637,
     city: "Navarre",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4165913,
     city: "New Smyrna Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166066,
     city: "Norland",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166195,
     city: "North Fort Myers",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166222,
     city: "North Lauderdale",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166232,
     city: "North Miami",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166233,
     city: "North Miami Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166274,
     city: "North Port",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166583,
     city: "Oak Ridge",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166638,
     city: "Oakland Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166673,
     city: "Ocala",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166776,
     city: "Ocoee",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4166805,
     city: "Ojus",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167003,
     city: "Opa-locka",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167147,
     city: "Orlando",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167178,
     city: "Ormond Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167348,
     city: "Oviedo",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167424,
     city: "Pace",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167499,
     city: "Palm Bay",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167519,
     city: "Palm Beach Gardens",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167536,
     city: "Palm City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167538,
     city: "Palm Coast",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167545,
     city: "Palm Harbor",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167583,
     city: "Palm Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167601,
     city: "Palm Valley",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167634,
     city: "Palmetto Bay",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167694,
     city: "Panama City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4167829,
     city: "Parkland",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168139,
     city: "Pembroke Pines",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168228,
     city: "Pensacola",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168459,
     city: "Pine Hills",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168590,
     city: "Pinecrest",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168630,
     city: "Pinellas Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168659,
     city: "Pinewood",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168773,
     city: "Plant City",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168782,
     city: "Plantation",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4168930,
     city: "Poinciana",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169014,
     city: "Pompano Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169060,
     city: "Ponte Vedra Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169130,
     city: "Port Charlotte",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169156,
     city: "Port Orange",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169171,
     city: "Port Saint Lucie",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169345,
     city: "Princeton",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169452,
     city: "Punta Gorda",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4169455,
     city: "Punta Gorda Isles",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170005,
     city: "Richmond West",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170156,
     city: "Riverview",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170174,
     city: "Riviera Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170358,
     city: "Rockledge",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170617,
     city: "Royal Palm Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170688,
     city: "Ruskin",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170797,
     city: "Safety Harbor",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4170965,
     city: "Saint Cloud",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4171563,
     city: "Saint Petersburg",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4171782,
     city: "San Carlos Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4172086,
     city: "Sanford",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4172131,
     city: "Sarasota",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4172372,
     city: "Sebastian",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4172434,
     city: "Seminole",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4173392,
     city: "South Bradenton",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4173497,
     city: "South Miami Heights",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4173600,
     city: "Southchase",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4173838,
     city: "Spring Hill",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174201,
     city: "Stuart",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174317,
     city: "Sun City Center",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174383,
     city: "Sunny Isles Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174402,
     city: "Sunrise",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174425,
     city: "Sunset",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174715,
     city: "Tallahassee",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174738,
     city: "Tamarac",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174744,
     city: "Tamiami",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174757,
     city: "Tampa",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174855,
     city: "Tarpon Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4174969,
     city: "Temple Terrace",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175091,
     city: "The Crossings",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175117,
     city: "The Hammocks",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175179,
     city: "The Villages",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175296,
     city: "Three Lakes",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175437,
     city: "Titusville",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4175538,
     city: "Town 'n' Country",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4176217,
     city: "University Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4176318,
     city: "Valrico",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4176380,
     city: "Venice",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4176409,
     city: "Vero Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177671,
     city: "Wekiwa Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177703,
     city: "Wellington",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177727,
     city: "Wesley Chapel",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177779,
     city: "Westchase",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177865,
     city: "West Little River",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177872,
     city: "West Melbourne",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177887,
     city: "West Palm Beach",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177908,
     city: "West Pensacola",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177960,
     city: "West and East Lealman",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4177965,
     city: "Westchester",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178003,
     city: "Weston",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178550,
     city: "Winter Garden",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178552,
     city: "Winter Haven",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178560,
     city: "Winter Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178573,
     city: "Winter Springs",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4178775,
     city: "Wright",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4179074,
     city: "Acworth",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4179320,
     city: "Albany",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4179574,
     city: "Alpharetta",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4179667,
     city: "Americus",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4180386,
     city: "Athens",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4180439,
     city: "Atlanta",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4180531,
     city: "Augusta",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4181936,
     city: "Belvedere Park",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4184530,
     city: "Brookhaven",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4184845,
     city: "Brunswick",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4185657,
     city: "Calhoun",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4186213,
     city: "Canton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4186416,
     city: "Carrollton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4186531,
     city: "Cartersville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4188985,
     city: "Columbus",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4189213,
     city: "Conyers",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4190581,
     city: "Dalton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4191124,
     city: "Decatur",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4191955,
     city: "Douglasville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4192205,
     city: "Dublin",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4192289,
     city: "Duluth",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4192375,
     city: "Dunwoody",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4192674,
     city: "East Point",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4193699,
     city: "Evans",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4194474,
     city: "Fayetteville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4195701,
     city: "Forest Park",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4196586,
     city: "Gainesville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4198322,
     city: "Griffin",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4200671,
     city: "Hinesville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4203696,
     city: "Kennesaw",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4204007,
     city: "Kingsland",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4204230,
     city: "La Grange",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4205196,
     city: "Lawrenceville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4205885,
     city: "Lithia Springs",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4207226,
     city: "Mableton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4207400,
     city: "Macon",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4207783,
     city: "Marietta",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4207981,
     city: "Martinez",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4208442,
     city: "McDonough",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4209448,
     city: "Milledgeville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4212684,
     city: "Newnan",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4212992,
     city: "North Decatur",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4212995,
     city: "North Druid Hills",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4215110,
     city: "Peachtree City",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4216948,
     city: "Pooler",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4218165,
     city: "Redan",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4219001,
     city: "Riverdale",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4219762,
     city: "Rome",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4219934,
     city: "Roswell",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4220629,
     city: "St. Marys",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4221333,
     city: "Sandy Springs",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4221552,
     city: "Savannah",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4223379,
     city: "Smyrna",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4223413,
     city: "Snellville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4224413,
     city: "Statesboro",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4224681,
     city: "Stockbridge",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4225039,
     city: "Sugar Hill",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4225309,
     city: "Suwanee",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4226348,
     city: "Thomasville",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4226552,
     city: "Tifton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4227213,
     city: "Tucker",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4227777,
     city: "Union City",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4228147,
     city: "Valdosta",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4229476,
     city: "Warner Robins",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4231354,
     city: "Wilmington Island",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4231874,
     city: "Woodstock",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4232679,
     city: "Alton",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4233813,
     city: "Belleville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4234969,
     city: "Cahokia",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4235193,
     city: "Carbondale",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4235668,
     city: "Charleston",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4236191,
     city: "Collinsville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4236895,
     city: "Decatur",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4237579,
     city: "East Saint Louis",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4237717,
     city: "Edwardsville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4238132,
     city: "Fairview Heights",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4239509,
     city: "Godfrey",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4239714,
     city: "Granite City",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4241704,
     city: "Jacksonville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4243899,
     city: "Marion",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4244099,
     city: "Mattoon",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4245152,
     city: "Mount Vernon",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4245926,
     city: "O'Fallon",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4247703,
     city: "Quincy",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4250542,
     city: "Springfield",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4251841,
     city: "Upper Alton",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4254679,
     city: "Bloomington",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4254957,
     city: "Broad Ripple",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4255056,
     city: "Brownsburg",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4255466,
     city: "Carmel",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4255836,
     city: "Clarksville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4256038,
     city: "Columbus",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4257227,
     city: "Evansville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4257494,
     city: "Fishers",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4258285,
     city: "Greenfield",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4258313,
     city: "Greenwood",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4259418,
     city: "Indianapolis",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4259640,
     city: "Jasper",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4259671,
     city: "Jeffersonville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4260210,
     city: "Lawrence",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4262045,
     city: "New Albany",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4262072,
     city: "New Castle",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4263108,
     city: "Plainfield",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4263681,
     city: "Richmond",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4264617,
     city: "Seymour",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4264688,
     city: "Shelbyville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4265737,
     city: "Terre Haute",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4266307,
     city: "Vincennes",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4270356,
     city: "Derby",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4271086,
     city: "Emporia",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4271935,
     city: "Gardner",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4272340,
     city: "Great Bend",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4272782,
     city: "Hays",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4273299,
     city: "Hutchinson",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4273680,
     city: "Junction City",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4273837,
     city: "Kansas City",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4274277,
     city: "Lawrence",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4274305,
     city: "Leavenworth",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4274317,
     city: "Leawood",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4274356,
     city: "Lenexa",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4274994,
     city: "Manhattan",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4276248,
     city: "Newton",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4276614,
     city: "Olathe",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4276873,
     city: "Overland Park",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4277241,
     city: "Pittsburg",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4277718,
     city: "Prairie Village",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4278890,
     city: "Salina",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4279247,
     city: "Shawnee",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4280539,
     city: "Topeka",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4281730,
     city: "Wichita",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4282757,
     city: "Ashland",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4285268,
     city: "Bowling Green",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4286281,
     city: "Burlington",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4288809,
     city: "Covington",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4289445,
     city: "Danville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4290988,
     city: "Elizabethtown",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4291255,
     city: "Erlanger",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4291620,
     city: "Fern Creek",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4291945,
     city: "Florence",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4292071,
     city: "Fort Thomas",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4292188,
     city: "Frankfort",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4292686,
     city: "Georgetown",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4294494,
     city: "Henderson",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4294799,
     city: "Highview",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4295251,
     city: "Hopkinsville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4295776,
     city: "Independence",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4295940,
     city: "Ironville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4296218,
     city: "Jeffersontown",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4297983,
     city: "Lexington",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4297999,
     city: "Lexington-Fayette",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4299276,
     city: "Louisville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4299670,
     city: "Madisonville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4300488,
     city: "Meads",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4302035,
     city: "Murray",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4302504,
     city: "Newburg",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4302529,
     city: "Newport",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4302561,
     city: "Nicholasville",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4303012,
     city: "Okolona",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4303436,
     city: "Owensboro",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4304713,
     city: "Pleasure Ridge Park",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4305504,
     city: "Radcliff",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4305974,
     city: "Richmond",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4307238,
     city: "Saint Matthews",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4308225,
     city: "Shively",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4311963,
     city: "Valley Station",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4313697,
     city: "Winchester",
     subCountry: "Kentucky"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4314550,
     city: "Alexandria",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4315588,
     city: "Baton Rouge",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4315768,
     city: "Bayou Cane",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4317639,
     city: "Bossier City",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4319435,
     city: "Central",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4319518,
     city: "Chalmette",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4323873,
     city: "Estelle",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4326575,
     city: "Gretna",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4326868,
     city: "Hammond",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4327047,
     city: "Harvey",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4328010,
     city: "Houma",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4329753,
     city: "Kenner",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4330145,
     city: "Lafayette",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4330236,
     city: "Lake Charles",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4330525,
     city: "Laplace",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4332628,
     city: "Marrero",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4333177,
     city: "Metairie",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4333190,
     city: "Metairie Terrace",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4333669,
     city: "Monroe",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4334720,
     city: "Natchitoches",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4334971,
     city: "New Iberia",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4335045,
     city: "New Orleans",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4336153,
     city: "Opelousas",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4338012,
     city: "Prairieville",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4339348,
     city: "Ruston",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4341378,
     city: "Shenandoah",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4341513,
     city: "Shreveport",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4341727,
     city: "Slidell",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4342816,
     city: "Sulphur",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4343327,
     city: "Terrytown",
     subCountry: "Louisiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4346991,
     city: "Adelphi",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347242,
     city: "Annapolis",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347371,
     city: "Arbutus",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347426,
     city: "Arnold",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347553,
     city: "Aspen Hill",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347778,
     city: "Baltimore",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4347839,
     city: "Ballenger Creek",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4348353,
     city: "Beltsville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4348599,
     city: "Bethesda",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4349159,
     city: "Bowie",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4350160,
     city: "Calverton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4350288,
     city: "Camp Springs",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4350413,
     city: "Carney",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4350635,
     city: "Catonsville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4351383,
     city: "Chillum",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4351851,
     city: "Cloverly",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4351871,
     city: "Clinton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4351887,
     city: "Cockeysville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4351977,
     city: "College Park",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4352053,
     city: "Columbia",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4352539,
     city: "Crofton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4352681,
     city: "Cumberland",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4352728,
     city: "Damascus",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4353765,
     city: "Dundalk",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4353925,
     city: "East Riverdale",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4353962,
     city: "Easton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354087,
     city: "Edgewood",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354163,
     city: "Eldersburg",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354234,
     city: "Elkton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354256,
     city: "Elkridge",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354265,
     city: "Ellicott City",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354428,
     city: "Essex",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354573,
     city: "Fairland",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4354821,
     city: "Ferndale",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4355355,
     city: "Fort Washington",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4355585,
     city: "Frederick",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4355843,
     city: "Gaithersburg",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4356050,
     city: "Germantown",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4356165,
     city: "Glassmanor",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4356188,
     city: "Glen Burnie",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4356783,
     city: "Green Haven",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4356847,
     city: "Greenbelt",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4357141,
     city: "Hagerstown",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4357340,
     city: "Hanover",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4358082,
     city: "Hillcrest Heights",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4358701,
     city: "Hunt Valley",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4358821,
     city: "Hyattsville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4358864,
     city: "Ilchester",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4360201,
     city: "Lake Shore",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4360287,
     city: "Landover",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4360314,
     city: "Langley Park",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4360369,
     city: "Laurel",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4360954,
     city: "Lochearn",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4361831,
     city: "Maryland City",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4362344,
     city: "Middle River",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4362438,
     city: "Milford Mill",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4362743,
     city: "Montgomery Village",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4363836,
     city: "North Bel Air",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4363843,
     city: "North Bethesda",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4363990,
     city: "North Potomac",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364362,
     city: "Odenton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364537,
     city: "Olney",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364727,
     city: "Owings Mills",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364759,
     city: "Oxon Hill",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364946,
     city: "Parkville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364964,
     city: "Parole",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4364990,
     city: "Pasadena",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4365227,
     city: "Perry Hall",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4365387,
     city: "Pikesville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4366001,
     city: "Potomac",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4366476,
     city: "Randallstown",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4366593,
     city: "Redland",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4366647,
     city: "Reisterstown",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4367175,
     city: "Rockville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4367372,
     city: "Rosedale",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4367419,
     city: "Rossville",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4367734,
     city: "Saint Charles",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4368711,
     city: "Salisbury",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369076,
     city: "Seabrook",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369190,
     city: "Severn",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369224,
     city: "Severna Park",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369596,
     city: "Silver Spring",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369928,
     city: "South Bel Air",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369964,
     city: "South Gate",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4369978,
     city: "South Laurel",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4370616,
     city: "Suitland",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4370890,
     city: "Takoma Park",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4371582,
     city: "Towson",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4372599,
     city: "Waldorf",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4373104,
     city: "West Elkridge",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4373238,
     city: "Westminster",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4373349,
     city: "Wheaton",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4373449,
     city: "White Oak",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4374054,
     city: "Woodlawn",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4374513,
     city: "Affton",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4375087,
     city: "Arnold",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4375663,
     city: "Ballwin",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4376482,
     city: "Belton",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4377664,
     city: "Blue Springs",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4379966,
     city: "Cape Girardeau",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4381072,
     city: "Chesterfield",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4381478,
     city: "Clayton",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4381982,
     city: "Columbia",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4382072,
     city: "Concord",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4382837,
     city: "Creve Coeur",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4385018,
     city: "East Independence",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4386289,
     city: "Farmington",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4386387,
     city: "Ferguson",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4386802,
     city: "Florissant",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4387990,
     city: "Gladstone",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4388460,
     city: "Grandview",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4389418,
     city: "Hannibal",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4389967,
     city: "Hazelwood",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4391812,
     city: "Independence",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4392388,
     city: "Jefferson City",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4392768,
     city: "Joplin",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4393217,
     city: "Kansas City",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4393739,
     city: "Kirkwood",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4394870,
     city: "Lee's Summit",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4394905,
     city: "Lemay",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4395052,
     city: "Liberty",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4396915,
     city: "Manchester",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4397340,
     city: "Maryland Heights",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4397962,
     city: "Mehlville",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4400648,
     city: "Nixa",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4401242,
     city: "O'Fallon",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4401618,
     city: "Oakville",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4402178,
     city: "Overland",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4402245,
     city: "Ozark",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4404233,
     city: "Poplar Bluff",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4405180,
     city: "Raymore",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4405188,
     city: "Raytown",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4406282,
     city: "Rolla",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4406831,
     city: "Saint Charles",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4407010,
     city: "Saint Joseph",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4407066,
     city: "St. Louis",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4407237,
     city: "Saint Peters",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4408000,
     city: "Sedalia",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4408672,
     city: "Sikeston",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4409591,
     city: "Spanish Lake",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4409896,
     city: "Springfield",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4412697,
     city: "University City",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4413595,
     city: "Warrensburg",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4413872,
     city: "Webster Groves",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4414001,
     city: "Wentzville",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4414749,
     city: "Wildwood",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4418478,
     city: "Biloxi",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4419290,
     city: "Brandon",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4421935,
     city: "Clarksdale",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4422133,
     city: "Clinton",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4422442,
     city: "Columbus",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4427569,
     city: "Gautier",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4428475,
     city: "Greenville",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4428495,
     city: "Greenwood",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4428667,
     city: "Gulfport",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4429295,
     city: "Hattiesburg",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4430400,
     city: "Horn Lake",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4431410,
     city: "Jackson",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4433039,
     city: "Laurel",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4434663,
     city: "Madison",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4435764,
     city: "Meridian",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4437982,
     city: "Natchez",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4439506,
     city: "Ocean Springs",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4439869,
     city: "Olive Branch",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4440076,
     city: "Oxford",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4440397,
     city: "Pascagoula",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4440559,
     city: "Pearl",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4443296,
     city: "Ridgeland",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4446675,
     city: "Southaven",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4447161,
     city: "Starkville",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4448903,
     city: "Tupelo",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4449620,
     city: "Vicksburg",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4450687,
     city: "West Gulfport",
     subCountry: "Mississippi"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4452303,
     city: "Albemarle",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4452808,
     city: "Apex",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4453035,
     city: "Asheboro",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4453066,
     city: "Asheville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4456703,
     city: "Boone",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4458228,
     city: "Burlington",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4459343,
     city: "Carrboro",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4459467,
     city: "Cary",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4460162,
     city: "Chapel Hill",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4460243,
     city: "Charlotte",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4460943,
     city: "Clayton",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4461015,
     city: "Clemmons",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4461574,
     city: "Concord",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4461941,
     city: "Cornelius",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4464368,
     city: "Durham",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4464873,
     city: "Eden",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4465088,
     city: "Elizabeth City",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4466033,
     city: "Fayetteville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4467485,
     city: "Fuquay-Varina",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4467657,
     city: "Garner",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4467732,
     city: "Gastonia",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4468261,
     city: "Goldsboro",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4469146,
     city: "Greensboro",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4469160,
     city: "Greenville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4470244,
     city: "Havelock",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4470566,
     city: "Henderson",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4470778,
     city: "Hickory",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4471025,
     city: "High Point",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4471641,
     city: "Holly Springs",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4471851,
     city: "Hope Mills",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4472370,
     city: "Huntersville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4472687,
     city: "Indian Trail",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4473083,
     city: "Jacksonville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4474040,
     city: "Kannapolis",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4474221,
     city: "Kernersville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4474436,
     city: "Kinston",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4475347,
     city: "Laurinburg",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4475640,
     city: "Lenoir",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4475773,
     city: "Lexington",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4477525,
     city: "Lumberton",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4478334,
     city: "Matthews",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4479759,
     city: "Mint Hill",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4479946,
     city: "Monroe",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4480125,
     city: "Mooresville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4480219,
     city: "Morganton",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4480285,
     city: "Morrisville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4481682,
     city: "New Bern",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4487042,
     city: "Raleigh",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4488232,
     city: "Roanoke Rapids",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4488762,
     city: "Rocky Mount",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4489985,
     city: "Salisbury",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4490329,
     city: "Sanford",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4491180,
     city: "Shelby",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4493316,
     city: "Statesville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4494942,
     city: "Thomasville",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4497290,
     city: "Wake Forest",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4498303,
     city: "West Raleigh",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4499379,
     city: "Wilmington",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4499389,
     city: "Wilson",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4499612,
     city: "Winston-Salem",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4500546,
     city: "Atlantic City",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4500942,
     city: "Bridgeton",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4501018,
     city: "Camden",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4501198,
     city: "Cherry Hill",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4501931,
     city: "Glassboro",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4502434,
     city: "Jackson",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4502687,
     city: "Lindenwold",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4502901,
     city: "Maple Shade",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4503078,
     city: "Millville",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4503136,
     city: "Mount Laurel",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4503346,
     city: "Ocean Acres",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4503548,
     city: "Pennsauken",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4503646,
     city: "Pleasantville",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4504118,
     city: "Sicklerville",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4504225,
     city: "South Vineland",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4504476,
     city: "Toms River",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4504621,
     city: "Vineland",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4504871,
     city: "Williamstown",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4505542,
     city: "Athens",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4506008,
     city: "Beavercreek",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4508204,
     city: "Centerville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4508722,
     city: "Cincinnati",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4509177,
     city: "Columbus",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4509884,
     city: "Dayton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4511263,
     city: "Fairborn",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4511283,
     city: "Fairfield",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4512060,
     city: "Forest Park",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4513409,
     city: "Grove City",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4513575,
     city: "Hamilton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4514746,
     city: "Huber Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4515843,
     city: "Kettering",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4516233,
     city: "Lancaster",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4516412,
     city: "Lebanon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4517698,
     city: "Mason",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4518188,
     city: "Miamisburg",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4518264,
     city: "Middletown",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4519995,
     city: "Norwood",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4520760,
     city: "Oxford",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4521209,
     city: "Pickerington",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4521816,
     city: "Portsmouth",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4522411,
     city: "Reynoldsburg",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4522586,
     city: "Riverside",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4525304,
     city: "Springboro",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4525353,
     city: "Springfield",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4526576,
     city: "Trotwood",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4526993,
     city: "Upper Arlington",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4527124,
     city: "Vandalia",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4528259,
     city: "White Oak",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4528291,
     city: "Whitehall",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4528810,
     city: "Xenia",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4528923,
     city: "Zanesville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4529096,
     city: "Ada",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4529292,
     city: "Altus",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4529469,
     city: "Ardmore",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4529987,
     city: "Bartlesville",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4530372,
     city: "Bethany",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4530801,
     city: "Bixby",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4531405,
     city: "Broken Arrow",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4533029,
     city: "Chickasha",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4533580,
     city: "Claremore",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4534934,
     city: "Del City",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4535389,
     city: "Duncan",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4535414,
     city: "Durant",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4535740,
     city: "Edmond",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4535783,
     city: "El Reno",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4535961,
     city: "Enid",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4539615,
     city: "Jenks",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4540737,
     city: "Lawton",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4542367,
     city: "McAlester",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4542765,
     city: "Midwest City",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4542975,
     city: "Moore",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4543338,
     city: "Muskogee",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4543352,
     city: "Mustang",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4543762,
     city: "Norman",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4544349,
     city: "Oklahoma City",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4547407,
     city: "Owasso",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4548267,
     city: "Ponca City",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4550659,
     city: "Sand Springs",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4550881,
     city: "Sapulpa",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4551177,
     city: "Shawnee",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4552215,
     city: "Stillwater",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4552707,
     city: "Tahlequah",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4553433,
     city: "Tulsa",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4556165,
     city: "Yukon",
     subCountry: "Oklahoma"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4557109,
     city: "Chambersburg",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4557137,
     city: "Chester",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4557606,
     city: "Drexel Hill",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4558475,
     city: "Hanover",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4560349,
     city: "Philadelphia",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4561407,
     city: "Springfield",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4562144,
     city: "West Chester",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4562407,
     city: "York",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4569067,
     city: "Aiken",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4569298,
     city: "Anderson",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4574324,
     city: "Charleston",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4575352,
     city: "Columbia",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4575461,
     city: "Conway",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4577263,
     city: "Easley",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4578737,
     city: "Florence",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4580098,
     city: "Goose Creek",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4580543,
     city: "Greenville",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4580569,
     city: "Greenwood",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4580599,
     city: "Greer",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4581023,
     city: "Hanahan",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4581833,
     city: "Hilton Head Island",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4585000,
     city: "Lexington",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4586523,
     city: "Mauldin",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4588165,
     city: "Mount Pleasant",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4588718,
     city: "Myrtle Beach",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4589368,
     city: "North Augusta",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4589387,
     city: "North Charleston",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4593142,
     city: "Rock Hill",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4593724,
     city: "Saint Andrews",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4595374,
     city: "Seven Oaks",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4595864,
     city: "Simpsonville",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4596208,
     city: "Socastee",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4597200,
     city: "Spartanburg",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4597919,
     city: "Summerville",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4597948,
     city: "Sumter",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4598353,
     city: "Taylors",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4599937,
     city: "Wade Hampton",
     subCountry: "South Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4604183,
     city: "Bartlett",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4608408,
     city: "Brentwood",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4608418,
     city: "Brentwood Estates",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4608657,
     city: "Bristol",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4612862,
     city: "Chattanooga",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4613868,
     city: "Clarksville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4614088,
     city: "Cleveland",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4614748,
     city: "Collierville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4614867,
     city: "Columbia",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4615145,
     city: "Cookeville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4619800,
     city: "Dyersburg",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4619943,
     city: "East Brainerd",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4619947,
     city: "East Chattanooga",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4620131,
     city: "East Ridge",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4621846,
     city: "Farragut",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4623560,
     city: "Franklin",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4624180,
     city: "Gallatin",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4624601,
     city: "Germantown",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4625282,
     city: "Goodlettsville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4626334,
     city: "Greeneville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4628735,
     city: "Hendersonville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4632595,
     city: "Jackson",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4633419,
     city: "Johnson City",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4634662,
     city: "Kingsport",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4634946,
     city: "Knoxville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4635031,
     city: "La Vergne",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4636045,
     city: "Lebanon",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4639848,
     city: "Maryville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4641239,
     city: "Memphis",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4642938,
     city: "Morristown",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4643336,
     city: "Mount Juliet",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4644312,
     city: "Murfreesboro",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4644585,
     city: "Nashville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4645421,
     city: "New South Memphis",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4646571,
     city: "Oak Ridge",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4657077,
     city: "Shelbyville",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4658590,
     city: "Smyrna",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4659446,
     city: "Spring Hill",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4659557,
     city: "Springfield",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4663494,
     city: "Tullahoma",
     subCountry: "Tennessee"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4669635,
     city: "Abilene",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670074,
     city: "Alamo",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670146,
     city: "Aldine",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670234,
     city: "Alice",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670300,
     city: "Allen",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670592,
     city: "Alvin",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4670866,
     city: "Angleton",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4671240,
     city: "Arlington",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4671524,
     city: "Atascocita",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4671654,
     city: "Austin",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4672059,
     city: "Balch Springs",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4672731,
     city: "Baytown",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4672989,
     city: "Beaumont",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4673094,
     city: "Bedford",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4673353,
     city: "Bellaire",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4673425,
     city: "Belton",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4673482,
     city: "Benbrook",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4676206,
     city: "Brenham",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4676740,
     city: "Brownsville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4676798,
     city: "Brownwood",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4676920,
     city: "Brushy Creek",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4677008,
     city: "Bryan",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4677551,
     city: "Burleson",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4678901,
     city: "Canyon Lake",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4679195,
     city: "Carrollton",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4679803,
     city: "Cedar Hill",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4679867,
     city: "Cedar Park",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4680388,
     city: "Channelview",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4681462,
     city: "Cibolo",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4681485,
     city: "Cinco Ranch",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4681976,
     city: "Cleburne",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4682127,
     city: "Cloverleaf",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4682464,
     city: "College Station",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4682478,
     city: "Colleyville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4682991,
     city: "Conroe",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683021,
     city: "Converse",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683217,
     city: "Coppell",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683244,
     city: "Copperas Cove",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683317,
     city: "Corinth",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683416,
     city: "Corpus Christi",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4683462,
     city: "Corsicana",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4684724,
     city: "Cypress",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4684888,
     city: "Dallas",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4685524,
     city: "DeSoto",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4685737,
     city: "Deer Park",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4685892,
     city: "Denison",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4685907,
     city: "Denton",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4686163,
     city: "Dickinson",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4686593,
     city: "Donna",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4687331,
     city: "Duncanville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4688275,
     city: "Edinburg",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4689311,
     city: "Ennis",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4689550,
     city: "Euless",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4690198,
     city: "Farmers Branch",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4691585,
     city: "Flower Mound",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4691930,
     city: "Fort Worth",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4692400,
     city: "Fresno",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4692521,
     city: "Friendswood",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4692559,
     city: "Frisco",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4692746,
     city: "Gainesville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4692883,
     city: "Galveston",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4693003,
     city: "Garland",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4693150,
     city: "Gatesville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4693342,
     city: "Georgetown",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4694482,
     city: "Grand Prairie",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4694568,
     city: "Grapevine",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4695066,
     city: "Greenville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4695317,
     city: "Groves",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4695912,
     city: "Haltom City",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4696202,
     city: "Harker Heights",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4696233,
     city: "Harlingen",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4697645,
     city: "Highland Village",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4699066,
     city: "Houston",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4699442,
     city: "Humble",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4699540,
     city: "Huntsville",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4699575,
     city: "Hurst",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4700168,
     city: "Irving",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845411,
     city: "West Hartford",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845419,
     city: "West Haven",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845519,
     city: "West Torrington",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845585,
     city: "Westport",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845612,
     city: "Wethersfield",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845823,
     city: "Willimantic",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845871,
     city: "Wilton",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845898,
     city: "Windham",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845920,
     city: "Windsor",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4845984,
     city: "Wolcott",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4846834,
     city: "Ames",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4846960,
     city: "Ankeny",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4848489,
     city: "Bettendorf",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4849826,
     city: "Burlington",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4850699,
     city: "Cedar Falls",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4850751,
     city: "Cedar Rapids",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4852022,
     city: "Clinton",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4852065,
     city: "Clive",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4852640,
     city: "Coralville",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4852832,
     city: "Council Bluffs",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4853423,
     city: "Davenport",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4853828,
     city: "Des Moines",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4854529,
     city: "Dubuque",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4857486,
     city: "Fort Dodge",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4862034,
     city: "Iowa City",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4862760,
     city: "Johnston",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4866263,
     city: "Marion",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4866371,
     city: "Marshalltown",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4866445,
     city: "Mason City",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4868404,
     city: "Muscatine",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4868907,
     city: "Newton",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4870380,
     city: "Ottumwa",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4876523,
     city: "Sioux City",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4879890,
     city: "Urbandale",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4880889,
     city: "Waterloo",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4881346,
     city: "West Des Moines",
     subCountry: "Iowa"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4882920,
     city: "Addison",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4883078,
     city: "Algonquin",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4883207,
     city: "Alsip",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4883555,
     city: "Arlington Heights",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4883817,
     city: "Aurora",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884141,
     city: "Bartlett",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884192,
     city: "Batavia",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884434,
     city: "Bellwood",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884453,
     city: "Belvidere",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884509,
     city: "Bensenville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4884597,
     city: "Berwyn",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885156,
     city: "Bloomingdale",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885164,
     city: "Bloomington",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885186,
     city: "Blue Island",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885265,
     city: "Bolingbrook",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885342,
     city: "Bourbonnais",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885418,
     city: "Bradley",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885573,
     city: "Bridgeview",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885689,
     city: "Brookfield",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885955,
     city: "Buffalo Grove",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4885983,
     city: "Burbank",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4886255,
     city: "Calumet City",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4886662,
     city: "Carol Stream",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4886676,
     city: "Carpentersville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4886738,
     city: "Cary",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4887158,
     city: "Champaign",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4887398,
     city: "Chicago",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4887442,
     city: "Chicago Heights",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4888015,
     city: "Cicero",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4888892,
     city: "Country Club Hills",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889107,
     city: "Crest Hill",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889229,
     city: "Crystal Lake",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889426,
     city: "Danville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889447,
     city: "Darien",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889553,
     city: "DeKalb",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889668,
     city: "Deerfield",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889772,
     city: "Des Plaines",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4889959,
     city: "Dixon",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890009,
     city: "Dolton",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890119,
     city: "Downers Grove",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890536,
     city: "East Moline",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890549,
     city: "East Peoria",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890864,
     city: "Elgin",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4890925,
     city: "Elk Grove Village",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4891010,
     city: "Elmhurst",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4891051,
     city: "Elmwood Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4891382,
     city: "Evanston",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4891431,
     city: "Evergreen Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893037,
     city: "Frankfort",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893070,
     city: "Franklin Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893171,
     city: "Freeport",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893392,
     city: "Galesburg",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893591,
     city: "Geneva",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893811,
     city: "Glen Ellyn",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4893886,
     city: "Glenview",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4894061,
     city: "Goodings Grove",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4894465,
     city: "Grayslake",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4894861,
     city: "Gurnee",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4895066,
     city: "Hanover Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4895298,
     city: "Harvey",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4895876,
     city: "Highland Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4896012,
     city: "Hinsdale",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4896075,
     city: "Hoffman Estates",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4896336,
     city: "Homer Glen",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4896353,
     city: "Homewood",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4896691,
     city: "Huntley",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4898015,
     city: "Joliet",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4898182,
     city: "Kankakee",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4898846,
     city: "La Grange",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899012,
     city: "Lake Forest",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899170,
     city: "Lake Zurich",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899184,
     city: "Lake in the Hills",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899340,
     city: "Lansing",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899581,
     city: "Lemont",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4899739,
     city: "Libertyville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900080,
     city: "Lisle",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900292,
     city: "Lockport",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900373,
     city: "Lombard",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900579,
     city: "Loves Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900801,
     city: "Machesney Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4900817,
     city: "Macomb",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4901445,
     city: "Matteson",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4901514,
     city: "Maywood",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4901663,
     city: "McHenry",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4901868,
     city: "Melrose Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4902475,
     city: "Mokena",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4902476,
     city: "Moline",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4902559,
     city: "Montgomery",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4902754,
     city: "Morton",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4902763,
     city: "Morton Grove",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903024,
     city: "Mount Prospect",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903184,
     city: "Mundelein",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903279,
     city: "Naperville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903535,
     city: "New Lenox",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903730,
     city: "Niles",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903780,
     city: "Normal",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903818,
     city: "North Aurora",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903862,
     city: "North Chicago",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4903976,
     city: "North Peoria",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904056,
     city: "Northbrook",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904286,
     city: "Oak Forest",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904365,
     city: "Oak Lawn",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904381,
     city: "Oak Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904937,
     city: "Orland Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4904996,
     city: "Oswego",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905006,
     city: "Ottawa",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905211,
     city: "Palatine",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905263,
     city: "Palos Hills",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905337,
     city: "Park Forest",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905367,
     city: "Park Ridge",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905599,
     city: "Pekin",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4905687,
     city: "Peoria",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4906125,
     city: "Plainfield",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4906882,
     city: "Prospect Heights",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4907907,
     city: "Rock Island",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4907959,
     city: "Rockford",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908052,
     city: "Rolling Meadows",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908068,
     city: "Romeoville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908173,
     city: "Roselle",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908236,
     city: "Round Lake",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908237,
     city: "Round Lake Beach",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4908737,
     city: "Saint Charles",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4910713,
     city: "Schaumburg",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4911418,
     city: "Shorewood",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4911600,
     city: "Skokie",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4911893,
     city: "South Elgin",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4911934,
     city: "South Holland",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4912499,
     city: "Sterling",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4912691,
     city: "Streamwood",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4913110,
     city: "Sycamore",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4913723,
     city: "Tinley Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4914570,
     city: "Urbana",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4914738,
     city: "Vernon Hills",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4914830,
     city: "Villa Park",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4915539,
     city: "Wasco",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4915545,
     city: "Washington",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4915734,
     city: "Waukegan",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4915963,
     city: "West Chicago",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4916140,
     city: "Westchester",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4916207,
     city: "Westmont",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4916288,
     city: "Wheaton",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4916311,
     city: "Wheeling",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4916732,
     city: "Wilmette",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4917089,
     city: "Woodridge",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4917123,
     city: "Woodstock",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4917298,
     city: "Yorkville",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4917358,
     city: "Zion",
     subCountry: "Illinois"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4917592,
     city: "Anderson",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4919381,
     city: "Crawfordsville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4919451,
     city: "Crown Point",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4919820,
     city: "Dyer",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4919857,
     city: "East Chicago",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4919987,
     city: "Elkhart",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920423,
     city: "Fort Wayne",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920473,
     city: "Frankfort",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920607,
     city: "Gary",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920808,
     city: "Goshen",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920869,
     city: "Granger",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4920986,
     city: "Griffith",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4921100,
     city: "Hammond",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4921402,
     city: "Highland",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4921476,
     city: "Hobart",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4921725,
     city: "Huntington",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4922388,
     city: "Kokomo",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4922459,
     city: "LaPorte",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4922462,
     city: "Lafayette",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4922673,
     city: "Lebanon",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4922968,
     city: "Logansport",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4923210,
     city: "Marion",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4923482,
     city: "Merrillville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4923531,
     city: "Michigan City",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4923670,
     city: "Mishawaka",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4924006,
     city: "Muncie",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4924014,
     city: "Munster",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4924198,
     city: "Noblesville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4925006,
     city: "Portage",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4926170,
     city: "Schererville",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4926563,
     city: "South Bend",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4927537,
     city: "Valparaiso",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4928096,
     city: "West Lafayette",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4928118,
     city: "Westfield",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4928662,
     city: "Abington",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4928703,
     city: "Acton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4928788,
     city: "Agawam",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929004,
     city: "Amesbury",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929023,
     city: "Amherst Center",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929180,
     city: "Arlington",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929283,
     city: "Ashland",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929399,
     city: "Attleboro",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929417,
     city: "Auburn",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4929771,
     city: "Barnstable",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4930282,
     city: "Belmont",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4930505,
     city: "Beverly",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4930511,
     city: "Beverly Cove",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4930577,
     city: "Billerica",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4930956,
     city: "Boston",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4931181,
     city: "Braintree",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4931429,
     city: "Brockton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4931482,
     city: "Brookline",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4931737,
     city: "Burlington",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4931972,
     city: "Cambridge",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4932214,
     city: "Canton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4932869,
     city: "Chelmsford",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4932879,
     city: "Chelsea",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4933002,
     city: "Chicopee",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4933743,
     city: "Concord",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4934500,
     city: "Danvers",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4934664,
     city: "Dedham",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4935038,
     city: "Dracut",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4935434,
     city: "East Longmeadow",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4935582,
     city: "Easthampton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4935623,
     city: "Easton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4936008,
     city: "Everett",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4936087,
     city: "Fairhaven",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4936159,
     city: "Fall River",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4936812,
     city: "Fitchburg",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4937230,
     city: "Framingham",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4937232,
     city: "Framingham Center",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4937276,
     city: "Franklin",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4937557,
     city: "Gardner",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4937829,
     city: "Gloucester",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4938048,
     city: "Grafton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4938378,
     city: "Greenfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4938836,
     city: "Hanover",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4939085,
     city: "Haverhill",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4939647,
     city: "Holden",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4939783,
     city: "Holyoke",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4940764,
     city: "Jamaica Plain",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4941720,
     city: "Lawrence",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4941873,
     city: "Leominster",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4941935,
     city: "Lexington",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4942508,
     city: "Longmeadow",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4942618,
     city: "Lowell",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4942744,
     city: "Ludlow",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4942807,
     city: "Lynn",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4942939,
     city: "Malden",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943021,
     city: "Mansfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943097,
     city: "Marblehead",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943170,
     city: "Marlborough",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943629,
     city: "Medford",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943677,
     city: "Melrose",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943828,
     city: "Methuen",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4943958,
     city: "Milford",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4944193,
     city: "Milton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4944994,
     city: "Natick",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945055,
     city: "Needham",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945121,
     city: "New Bedford",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945256,
     city: "Newburyport",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945283,
     city: "Newton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945588,
     city: "North Chicopee",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945819,
     city: "Northampton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945911,
     city: "Norton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4945952,
     city: "Norwood",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4946620,
     city: "Palmer",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4946863,
     city: "Peabody",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4947459,
     city: "Pittsfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4948247,
     city: "Quincy",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4948403,
     city: "Randolph",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4948462,
     city: "Reading",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4948924,
     city: "Rockland",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4950065,
     city: "Salem",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4950267,
     city: "Saugus",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4950898,
     city: "Shrewsbury",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951248,
     city: "Somerset",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951257,
     city: "Somerville",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951305,
     city: "South Boston",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951397,
     city: "South Hadley",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951473,
     city: "South Peabody",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951594,
     city: "Southbridge",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4951788,
     city: "Springfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952121,
     city: "Stoneham",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952206,
     city: "Stoughton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952320,
     city: "Sudbury",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952487,
     city: "Swansea",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952629,
     city: "Taunton",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4952762,
     city: "Tewksbury",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4954265,
     city: "Wakefield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4954380,
     city: "Waltham",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4954611,
     city: "Watertown",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4954738,
     city: "Wellesley",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955089,
     city: "West Springfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955190,
     city: "Westfield",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955219,
     city: "Westford",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955336,
     city: "Weymouth",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955840,
     city: "Wilmington",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955884,
     city: "Winchester",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4955993,
     city: "Winthrop",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4956032,
     city: "Woburn",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4956184,
     city: "Worcester",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4956335,
     city: "Yarmouth",
     subCountry: "Massachusetts"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4956976,
     city: "Auburn",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4957003,
     city: "Augusta",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4957280,
     city: "Bangor",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4958141,
     city: "Biddeford",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4959473,
     city: "Brunswick",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4969398,
     city: "Lewiston",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4975802,
     city: "Portland",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4977222,
     city: "Saco",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4979244,
     city: "South Portland",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4979245,
     city: "South Portland Gardens",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4982236,
     city: "Waterville",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4982720,
     city: "West Scarborough",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4982753,
     city: "Westbrook",
     subCountry: "Maine"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4983811,
     city: "Adrian",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4984016,
     city: "Allen Park",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4984029,
     city: "Allendale",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4984247,
     city: "Ann Arbor",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4984565,
     city: "Auburn Hills",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4985153,
     city: "Battle Creek",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4985180,
     city: "Bay City",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4986172,
     city: "Birmingham",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4987482,
     city: "Burton",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4987990,
     city: "Canton",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4989133,
     city: "Clinton",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4990510,
     city: "Dearborn",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4990512,
     city: "Dearborn Heights",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4990729,
     city: "Detroit",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4991640,
     city: "East Lansing",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4991735,
     city: "Eastpointe",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4992523,
     city: "Farmington Hills",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4992635,
     city: "Ferndale",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4992982,
     city: "Flint",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4993125,
     city: "Forest Hills",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4993659,
     city: "Garden City",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4994358,
     city: "Grand Rapids",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4994391,
     city: "Grandville",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4994871,
     city: "Grosse Pointe Woods",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4995197,
     city: "Hamtramck",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4995514,
     city: "Haslett",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4995664,
     city: "Hazel Park",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4996248,
     city: "Holland",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4996306,
     city: "Holt",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4997238,
     city: "Iron River",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4997384,
     city: "Jackson",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4997500,
     city: "Jenison",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4997787,
     city: "Kalamazoo",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4998018,
     city: "Kentwood",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4998830,
     city: "Lansing",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4999311,
     city: "Lincoln Park",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 4999837,
     city: "Livonia",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5000500,
     city: "Madison Heights",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5000947,
     city: "Marquette",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5001929,
     city: "Midland",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5002344,
     city: "Monroe",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5002656,
     city: "Mount Clemens",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5002714,
     city: "Mount Pleasant",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5003132,
     city: "Muskegon",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5004005,
     city: "Norton Shores",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5004062,
     city: "Novi",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5004188,
     city: "Oak Park",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5004359,
     city: "Okemos",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5004792,
     city: "Owosso",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5006166,
     city: "Pontiac",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5006233,
     city: "Port Huron",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5006250,
     city: "Portage",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5006917,
     city: "Redford",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5007402,
     city: "Rochester Hills",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5007531,
     city: "Romulus",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5007655,
     city: "Roseville",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5007804,
     city: "Royal Oak",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5007989,
     city: "Saginaw",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5009586,
     city: "Shelby",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5010636,
     city: "Southfield",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5010646,
     city: "Southgate",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5010978,
     city: "Saint Clair Shores",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5011148,
     city: "Sterling Heights",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5011908,
     city: "Taylor",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5012521,
     city: "Trenton",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5012639,
     city: "Troy",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5013924,
     city: "Walker",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5014051,
     city: "Warren",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5014130,
     city: "Waterford",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5014208,
     city: "Waverly",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5014224,
     city: "Wayne",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5014681,
     city: "Westland",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5015599,
     city: "Wyandotte",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5015618,
     city: "Wyoming",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5015688,
     city: "Ypsilanti",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5016024,
     city: "Albert Lea",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5016374,
     city: "Andover",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5016450,
     city: "Anoka",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5016494,
     city: "Apple Valley",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5016884,
     city: "Austin",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5018651,
     city: "Blaine",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5018739,
     city: "Bloomington",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5019330,
     city: "Brooklyn Center",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5019335,
     city: "Brooklyn Park",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5019588,
     city: "Buffalo",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5019767,
     city: "Burnsville",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5020859,
     city: "Champlin",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5020881,
     city: "Chanhassen",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5020938,
     city: "Chaska",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5021828,
     city: "Columbia Heights",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5022025,
     city: "Coon Rapids",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5022134,
     city: "Cottage Grove",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5023571,
     city: "Crystal",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5024719,
     city: "Duluth",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5024825,
     city: "Eagan",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5025219,
     city: "Eden Prairie",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5025264,
     city: "Edina",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5025471,
     city: "Elk River",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5026291,
     city: "Faribault",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5026321,
     city: "Farmington",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5027117,
     city: "Forest Lake",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5027482,
     city: "Fridley",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5028163,
     city: "Golden Valley",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5029181,
     city: "Ham Lake",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5029500,
     city: "Hastings",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5030005,
     city: "Hibbing",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5030670,
     city: "Hopkins",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5031412,
     city: "Inver Grove Heights",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5034059,
     city: "Lakeville",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5034767,
     city: "Lino Lakes",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5036420,
     city: "Mankato",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5036493,
     city: "Maple Grove",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5036588,
     city: "Maplewood",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5037649,
     city: "Minneapolis",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5037784,
     city: "Minnetonka",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5037790,
     city: "Minnetonka Mills",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5038108,
     city: "Moorhead",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5039080,
     city: "New Brighton",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5039094,
     city: "New Hope",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5039675,
     city: "Northfield",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5039978,
     city: "Oakdale",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5040647,
     city: "Owatonna",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5041926,
     city: "Plymouth",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5042373,
     city: "Prior Lake",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5042561,
     city: "Ramsey",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5042773,
     city: "Red Wing",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5043193,
     city: "Richfield",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5043473,
     city: "Rochester",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5043779,
     city: "Rosemount",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5043799,
     city: "Roseville",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5044407,
     city: "Saint Cloud",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5045021,
     city: "Saint Louis Park",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5045258,
     city: "Saint Michael",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5045360,
     city: "Saint Paul",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5046001,
     city: "Sartell",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5046063,
     city: "Savage",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5046997,
     city: "Shakopee",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5047234,
     city: "Shoreview",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5048033,
     city: "South Saint Paul",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5048814,
     city: "Stillwater",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5052361,
     city: "West Coon Rapids",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5052467,
     city: "West Saint Paul",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5052658,
     city: "White Bear Lake",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5052916,
     city: "Willmar",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5053156,
     city: "Winona",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5053358,
     city: "Woodbury",
     subCountry: "Minnesota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5055787,
     city: "Kirksville",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5059163,
     city: "Fargo",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5059429,
     city: "Grand Forks",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5059836,
     city: "Jamestown",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5062458,
     city: "West Fargo",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5063805,
     city: "Bellevue",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5066001,
     city: "Columbus",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5068725,
     city: "Fremont",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5069297,
     city: "Grand Island",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5069802,
     city: "Hastings",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5071348,
     city: "Kearney",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5071665,
     city: "La Vista",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5072006,
     city: "Lincoln",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5073965,
     city: "Norfolk",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5074472,
     city: "Omaha",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5074792,
     city: "Papillion",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5083221,
     city: "Bedford",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5084868,
     city: "Concord",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5085374,
     city: "Derry",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5085382,
     city: "Derry Village",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5085520,
     city: "Dover",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5085688,
     city: "East Concord",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5088262,
     city: "Keene",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5088438,
     city: "Laconia",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5089178,
     city: "Manchester",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5089478,
     city: "Merrimack",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5090046,
     city: "Nashua",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5091383,
     city: "Portsmouth",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5091872,
     city: "Rochester",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5092268,
     city: "Salem",
     subCountry: "New Hampshire"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095281,
     city: "Asbury Park",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095325,
     city: "Avenel",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095445,
     city: "Bayonne",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095549,
     city: "Belleville",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095611,
     city: "Bergenfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5095779,
     city: "Bloomfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5096316,
     city: "Carteret",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5096686,
     city: "Cliffside Park",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5096699,
     city: "Clifton",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5096798,
     city: "Colonia",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097017,
     city: "Cranford",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097315,
     city: "Dover",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097357,
     city: "Dumont",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097402,
     city: "East Brunswick",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097441,
     city: "East Orange",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097529,
     city: "Edison",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097598,
     city: "Elizabeth",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097627,
     city: "Elmwood Park",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097672,
     city: "Englewood",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097751,
     city: "Ewing",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5097773,
     city: "Fair Lawn",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5098109,
     city: "Fords",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5098135,
     city: "Fort Lee",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5098343,
     city: "Garfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5098706,
     city: "Hackensack",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5098909,
     city: "Hawthorne",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099093,
     city: "Hillside",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099133,
     city: "Hoboken",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099289,
     city: "Hopatcong",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099292,
     city: "Hopatcong Hills",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099724,
     city: "Irvington",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099738,
     city: "Iselin",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099836,
     city: "Jersey City",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5099967,
     city: "Kearny",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100280,
     city: "Lakewood",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100506,
     city: "Linden",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100572,
     city: "Livingston",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100604,
     city: "Lodi",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100619,
     city: "Long Branch",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100706,
     city: "Lyndhurst",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100748,
     city: "Madison",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100776,
     city: "Mahwah",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100854,
     city: "Maplewood",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5100886,
     city: "Marlboro",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101334,
     city: "Montclair",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101427,
     city: "Morristown",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101717,
     city: "New Brunswick",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101766,
     city: "New Milford",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101798,
     city: "Newark",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101873,
     city: "North Arlington",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101879,
     city: "North Bergen",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5101938,
     city: "North Plainfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102076,
     city: "Nutley",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102162,
     city: "Old Bridge",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102213,
     city: "Orange",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102369,
     city: "Palisades Park",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102387,
     city: "Paramus",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102427,
     city: "Parsippany",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102443,
     city: "Passaic",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102466,
     city: "Paterson",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102578,
     city: "Perth Amboy",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102713,
     city: "Piscataway",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102720,
     city: "Plainfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5102796,
     city: "Point Pleasant",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5103055,
     city: "Rahway",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5103269,
     city: "Ridgewood",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5103500,
     city: "Roselle",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5103580,
     city: "Rutherford",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104404,
     city: "Sayreville",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104405,
     city: "Sayreville Junction",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104473,
     city: "Scotch Plains",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104504,
     city: "Secaucus",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104755,
     city: "Somerset",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104835,
     city: "South Old Bridge",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104836,
     city: "South Orange",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104844,
     city: "South Plainfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5104853,
     city: "South River",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105127,
     city: "Summit",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105262,
     city: "Teaneck",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105433,
     city: "Tinton Falls",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105496,
     city: "Trenton",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105608,
     city: "Union",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5105634,
     city: "Union City",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106160,
     city: "Wayne",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106279,
     city: "West Milford",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106292,
     city: "West New York",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106298,
     city: "West Orange",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106331,
     city: "Westfield",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106453,
     city: "Willingboro",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106529,
     city: "Woodbridge",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106615,
     city: "Wyckoff",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5106834,
     city: "Albany",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5107129,
     city: "Amherst",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5107152,
     city: "Amsterdam",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5107505,
     city: "Auburn",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5107760,
     city: "Baldwin",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108093,
     city: "Batavia",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108169,
     city: "Bay Shore",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108219,
     city: "Beacon",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108707,
     city: "Bellmore",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108815,
     city: "Bensonhurst",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5108955,
     city: "Bethpage",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5109177,
     city: "Binghamton",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5110077,
     city: "Brentwood",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5110159,
     city: "Brighton",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5110266,
     city: "The Bronx",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5110302,
     city: "Brooklyn",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5110629,
     city: "Buffalo",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5112035,
     city: "Centereach",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5112078,
     city: "Central Islip",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5112375,
     city: "Cheektowaga",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113142,
     city: "Cohoes",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113412,
     city: "Commack",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113481,
     city: "Coney Island",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113683,
     city: "Copiague",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113694,
     city: "Coram",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5113790,
     city: "Cortland",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5114731,
     city: "Deer Park",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5114900,
     city: "Depew",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5115107,
     city: "Dix Hills",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5115960,
     city: "East Meadow",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5115962,
     city: "East Massapequa",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5115985,
     city: "East New York",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5115989,
     city: "East Northport",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116004,
     city: "East Patchogue",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116060,
     city: "East Setauket",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116119,
     city: "Eastchester",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116303,
     city: "Eggertsville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116497,
     city: "Elmira",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116508,
     city: "Elmont",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5116937,
     city: "Farmingville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5117438,
     city: "Floral Park",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5117891,
     city: "Franklin Square",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5117949,
     city: "Freeport",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5118226,
     city: "Garden City",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5118626,
     city: "Glen Cove",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5118743,
     city: "Gloversville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5119347,
     city: "Greenburgh",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5120095,
     city: "Harrison",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5120228,
     city: "Hauppauge",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5120478,
     city: "Hempstead",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5120656,
     city: "Hicksville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5120987,
     city: "Holbrook",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5121163,
     city: "Holtsville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5121636,
     city: "Huntington",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5121650,
     city: "Huntington Station",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122331,
     city: "Irondequoit",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122413,
     city: "Islip",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122432,
     city: "Ithaca",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122520,
     city: "Jamaica",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122534,
     city: "Jamestown",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5122794,
     city: "Johnson City",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123247,
     city: "Kenmore",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123456,
     city: "Kings Park",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123477,
     city: "Kingston",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123533,
     city: "Kiryas Joel",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123718,
     city: "Lackawanna",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5123840,
     city: "Lake Ronkonkoma",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5124276,
     city: "Levittown",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5124497,
     city: "Lindenhurst",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125011,
     city: "Lockport",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125086,
     city: "Long Beach",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125125,
     city: "Long Island City",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125523,
     city: "Lynbrook",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125738,
     city: "Mamaroneck",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5125771,
     city: "Manhattan",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126183,
     city: "Massapequa",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126187,
     city: "Massapequa Park",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126208,
     city: "Mastic",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126518,
     city: "Medford",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126555,
     city: "Melville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126630,
     city: "Merrick",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5126842,
     city: "Middletown",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5127134,
     city: "Mineola",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5127315,
     city: "Monsey",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5127835,
     city: "Mount Vernon",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128266,
     city: "Nanuet",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128481,
     city: "New City",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128549,
     city: "New Rochelle",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128581,
     city: "New York City",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128654,
     city: "Newburgh",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128723,
     city: "Niagara Falls",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128884,
     city: "North Amityville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128886,
     city: "North Babylon",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128898,
     city: "North Bay Shore",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5128904,
     city: "North Bellmore",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5129134,
     city: "North Massapequa",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5129245,
     city: "North Tonawanda",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5129248,
     city: "North Valley Stream",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5129603,
     city: "Oceanside",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5130045,
     city: "Ossining",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5130081,
     city: "Oswego",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5130780,
     city: "Pearl River",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5130831,
     city: "Peekskill",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5131638,
     city: "Plainview",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5131692,
     city: "Plattsburgh",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5132002,
     city: "Port Chester",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5132029,
     city: "Port Washington",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5132143,
     city: "Poughkeepsie",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5133273,
     city: "Borough of Queens",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134086,
     city: "Rochester",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134203,
     city: "Rockville Centre",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134295,
     city: "Rome",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134316,
     city: "Ronkonkoma",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134323,
     city: "Roosevelt",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134453,
     city: "Rotterdam",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5134693,
     city: "Rye",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5136334,
     city: "Saratoga Springs",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5136421,
     city: "Sayville",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5136433,
     city: "Scarsdale",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5136454,
     city: "Schenectady",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5137507,
     city: "Seaford",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5137600,
     city: "Selden",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5138022,
     city: "Shirley",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5138539,
     city: "Smithtown",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5139301,
     city: "Spring Valley",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5139568,
     city: "Staten Island",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5140402,
     city: "Syosset",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5140405,
     city: "Syracuse",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5141175,
     city: "Tonawanda",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5141502,
     city: "Troy",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5141927,
     city: "Uniondale",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5142056,
     city: "Utica",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5142109,
     city: "Valley Stream",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143198,
     city: "Wantagh",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143396,
     city: "Watertown",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143620,
     city: "West Albany",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143630,
     city: "West Babylon",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143832,
     city: "West Hempstead",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143866,
     city: "West Islip",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5143992,
     city: "West Seneca",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5144040,
     city: "Westbury",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5144336,
     city: "White Plains",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5145028,
     city: "Woodmere",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5145215,
     city: "Yonkers",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5145476,
     city: "Akron",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5145607,
     city: "Alliance",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146055,
     city: "Ashland",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146089,
     city: "Ashtabula",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146233,
     city: "Aurora",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146256,
     city: "Austintown",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146277,
     city: "Avon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146282,
     city: "Avon Center",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146286,
     city: "Avon Lake",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146491,
     city: "Barberton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5146675,
     city: "Bay Village",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5147097,
     city: "Berea",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5147784,
     city: "Boardman",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5147968,
     city: "Bowling Green",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5148273,
     city: "Broadview Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5148326,
     city: "Brook Park",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5148480,
     city: "Brunswick",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5149222,
     city: "Canton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5150529,
     city: "Cleveland",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5151613,
     city: "Cuyahoga Falls",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5151861,
     city: "Defiance",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5151891,
     city: "Delaware",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5152333,
     city: "Dublin",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5152599,
     city: "East Cleveland",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5152833,
     city: "Eastlake",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5153207,
     city: "Elyria",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5153420,
     city: "Euclid",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5153680,
     city: "Fairview Park",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5153924,
     city: "Findlay",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5155207,
     city: "Fremont",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5155393,
     city: "Gahanna",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5155499,
     city: "Garfield Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5156371,
     city: "Green",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5157588,
     city: "Hilliard",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5158164,
     city: "Hudson",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5159537,
     city: "Kent",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5160315,
     city: "Lakewood",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5160783,
     city: "Lima",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5161262,
     city: "Lorain",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5161723,
     city: "Mansfield",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5161803,
     city: "Maple Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5161902,
     city: "Marion",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162077,
     city: "Marysville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162097,
     city: "Massillon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162188,
     city: "Mayfield Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162512,
     city: "Medina",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162645,
     city: "Mentor",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5162851,
     city: "Middleburg Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5163799,
     city: "Mount Vernon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164390,
     city: "New Philadelphia",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164466,
     city: "Newark",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164582,
     city: "Niles",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164706,
     city: "North Canton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164862,
     city: "North Olmsted",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164903,
     city: "North Ridgeville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5164916,
     city: "North Royalton",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5165101,
     city: "Norwalk",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5165734,
     city: "Oregon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5166009,
     city: "Painesville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5166177,
     city: "Parma",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5166184,
     city: "Parma Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5166516,
     city: "Perrysburg",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5166819,
     city: "Piqua",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5168491,
     city: "Rocky River",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5170691,
     city: "Sandusky",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5171728,
     city: "Shaker Heights",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5172078,
     city: "Sidney",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5172387,
     city: "Solon",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5172485,
     city: "South Euclid",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173048,
     city: "Steubenville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173171,
     city: "Stow",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173210,
     city: "Streetsboro",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173237,
     city: "Strongsville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173572,
     city: "Sylvania",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173623,
     city: "Tallmadge",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5173930,
     city: "Tiffin",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5174035,
     city: "Toledo",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5174358,
     city: "Troy",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5174550,
     city: "Twinsburg",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5175496,
     city: "Wadsworth",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5175865,
     city: "Warren",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5176472,
     city: "Westerville",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5176517,
     city: "Westlake",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5176937,
     city: "Willoughby",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5177358,
     city: "Wooster",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5177568,
     city: "Youngstown",
     subCountry: "Ohio"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5178127,
     city: "Allentown",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5178165,
     city: "Allison Park",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5178195,
     city: "Altoona",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5178800,
     city: "Back Mountain",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5178940,
     city: "Baldwin",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5180199,
     city: "Bethel Park",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5180225,
     city: "Bethlehem",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5183234,
     city: "Carlisle",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5188140,
     city: "Easton",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5188843,
     city: "Erie",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5192726,
     city: "Harrisburg",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5193011,
     city: "Hazleton",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5193309,
     city: "Hermitage",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5195561,
     city: "Johnstown",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5196220,
     city: "King of Prussia",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5197079,
     city: "Lancaster",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5197159,
     city: "Lansdale",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5197517,
     city: "Lebanon",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5197796,
     city: "Levittown",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5198034,
     city: "Limerick",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5200499,
     city: "McKeesport",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5201734,
     city: "Monroeville",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5202215,
     city: "Mount Lebanon",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5202534,
     city: "Mountain Top",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5202765,
     city: "Murrysville",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5203127,
     city: "New Castle",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5203506,
     city: "Norristown",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5205377,
     city: "Penn Hills",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5205849,
     city: "Phoenixville",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5206379,
     city: "Pittsburgh",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5206606,
     city: "Plum",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5207069,
     city: "Pottstown",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5207490,
     city: "Radnor",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5207728,
     city: "Reading",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5211303,
     city: "Scranton",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5213681,
     city: "State College",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5216895,
     city: "Upper Saint Clair",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5218270,
     city: "Wayne",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5218802,
     city: "West Mifflin",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5219287,
     city: "Whitehall Township",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5219488,
     city: "Wilkes-Barre",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5219501,
     city: "Wilkinsburg",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5219585,
     city: "Williamsport",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5219619,
     city: "Willow Grove",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5220798,
     city: "Barrington",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221077,
     city: "Bristol",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221341,
     city: "Central Falls",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221637,
     city: "Coventry",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221659,
     city: "Cranston",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221703,
     city: "Cumberland",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5221931,
     city: "East Providence",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5223358,
     city: "Middletown",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5223593,
     city: "Newport",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5223672,
     city: "North Kingstown",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5223681,
     city: "North Providence",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5223869,
     city: "Pawtucket",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5224082,
     city: "Portsmouth",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5224151,
     city: "Providence",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5224949,
     city: "Smithfield",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5225507,
     city: "Warwick",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5225627,
     city: "West Warwick",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5225631,
     city: "Westerly",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5225809,
     city: "Woonsocket",
     subCountry: "Rhode Island"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5225857,
     city: "Aberdeen",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5226534,
     city: "Brookings",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5229794,
     city: "Mitchell",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5231851,
     city: "Sioux Falls",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5232741,
     city: "Watertown",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5234372,
     city: "Burlington",
     subCountry: "Vermont"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5235024,
     city: "Colchester",
     subCountry: "Vermont"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5240509,
     city: "Rutland",
     subCountry: "Vermont"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5241248,
     city: "South Burlington",
     subCountry: "Vermont"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5244080,
     city: "Appleton",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5244267,
     city: "Ashwaubenon",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5245193,
     city: "Beaver Dam",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5245387,
     city: "Beloit",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5246835,
     city: "Brookfield",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5247415,
     city: "Caledonia",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5249871,
     city: "Cudahy",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5250201,
     city: "De Pere",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5251436,
     city: "Eau Claire",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5253219,
     city: "Fitchburg",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5253352,
     city: "Fond du Lac",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5253710,
     city: "Franklin",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5254218,
     city: "Germantown",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5254962,
     city: "Green Bay",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5255068,
     city: "Greenfield",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5257029,
     city: "Howard",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5257754,
     city: "Janesville",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5258296,
     city: "Kaukauna",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5258393,
     city: "Kenosha",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5258957,
     city: "La Crosse",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5261457,
     city: "Madison",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5261585,
     city: "Manitowoc",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5261969,
     city: "Marshfield",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5262596,
     city: "Menasha",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5262630,
     city: "Menomonee Falls",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5262634,
     city: "Menomonie",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5262649,
     city: "Mequon",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5262838,
     city: "Middleton",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5263045,
     city: "Milwaukee",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5264049,
     city: "Muskego",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5264223,
     city: "Neenah",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5264381,
     city: "New Berlin",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5264870,
     city: "North La Crosse",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5265228,
     city: "Oak Creek",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5265499,
     city: "Oconomowoc",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5265702,
     city: "Onalaska",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5265838,
     city: "Oshkosh",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5267403,
     city: "Pleasant Prairie",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5268249,
     city: "Racine",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5272893,
     city: "Sheboygan",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5273812,
     city: "South Milwaukee",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5274644,
     city: "Stevens Point",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5275020,
     city: "Sun Prairie",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5275191,
     city: "Superior",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278005,
     city: "Watertown",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278052,
     city: "Waukesha",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278120,
     city: "Wausau",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278159,
     city: "Wauwatosa",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278420,
     city: "West Allis",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5278422,
     city: "West Bend",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5279436,
     city: "Wisconsin Rapids",
     subCountry: "Wisconsin"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5280814,
     city: "Weirton",
     subCountry: "West Virginia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5280822,
     city: "Weirton Heights",
     subCountry: "West Virginia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5280854,
     city: "Wheeling",
     subCountry: "West Virginia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5281551,
     city: "Ansonia",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5282804,
     city: "Bridgeport",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5282835,
     city: "Bristol",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5283054,
     city: "Branford",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5283837,
     city: "Cheshire",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5284756,
     city: "Fillmore",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5287262,
     city: "Buckeye",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5287565,
     city: "Bullhead City",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5288636,
     city: "Casa Grande",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5288661,
     city: "Casas Adobes",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5288786,
     city: "Catalina Foothills",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5289282,
     city: "Chandler",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5293083,
     city: "Douglas",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5293183,
     city: "Drexel Heights",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5293996,
     city: "El Mirage",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5294167,
     city: "Eloy",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5294810,
     city: "Flagstaff",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5294902,
     city: "Florence",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5294937,
     city: "Flowing Wells",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5295143,
     city: "Fortuna Foothills",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5295177,
     city: "Fountain Hills",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5295903,
     city: "Gilbert",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5295985,
     city: "Glendale",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5296266,
     city: "Goodyear",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5296802,
     city: "Green Valley",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5301067,
     city: "Kingman",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5301388,
     city: "Lake Havasu City",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5303705,
     city: "Marana",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5303752,
     city: "Maricopa",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5304391,
     city: "Mesa",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5306611,
     city: "Nogales",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5307540,
     city: "Oro Valley",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5308305,
     city: "Payson",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5308480,
     city: "Peoria",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5308655,
     city: "Phoenix",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5309842,
     city: "Prescott",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5309858,
     city: "Prescott Valley",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5310193,
     city: "Queen Creek",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5311433,
     city: "Rio Rico",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5312544,
     city: "Sahuarita",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5312913,
     city: "San Luis",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5313457,
     city: "Scottsdale",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5314328,
     city: "Sierra Vista",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5316201,
     city: "Sun City",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5316205,
     city: "Sun City West",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5316428,
     city: "Surprise",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5316890,
     city: "Tanque Verde",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5317058,
     city: "Tempe",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5317071,
     city: "Tempe Junction",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5318313,
     city: "Tucson",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322053,
     city: "Yuma",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322400,
     city: "Adelanto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322551,
     city: "Agoura",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322553,
     city: "Agoura Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322737,
     city: "Alameda",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5322850,
     city: "Albany",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323060,
     city: "Alhambra",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323163,
     city: "Aliso Viejo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323525,
     city: "Altadena",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323566,
     city: "Alum Rock",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323694,
     city: "American Canyon",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5323810,
     city: "Anaheim",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324105,
     city: "Antelope",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324200,
     city: "Antioch",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324363,
     city: "Apple Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324477,
     city: "Arcadia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324802,
     city: "Arroyo Grande",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324862,
     city: "Artesia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5324903,
     city: "Arvin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325011,
     city: "Ashland",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325111,
     city: "Atascadero",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325187,
     city: "Atwater",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325327,
     city: "Avenal",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325372,
     city: "Avocado Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325423,
     city: "Azusa",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325738,
     city: "Bakersfield",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5325866,
     city: "Baldwin Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5326032,
     city: "Banning",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5326297,
     city: "Barstow",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5326305,
     city: "Barstow Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5326561,
     city: "Bay Point",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327098,
     city: "Beaumont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327298,
     city: "Bell",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327319,
     city: "Bell Gardens",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327422,
     city: "Bellflower",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327455,
     city: "Belmont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327550,
     city: "Benicia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5327684,
     city: "Berkeley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5328041,
     city: "Beverly Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5329408,
     city: "Bloomington",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5329649,
     city: "Blythe",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5330167,
     city: "Bostonia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5330413,
     city: "Boyle Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5330567,
     city: "Brawley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5330582,
     city: "Brea",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5330642,
     city: "Brentwood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5331575,
     city: "Buena Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5331835,
     city: "Burbank",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5331920,
     city: "Burlingame",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5332593,
     city: "Calabasas",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5332698,
     city: "Calexico",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5333180,
     city: "Camarillo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5333282,
     city: "Cameron Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5333689,
     city: "Campbell",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5333913,
     city: "Canoga Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5334223,
     city: "Carlsbad",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5334336,
     city: "Carmichael",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5334519,
     city: "Carson",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5334799,
     city: "Castaic",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5334928,
     city: "Castro Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5335006,
     city: "Cathedral City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5335650,
     city: "Ceres",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5335663,
     city: "Cerritos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336054,
     city: "Chatsworth",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336269,
     city: "Chico",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336537,
     city: "Chino",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336545,
     city: "Chino Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336667,
     city: "Chowchilla",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5336899,
     city: "Chula Vista",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5337561,
     city: "Citrus Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5337696,
     city: "Claremont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5337908,
     city: "Clearlake",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5338122,
     city: "Clovis",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5338166,
     city: "Coachella",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5338783,
     city: "Colton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339066,
     city: "Compton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339111,
     city: "Concord",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339539,
     city: "Corcoran",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339631,
     city: "Corona",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339663,
     city: "Coronado",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5339840,
     city: "Costa Mesa",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5340175,
     city: "Covina",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341051,
     city: "Cudahy",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341114,
     city: "Culver City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341145,
     city: "Cupertino",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341256,
     city: "Cypress",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341430,
     city: "Daly City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341483,
     city: "Dana Point",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341531,
     city: "Danville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5341704,
     city: "Davis",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5342485,
     city: "Delano",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5342710,
     city: "Desert Hot Springs",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5342992,
     city: "Diamond Bar",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5343171,
     city: "Dinuba",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5343303,
     city: "Dixon",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5343858,
     city: "Downey",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5344147,
     city: "Duarte",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5344157,
     city: "Dublin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5344817,
     city: "East Rancho Dominguez",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5344942,
     city: "East Hemet",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5344994,
     city: "East Los Angeles",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345032,
     city: "East Palo Alto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345529,
     city: "El Cajon",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345609,
     city: "El Centro",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345623,
     city: "El Cerrito",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345679,
     city: "El Dorado Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345743,
     city: "El Monte",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5345860,
     city: "El Segundo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5346111,
     city: "Elk Grove",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5346646,
     city: "Encinitas",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5346827,
     city: "Escondido",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5347287,
     city: "Fair Oaks",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5347335,
     city: "Fairfield",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5347578,
     city: "Fallbrook",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5349613,
     city: "Florin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5349705,
     city: "Folsom",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5349755,
     city: "Fontana",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5349803,
     city: "Foothill Farms",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5350159,
     city: "Foster City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5350207,
     city: "Fountain Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5350734,
     city: "Fremont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5350937,
     city: "Fresno",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5351247,
     city: "Fullerton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5351428,
     city: "Galt",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5351515,
     city: "Garden Grove",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5351549,
     city: "Gardena",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5352214,
     city: "Gilroy",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5352350,
     city: "Glen Avon",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5352423,
     city: "Glendale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5352439,
     city: "Glendora",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5352963,
     city: "Goleta",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5353530,
     city: "Granite Bay",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5354172,
     city: "Greenfield",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5354819,
     city: "Hacienda Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5355180,
     city: "Hanford",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5355828,
     city: "Hawthorne",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5355933,
     city: "Hayward",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5356277,
     city: "Hemet",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5356451,
     city: "Hercules",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5356521,
     city: "Hermosa Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5356576,
     city: "Hesperia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5356868,
     city: "Highland",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5357499,
     city: "Hollister",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5357527,
     city: "Hollywood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5358705,
     city: "Huntington Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5358736,
     city: "Huntington Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5359054,
     city: "Imperial Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5359446,
     city: "Indio",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5359488,
     city: "Inglewood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5359777,
     city: "Irvine",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5367565,
     city: "Lodi",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5367696,
     city: "Loma Linda",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5367767,
     city: "Lomita",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5367788,
     city: "Lompoc",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5367929,
     city: "Long Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5368335,
     city: "Los Altos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5368361,
     city: "Los Angeles",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5368453,
     city: "Los Banos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5368518,
     city: "Los Gatos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5369367,
     city: "Lynwood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5369568,
     city: "Madera",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5370082,
     city: "Manhattan Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5370164,
     city: "Manteca",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5370493,
     city: "Marina",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5370868,
     city: "Martinez",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5371261,
     city: "Maywood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5371858,
     city: "Mead Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5372205,
     city: "Menifee",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5372223,
     city: "Menlo Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5372253,
     city: "Merced",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5373129,
     city: "Millbrae",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5373327,
     city: "Milpitas",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5373492,
     city: "Mira Loma",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5373763,
     city: "Mission Viejo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5373900,
     city: "Modesto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374175,
     city: "Monrovia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374232,
     city: "Montclair",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374322,
     city: "Montebello",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374361,
     city: "Monterey",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374406,
     city: "Monterey Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374648,
     city: "Moorpark",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374671,
     city: "Moraga",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374732,
     city: "Moreno Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5374764,
     city: "Morgan Hill",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5375480,
     city: "Mountain View",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5375911,
     city: "Murrieta",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5376095,
     city: "Napa",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5376200,
     city: "National City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5376803,
     city: "Newark",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5376890,
     city: "Newport Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377100,
     city: "Nipomo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377199,
     city: "Norco",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377613,
     city: "North Glendale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377640,
     city: "North Highlands",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377654,
     city: "North Hollywood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377985,
     city: "Northridge",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5377995,
     city: "Norwalk",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378044,
     city: "Novato",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378500,
     city: "Oakdale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378538,
     city: "Oakland",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378566,
     city: "Oakley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378771,
     city: "Oceanside",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5378870,
     city: "Oildale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379439,
     city: "Ontario",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379513,
     city: "Orange",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379566,
     city: "Orangevale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379609,
     city: "Orcutt",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379678,
     city: "Orinda",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5379759,
     city: "Oroville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380184,
     city: "Oxnard",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380202,
     city: "Oxnard Shores",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380420,
     city: "Pacifica",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380437,
     city: "Pacific Grove",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380626,
     city: "Palm Desert",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380668,
     city: "Palm Springs",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380698,
     city: "Palmdale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5380748,
     city: "Palo Alto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5381002,
     city: "Paradise",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5381110,
     city: "Paramount",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5381396,
     city: "Pasadena",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5381438,
     city: "Paso Robles",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5381515,
     city: "Patterson",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5382146,
     city: "Perris",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5382232,
     city: "Petaluma",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5382496,
     city: "Pico Rivera",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5383187,
     city: "Pinole",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5383465,
     city: "Pittsburg",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5383527,
     city: "Placentia",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5383720,
     city: "Pleasant Hill",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5383777,
     city: "Pleasanton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5384170,
     city: "Pomona",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5384339,
     city: "Port Hueneme",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5384471,
     city: "Porterville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5384690,
     city: "Poway",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5385082,
     city: "Prunedale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5385793,
     city: "Ramona",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5385941,
     city: "Rancho Cordova",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5385955,
     city: "Rancho Cucamonga",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386015,
     city: "Rancho Mirage",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386035,
     city: "Rancho Palos Verdes",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386053,
     city: "Rancho San Diego",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386082,
     city: "Rancho Santa Margarita",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386754,
     city: "Redlands",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386785,
     city: "Redondo Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386834,
     city: "Redwood City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5386984,
     city: "Reedley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387288,
     city: "Rialto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387428,
     city: "Richmond",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387494,
     city: "Ridgecrest",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387687,
     city: "Rio Linda",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387844,
     city: "Riverbank",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5387877,
     city: "Riverside",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388319,
     city: "Rocklin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388564,
     city: "Rohnert Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388735,
     city: "Rosamond",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388867,
     city: "Rosemead",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388873,
     city: "Rosemont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5388881,
     city: "Roseville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5389126,
     city: "Rowland Heights",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5389213,
     city: "Rubidoux",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5389489,
     city: "Sacramento",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391295,
     city: "Salinas",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391710,
     city: "San Bernardino",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391749,
     city: "San Bruno",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391760,
     city: "San Carlos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391791,
     city: "San Clemente",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391811,
     city: "San Diego",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391891,
     city: "San Dimas",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391945,
     city: "San Fernando",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5391959,
     city: "San Francisco",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392034,
     city: "San Gabriel",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392090,
     city: "San Jacinto",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392171,
     city: "San Jose",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392229,
     city: "San Juan Capistrano",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392263,
     city: "San Leandro",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392281,
     city: "San Lorenzo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392323,
     city: "San Luis Obispo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392368,
     city: "San Marcos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392423,
     city: "San Mateo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392508,
     city: "San Pablo",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392528,
     city: "San Pedro",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392567,
     city: "San Rafael",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392593,
     city: "San Ramon",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392868,
     city: "Sanger",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392900,
     city: "Santa Ana",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5392952,
     city: "Santa Barbara",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393015,
     city: "Santa Clara",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393049,
     city: "Santa Clarita",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393052,
     city: "Santa Cruz",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393128,
     city: "Santa Fe Springs",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393180,
     city: "Santa Maria",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393212,
     city: "Santa Monica",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393245,
     city: "Santa Paula",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393287,
     city: "Santa Rosa",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393429,
     city: "Santee",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5393485,
     city: "Saratoga",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5394086,
     city: "Seal Beach",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5394136,
     city: "Seaside",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5394329,
     city: "Selma",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5394842,
     city: "Shafter",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5395244,
     city: "Sherman Oaks",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5396003,
     city: "Simi Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397018,
     city: "Soledad",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397376,
     city: "South El Monte",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397603,
     city: "South Gate",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397664,
     city: "South Lake Tahoe",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397717,
     city: "South Pasadena",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397765,
     city: "South San Francisco",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397777,
     city: "South San Jose Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397841,
     city: "South Whittier",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5397851,
     city: "South Yuba City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5398277,
     city: "Spring Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5398630,
     city: "Stanton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5399020,
     city: "Stockton",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5399629,
     city: "Suisun",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5399901,
     city: "Sun City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5400075,
     city: "Sunnyvale",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5401395,
     city: "Temecula",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5401469,
     city: "Temple City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5402405,
     city: "Thousand Oaks",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5403022,
     city: "Torrance",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5403191,
     city: "Tracy",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5403676,
     city: "Truckee",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5403783,
     city: "Tulare",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404024,
     city: "Turlock",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404119,
     city: "Tustin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404122,
     city: "North Tustin",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404198,
     city: "Twentynine Palms",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404476,
     city: "Ukiah",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404555,
     city: "Union City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404794,
     city: "Universal City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5404915,
     city: "Upland",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5407030,
     city: "Walnut Park",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5407529,
     city: "Watsonville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5407908,
     city: "West Carson",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5407933,
     city: "West Covina",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5408076,
     city: "West Hollywood",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5408191,
     city: "West Puente Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5408211,
     city: "West Sacramento",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5408406,
     city: "Westminster",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5408431,
     city: "Westmont",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5409059,
     city: "Whittier",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5409260,
     city: "Wildomar",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5409768,
     city: "Willowbrook",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5410004,
     city: "Windsor",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5410129,
     city: "Winter Gardens",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5410430,
     city: "Woodland",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5410438,
     city: "Woodland Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5410902,
     city: "Yorba Linda",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5411015,
     city: "Yuba City",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5411046,
     city: "Yucaipa",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5411079,
     city: "Yucca Valley",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5412199,
     city: "Arvada",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5412347,
     city: "Aurora",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5414941,
     city: "Brighton",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5415035,
     city: "Broomfield",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5416005,
     city: "Cañon City",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5416329,
     city: "Castle Rock",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5416357,
     city: "Castlewood",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5416541,
     city: "Centennial",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5417041,
     city: "Cimarron Hills",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5417258,
     city: "Clifton",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5417598,
     city: "Colorado Springs",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5417657,
     city: "Columbine",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5417737,
     city: "Commerce City",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5419384,
     city: "Denver",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5420241,
     city: "Durango",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5421250,
     city: "Englewood",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5422191,
     city: "Fountain",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5423294,
     city: "Golden",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5423573,
     city: "Grand Junction",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5425043,
     city: "Highlands Ranch",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5427207,
     city: "Ken Caryl",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5427771,
     city: "Lafayette",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5427946,
     city: "Lakewood",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5429032,
     city: "Littleton",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5429522,
     city: "Louisville",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5431710,
     city: "Montrose",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5433124,
     city: "Northglenn",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5434006,
     city: "Parker",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5435464,
     city: "Pueblo",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5435477,
     city: "Pueblo West",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5438567,
     city: "Sherrelwood",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5439752,
     city: "Southglenn",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5441492,
     city: "Thornton",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5443910,
     city: "Westminster",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5443948,
     city: "Wheat Ridge",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5445298,
     city: "Dodge City",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5445439,
     city: "Garden City",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5445820,
     city: "Liberal",
     subCountry: "Kansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5454627,
     city: "Alamogordo",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5454711,
     city: "Albuquerque",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5460459,
     city: "Carlsbad",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5462393,
     city: "Clovis",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5467328,
     city: "Farmington",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5468773,
     city: "Gallup",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5471578,
     city: "Hobbs",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5475352,
     city: "Las Cruces",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5487811,
     city: "Rio Rancho",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5488441,
     city: "Roswell",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5490263,
     city: "Santa Fe",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5492450,
     city: "South Valley",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5500539,
     city: "Boulder City",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5501344,
     city: "Carson City",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5503766,
     city: "Enterprise",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5504003,
     city: "Fernley",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5505411,
     city: "Henderson",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5506956,
     city: "Las Vegas",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5508180,
     city: "Mesquite",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5509403,
     city: "North Las Vegas",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5509851,
     city: "Pahrump",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5509952,
     city: "Paradise",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5511077,
     city: "Reno",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5512827,
     city: "Spanish Springs",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5512862,
     city: "Sparks",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5512909,
     city: "Spring Valley",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5513307,
     city: "Sun Valley",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5513343,
     city: "Sunrise Manor",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5515110,
     city: "Whitney",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5515345,
     city: "Winchester",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5516233,
     city: "Amarillo",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5517061,
     city: "Big Spring",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5520076,
     city: "Del Rio",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5520677,
     city: "Eagle Pass",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5520993,
     city: "El Paso",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5523074,
     city: "Hereford",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5523369,
     city: "Horizon City",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5525577,
     city: "Lubbock",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5526337,
     city: "Midland",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5527554,
     city: "Odessa",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5527953,
     city: "Pampa",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5528450,
     city: "Plainview",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5530022,
     city: "San Angelo",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5530932,
     city: "Socorro",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5530937,
     city: "Socorro Mission Number 1 Colonia",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5533366,
     city: "West Odessa",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5536630,
     city: "Cedar City",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5546220,
     city: "Saint George",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5549222,
     city: "Washington",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5550368,
     city: "Wasco",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5551498,
     city: "Anthem",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5551535,
     city: "Apache Junction",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5552301,
     city: "Avondale",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5554072,
     city: "Juneau",
     subCountry: "Alaska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5558953,
     city: "Arcata",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5559320,
     city: "Bayside",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5563397,
     city: "Eureka",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5567770,
     city: "McKinleyville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5570160,
     city: "Redding",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5572400,
     city: "Susanville",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5574991,
     city: "Boulder",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5576859,
     city: "Erie",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5576909,
     city: "Evans",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5577147,
     city: "Fort Collins",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5577592,
     city: "Greeley",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5579276,
     city: "Longmont",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5579368,
     city: "Loveland",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5583509,
     city: "Windsor",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5586437,
     city: "Boise",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5587698,
     city: "Caldwell",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5589173,
     city: "Coeur d'Alene",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5591778,
     city: "Eagle",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5596475,
     city: "Idaho Falls",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5597955,
     city: "Kuna",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5598538,
     city: "Lewiston",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5598542,
     city: "Lewiston Orchards",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5600685,
     city: "Meridian",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5601538,
     city: "Moscow",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5601933,
     city: "Nampa",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5604045,
     city: "Pocatello",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5604353,
     city: "Post Falls",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5605242,
     city: "Rexburg",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5610810,
     city: "Twin Falls",
     subCountry: "Idaho"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5640350,
     city: "Billings",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5641727,
     city: "Bozeman",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5642934,
     city: "Butte",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5655240,
     city: "Great Falls",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5656882,
     city: "Helena",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5660340,
     city: "Kalispell",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5666639,
     city: "Missoula",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5688025,
     city: "Bismarck",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5688789,
     city: "Dickinson",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5690366,
     city: "Mandan",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5690532,
     city: "Minot",
     subCountry: "North Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5697939,
     city: "North Platte",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5699404,
     city: "Scottsbluff",
     subCountry: "Nebraska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5703670,
     city: "Elko",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5710756,
     city: "Albany",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5711099,
     city: "Aloha",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5711149,
     city: "Altamont",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5711789,
     city: "Ashland",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5713376,
     city: "Beaverton",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5713587,
     city: "Bend",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5713759,
     city: "Bethany",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5717758,
     city: "Canby",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5718601,
     city: "Central Point",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5720495,
     city: "Coos Bay",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5720727,
     city: "Corvallis",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5725846,
     city: "Eugene",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5727190,
     city: "Forest Grove",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5727382,
     city: "Four Corners",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5729080,
     city: "Grants Pass",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5729485,
     city: "Gresham",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5730675,
     city: "Hayesville",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5731070,
     city: "Hermiston",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5731371,
     city: "Hillsboro",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5734711,
     city: "Keizer",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5735238,
     city: "Klamath Falls",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5735724,
     city: "Lake Oswego",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5736218,
     city: "Lebanon",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5736378,
     city: "Lents",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5739936,
     city: "McMinnville",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5740099,
     city: "Medford",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5740900,
     city: "Milwaukie",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5742726,
     city: "Newberg",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5743731,
     city: "Oak Grove",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5744253,
     city: "Oregon City",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5745380,
     city: "Pendleton",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5746545,
     city: "Portland",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5747882,
     city: "Redmond",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5749352,
     city: "Roseburg",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5750162,
     city: "Salem",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5751632,
     city: "Sherwood",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5754005,
     city: "Springfield",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5756758,
     city: "Tigard",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5757477,
     city: "Troutdale",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5757506,
     city: "Tualatin",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5760009,
     city: "West Linn",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5761287,
     city: "Wilsonville",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5761708,
     city: "Woodburn",
     subCountry: "Oregon"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5768233,
     city: "Rapid City",
     subCountry: "South Dakota"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5771826,
     city: "Bountiful",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5771960,
     city: "Brigham City",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5772654,
     city: "Centerville",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5772959,
     city: "Clearfield",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5773001,
     city: "Clinton",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5773304,
     city: "Cottonwood Heights",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5774001,
     city: "Draper",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5774215,
     city: "Eagle Mountain",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5774301,
     city: "East Millcreek",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5774662,
     city: "Farmington",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5775782,
     city: "Herriman",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5775863,
     city: "Highland",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5776008,
     city: "Holladay",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5776715,
     city: "Kaysville",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5776727,
     city: "Kearns",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5777107,
     city: "Layton",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5777224,
     city: "Lehi",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5777544,
     city: "Logan",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5777793,
     city: "Magna",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5778244,
     city: "Midvale",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5778352,
     city: "Millcreek",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5778755,
     city: "Murray",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779036,
     city: "North Ogden",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779068,
     city: "North Salt Lake",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779206,
     city: "Ogden",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779334,
     city: "Orem",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779548,
     city: "Payson",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5779816,
     city: "Pleasant Grove",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5780026,
     city: "Provo",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5780557,
     city: "Riverton",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5780802,
     city: "Roy",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5780993,
     city: "Salt Lake City",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781061,
     city: "Sandy City",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781070,
     city: "Sandy Hills",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781087,
     city: "Saratoga Springs",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781765,
     city: "South Jordan Heights",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781770,
     city: "South Jordan",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781783,
     city: "South Ogden",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781794,
     city: "South Salt Lake",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781860,
     city: "Spanish Fork",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5781993,
     city: "Springville",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5782391,
     city: "Syracuse",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5782476,
     city: "Taylorsville",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5783695,
     city: "Tooele",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5784549,
     city: "West Jordan",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5784607,
     city: "West Valley City",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5785243,
     city: "Aberdeen",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5785657,
     city: "Anacortes",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5785868,
     city: "Arlington",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5785965,
     city: "Auburn",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5786485,
     city: "Battle Ground",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5786882,
     city: "Bellevue",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5786899,
     city: "Bellingham",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5787776,
     city: "Bonney Lake",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5787829,
     city: "Bothell",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5788054,
     city: "Bremerton",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5788516,
     city: "Burien",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5788822,
     city: "Camas",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5789683,
     city: "Centralia",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5790971,
     city: "Cottage Lake",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5791159,
     city: "Covington",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5792244,
     city: "Des Moines",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5793427,
     city: "Edmonds",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5793639,
     city: "Ellensburg",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5793933,
     city: "Everett",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5794097,
     city: "Fairwood",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5794245,
     city: "Federal Way",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5794559,
     city: "Five Corners",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5795011,
     city: "Frederickson",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5795906,
     city: "Graham",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5796984,
     city: "Hazel Dell",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5798487,
     city: "Issaquah",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5799587,
     city: "Kenmore",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5799610,
     city: "Kennewick",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5799625,
     city: "Kent",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5799841,
     city: "Kirkland",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5800112,
     city: "Lacey",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5800317,
     city: "Lake Stevens",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5800420,
     city: "Lakewood",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5801617,
     city: "Longview",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5802049,
     city: "Lynnwood",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5802340,
     city: "Maple Valley",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5802493,
     city: "Martha Lake",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5802570,
     city: "Marysville",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5803139,
     city: "Mercer Island",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5803457,
     city: "Mill Creek",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5803786,
     city: "Monroe",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5803990,
     city: "Moses Lake",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5804127,
     city: "Mount Vernon",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5804191,
     city: "Mountlake Terrace",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5804306,
     city: "Mukilteo",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5804953,
     city: "North Creek",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5805441,
     city: "Oak Harbor",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5805687,
     city: "Olympia",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5805782,
     city: "Opportunity",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5805815,
     city: "Orchards",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5806253,
     city: "Parkland",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5806298,
     city: "Pasco",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5807212,
     city: "Port Angeles",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5807540,
     city: "Pullman",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5807575,
     city: "Puyallup",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5808079,
     city: "Redmond",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5808189,
     city: "Renton",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5808276,
     city: "Richland",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5809333,
     city: "Salmon Creek",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5809402,
     city: "Sammamish",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5809805,
     city: "SeaTac",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5809844,
     city: "Seattle",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5810301,
     city: "Shoreline",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5810490,
     city: "Silverdale",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5811456,
     city: "South Hill",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5811581,
     city: "Spanaway",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5811696,
     city: "Spokane",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5811729,
     city: "Spokane Valley",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5812604,
     city: "Sunnyside",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5812944,
     city: "Tacoma",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5814043,
     city: "Tukwila",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5814095,
     city: "Tumwater",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5814450,
     city: "University Place",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5814616,
     city: "Vancouver",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5814916,
     city: "Walla Walla",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5815342,
     city: "Wenatchee",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5815538,
     city: "West Lake Sammamish",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5815539,
     city: "West Lake Stevens",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5816320,
     city: "Bainbridge Island",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5816605,
     city: "Yakima",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5820705,
     city: "Casper",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5821086,
     city: "Cheyenne",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5826027,
     city: "Gillette",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5830062,
     city: "Laramie",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5836898,
     city: "Rock Springs",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5838198,
     city: "Sheridan",
     subCountry: "Wyoming"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5844096,
     city: "American Fork",
     subCountry: "Utah"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5847411,
     city: "Kahului",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5847486,
     city: "Kailua",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5848189,
     city: "Kāne‘ohe",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5849297,
     city: "Kīhei",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5850554,
     city: "Makakilo City",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5851030,
     city: "Mililani Town",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5852275,
     city: "Pearl City",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5853992,
     city: "Wahiawā",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5854496,
     city: "Wailuku",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5854686,
     city: "Waipahu",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5855070,
     city: "‘Ewa Gentry",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5855927,
     city: "Hilo",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5856195,
     city: "Honolulu",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5861187,
     city: "Eagle River",
     subCountry: "Alaska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5861897,
     city: "Fairbanks",
     subCountry: "Alaska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5879400,
     city: "Anchorage",
     subCountry: "Alaska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 5879898,
     city: "Badger",
     subCountry: "Alaska"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 6331908,
     city: "Milton",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 6331909,
     city: "Johns Creek",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 6332309,
     city: "Cutler Bay",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 6332439,
     city: "Alafaya",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 6941080,
     city: "Fort Bragg",
     subCountry: "North Carolina"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7160204,
     city: "City of Milford (balance)",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7172886,
     city: "Butte-Silver Bow (Balance)",
     subCountry: "Montana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7174365,
     city: "City of Sammamish",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7176035,
     city: "Silver Firs",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7176039,
     city: "Vineyard",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7257422,
     city: "Wallingford Center",
     subCountry: "Connecticut"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7257991,
     city: "Bel Air North",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7257992,
     city: "Bel Air South",
     subCountry: "Maryland"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7258965,
     city: "Setauket-East Setauket",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259084,
     city: "Tonawanda",
     subCountry: "New York"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259265,
     city: "Fort Leonard Wood",
     subCountry: "Missouri"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259621,
     city: "West Bloomfield Township",
     subCountry: "Michigan"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259705,
     city: "East Lake-Orient Park",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259780,
     city: "Four Corners",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7259823,
     city: "Greater Northdale",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260019,
     city: "Candler-McAfee",
     subCountry: "Georgia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260219,
     city: "University",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260233,
     city: "Vero Beach South",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260327,
     city: "Kendall West",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260548,
     city: "Palm River-Clair Mel",
     subCountry: "Florida"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260806,
     city: "Arden-Arcade",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7260966,
     city: "Bryn Mawr-Skyway",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261029,
     city: "Casa de Oro-Mount Helix",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261268,
     city: "Florence-Graham",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261291,
     city: "Fort Hood",
     subCountry: "Texas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261476,
     city: "Inglewood-Finn Hill",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261553,
     city: "La Crescenta-Montrose",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7261759,
     city: "East Hill-Meridian",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262349,
     city: "Security-Widefield",
     subCountry: "Colorado"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262428,
     city: "Union Hill-Novelty Hill",
     subCountry: "Washington"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262518,
     city: "West Whittier-Los Nietos",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262622,
     city: "Summerlin South",
     subCountry: "Nevada"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262761,
     city: "Makakilo",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7262790,
     city: "Schofield Barracks",
     subCountry: "Hawaii"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7310164,
     city: "San Tan Valley",
     subCountry: "Arizona"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 7839240,
     city: "Enchanted Hills",
     subCountry: "New Mexico"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8030162,
     city: "West Hills",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8097131,
     city: "Oak Hill",
     subCountry: "Virginia"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8299576,
     city: "Bridgewater",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8299577,
     city: "Warren Township",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8347326,
     city: "Fairfield Heights",
     subCountry: "Indiana"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8469295,
     city: "Randolph",
     subCountry: "New Jersey"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8605040,
     city: "Hot Springs National Park",
     subCountry: "Arkansas"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8605041,
     city: "Dixiana",
     subCountry: "Alabama"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 8643098,
     city: "Cranberry Township",
     subCountry: "Pennsylvania"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 10104153,
     city: "Silver Lake",
     subCountry: "California"
     },
     {
-    country: "United States",
+    country: "USA",
     geonameId: 10104154,
     city: "Echo Park",
     subCountry: "California"

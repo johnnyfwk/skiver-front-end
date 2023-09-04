@@ -2,11 +2,13 @@ import { Link } from "react-router-dom";
 
 export default function Logo({
     setCityInput,
-    setCitiesMatchingInput
+    setCitiesMatchingInput,
+    setSelectedCity
 }) {
     function handleLogo() {
         setCityInput("");
         setCitiesMatchingInput([]);
+        setSelectedCity({});
     }
 
     return (

@@ -9,7 +9,9 @@ export default function Home({
     cityInput,
     setCityInput,
     citiesMatchingInput,
-    setCitiesMatchingInput
+    setCitiesMatchingInput,
+    selectedCityAndDates,
+    setSelectedCityAndDates
 }) {
 
     const [searchParams, setSearchParams] = useSearchParams();
@@ -18,6 +20,8 @@ export default function Home({
     useEffect(() => {
 
     }, [cityIdQuery])
+
+    console.log(selectedCityAndDates, "<------- selectedCityAndDates")
 
     return (
         <div>
@@ -28,15 +32,13 @@ export default function Home({
             </Helmet>
 
             <header>
-                <form>
-                    <CityInput
-                        cityInput={cityInput}
-                        setCityInput={setCityInput}
-                        citiesMatchingInput={citiesMatchingInput}
-                        setCitiesMatchingInput={setCitiesMatchingInput}
-                    />
-                </form>
-                
+                <CityInput
+                    cityInput={cityInput}
+                    setCityInput={setCityInput}
+                    citiesMatchingInput={citiesMatchingInput}
+                    setCitiesMatchingInput={setCitiesMatchingInput}
+                    setSelectedCityAndDates={setSelectedCityAndDates}
+                />
             </header>
 
             <main>

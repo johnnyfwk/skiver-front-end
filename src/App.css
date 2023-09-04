@@ -21,11 +21,25 @@ header {
 
 main {
     background: pink;
+    display: grid;
+    gap: 20px;
+}
+
+section {
+    display: grid;
+    gap: 20px;
+}
+
+.body {
+    display: grid;
+    gap: 20px;
 }
 
 /************************* HOME *************************/
 #cities-matching-input {
-    background: yellow;
+    background: cyan;
+    display: grid;
+    gap: 10px;
 }
 
 .matching-city {
