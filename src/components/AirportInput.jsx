@@ -7,7 +7,8 @@ export default function AirportInput({
     airportInput,
     setAirportInput,
     airports,
-    setSelectedAirportId
+    setSelectedAirportId,
+    setDestinationAirports
 }) {
     const [airportsMatchingInput, setAirportsMatchingInput] = useState(null);
 
@@ -32,11 +33,17 @@ export default function AirportInput({
         setAirportInput(event.target.attributes.name.value + " (" + event.target.attributes.code.value + "), " + event.target.attributes.city.value + ", " + event.target.attributes.country.value);
         setSelectedAirportId(event.target.attributes.id.value);
         setAirportsMatchingInput(null);
+        if (airportInputLabel === "Departure Airport:") {
+            setDestinationAirports(airports.filter((airport) => {
+                return airport.city !== event.target.attributes.city.value || airport.country !== event.target.attributes.country.value;
+            }));
+        }
     }
 
     return (
         <div className="airport-input">
             <label htmlFor={airportInputName}>{airportInputLabel}</label>
+            
             <input
                 type="text"
                 id={airportInputName}
@@ -45,6 +52,7 @@ export default function AirportInput({
                 onChange={handleAirportInput}
                 placeholder={airportInputPlaceholder}
             ></input>
+
             {!airportInput || airportsMatchingInput === null
                 ? null
                 : airportsMatchingInput.length === 0

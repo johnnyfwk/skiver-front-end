@@ -17,12 +17,20 @@ nav {
 
 header {
     background: orange;
+    display: grid;
+    gap: 15px;
 }
 
 main {
     background: pink;
     display: grid;
     gap: 15px;
+}
+
+p,
+ul,
+ol {
+    line-height: 1.4rem;
 }
 
 section {
