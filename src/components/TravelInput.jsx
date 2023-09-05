@@ -39,7 +39,7 @@ export default function TravelInput({
 
     return (
         <header>
-            <h1>Get travel information for destinations around the world</h1>
+            <h1>Get travel information for your holiday destination</h1>
             <p>Enter departure and arrival airports to get entry requirements, flight, accommodation, weather, and events information for your destination.</p>
             <form>
                 <AirportInput

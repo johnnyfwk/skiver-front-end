@@ -28,6 +28,7 @@ export function getRESTCountriesCountryInfo(country) {
     const baseURL = "https://restcountries.com/v3.1/all";
     return axios
         .get(baseURL)
-            .then((response) => {
-                return response.data;
-            })}
+        .then((response) => {
+            return response.data;
+        })
+}
