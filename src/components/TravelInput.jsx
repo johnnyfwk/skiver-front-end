@@ -15,10 +15,9 @@ export default function TravelInput({
     arrivalAirportInput,
     setArrivalAirportInput
 }) {
-    const ukAirports = airports.filter((airport) => airport.country === "United Kingdom");
-    const nonUkAirports = airports.filter((airport) => airport.country !== "United Kingdom");
     const [selectedDepartureAirportId, setSelectedDepartureAirportId] = useState("");
     const [selectedArrivalAirportId, setSelectedArrivalAirportId] = useState("");
+    const [destinationAirports, setDestinationAirports] = useState([]);
 
     const navigate = useNavigate();
     
@@ -27,6 +26,8 @@ export default function TravelInput({
         navigate(`/destination/${selectedArrivalAirportId.toLowerCase()}?departure_airport_id=${selectedDepartureAirportId.toLowerCase()}`);
         setDepartureAirportInput("");
         setArrivalAirportInput("");
+        setSelectedDepartureAirportId("");
+        setSelectedArrivalAirportId("");
     }
 
     function handleResetForm() {
@@ -47,18 +48,22 @@ export default function TravelInput({
                     airportInputPlaceholder={departureAirportInputPlaceholder}
                     airportInput={departureAirportInput}
                     setAirportInput={setDepartureAirportInput}
-                    airports={ukAirports}
+                    airports={airports}
                     setSelectedAirportId={setSelectedDepartureAirportId}
+                    setDestinationAirports={setDestinationAirports}
                 />
-                <AirportInput
-                    airportInputLabel={arrivalAirportInputLabel}
-                    airportInputName={arrivalAirportInputName}
-                    airportInputPlaceholder={arrivalAirportInputPlaceholder}
-                    airportInput={arrivalAirportInput}
-                    setAirportInput={setArrivalAirportInput}
-                    airports={nonUkAirports}
-                    setSelectedAirportId={setSelectedArrivalAirportId}
-                />
+                {selectedDepartureAirportId
+                    ? <AirportInput
+                        airportInputLabel={arrivalAirportInputLabel}
+                        airportInputName={arrivalAirportInputName}
+                        airportInputPlaceholder={arrivalAirportInputPlaceholder}
+                        airportInput={arrivalAirportInput}
+                        setAirportInput={setArrivalAirportInput}
+                        airports={destinationAirports}
+                        setSelectedAirportId={setSelectedArrivalAirportId}
+                    />
+                    : null
+                }
                 <input
                     type="submit"
                     value="Submit"

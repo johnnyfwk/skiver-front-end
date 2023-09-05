@@ -72,16 +72,19 @@ export default function Destination({
             <main>
                 <h2>{destination[0].city},  {destination[0].country}</h2>
 
-                <section>
-                    <h3>Contents</h3>
-                    <ul>
-                        {govUKForeignTravelAdviceEntryRequirements
-                            ? <li><a href="#entry-requirements">Entry Requirements</a></li>
-                            : null
-                        }
-                    </ul>
-                </section>
-
+                {govUKForeignTravelAdviceEntryRequirements
+                    ? <section>
+                        <h3>Contents</h3>
+                        <ul>
+                            {govUKForeignTravelAdviceEntryRequirements
+                                ? <li><a href="#entry-requirements">Entry Requirements</a></li>
+                                : null
+                            }
+                        </ul>
+                    </section>
+                    : <div>No information to display</div>
+                }
+                
                 {govUKForeignTravelAdviceEntryRequirements
                     ? <section>
                         <h2 id="entry-requirements">Entry Requirements</h2>

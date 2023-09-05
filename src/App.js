@@ -10,14 +10,14 @@ import Destination from './pages/Destination';
 import Footer from './components/Footer';
 
 function App() {
-    const departureAirportInputLabel = "UK Departure Airport:";
-    const departureAirportInputName = "uk-departure-airport-input";
-    const departureAirportInputPlaceholder = "Enter UK departure airport";
+    const departureAirportInputLabel = "Departure Airport:";
+    const departureAirportInputName = "departure-airport-input";
+    const departureAirportInputPlaceholder = "Enter departure airport";
     const [departureAirportInput, setDepartureAirportInput] = useState("");
 
-    const arrivalAirportInputLabel = "Arrival Airport Abroad:";
-    const arrivalAirportInputName = "arrival-airport-abroad-input";
-    const arrivalAirportInputPlaceholder = "Enter arrival airport abroad";
+    const arrivalAirportInputLabel = "Arrival Airport:";
+    const arrivalAirportInputName = "arrival-airport-input";
+    const arrivalAirportInputPlaceholder = "Enter arrival airport";
     const [arrivalAirportInput, setArrivalAirportInput] = useState("");
 
     return (
