@@ -35,7 +35,12 @@ ol {
 
 section {
     display: grid;
-    gap: 15px;
+    gap: 10px;
+}
+
+#country-information img {
+    width: 100%;
+    max-width: 400px;
 }
 
 .body {
