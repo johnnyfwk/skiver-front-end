@@ -48,7 +48,7 @@ function App() {
                     }
                 />
                 <Route
-                    path="/destination/:destination_airport_id"
+                    path="/destination/:destination_airport_id/departure/:departure_airport_id"
                     element={
                         <Destination
                             departureAirportInputLabel={departureAirportInputLabel}

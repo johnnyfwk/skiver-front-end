@@ -2,7 +2,7 @@ const airports = [
     {
       "name": "Hartsfield Jackson Atlanta Intl",
       "city": "Atlanta",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ATL",
       "_geoloc": {
         "lat": 33.636719,
@@ -14,7 +14,7 @@ const airports = [
     {
       "name": "Chicago Ohare Intl",
       "city": "Chicago",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ORD",
       "_geoloc": {
         "lat": 41.978603,
@@ -62,7 +62,7 @@ const airports = [
     {
       "name": "Los Angeles Intl",
       "city": "Los Angeles",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAX",
       "_geoloc": {
         "lat": 33.942536,
@@ -86,7 +86,7 @@ const airports = [
     {
       "name": "Dallas Fort Worth Intl",
       "city": "Dallas-Fort Worth",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DFW",
       "_geoloc": {
         "lat": 32.896828,
@@ -98,7 +98,7 @@ const airports = [
     {
       "name": "John F Kennedy Intl",
       "city": "New York",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JFK",
       "_geoloc": {
         "lat": 40.639751,
@@ -170,7 +170,7 @@ const airports = [
     {
       "name": "Denver Intl",
       "city": "Denver",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DEN",
       "_geoloc": {
         "lat": 39.861656,
@@ -182,7 +182,7 @@ const airports = [
     {
       "name": "Miami Intl",
       "city": "Miami",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MIA",
       "_geoloc": {
         "lat": 25.79325,
@@ -374,7 +374,7 @@ const airports = [
     {
       "name": "Charlotte Douglas Intl",
       "city": "Charlotte",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CLT",
       "_geoloc": {
         "lat": 35.214,
@@ -386,7 +386,7 @@ const airports = [
     {
       "name": "Philadelphia Intl",
       "city": "Philadelphia",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PHL",
       "_geoloc": {
         "lat": 39.871944,
@@ -506,7 +506,7 @@ const airports = [
     {
       "name": "Phoenix Sky Harbor Intl",
       "city": "Phoenix",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PHX",
       "_geoloc": {
         "lat": 33.434278,
@@ -530,7 +530,7 @@ const airports = [
     {
       "name": "Newark Liberty Intl",
       "city": "Newark",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EWR",
       "_geoloc": {
         "lat": 40.6925,
@@ -542,7 +542,7 @@ const airports = [
     {
       "name": "San Francisco Intl",
       "city": "San Francisco",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SFO",
       "_geoloc": {
         "lat": 37.618972,
@@ -554,7 +554,7 @@ const airports = [
     {
       "name": "Mc Carran Intl",
       "city": "Las Vegas",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAS",
       "_geoloc": {
         "lat": 36.080056,
@@ -578,7 +578,7 @@ const airports = [
     {
       "name": "George Bush Intercontinental",
       "city": "Houston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IAH",
       "_geoloc": {
         "lat": 29.984433,
@@ -614,7 +614,7 @@ const airports = [
     {
       "name": "Orlando Intl",
       "city": "Orlando",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCO",
       "_geoloc": {
         "lat": 28.429394,
@@ -698,7 +698,7 @@ const airports = [
     {
       "name": "Detroit Metro Wayne Co",
       "city": "Detroit",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DTW",
       "_geoloc": {
         "lat": 42.212444,
@@ -710,7 +710,7 @@ const airports = [
     {
       "name": "Minneapolis St Paul Intl",
       "city": "Minneapolis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSP",
       "_geoloc": {
         "lat": 44.881956,
@@ -722,7 +722,7 @@ const airports = [
     {
       "name": "General Edward Lawrence Logan Intl",
       "city": "Boston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BOS",
       "_geoloc": {
         "lat": 42.364347,
@@ -818,7 +818,7 @@ const airports = [
     {
       "name": "Seattle Tacoma Intl",
       "city": "Seattle",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SEA",
       "_geoloc": {
         "lat": 47.449,
@@ -842,7 +842,7 @@ const airports = [
     {
       "name": "Ronald Reagan Washington Natl",
       "city": "Washington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DCA",
       "_geoloc": {
         "lat": 38.852083,
@@ -866,7 +866,7 @@ const airports = [
     {
       "name": "Washington Dulles Intl",
       "city": "Washington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IAD",
       "_geoloc": {
         "lat": 38.944533,
@@ -950,7 +950,7 @@ const airports = [
     {
       "name": "Fort Lauderdale Hollywood Intl",
       "city": "Fort Lauderdale",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FLL",
       "_geoloc": {
         "lat": 26.072583,
@@ -1130,7 +1130,7 @@ const airports = [
     {
       "name": "La Guardia",
       "city": "New York",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LGA",
       "_geoloc": {
         "lat": 40.777245,
@@ -1286,7 +1286,7 @@ const airports = [
     {
       "name": "Baltimore Washington Intl",
       "city": "Baltimore",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BWI",
       "_geoloc": {
         "lat": 39.175361,
@@ -1310,7 +1310,7 @@ const airports = [
     {
       "name": "Salt Lake City Intl",
       "city": "Salt Lake City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SLC",
       "_geoloc": {
         "lat": 40.788389,
@@ -1322,7 +1322,7 @@ const airports = [
     {
       "name": "Tampa Intl",
       "city": "Tampa",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TPA",
       "_geoloc": {
         "lat": 27.975472,
@@ -1394,7 +1394,7 @@ const airports = [
     {
       "name": "Chicago Midway Intl",
       "city": "Chicago",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MDW",
       "_geoloc": {
         "lat": 41.785972,
@@ -1550,7 +1550,7 @@ const airports = [
     {
       "name": "Louis Armstrong New Orleans Intl",
       "city": "New Orleans",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSY",
       "_geoloc": {
         "lat": 29.993389,
@@ -1598,7 +1598,7 @@ const airports = [
     {
       "name": "San Diego Intl",
       "city": "San Diego",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SAN",
       "_geoloc": {
         "lat": 32.733556,
@@ -1622,7 +1622,7 @@ const airports = [
     {
       "name": "Honolulu Intl",
       "city": "Honolulu",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HNL",
       "_geoloc": {
         "lat": 21.318681,
@@ -1658,7 +1658,7 @@ const airports = [
     {
       "name": "Portland Intl",
       "city": "Portland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PDX",
       "_geoloc": {
         "lat": 45.588722,
@@ -1742,7 +1742,7 @@ const airports = [
     {
       "name": "Lambert St Louis Intl",
       "city": "St. Louis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "STL",
       "_geoloc": {
         "lat": 38.748697,
@@ -2402,7 +2402,7 @@ const airports = [
     {
       "name": "Austin Bergstrom Intl",
       "city": "Austin",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AUS",
       "_geoloc": {
         "lat": 30.194528,
@@ -2414,7 +2414,7 @@ const airports = [
     {
       "name": "Raleigh Durham Intl",
       "city": "Raleigh-durham",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RDU",
       "_geoloc": {
         "lat": 35.877639,
@@ -2462,7 +2462,7 @@ const airports = [
     {
       "name": "Nashville Intl",
       "city": "Nashville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BNA",
       "_geoloc": {
         "lat": 36.124472,
@@ -2534,7 +2534,7 @@ const airports = [
     {
       "name": "Cleveland Hopkins Intl",
       "city": "Cleveland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CLE",
       "_geoloc": {
         "lat": 41.411689,
@@ -2606,7 +2606,7 @@ const airports = [
     {
       "name": "Kansas City Intl",
       "city": "Kansas City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCI",
       "_geoloc": {
         "lat": 39.297606,
@@ -2690,7 +2690,7 @@ const airports = [
     {
       "name": "Cincinnati Northern Kentucky Intl",
       "city": "Cincinnati",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CVG",
       "_geoloc": {
         "lat": 39.048836,
@@ -2714,7 +2714,7 @@ const airports = [
     {
       "name": "William P Hobby",
       "city": "Houston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HOU",
       "_geoloc": {
         "lat": 29.645419,
@@ -2738,7 +2738,7 @@ const airports = [
     {
       "name": "Pittsburgh Intl",
       "city": "Pittsburgh",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIT",
       "_geoloc": {
         "lat": 40.491467,
@@ -2834,7 +2834,7 @@ const airports = [
     {
       "name": "Indianapolis Intl",
       "city": "Indianapolis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IND",
       "_geoloc": {
         "lat": 39.717331,
@@ -2870,7 +2870,7 @@ const airports = [
     {
       "name": "San Antonio Intl",
       "city": "San Antonio",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SAT",
       "_geoloc": {
         "lat": 29.533694,
@@ -3074,7 +3074,7 @@ const airports = [
     {
       "name": "Southwest Florida Intl",
       "city": "Fort Myers",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RSW",
       "_geoloc": {
         "lat": 26.536167,
@@ -3086,7 +3086,7 @@ const airports = [
     {
       "name": "Port Columbus Intl",
       "city": "Columbus",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CMH",
       "_geoloc": {
         "lat": 39.997972,
@@ -3158,7 +3158,7 @@ const airports = [
     {
       "name": "General Mitchell Intl",
       "city": "Milwaukee",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MKE",
       "_geoloc": {
         "lat": 42.947222,
@@ -3230,7 +3230,7 @@ const airports = [
     {
       "name": "Norman Y Mineta San Jose Intl",
       "city": "San Jose",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SJC",
       "_geoloc": {
         "lat": 37.3626,
@@ -3290,7 +3290,7 @@ const airports = [
     {
       "name": "Ted Stevens Anchorage Intl",
       "city": "Anchorage",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ANC",
       "_geoloc": {
         "lat": 61.174361,
@@ -3422,7 +3422,7 @@ const airports = [
     {
       "name": "Memphis Intl",
       "city": "Memphis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MEM",
       "_geoloc": {
         "lat": 35.042417,
@@ -3458,7 +3458,7 @@ const airports = [
     {
       "name": "Metropolitan Oakland Intl",
       "city": "Oakland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OAK",
       "_geoloc": {
         "lat": 37.721278,
@@ -3506,7 +3506,7 @@ const airports = [
     {
       "name": "Sacramento Intl",
       "city": "Sacramento",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SMF",
       "_geoloc": {
         "lat": 38.695417,
@@ -3662,7 +3662,7 @@ const airports = [
     {
       "name": "Bradley Intl",
       "city": "Windsor Locks",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BDL",
       "_geoloc": {
         "lat": 41.938889,
@@ -3854,7 +3854,7 @@ const airports = [
     {
       "name": "Orlando Sanford Intl",
       "city": "Sanford",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SFB",
       "_geoloc": {
         "lat": 28.777639,
@@ -4034,7 +4034,7 @@ const airports = [
     {
       "name": "Jacksonville Intl",
       "city": "Jacksonville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JAX",
       "_geoloc": {
         "lat": 30.494056,
@@ -4190,7 +4190,7 @@ const airports = [
     {
       "name": "Palm Beach Intl",
       "city": "West Palm Beach",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PBI",
       "_geoloc": {
         "lat": 26.683161,
@@ -4250,7 +4250,7 @@ const airports = [
     {
       "name": "John Wayne Arpt Orange Co",
       "city": "Santa Ana",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SNA",
       "_geoloc": {
         "lat": 33.675667,
@@ -4346,7 +4346,7 @@ const airports = [
     {
       "name": "Kahului",
       "city": "Kahului",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OGG",
       "_geoloc": {
         "lat": 20.89865,
@@ -4394,7 +4394,7 @@ const airports = [
     {
       "name": "Albuquerque International Sunport",
       "city": "Albuquerque",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABQ",
       "_geoloc": {
         "lat": 35.0402222,
@@ -4406,7 +4406,7 @@ const airports = [
     {
       "name": "Louisville International Airport",
       "city": "Louisville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SDF",
       "_geoloc": {
         "lat": 38.1740858,
@@ -4478,7 +4478,7 @@ const airports = [
     {
       "name": "Will Rogers World",
       "city": "Oklahoma City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OKC",
       "_geoloc": {
         "lat": 35.393089,
@@ -4742,7 +4742,7 @@ const airports = [
     {
       "name": "Richmond Intl",
       "city": "Richmond",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RIC",
       "_geoloc": {
         "lat": 37.505167,
@@ -4790,7 +4790,7 @@ const airports = [
     {
       "name": "Dallas Love Fld",
       "city": "Dallas",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DAL",
       "_geoloc": {
         "lat": 32.847111,
@@ -4850,7 +4850,7 @@ const airports = [
     {
       "name": "Norfolk Intl",
       "city": "Norfolk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ORF",
       "_geoloc": {
         "lat": 36.894611,
@@ -4946,7 +4946,7 @@ const airports = [
     {
       "name": "Buffalo Niagara Intl",
       "city": "Buffalo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BUF",
       "_geoloc": {
         "lat": 42.940525,
@@ -4958,7 +4958,7 @@ const airports = [
     {
       "name": "Birmingham Intl",
       "city": "Birmingham",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BHM",
       "_geoloc": {
         "lat": 33.562942,
@@ -5090,7 +5090,7 @@ const airports = [
     {
       "name": "Charleston Afb Intl",
       "city": "Charleston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CHS",
       "_geoloc": {
         "lat": 32.898647,
@@ -5102,7 +5102,7 @@ const airports = [
     {
       "name": "Eppley Afld",
       "city": "Omaha",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OMA",
       "_geoloc": {
         "lat": 41.303167,
@@ -5162,7 +5162,7 @@ const airports = [
     {
       "name": "Myrtle Beach Intl",
       "city": "Myrtle Beach",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MYR",
       "_geoloc": {
         "lat": 33.67975,
@@ -5378,7 +5378,7 @@ const airports = [
     {
       "name": "Phoenix-Mesa Gateway",
       "city": "Mesa",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AZA",
       "_geoloc": {
         "lat": 33.307833,
@@ -5390,7 +5390,7 @@ const airports = [
     {
       "name": "James M Cox Dayton Intl",
       "city": "Dayton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DAY",
       "_geoloc": {
         "lat": 39.902375,
@@ -5486,7 +5486,7 @@ const airports = [
     {
       "name": "Mc Ghee Tyson",
       "city": "Knoxville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TYS",
       "_geoloc": {
         "lat": 35.810972,
@@ -5498,7 +5498,7 @@ const airports = [
     {
       "name": "Tucson Intl",
       "city": "Tucson",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TUS",
       "_geoloc": {
         "lat": 32.116083,
@@ -5510,7 +5510,7 @@ const airports = [
     {
       "name": "St Petersburg Clearwater Intl",
       "city": "St. Petersburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIE",
       "_geoloc": {
         "lat": 27.910167,
@@ -5618,7 +5618,7 @@ const airports = [
     {
       "name": "Albany Intl",
       "city": "Albany",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ALB",
       "_geoloc": {
         "lat": 42.748267,
@@ -5630,7 +5630,7 @@ const airports = [
     {
       "name": "Greater Rochester Intl",
       "city": "Rochester",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ROC",
       "_geoloc": {
         "lat": 43.118866,
@@ -5714,7 +5714,7 @@ const airports = [
     {
       "name": "Greenville-Spartanburg International",
       "city": "Greenville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GSP",
       "_geoloc": {
         "lat": 34.895556,
@@ -5738,7 +5738,7 @@ const airports = [
     {
       "name": "Adams Fld",
       "city": "Little Rock",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LIT",
       "_geoloc": {
         "lat": 34.729444,
@@ -5822,7 +5822,7 @@ const airports = [
     {
       "name": "Des Moines Intl",
       "city": "Des Moines",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DSM",
       "_geoloc": {
         "lat": 41.533972,
@@ -5834,7 +5834,7 @@ const airports = [
     {
       "name": "Bethel",
       "city": "Bethel",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BET",
       "_geoloc": {
         "lat": 60.779778,
@@ -5894,7 +5894,7 @@ const airports = [
     {
       "name": "Reno Tahoe Intl",
       "city": "Reno",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RNO",
       "_geoloc": {
         "lat": 39.499108,
@@ -5906,7 +5906,7 @@ const airports = [
     {
       "name": "Gerald R Ford Intl",
       "city": "Grand Rapids",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GRR",
       "_geoloc": {
         "lat": 42.880833,
@@ -6002,7 +6002,7 @@ const airports = [
     {
       "name": "Tulsa Intl",
       "city": "Tulsa",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TUL",
       "_geoloc": {
         "lat": 36.198389,
@@ -6014,7 +6014,7 @@ const airports = [
     {
       "name": "Theodore Francis Green State",
       "city": "Providence",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PVD",
       "_geoloc": {
         "lat": 41.732581,
@@ -6098,7 +6098,7 @@ const airports = [
     {
       "name": "Fairbanks Intl",
       "city": "Fairbanks",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FAI",
       "_geoloc": {
         "lat": 64.815114,
@@ -6158,7 +6158,7 @@ const airports = [
     {
       "name": "Syracuse Hancock Intl",
       "city": "Syracuse",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SYR",
       "_geoloc": {
         "lat": 43.111187,
@@ -6242,7 +6242,7 @@ const airports = [
     {
       "name": "Piedmont Triad",
       "city": "Greensboro",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GSO",
       "_geoloc": {
         "lat": 36.09775,
@@ -6254,7 +6254,7 @@ const airports = [
     {
       "name": "Palm Springs Intl",
       "city": "Palm Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PSP",
       "_geoloc": {
         "lat": 33.829667,
@@ -6302,7 +6302,7 @@ const airports = [
     {
       "name": "Ontario Intl",
       "city": "Ontario",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ONT",
       "_geoloc": {
         "lat": 34.056,
@@ -6362,7 +6362,7 @@ const airports = [
     {
       "name": "Nome",
       "city": "Nome",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OME",
       "_geoloc": {
         "lat": 64.512203,
@@ -6398,7 +6398,7 @@ const airports = [
     {
       "name": "NW Arkansas Regional",
       "city": "Bentonville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "XNA",
       "_geoloc": {
         "lat": 36.2818694,
@@ -6530,7 +6530,7 @@ const airports = [
     {
       "name": "El Paso Intl",
       "city": "El Paso",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ELP",
       "_geoloc": {
         "lat": 31.80725,
@@ -6566,7 +6566,7 @@ const airports = [
     {
       "name": "Savannah Hilton Head Intl",
       "city": "Savannah",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SAV",
       "_geoloc": {
         "lat": 32.127583,
@@ -6578,7 +6578,7 @@ const airports = [
     {
       "name": "Westchester Co",
       "city": "White Plains",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HPN",
       "_geoloc": {
         "lat": 41.066959,
@@ -6674,7 +6674,7 @@ const airports = [
     {
       "name": "Ralph Wien Mem",
       "city": "Kotzebue",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OTZ",
       "_geoloc": {
         "lat": 66.884678,
@@ -6698,7 +6698,7 @@ const airports = [
     {
       "name": "Akron Canton Regional Airport",
       "city": "Akron",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CAK",
       "_geoloc": {
         "lat": 40.9160833,
@@ -6722,7 +6722,7 @@ const airports = [
     {
       "name": "Ketchikan Intl",
       "city": "Ketchikan",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KTN",
       "_geoloc": {
         "lat": 55.355556,
@@ -6950,7 +6950,7 @@ const airports = [
     {
       "name": "Lihue",
       "city": "Lihue",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LIH",
       "_geoloc": {
         "lat": 21.975983,
@@ -6962,7 +6962,7 @@ const airports = [
     {
       "name": "Pensacola Rgnl",
       "city": "Pensacola",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PNS",
       "_geoloc": {
         "lat": 30.473425,
@@ -7034,7 +7034,7 @@ const airports = [
     {
       "name": "Kona Intl At Keahole",
       "city": "Kona",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KOA",
       "_geoloc": {
         "lat": 19.738767,
@@ -7046,7 +7046,7 @@ const airports = [
     {
       "name": "Boise Air Terminal",
       "city": "Boise",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BOI",
       "_geoloc": {
         "lat": 43.564361,
@@ -7166,7 +7166,7 @@ const airports = [
     {
       "name": "Blue Grass",
       "city": "Lexington KY",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LEX",
       "_geoloc": {
         "lat": 38.0365,
@@ -7178,7 +7178,7 @@ const airports = [
     {
       "name": "Manchester Regional Airport",
       "city": "Manchester NH",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MHT",
       "_geoloc": {
         "lat": 42.932556,
@@ -7190,7 +7190,7 @@ const airports = [
     {
       "name": "Fresno Yosemite Intl",
       "city": "Fresno",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FAT",
       "_geoloc": {
         "lat": 36.776194,
@@ -7202,7 +7202,7 @@ const airports = [
     {
       "name": "Juneau Intl",
       "city": "Juneau",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JNU",
       "_geoloc": {
         "lat": 58.354972,
@@ -7214,7 +7214,7 @@ const airports = [
     {
       "name": "Wichita Mid Continent",
       "city": "Wichita",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ICT",
       "_geoloc": {
         "lat": 37.649944,
@@ -7286,7 +7286,7 @@ const airports = [
     {
       "name": "Harrisburg Intl",
       "city": "Harrisburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MDT",
       "_geoloc": {
         "lat": 40.193494,
@@ -7598,7 +7598,7 @@ const airports = [
     {
       "name": "Huntsville International Airport-Carl T Jones Field",
       "city": "Huntsville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HSV",
       "_geoloc": {
         "lat": 34.6371944,
@@ -7610,7 +7610,7 @@ const airports = [
     {
       "name": "Bob Hope",
       "city": "Burbank",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BUR",
       "_geoloc": {
         "lat": 34.200667,
@@ -7622,7 +7622,7 @@ const airports = [
     {
       "name": "Long Beach",
       "city": "Long Beach",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LGB",
       "_geoloc": {
         "lat": 33.817722,
@@ -7634,7 +7634,7 @@ const airports = [
     {
       "name": "Jackson Evers Intl",
       "city": "Jackson",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JAN",
       "_geoloc": {
         "lat": 32.311167,
@@ -7790,7 +7790,7 @@ const airports = [
     {
       "name": "Charlotte County-Punta Gorda Airport",
       "city": "Punta Gorda",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PGD",
       "_geoloc": {
         "lat": 26.919722,
@@ -7814,7 +7814,7 @@ const airports = [
     {
       "name": "Cedar Rapids",
       "city": "Cedar Rapids",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CID",
       "_geoloc": {
         "lat": 41.884694,
@@ -7910,7 +7910,7 @@ const airports = [
     {
       "name": "Columbia Metropolitan",
       "city": "Columbia",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CAE",
       "_geoloc": {
         "lat": 33.938833,
@@ -7922,7 +7922,7 @@ const airports = [
     {
       "name": "Dane Co Rgnl Truax Fld",
       "city": "Madison",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSN",
       "_geoloc": {
         "lat": 43.139858,
@@ -8102,7 +8102,7 @@ const airports = [
     {
       "name": "Key West Intl",
       "city": "Key West",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EYW",
       "_geoloc": {
         "lat": 24.556111,
@@ -8114,7 +8114,7 @@ const airports = [
     {
       "name": "Long Island Mac Arthur",
       "city": "Islip",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ISP",
       "_geoloc": {
         "lat": 40.79525,
@@ -8294,7 +8294,7 @@ const airports = [
     {
       "name": "Fort Wayne",
       "city": "Fort Wayne",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FWA",
       "_geoloc": {
         "lat": 40.978472,
@@ -8306,7 +8306,7 @@ const airports = [
     {
       "name": "Lovell Fld",
       "city": "Chattanooga",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CHA",
       "_geoloc": {
         "lat": 35.035278,
@@ -8606,7 +8606,7 @@ const airports = [
     {
       "name": "Quad City Intl",
       "city": "Moline",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MLI",
       "_geoloc": {
         "lat": 41.448528,
@@ -8630,7 +8630,7 @@ const airports = [
     {
       "name": "Peoria Regional",
       "city": "Peoria",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIA",
       "_geoloc": {
         "lat": 40.664203,
@@ -8642,7 +8642,7 @@ const airports = [
     {
       "name": "Roanoke Regional",
       "city": "Roanoke VA",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ROA",
       "_geoloc": {
         "lat": 37.325472,
@@ -8654,7 +8654,7 @@ const airports = [
     {
       "name": "Tallahassee Rgnl",
       "city": "Tallahassee",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TLH",
       "_geoloc": {
         "lat": 30.396528,
@@ -8666,7 +8666,7 @@ const airports = [
     {
       "name": "Spokane Intl",
       "city": "Spokane",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GEG",
       "_geoloc": {
         "lat": 47.619861,
@@ -8990,7 +8990,7 @@ const airports = [
     {
       "name": "Springfield Branson Natl",
       "city": "Springfield",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SGF",
       "_geoloc": {
         "lat": 37.245667,
@@ -9002,7 +9002,7 @@ const airports = [
     {
       "name": "Hector International Airport",
       "city": "Fargo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FAR",
       "_geoloc": {
         "lat": 46.92065,
@@ -9050,7 +9050,7 @@ const airports = [
     {
       "name": "Trenton Mercer",
       "city": "Trenton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TTN",
       "_geoloc": {
         "lat": 40.276692,
@@ -9230,7 +9230,7 @@ const airports = [
     {
       "name": "Mahlon Sweet Fld",
       "city": "Eugene",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EUG",
       "_geoloc": {
         "lat": 44.124583,
@@ -9242,7 +9242,7 @@ const airports = [
     {
       "name": "City Of Colorado Springs Muni",
       "city": "Colorado Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "COS",
       "_geoloc": {
         "lat": 38.805805,
@@ -9254,7 +9254,7 @@ const airports = [
     {
       "name": "Burlington Intl",
       "city": "Burlington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BTV",
       "_geoloc": {
         "lat": 44.471861,
@@ -9410,7 +9410,7 @@ const airports = [
     {
       "name": "Lehigh Valley Intl",
       "city": "Allentown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABE",
       "_geoloc": {
         "lat": 40.652083,
@@ -9434,7 +9434,7 @@ const airports = [
     {
       "name": "Bishop International",
       "city": "Flint",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FNT",
       "_geoloc": {
         "lat": 42.965424,
@@ -9446,7 +9446,7 @@ const airports = [
     {
       "name": "Sarasota Bradenton Intl",
       "city": "Sarasota",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SRQ",
       "_geoloc": {
         "lat": 27.395444,
@@ -9458,7 +9458,7 @@ const airports = [
     {
       "name": "Charlottesville-Albemarle",
       "city": "Charlottesville VA",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CHO",
       "_geoloc": {
         "lat": 38.138639,
@@ -9470,7 +9470,7 @@ const airports = [
     {
       "name": "Sioux Falls",
       "city": "Sioux Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FSD",
       "_geoloc": {
         "lat": 43.582014,
@@ -9482,7 +9482,7 @@ const airports = [
     {
       "name": "Wilmington Intl",
       "city": "Wilmington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ILM",
       "_geoloc": {
         "lat": 34.270615,
@@ -9722,7 +9722,7 @@ const airports = [
     {
       "name": "Aniak Airport",
       "city": "Aniak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ANI",
       "_geoloc": {
         "lat": 61.5816,
@@ -9902,7 +9902,7 @@ const airports = [
     {
       "name": "Central Illinois Rgnl",
       "city": "Bloomington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BMI",
       "_geoloc": {
         "lat": 40.477111,
@@ -9914,7 +9914,7 @@ const airports = [
     {
       "name": "Billings Logan International Airport",
       "city": "Billings",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BIL",
       "_geoloc": {
         "lat": 45.80921,
@@ -9926,7 +9926,7 @@ const airports = [
     {
       "name": "Asheville Regional Airport",
       "city": "Asheville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AVL",
       "_geoloc": {
         "lat": 35.436194,
@@ -9950,7 +9950,7 @@ const airports = [
     {
       "name": "Gainesville Rgnl",
       "city": "Gainesville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GNV",
       "_geoloc": {
         "lat": 29.690056,
@@ -10322,7 +10322,7 @@ const airports = [
     {
       "name": "South Bend Rgnl",
       "city": "South Bend",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SBN",
       "_geoloc": {
         "lat": 41.708661,
@@ -10754,7 +10754,7 @@ const airports = [
     {
       "name": "Yeager",
       "city": "Charleston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CRW",
       "_geoloc": {
         "lat": 38.373147,
@@ -10790,7 +10790,7 @@ const airports = [
     {
       "name": "Eglin Afb",
       "city": "Valparaiso",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VPS",
       "_geoloc": {
         "lat": 30.48325,
@@ -10874,7 +10874,7 @@ const airports = [
     {
       "name": "Unalakleet Airport",
       "city": "Unalakleet",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "UNK",
       "_geoloc": {
         "lat": 63.888333,
@@ -11042,7 +11042,7 @@ const airports = [
     {
       "name": "Monterey Peninsula",
       "city": "Monterey",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MRY",
       "_geoloc": {
         "lat": 36.587,
@@ -11054,7 +11054,7 @@ const airports = [
     {
       "name": "Portland Intl Jetport",
       "city": "Portland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PWM",
       "_geoloc": {
         "lat": 43.646161,
@@ -11066,7 +11066,7 @@ const airports = [
     {
       "name": "Bellingham Intl",
       "city": "Bellingham",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BLI",
       "_geoloc": {
         "lat": 48.792694,
@@ -11078,7 +11078,7 @@ const airports = [
     {
       "name": "Atlantic City Intl",
       "city": "Atlantic City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ACY",
       "_geoloc": {
         "lat": 39.457583,
@@ -11450,7 +11450,7 @@ const airports = [
     {
       "name": "Wilkes Barre Scranton Intl",
       "city": "Scranton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AVP",
       "_geoloc": {
         "lat": 41.338478,
@@ -11462,7 +11462,7 @@ const airports = [
     {
       "name": "Rick Husband Amarillo Intl",
       "city": "Amarillo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AMA",
       "_geoloc": {
         "lat": 35.219369,
@@ -11474,7 +11474,7 @@ const airports = [
     {
       "name": "Lubbock Preston Smith Intl",
       "city": "Lubbock",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LBB",
       "_geoloc": {
         "lat": 33.663639,
@@ -11726,7 +11726,7 @@ const airports = [
     {
       "name": "Rogue Valley Intl Medford",
       "city": "Medford",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MFR",
       "_geoloc": {
         "lat": 42.374228,
@@ -11738,7 +11738,7 @@ const airports = [
     {
       "name": "Appleton",
       "city": "Appleton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ATW",
       "_geoloc": {
         "lat": 44.257526,
@@ -11750,7 +11750,7 @@ const airports = [
     {
       "name": "Gulfport-Biloxi",
       "city": "Gulfport",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GPT",
       "_geoloc": {
         "lat": 30.407278,
@@ -11762,7 +11762,7 @@ const airports = [
     {
       "name": "Evansville Regional",
       "city": "Evansville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EVV",
       "_geoloc": {
         "lat": 38.036997,
@@ -11774,7 +11774,7 @@ const airports = [
     {
       "name": "Mobile Rgnl",
       "city": "Mobile",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MOB",
       "_geoloc": {
         "lat": 30.691231,
@@ -11786,7 +11786,7 @@ const airports = [
     {
       "name": "Four Corners Rgnl",
       "city": "Farmington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FMN",
       "_geoloc": {
         "lat": 36.74125,
@@ -11798,7 +11798,7 @@ const airports = [
     {
       "name": "Newport News Williamsburg Intl",
       "city": "Newport News",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PHF",
       "_geoloc": {
         "lat": 37.131894,
@@ -12194,7 +12194,7 @@ const airports = [
     {
       "name": "Midland Intl",
       "city": "Midland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MAF",
       "_geoloc": {
         "lat": 31.942528,
@@ -12206,7 +12206,7 @@ const airports = [
     {
       "name": "Kodiak",
       "city": "Kodiak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ADQ",
       "_geoloc": {
         "lat": 57.749967,
@@ -12470,7 +12470,7 @@ const airports = [
     {
       "name": "Tri Cities Airport",
       "city": "Pasco",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PSC",
       "_geoloc": {
         "lat": 46.2647,
@@ -12506,7 +12506,7 @@ const airports = [
     {
       "name": "Pierre Regional Airport",
       "city": "Pierre",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIR",
       "_geoloc": {
         "lat": 44.3827,
@@ -12518,7 +12518,7 @@ const airports = [
     {
       "name": "Fayetteville Regional Grannis Field",
       "city": "Fayetteville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FAY",
       "_geoloc": {
         "lat": 34.9912,
@@ -12614,7 +12614,7 @@ const airports = [
     {
       "name": "Roberts Fld",
       "city": "Redmond-Bend",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RDM",
       "_geoloc": {
         "lat": 44.254066,
@@ -12638,7 +12638,7 @@ const airports = [
     {
       "name": "Rapid City Regional Airport",
       "city": "Rapid City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RAP",
       "_geoloc": {
         "lat": 44.045278,
@@ -12650,7 +12650,7 @@ const airports = [
     {
       "name": "Grand Junction Regional",
       "city": "Grand Junction",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GJT",
       "_geoloc": {
         "lat": 39.122413,
@@ -12662,7 +12662,7 @@ const airports = [
     {
       "name": "Gallatin Field",
       "city": "Bozeman",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BZN",
       "_geoloc": {
         "lat": 45.777643,
@@ -12686,7 +12686,7 @@ const airports = [
     {
       "name": "Santa Barbara Muni",
       "city": "Santa Barbara",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SBA",
       "_geoloc": {
         "lat": 34.426211,
@@ -12710,7 +12710,7 @@ const airports = [
     {
       "name": "Baton Rouge Metro Ryan Fld",
       "city": "Baton Rouge",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BTR",
       "_geoloc": {
         "lat": 30.533167,
@@ -12722,7 +12722,7 @@ const airports = [
     {
       "name": "Austin Straubel Intl",
       "city": "Green Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GRB",
       "_geoloc": {
         "lat": 44.485072,
@@ -12734,7 +12734,7 @@ const airports = [
     {
       "name": "Shreveport Rgnl",
       "city": "Shreveport",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHV",
       "_geoloc": {
         "lat": 32.446629,
@@ -12746,7 +12746,7 @@ const airports = [
     {
       "name": "Capital City",
       "city": "Lansing",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAN",
       "_geoloc": {
         "lat": 42.7787,
@@ -12758,7 +12758,7 @@ const airports = [
     {
       "name": "Bangor Intl",
       "city": "Bangor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BGR",
       "_geoloc": {
         "lat": 44.807444,
@@ -13178,7 +13178,7 @@ const airports = [
     {
       "name": "Valley Intl",
       "city": "Harlingen",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HRL",
       "_geoloc": {
         "lat": 26.2285,
@@ -13346,7 +13346,7 @@ const airports = [
     {
       "name": "Panama City-NW Florida Bea.",
       "city": "Panama City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ECP",
       "_geoloc": {
         "lat": 30.3417,
@@ -13622,7 +13622,7 @@ const airports = [
     {
       "name": "Albert J Ellis",
       "city": "Jacksonville NC",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OAJ",
       "_geoloc": {
         "lat": 34.829164,
@@ -13694,7 +13694,7 @@ const airports = [
     {
       "name": "Missoula Intl",
       "city": "Missoula",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSO",
       "_geoloc": {
         "lat": 46.916306,
@@ -13718,7 +13718,7 @@ const airports = [
     {
       "name": "Tri-Cities Regional Airport",
       "city": "BRISTOL",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TRI",
       "_geoloc": {
         "lat": 36.4752222,
@@ -13730,7 +13730,7 @@ const airports = [
     {
       "name": "Montgomery Regional Airport ",
       "city": "MONTGOMERY",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MGM",
       "_geoloc": {
         "lat": 32.3006389,
@@ -13802,7 +13802,7 @@ const airports = [
     {
       "name": "Great Falls Intl",
       "city": "Great Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GTF",
       "_geoloc": {
         "lat": 47.482,
@@ -13814,7 +13814,7 @@ const airports = [
     {
       "name": "King Salmon",
       "city": "King Salmon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AKN",
       "_geoloc": {
         "lat": 58.676778,
@@ -13826,7 +13826,7 @@ const airports = [
     {
       "name": "Plattsburgh Intl",
       "city": "Plattsburgh",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PBG",
       "_geoloc": {
         "lat": 44.650944,
@@ -13838,7 +13838,7 @@ const airports = [
     {
       "name": "Edward G Pitka Sr",
       "city": "Galena",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GAL",
       "_geoloc": {
         "lat": 64.736178,
@@ -13850,7 +13850,7 @@ const airports = [
     {
       "name": "Augusta Rgnl At Bush Fld",
       "city": "Bush Field",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AGS",
       "_geoloc": {
         "lat": 33.369944,
@@ -14390,7 +14390,7 @@ const airports = [
     {
       "name": "Wiley Post Will Rogers Mem",
       "city": "Barrow",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BRW",
       "_geoloc": {
         "lat": 71.285446,
@@ -14402,7 +14402,7 @@ const airports = [
     {
       "name": "Fort Yukon",
       "city": "Fort Yukon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FYU",
       "_geoloc": {
         "lat": 66.571492,
@@ -14630,7 +14630,7 @@ const airports = [
     {
       "name": "Stebbins Airport",
       "city": "Stebbins",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WBB",
       "_geoloc": {
         "lat": 63.515833,
@@ -14654,7 +14654,7 @@ const airports = [
     {
       "name": "Show Low Regional Airport",
       "city": "Show Low",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SOW",
       "_geoloc": {
         "lat": 34.265556,
@@ -14666,7 +14666,7 @@ const airports = [
     {
       "name": "San Luis Valley Regional Airport",
       "city": "Alamosa",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ALS",
       "_geoloc": {
         "lat": 37.435,
@@ -14678,7 +14678,7 @@ const airports = [
     {
       "name": "Charles M Schulz Sonoma Co",
       "city": "Santa Rosa",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "STS",
       "_geoloc": {
         "lat": 38.508978,
@@ -14870,7 +14870,7 @@ const airports = [
     {
       "name": "McGrath Airport",
       "city": "Mcgrath",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCG",
       "_geoloc": {
         "lat": 62.9529,
@@ -15062,7 +15062,7 @@ const airports = [
     {
       "name": "Page Municipal Airport",
       "city": "Page",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PGA",
       "_geoloc": {
         "lat": 36.9261,
@@ -15074,7 +15074,7 @@ const airports = [
     {
       "name": "Bismarck Municipal Airport",
       "city": "Bismarck",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BIS",
       "_geoloc": {
         "lat": 46.775842,
@@ -15098,7 +15098,7 @@ const airports = [
     {
       "name": "Kalamazoo",
       "city": "Kalamazoo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AZO",
       "_geoloc": {
         "lat": 42.234875,
@@ -15122,7 +15122,7 @@ const airports = [
     {
       "name": "Elmira Corning Rgnl",
       "city": "Elmira",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ELM",
       "_geoloc": {
         "lat": 42.159889,
@@ -15134,7 +15134,7 @@ const airports = [
     {
       "name": "New Castle",
       "city": "Wilmington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ILG",
       "_geoloc": {
         "lat": 39.678722,
@@ -15146,7 +15146,7 @@ const airports = [
     {
       "name": "Alexandria Intl",
       "city": "Alexandria",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AEX",
       "_geoloc": {
         "lat": 31.3274,
@@ -15158,7 +15158,7 @@ const airports = [
     {
       "name": "Mc Allen Miller Intl",
       "city": "Mcallen",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MFE",
       "_geoloc": {
         "lat": 26.175833,
@@ -15170,7 +15170,7 @@ const airports = [
     {
       "name": "Cheyenne Rgnl Jerry Olson Fld",
       "city": "Cheyenne",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CYS",
       "_geoloc": {
         "lat": 41.155722,
@@ -15182,7 +15182,7 @@ const airports = [
     {
       "name": "Santa Fe Muni",
       "city": "Santa Fe",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SAF",
       "_geoloc": {
         "lat": 35.617108,
@@ -15194,7 +15194,7 @@ const airports = [
     {
       "name": "Robert Gray Aaf",
       "city": "Killeen",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GRK",
       "_geoloc": {
         "lat": 31.06725,
@@ -15206,7 +15206,7 @@ const airports = [
     {
       "name": "Monroe Rgnl",
       "city": "Monroe",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MLU",
       "_geoloc": {
         "lat": 32.510864,
@@ -15218,7 +15218,7 @@ const airports = [
     {
       "name": "Stewart Intl",
       "city": "Newburgh",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SWF",
       "_geoloc": {
         "lat": 41.504094,
@@ -15230,7 +15230,7 @@ const airports = [
     {
       "name": "Meadows Fld",
       "city": "Bakersfield",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BFL",
       "_geoloc": {
         "lat": 35.433598,
@@ -15242,7 +15242,7 @@ const airports = [
     {
       "name": "Nantucket Mem",
       "city": "Nantucket",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ACK",
       "_geoloc": {
         "lat": 41.253053,
@@ -15254,7 +15254,7 @@ const airports = [
     {
       "name": "Lafayette Rgnl",
       "city": "Lafayette",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LFT",
       "_geoloc": {
         "lat": 30.205278,
@@ -15914,7 +15914,7 @@ const airports = [
     {
       "name": "Shaktoolik Airport",
       "city": "Shaktoolik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SKK",
       "_geoloc": {
         "lat": 64.371111,
@@ -16034,7 +16034,7 @@ const airports = [
     {
       "name": "Deadhorse",
       "city": "Deadhorse",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SCC",
       "_geoloc": {
         "lat": 70.19475,
@@ -16370,7 +16370,7 @@ const airports = [
     {
       "name": "Koyuk Alfred Adams Airport",
       "city": "Koyuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KKA",
       "_geoloc": {
         "lat": 64.939444,
@@ -16382,7 +16382,7 @@ const airports = [
     {
       "name": "Hollis Seaplane Base",
       "city": "Hollis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HYL",
       "_geoloc": {
         "lat": 55.481667,
@@ -16394,7 +16394,7 @@ const airports = [
     {
       "name": "Craig Seaplane Base",
       "city": "Craig",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CGA",
       "_geoloc": {
         "lat": 55.478889,
@@ -16454,7 +16454,7 @@ const airports = [
     {
       "name": "St Marys Airport",
       "city": "St Mary's",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KSM",
       "_geoloc": {
         "lat": 62.0605,
@@ -16646,7 +16646,7 @@ const airports = [
     {
       "name": "Tri State Milton J Ferguson Field",
       "city": "Huntington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HTS",
       "_geoloc": {
         "lat": 38.3667,
@@ -16658,7 +16658,7 @@ const airports = [
     {
       "name": "Dodge City Regional Airport",
       "city": "Dodge City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DDC",
       "_geoloc": {
         "lat": 37.7634,
@@ -16838,7 +16838,7 @@ const airports = [
     {
       "name": "Liberal Muni",
       "city": "Liberal",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LBL",
       "_geoloc": {
         "lat": 37.044222,
@@ -16862,7 +16862,7 @@ const airports = [
     {
       "name": "University Park Airport",
       "city": "State College Pennsylvania",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SCE",
       "_geoloc": {
         "lat": 40.849278,
@@ -16946,7 +16946,7 @@ const airports = [
     {
       "name": "Mbs Intl",
       "city": "Saginaw",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MBS",
       "_geoloc": {
         "lat": 43.532913,
@@ -16958,7 +16958,7 @@ const airports = [
     {
       "name": "Glacier Park Intl",
       "city": "Kalispell",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FCA",
       "_geoloc": {
         "lat": 48.310472,
@@ -16970,7 +16970,7 @@ const airports = [
     {
       "name": "Central Wisconsin",
       "city": "Wassau",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CWA",
       "_geoloc": {
         "lat": 44.772726,
@@ -16982,7 +16982,7 @@ const airports = [
     {
       "name": "Toledo",
       "city": "Toledo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TOL",
       "_geoloc": {
         "lat": 41.586806,
@@ -16994,7 +16994,7 @@ const airports = [
     {
       "name": "Chicago Rockford International Airport ",
       "city": "Rockford",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RFD",
       "_geoloc": {
         "lat": 42.1953611,
@@ -17006,7 +17006,7 @@ const airports = [
     {
       "name": "Cherry Capital Airport",
       "city": "Traverse City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TVC",
       "_geoloc": {
         "lat": 44.741445,
@@ -17030,7 +17030,7 @@ const airports = [
     {
       "name": "Daytona Beach Intl",
       "city": "Daytona Beach",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DAB",
       "_geoloc": {
         "lat": 29.179917,
@@ -17042,7 +17042,7 @@ const airports = [
     {
       "name": "Cold Bay",
       "city": "Cold Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CDB",
       "_geoloc": {
         "lat": 55.206061,
@@ -17054,7 +17054,7 @@ const airports = [
     {
       "name": "Corpus Christi Intl",
       "city": "Corpus Christi",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CRP",
       "_geoloc": {
         "lat": 27.770361,
@@ -17066,7 +17066,7 @@ const airports = [
     {
       "name": "Craven Co Rgnl",
       "city": "New Bern",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EWN",
       "_geoloc": {
         "lat": 35.072972,
@@ -17078,7 +17078,7 @@ const airports = [
     {
       "name": "Durango La Plata Co",
       "city": "Durango",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DRO",
       "_geoloc": {
         "lat": 37.151516,
@@ -17102,7 +17102,7 @@ const airports = [
     {
       "name": "Melbourne Intl",
       "city": "Melbourne",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MLB",
       "_geoloc": {
         "lat": 28.102753,
@@ -17114,7 +17114,7 @@ const airports = [
     {
       "name": "Niagara Falls Intl",
       "city": "Niagara Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IAG",
       "_geoloc": {
         "lat": 43.107333,
@@ -17126,7 +17126,7 @@ const airports = [
     {
       "name": "Minot Intl",
       "city": "Minot",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MOT",
       "_geoloc": {
         "lat": 48.259378,
@@ -17138,7 +17138,7 @@ const airports = [
     {
       "name": "Grand Forks Intl",
       "city": "Grand Forks",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GFK",
       "_geoloc": {
         "lat": 47.949256,
@@ -17150,7 +17150,7 @@ const airports = [
     {
       "name": "Fort Smith Rgnl",
       "city": "Fort Smith",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FSM",
       "_geoloc": {
         "lat": 35.336583,
@@ -17942,7 +17942,7 @@ const airports = [
     {
       "name": "Quinhagak Airport",
       "city": "Quinhagak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KWN",
       "_geoloc": {
         "lat": 59.755,
@@ -17954,7 +17954,7 @@ const airports = [
     {
       "name": "Wales Airport",
       "city": "Wales",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WAA",
       "_geoloc": {
         "lat": 65.6225,
@@ -17966,7 +17966,7 @@ const airports = [
     {
       "name": "Elim Airport",
       "city": "Elim",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ELI",
       "_geoloc": {
         "lat": 64.615,
@@ -17978,7 +17978,7 @@ const airports = [
     {
       "name": "Tanana Airport",
       "city": "Tanana",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TAL",
       "_geoloc": {
         "lat": 65.179556,
@@ -18002,7 +18002,7 @@ const airports = [
     {
       "name": "Ruby Airport",
       "city": "Ruby",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RBY",
       "_geoloc": {
         "lat": 64.7272,
@@ -18146,7 +18146,7 @@ const airports = [
     {
       "name": "Helena Rgnl",
       "city": "Helena",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HLN",
       "_geoloc": {
         "lat": 46.606806,
@@ -18158,7 +18158,7 @@ const airports = [
     {
       "name": "Bettles",
       "city": "Bettles",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BTT",
       "_geoloc": {
         "lat": 66.913944,
@@ -18410,7 +18410,7 @@ const airports = [
     {
       "name": "St. Michael Airport",
       "city": "St. Michael",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SMK",
       "_geoloc": {
         "lat": 63.49,
@@ -18434,7 +18434,7 @@ const airports = [
     {
       "name": "White Mountain Airport",
       "city": "White Mountain",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WMO",
       "_geoloc": {
         "lat": 64.689167,
@@ -18446,7 +18446,7 @@ const airports = [
     {
       "name": "Golovin Airport",
       "city": "Golovin",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GLV",
       "_geoloc": {
         "lat": 64.550556,
@@ -18458,7 +18458,7 @@ const airports = [
     {
       "name": "Brevig Mission Airport",
       "city": "Brevig Mission",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KTS",
       "_geoloc": {
         "lat": 65.331389,
@@ -18470,7 +18470,7 @@ const airports = [
     {
       "name": "Robert Curtis Memorial Airport",
       "city": "Noorvik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ORV",
       "_geoloc": {
         "lat": 66.8175,
@@ -18494,7 +18494,7 @@ const airports = [
     {
       "name": "Bob Baker Memorial Airport",
       "city": "Kiana",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IAN",
       "_geoloc": {
         "lat": 66.975833,
@@ -18506,7 +18506,7 @@ const airports = [
     {
       "name": "Buckland Airport",
       "city": "Buckland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BKC",
       "_geoloc": {
         "lat": 65.981667,
@@ -18518,7 +18518,7 @@ const airports = [
     {
       "name": "Ambler Airport",
       "city": "Ambler",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABL",
       "_geoloc": {
         "lat": 67.106389,
@@ -18530,7 +18530,7 @@ const airports = [
     {
       "name": "Thorne Bay Seaplane Base",
       "city": "Thorne Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KTB",
       "_geoloc": {
         "lat": 55.688056,
@@ -18554,7 +18554,7 @@ const airports = [
     {
       "name": "Huslia Airport",
       "city": "Huslia",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HSL",
       "_geoloc": {
         "lat": 65.697778,
@@ -18578,7 +18578,7 @@ const airports = [
     {
       "name": "Russian Mission Airport",
       "city": "Russian Mission",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RSH",
       "_geoloc": {
         "lat": 61.775,
@@ -18590,7 +18590,7 @@ const airports = [
     {
       "name": "Hilton Head",
       "city": "Hilton Head",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HHH",
       "_geoloc": {
         "lat": 32.216,
@@ -18614,7 +18614,7 @@ const airports = [
     {
       "name": "Branson LLC",
       "city": "Branson",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BKG",
       "_geoloc": {
         "lat": 36.531994,
@@ -18650,7 +18650,7 @@ const airports = [
     {
       "name": "Deering Airport",
       "city": "Deering",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DRG",
       "_geoloc": {
         "lat": 66.0696,
@@ -18674,7 +18674,7 @@ const airports = [
     {
       "name": "Savoonga Airport",
       "city": "Savoonga",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SVA",
       "_geoloc": {
         "lat": 63.6864,
@@ -18686,7 +18686,7 @@ const airports = [
     {
       "name": "Point Hope Airport",
       "city": "Point Hope",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PHO",
       "_geoloc": {
         "lat": 68.3488,
@@ -18698,7 +18698,7 @@ const airports = [
     {
       "name": "Gambell Airport",
       "city": "Gambell",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GAM",
       "_geoloc": {
         "lat": 63.7668,
@@ -18866,7 +18866,7 @@ const airports = [
     {
       "name": "Kingman Airport",
       "city": "Kingman",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IGM",
       "_geoloc": {
         "lat": 35.2595,
@@ -18950,7 +18950,7 @@ const airports = [
     {
       "name": "Kalskag Airport",
       "city": "Kalskag",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KLG",
       "_geoloc": {
         "lat": 61.5363,
@@ -19010,7 +19010,7 @@ const airports = [
     {
       "name": "San Luis County Regional Airport",
       "city": "San Luis Obispo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SBP",
       "_geoloc": {
         "lat": 35.2368,
@@ -19022,7 +19022,7 @@ const airports = [
     {
       "name": "Central Nebraska Regional Airport",
       "city": "Grand Island",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GRI",
       "_geoloc": {
         "lat": 40.9675,
@@ -19034,7 +19034,7 @@ const airports = [
     {
       "name": "Southwest Georgia Regional Airport",
       "city": "Albany",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABY",
       "_geoloc": {
         "lat": 31.5355,
@@ -19430,7 +19430,7 @@ const airports = [
     {
       "name": "Erie Intl Tom Ridge Fld",
       "city": "Erie",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ERI",
       "_geoloc": {
         "lat": 42.082022,
@@ -19442,7 +19442,7 @@ const airports = [
     {
       "name": "Martha\\\\'s Vineyard",
       "city": "Vineyard Haven MA",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MVY",
       "_geoloc": {
         "lat": 41.391667,
@@ -19514,7 +19514,7 @@ const airports = [
     {
       "name": "Greater Binghamton Edwin A Link Fld",
       "city": "Binghamton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BGM",
       "_geoloc": {
         "lat": 42.208689,
@@ -19526,7 +19526,7 @@ const airports = [
     {
       "name": "Idaho Falls Rgnl",
       "city": "Idaho Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IDA",
       "_geoloc": {
         "lat": 43.514556,
@@ -19562,7 +19562,7 @@ const airports = [
     {
       "name": "Manhattan Reigonal",
       "city": "Manhattan",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MHK",
       "_geoloc": {
         "lat": 39.140972,
@@ -19574,7 +19574,7 @@ const airports = [
     {
       "name": "Champaign",
       "city": "Champaign",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CMI",
       "_geoloc": {
         "lat": 40.03925,
@@ -19586,7 +19586,7 @@ const airports = [
     {
       "name": "Rochester",
       "city": "Rochester",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RST",
       "_geoloc": {
         "lat": 43.908283,
@@ -19646,7 +19646,7 @@ const airports = [
     {
       "name": "Ithaca Tompkins Rgnl",
       "city": "Ithaca",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ITH",
       "_geoloc": {
         "lat": 42.491028,
@@ -19658,7 +19658,7 @@ const airports = [
     {
       "name": "Lewiston Nez Perce Co",
       "city": "Lewiston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LWS",
       "_geoloc": {
         "lat": 46.3745,
@@ -19718,7 +19718,7 @@ const airports = [
     {
       "name": "Youngstown Warren Rgnl",
       "city": "Youngstown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "YNG",
       "_geoloc": {
         "lat": 41.260736,
@@ -19730,7 +19730,7 @@ const airports = [
     {
       "name": "Watertown Intl",
       "city": "Watertown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ART",
       "_geoloc": {
         "lat": 43.991922,
@@ -19742,7 +19742,7 @@ const airports = [
     {
       "name": "Columbia Rgnl",
       "city": "Columbia",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "COU",
       "_geoloc": {
         "lat": 38.818094,
@@ -19754,7 +19754,7 @@ const airports = [
     {
       "name": "Laredo Intl",
       "city": "Laredo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LRD",
       "_geoloc": {
         "lat": 27.54375,
@@ -19766,7 +19766,7 @@ const airports = [
     {
       "name": "Salisbury Ocean City Wicomico Rgnl",
       "city": "Salisbury",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SBY",
       "_geoloc": {
         "lat": 38.340525,
@@ -19790,7 +19790,7 @@ const airports = [
     {
       "name": "Duluth Intl",
       "city": "Duluth",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DLH",
       "_geoloc": {
         "lat": 46.842091,
@@ -19802,7 +19802,7 @@ const airports = [
     {
       "name": "Hilo Intl",
       "city": "Hilo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ITO",
       "_geoloc": {
         "lat": 19.721375,
@@ -20726,7 +20726,7 @@ const airports = [
     {
       "name": "Kotlik Airport",
       "city": "Kotlik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KOT",
       "_geoloc": {
         "lat": 63.030556,
@@ -20738,7 +20738,7 @@ const airports = [
     {
       "name": "Kwigillingok Airport",
       "city": "Kwigillingok",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KWK",
       "_geoloc": {
         "lat": 59.876389,
@@ -20750,7 +20750,7 @@ const airports = [
     {
       "name": "Emmonak Airport",
       "city": "Emmonak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EMK",
       "_geoloc": {
         "lat": 62.786111,
@@ -20810,7 +20810,7 @@ const airports = [
     {
       "name": "Anaktuvuk Pass Airport",
       "city": "Anaktuvuk Pass",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AKP",
       "_geoloc": {
         "lat": 68.1336,
@@ -20858,7 +20858,7 @@ const airports = [
     {
       "name": "Haines Airport",
       "city": "Haines",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HNS",
       "_geoloc": {
         "lat": 59.2438,
@@ -20870,7 +20870,7 @@ const airports = [
     {
       "name": "Skagway Airport",
       "city": "Skagway",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SGY",
       "_geoloc": {
         "lat": 59.4601,
@@ -20942,7 +20942,7 @@ const airports = [
     {
       "name": "Lanai",
       "city": "Lanai",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LNY",
       "_geoloc": {
         "lat": 20.785611,
@@ -20954,7 +20954,7 @@ const airports = [
     {
       "name": "Molokai",
       "city": "Molokai",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MKK",
       "_geoloc": {
         "lat": 21.152886,
@@ -21314,7 +21314,7 @@ const airports = [
     {
       "name": "Toksook Bay Airport",
       "city": "Toksook Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OOK",
       "_geoloc": {
         "lat": 60.541389,
@@ -21374,7 +21374,7 @@ const airports = [
     {
       "name": "Provo Municipal Airport",
       "city": "Provo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PVU",
       "_geoloc": {
         "lat": 40.21805555,
@@ -21530,7 +21530,7 @@ const airports = [
     {
       "name": "St. George Airport",
       "city": "St. George",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "STG",
       "_geoloc": {
         "lat": 56.577222,
@@ -21554,7 +21554,7 @@ const airports = [
     {
       "name": "Grayling Airport",
       "city": "Grayling",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KGX",
       "_geoloc": {
         "lat": 62.894444,
@@ -21566,7 +21566,7 @@ const airports = [
     {
       "name": "Tuluksak Airport",
       "city": "Tuluksak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TLT",
       "_geoloc": {
         "lat": 61.096944,
@@ -21578,7 +21578,7 @@ const airports = [
     {
       "name": "Akiak Airport",
       "city": "Akiak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AKI",
       "_geoloc": {
         "lat": 60.902778,
@@ -21590,7 +21590,7 @@ const airports = [
     {
       "name": "Pilot Station Airport",
       "city": "Pilot Station",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PQS",
       "_geoloc": {
         "lat": 61.934444,
@@ -21602,7 +21602,7 @@ const airports = [
     {
       "name": "Kongiganak Airport",
       "city": "Kongiganak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KKH",
       "_geoloc": {
         "lat": 59.960833,
@@ -21614,7 +21614,7 @@ const airports = [
     {
       "name": "Klawock Airport",
       "city": "Klawock",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KLW",
       "_geoloc": {
         "lat": 55.579167,
@@ -21626,7 +21626,7 @@ const airports = [
     {
       "name": "Kipnuk Airport",
       "city": "Kipnuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KPN",
       "_geoloc": {
         "lat": 59.933056,
@@ -21650,7 +21650,7 @@ const airports = [
     {
       "name": "Teller Airport",
       "city": "Teller",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TLA",
       "_geoloc": {
         "lat": 65.240278,
@@ -21662,7 +21662,7 @@ const airports = [
     {
       "name": "Kobuk Airport",
       "city": "Kobuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OBU",
       "_geoloc": {
         "lat": 66.912222,
@@ -21674,7 +21674,7 @@ const airports = [
     {
       "name": "Metlakatla Seaplane Base",
       "city": "Metakatla",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MTM",
       "_geoloc": {
         "lat": 55.131111,
@@ -21686,7 +21686,7 @@ const airports = [
     {
       "name": "Hoonah Airport",
       "city": "Hoonah",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HNH",
       "_geoloc": {
         "lat": 58.096111,
@@ -21698,7 +21698,7 @@ const airports = [
     {
       "name": "Shungnak Airport",
       "city": "Shungnak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHG",
       "_geoloc": {
         "lat": 66.888056,
@@ -21710,7 +21710,7 @@ const airports = [
     {
       "name": "Nulato Airport",
       "city": "Nulato",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NUL",
       "_geoloc": {
         "lat": 64.729444,
@@ -21722,7 +21722,7 @@ const airports = [
     {
       "name": "Kwethluk Airport",
       "city": "Kwethluk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KWT",
       "_geoloc": {
         "lat": 60.790278,
@@ -21734,7 +21734,7 @@ const airports = [
     {
       "name": "Eek Airport",
       "city": "Eek",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EEK",
       "_geoloc": {
         "lat": 60.213611,
@@ -21746,7 +21746,7 @@ const airports = [
     {
       "name": "Shageluk Airport",
       "city": "Shageluk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHX",
       "_geoloc": {
         "lat": 62.692222,
@@ -21770,7 +21770,7 @@ const airports = [
     {
       "name": "Alliance Municipal Airport",
       "city": "Alliance",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AIA",
       "_geoloc": {
         "lat": 42.053333,
@@ -21782,7 +21782,7 @@ const airports = [
     {
       "name": "Chadron Municipal Airport",
       "city": "Chadron",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CDR",
       "_geoloc": {
         "lat": 42.8375,
@@ -21806,7 +21806,7 @@ const airports = [
     {
       "name": "Chefornak Airport",
       "city": "Chefornak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CYF",
       "_geoloc": {
         "lat": 60.149167,
@@ -21854,7 +21854,7 @@ const airports = [
     {
       "name": "Sawyer International Airport",
       "city": "Marquette",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MQT",
       "_geoloc": {
         "lat": 46.353611,
@@ -21950,7 +21950,7 @@ const airports = [
     {
       "name": "Shishmaref Airport",
       "city": "Shishmaref",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHH",
       "_geoloc": {
         "lat": 66.2496,
@@ -21962,7 +21962,7 @@ const airports = [
     {
       "name": "Kivalina Airport",
       "city": "Kivalina",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KVL",
       "_geoloc": {
         "lat": 67.7362,
@@ -21974,7 +21974,7 @@ const airports = [
     {
       "name": "Kaltag Airport",
       "city": "Kaltag",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KAL",
       "_geoloc": {
         "lat": 64.3191,
@@ -21986,7 +21986,7 @@ const airports = [
     {
       "name": "Anvik Airport",
       "city": "Anvik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ANV",
       "_geoloc": {
         "lat": 62.6467,
@@ -22442,7 +22442,7 @@ const airports = [
     {
       "name": "Holy Cross Airport",
       "city": "Holy Cross",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HCR",
       "_geoloc": {
         "lat": 62.1883,
@@ -22454,7 +22454,7 @@ const airports = [
     {
       "name": "Gustavus Airport",
       "city": "Gustavus",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GST",
       "_geoloc": {
         "lat": 58.4253,
@@ -22670,7 +22670,7 @@ const airports = [
     {
       "name": "Worland Municipal Airport",
       "city": "Worland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WRL",
       "_geoloc": {
         "lat": 43.9657,
@@ -22682,7 +22682,7 @@ const airports = [
     {
       "name": "Valdosta Regional Airport",
       "city": "Valdosta",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VLD",
       "_geoloc": {
         "lat": 30.7825,
@@ -22694,7 +22694,7 @@ const airports = [
     {
       "name": "Rock Springs Sweetwater County Airport",
       "city": "Rock Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RKS",
       "_geoloc": {
         "lat": 41.5942,
@@ -22706,7 +22706,7 @@ const airports = [
     {
       "name": "Arnold Palmer Regional Airport",
       "city": "Latrobe",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LBE",
       "_geoloc": {
         "lat": 40.2759,
@@ -22718,7 +22718,7 @@ const airports = [
     {
       "name": "Brunswick Golden Isles Airport",
       "city": "Brunswick",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BQK",
       "_geoloc": {
         "lat": 31.2588,
@@ -22730,7 +22730,7 @@ const airports = [
     {
       "name": "Watertown Regional Airport",
       "city": "Watertown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ATY",
       "_geoloc": {
         "lat": 44.914,
@@ -23114,7 +23114,7 @@ const airports = [
     {
       "name": "Arcata",
       "city": "Arcata CA",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ACV",
       "_geoloc": {
         "lat": 40.978111,
@@ -23174,7 +23174,7 @@ const airports = [
     {
       "name": "Gillette-Campbell County Airport",
       "city": "Gillette",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GCC",
       "_geoloc": {
         "lat": 44.3489167,
@@ -23186,7 +23186,7 @@ const airports = [
     {
       "name": "Golden Triangle Regional Airport",
       "city": "Columbus Mississippi",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GTR",
       "_geoloc": {
         "lat": 33.450333,
@@ -23198,7 +23198,7 @@ const airports = [
     {
       "name": "Columbus Metropolitan Airport",
       "city": "Columbus",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CSG",
       "_geoloc": {
         "lat": 32.5163333,
@@ -23246,7 +23246,7 @@ const airports = [
     {
       "name": "La Crosse Municipal",
       "city": "La Crosse",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LSE",
       "_geoloc": {
         "lat": 43.878986,
@@ -23366,7 +23366,7 @@ const airports = [
     {
       "name": "Natrona Co Intl",
       "city": "Casper",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CPR",
       "_geoloc": {
         "lat": 42.908,
@@ -23378,7 +23378,7 @@ const airports = [
     {
       "name": "Unalaska",
       "city": "Unalaska",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DUT",
       "_geoloc": {
         "lat": 53.900139,
@@ -23390,7 +23390,7 @@ const airports = [
     {
       "name": "Sitka Rocky Gutierrez",
       "city": "Sitka",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SIT",
       "_geoloc": {
         "lat": 57.047138,
@@ -23402,7 +23402,7 @@ const airports = [
     {
       "name": "Tyler Pounds Rgnl",
       "city": "Tyler",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TYR",
       "_geoloc": {
         "lat": 32.354139,
@@ -23414,7 +23414,7 @@ const airports = [
     {
       "name": "Dothan Rgnl",
       "city": "Dothan",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DHN",
       "_geoloc": {
         "lat": 31.321339,
@@ -23426,7 +23426,7 @@ const airports = [
     {
       "name": "Brownsville South Padre Island Intl",
       "city": "Brownsville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BRO",
       "_geoloc": {
         "lat": 25.906833,
@@ -23438,7 +23438,7 @@ const airports = [
     {
       "name": "Easterwood Fld",
       "city": "College Station",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CLL",
       "_geoloc": {
         "lat": 30.588583,
@@ -23450,7 +23450,7 @@ const airports = [
     {
       "name": "Cincinnati Muni Lunken Fld",
       "city": "Cincinnati",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LUK",
       "_geoloc": {
         "lat": 39.103333,
@@ -23462,7 +23462,7 @@ const airports = [
     {
       "name": "Kenai Muni",
       "city": "Kenai",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ENA",
       "_geoloc": {
         "lat": 60.573111,
@@ -23474,7 +23474,7 @@ const airports = [
     {
       "name": "Merle K Mudhole Smith",
       "city": "Cordova",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CDV",
       "_geoloc": {
         "lat": 60.491778,
@@ -23486,7 +23486,7 @@ const airports = [
     {
       "name": "Yuma Mcas Yuma Intl",
       "city": "Yuma",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "YUM",
       "_geoloc": {
         "lat": 32.656578,
@@ -23498,7 +23498,7 @@ const airports = [
     {
       "name": "Lincoln",
       "city": "Lincoln",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LNK",
       "_geoloc": {
         "lat": 40.850971,
@@ -23510,7 +23510,7 @@ const airports = [
     {
       "name": "Lake Charles Rgnl",
       "city": "Lake Charles",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LCH",
       "_geoloc": {
         "lat": 30.126112,
@@ -23522,7 +23522,7 @@ const airports = [
     {
       "name": "Huron Rgnl",
       "city": "Huron",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HON",
       "_geoloc": {
         "lat": 44.3852,
@@ -23534,7 +23534,7 @@ const airports = [
     {
       "name": "Dillingham",
       "city": "Dillingham",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DLG",
       "_geoloc": {
         "lat": 59.044667,
@@ -23546,7 +23546,7 @@ const airports = [
     {
       "name": "St Paul Island",
       "city": "St. Paul Island",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SNP",
       "_geoloc": {
         "lat": 57.167333,
@@ -24878,7 +24878,7 @@ const airports = [
     {
       "name": "Tununak Airport",
       "city": "Tununak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TNK",
       "_geoloc": {
         "lat": 60.575556,
@@ -24890,7 +24890,7 @@ const airports = [
     {
       "name": "Nightmute Airport",
       "city": "Nightmute",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NME",
       "_geoloc": {
         "lat": 60.471111,
@@ -24914,7 +24914,7 @@ const airports = [
     {
       "name": "Allakaket Airport",
       "city": "Allakaket",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AET",
       "_geoloc": {
         "lat": 66.5519,
@@ -24926,7 +24926,7 @@ const airports = [
     {
       "name": "Noatak Airport",
       "city": "Noatak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WTK",
       "_geoloc": {
         "lat": 67.5661,
@@ -24950,7 +24950,7 @@ const airports = [
     {
       "name": "Kenmore Air Harbor Seaplane Base",
       "city": "Seattle",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LKE",
       "_geoloc": {
         "lat": 47.629,
@@ -25022,7 +25022,7 @@ const airports = [
     {
       "name": "New Bedford Regional Airport",
       "city": "New Bedford",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EWB",
       "_geoloc": {
         "lat": 41.6761,
@@ -25034,7 +25034,7 @@ const airports = [
     {
       "name": "Harrison Marion Regional Airport",
       "city": "Clarksburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CKB",
       "_geoloc": {
         "lat": 39.2966,
@@ -25166,7 +25166,7 @@ const airports = [
     {
       "name": "Abraham Lincoln Capital",
       "city": "Springfield",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SPI",
       "_geoloc": {
         "lat": 39.8441,
@@ -25214,7 +25214,7 @@ const airports = [
     {
       "name": "Barnstable Muni Boardman Polando Fld",
       "city": "Barnstable",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HYA",
       "_geoloc": {
         "lat": 41.669336,
@@ -25238,7 +25238,7 @@ const airports = [
     {
       "name": "South Arkansas Rgnl At Goodwin Fld",
       "city": "El Dorado",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ELD",
       "_geoloc": {
         "lat": 33.220972,
@@ -25694,7 +25694,7 @@ const airports = [
     {
       "name": "Newtok Airport",
       "city": "Newtok",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WWT",
       "_geoloc": {
         "lat": 60.939167,
@@ -25718,7 +25718,7 @@ const airports = [
     {
       "name": "Friday Harbor Seaplane Base",
       "city": "Friday Harbor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FBS",
       "_geoloc": {
         "lat": 48.537222,
@@ -25730,7 +25730,7 @@ const airports = [
     {
       "name": "Westsound Seaplane Base",
       "city": "Westsound",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WSX",
       "_geoloc": {
         "lat": 48.617778,
@@ -25742,7 +25742,7 @@ const airports = [
     {
       "name": "Roche Harbor Seaplane Base",
       "city": "Roche Harbor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RCE",
       "_geoloc": {
         "lat": 48.608056,
@@ -25862,7 +25862,7 @@ const airports = [
     {
       "name": "Morristown Municipal Airport",
       "city": "Morristown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MMU",
       "_geoloc": {
         "lat": 40.79935,
@@ -26114,7 +26114,7 @@ const airports = [
     {
       "name": "Sleetmute Airport",
       "city": "Sleetmute",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SLQ",
       "_geoloc": {
         "lat": 61.700566,
@@ -26126,7 +26126,7 @@ const airports = [
     {
       "name": "Wainwright Airport",
       "city": "Wainwright",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AIN",
       "_geoloc": {
         "lat": 70.638056,
@@ -26138,7 +26138,7 @@ const airports = [
     {
       "name": "Nunapitchuk Airport",
       "city": "Nunapitchuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NUP",
       "_geoloc": {
         "lat": 60.905833,
@@ -26150,7 +26150,7 @@ const airports = [
     {
       "name": "Koyukuk Airport",
       "city": "Koyukuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KYU",
       "_geoloc": {
         "lat": 64.875833,
@@ -26162,7 +26162,7 @@ const airports = [
     {
       "name": "Sheldon Point Airport",
       "city": "Nunam Iqua",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SXP",
       "_geoloc": {
         "lat": 62.520556,
@@ -26174,7 +26174,7 @@ const airports = [
     {
       "name": "Alakanuk Airport",
       "city": "Alakanuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AUK",
       "_geoloc": {
         "lat": 62.68,
@@ -26186,7 +26186,7 @@ const airports = [
     {
       "name": "Selawik Airport",
       "city": "Selawik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WLK",
       "_geoloc": {
         "lat": 66.6,
@@ -26198,7 +26198,7 @@ const airports = [
     {
       "name": "Ouzinkie Airport",
       "city": "Ouzinkie",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KOZ",
       "_geoloc": {
         "lat": 57.922876,
@@ -26222,7 +26222,7 @@ const airports = [
     {
       "name": "Beaver Airport",
       "city": "Beaver",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WBQ",
       "_geoloc": {
         "lat": 66.362222,
@@ -26234,7 +26234,7 @@ const airports = [
     {
       "name": "Venetie Airport",
       "city": "Venetie",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VEE",
       "_geoloc": {
         "lat": 67.008611,
@@ -26246,7 +26246,7 @@ const airports = [
     {
       "name": "Hughes Airport",
       "city": "Hughes",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HUS",
       "_geoloc": {
         "lat": 66.039167,
@@ -26258,7 +26258,7 @@ const airports = [
     {
       "name": "Chalkyitsik Airport",
       "city": "Chalkyitsik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CIK",
       "_geoloc": {
         "lat": 66.645,
@@ -26270,7 +26270,7 @@ const airports = [
     {
       "name": "Tuntutuliak Airport",
       "city": "Tuntutuliak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WTL",
       "_geoloc": {
         "lat": 60.335278,
@@ -26282,7 +26282,7 @@ const airports = [
     {
       "name": "Marshall Don Hunter Sr. Airport",
       "city": "Marshall",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MLL",
       "_geoloc": {
         "lat": 61.8646418,
@@ -26294,7 +26294,7 @@ const airports = [
     {
       "name": "Kasigluk Airport",
       "city": "Kasigluk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KUK",
       "_geoloc": {
         "lat": 60.873333,
@@ -26306,7 +26306,7 @@ const airports = [
     {
       "name": "Nuiqsut Airport",
       "city": "Nuiqsut",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NUI",
       "_geoloc": {
         "lat": 70.21,
@@ -26318,7 +26318,7 @@ const airports = [
     {
       "name": "Mammoth Yosemite Airport",
       "city": "Mammoth Lakes",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MMH",
       "_geoloc": {
         "lat": 37.624049,
@@ -26330,7 +26330,7 @@ const airports = [
     {
       "name": "Dickinson Theodore Roosevelt Regional Airport",
       "city": "Dickinson",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DIK",
       "_geoloc": {
         "lat": 46.7975,
@@ -26342,7 +26342,7 @@ const airports = [
     {
       "name": "Chautauqua County-Jamestown",
       "city": "Jamestown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JHW",
       "_geoloc": {
         "lat": 42.153333,
@@ -26366,7 +26366,7 @@ const airports = [
     {
       "name": "Aspen Pitkin County Sardy Field",
       "city": "Aspen",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ASE",
       "_geoloc": {
         "lat": 39.2232,
@@ -26402,7 +26402,7 @@ const airports = [
     {
       "name": "Pitt-Greenville Airport",
       "city": "Greenville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PGV",
       "_geoloc": {
         "lat": 35.635278,
@@ -26414,7 +26414,7 @@ const airports = [
     {
       "name": "Greenbrier Valley Airport",
       "city": "Lewisburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LWB",
       "_geoloc": {
         "lat": 37.858333,
@@ -26426,7 +26426,7 @@ const airports = [
     {
       "name": "Brainerd Lakes Rgnl",
       "city": "Brainerd",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BRD",
       "_geoloc": {
         "lat": 46.398308,
@@ -26498,7 +26498,7 @@ const airports = [
     {
       "name": "Ford Airport",
       "city": "Iron Mountain",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IMT",
       "_geoloc": {
         "lat": 45.8183611,
@@ -26510,7 +26510,7 @@ const airports = [
     {
       "name": "Yakutat",
       "city": "Yakutat",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "YAK",
       "_geoloc": {
         "lat": 59.3012,
@@ -26594,7 +26594,7 @@ const airports = [
     {
       "name": "Sand Point Airport",
       "city": "Sand Point",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SDP",
       "_geoloc": {
         "lat": 55.315,
@@ -26630,7 +26630,7 @@ const airports = [
     {
       "name": "Hagerstown Regional Richard A Henson Field",
       "city": "Hagerstown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HGR",
       "_geoloc": {
         "lat": 39.7079,
@@ -26678,7 +26678,7 @@ const airports = [
     {
       "name": "Hooper Bay Airport",
       "city": "Hooper Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HPB",
       "_geoloc": {
         "lat": 61.5239,
@@ -26690,7 +26690,7 @@ const airports = [
     {
       "name": "Atqasuk Edward Burnell Sr Memorial Airport",
       "city": "Atqasuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ATK",
       "_geoloc": {
         "lat": 70.4673,
@@ -26726,7 +26726,7 @@ const airports = [
     {
       "name": "Worcester Regional Airport",
       "city": "Worcester",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ORH",
       "_geoloc": {
         "lat": 42.2673,
@@ -27590,7 +27590,7 @@ const airports = [
     {
       "name": "Wrangell Airport",
       "city": "Wrangell",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WRG",
       "_geoloc": {
         "lat": 56.4843,
@@ -27602,7 +27602,7 @@ const airports = [
     {
       "name": "Chevak Airport",
       "city": "Chevak",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VAK",
       "_geoloc": {
         "lat": 61.5338,
@@ -27614,7 +27614,7 @@ const airports = [
     {
       "name": "Mountain Village Airport",
       "city": "Mountain Village",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MOU",
       "_geoloc": {
         "lat": 62.0954,
@@ -27914,7 +27914,7 @@ const airports = [
     {
       "name": "Tupelo Regional Airport",
       "city": "Tupelo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TUP",
       "_geoloc": {
         "lat": 34.2681,
@@ -27926,7 +27926,7 @@ const airports = [
     {
       "name": "Santa Maria Pub Cpt G Allan Hancock Airport",
       "city": "Santa Maria",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SMX",
       "_geoloc": {
         "lat": 34.8989,
@@ -27938,7 +27938,7 @@ const airports = [
     {
       "name": "Rhinelander Oneida County Airport",
       "city": "Rhinelander",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RHI",
       "_geoloc": {
         "lat": 45.6312,
@@ -27950,7 +27950,7 @@ const airports = [
     {
       "name": "Owensboro Daviess County Airport",
       "city": "Owensboro",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OWB",
       "_geoloc": {
         "lat": 37.7401,
@@ -27962,7 +27962,7 @@ const airports = [
     {
       "name": "Southwest Oregon Regional Airport",
       "city": "North Bend",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OTH",
       "_geoloc": {
         "lat": 43.4171,
@@ -27974,7 +27974,7 @@ const airports = [
     {
       "name": "Lynchburg Regional Preston Glenn Field",
       "city": "Lynchburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LYH",
       "_geoloc": {
         "lat": 37.3267,
@@ -27986,7 +27986,7 @@ const airports = [
     {
       "name": "Klamath Falls Airport",
       "city": "Klamath Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LMT",
       "_geoloc": {
         "lat": 42.1561,
@@ -27998,7 +27998,7 @@ const airports = [
     {
       "name": "Lebanon Municipal Airport",
       "city": "Lebanon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LEB",
       "_geoloc": {
         "lat": 43.6261,
@@ -28010,7 +28010,7 @@ const airports = [
     {
       "name": "Memorial Field",
       "city": "Hot Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HOT",
       "_geoloc": {
         "lat": 34.478,
@@ -28022,7 +28022,7 @@ const airports = [
     {
       "name": "DuBois Regional Airport",
       "city": "Du Bois",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DUJ",
       "_geoloc": {
         "lat": 41.1783,
@@ -28034,7 +28034,7 @@ const airports = [
     {
       "name": "Del Norte County Airport",
       "city": "Crescent City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CEC",
       "_geoloc": {
         "lat": 41.7802,
@@ -28046,7 +28046,7 @@ const airports = [
     {
       "name": "Southeast Iowa Regional Airport",
       "city": "Burlington",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BRL",
       "_geoloc": {
         "lat": 40.7832,
@@ -28058,7 +28058,7 @@ const airports = [
     {
       "name": "Bradford Regional Airport",
       "city": "Bradford",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BFD",
       "_geoloc": {
         "lat": 41.8031,
@@ -28070,7 +28070,7 @@ const airports = [
     {
       "name": "Alpena County Regional Airport",
       "city": "Alpena",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "APN",
       "_geoloc": {
         "lat": 45.0781,
@@ -28082,7 +28082,7 @@ const airports = [
     {
       "name": "Waterloo Regional Airport",
       "city": "Waterloo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ALO",
       "_geoloc": {
         "lat": 42.5571,
@@ -28754,7 +28754,7 @@ const airports = [
     {
       "name": "Dubuque Rgnl",
       "city": "Dubuque IA",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DBQ",
       "_geoloc": {
         "lat": 42.402,
@@ -28766,7 +28766,7 @@ const airports = [
     {
       "name": "Camp Mabry Austin City",
       "city": "Austin TX",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ATT",
       "_geoloc": {
         "lat": 30.31666,
@@ -28802,7 +28802,7 @@ const airports = [
     {
       "name": "Joplin Rgnl",
       "city": "Joplin",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JLN",
       "_geoloc": {
         "lat": 37.151814,
@@ -28814,7 +28814,7 @@ const airports = [
     {
       "name": "Yellowstone Rgnl",
       "city": "Cody",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "COD",
       "_geoloc": {
         "lat": 44.520194,
@@ -28850,7 +28850,7 @@ const airports = [
     {
       "name": "Morgantown Muni Walter L Bill Hart Fld",
       "city": "Morgantown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MGW",
       "_geoloc": {
         "lat": 39.642908,
@@ -28862,7 +28862,7 @@ const airports = [
     {
       "name": "Saint Cloud Regional Airport",
       "city": "Saint Cloud",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "STC",
       "_geoloc": {
         "lat": 45.546556,
@@ -28874,7 +28874,7 @@ const airports = [
     {
       "name": "Flagstaff Pulliam Airport",
       "city": "Flagstaff",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FLG",
       "_geoloc": {
         "lat": 35.140318,
@@ -28886,7 +28886,7 @@ const airports = [
     {
       "name": "Lawton-Fort Sill Regional Airport",
       "city": "Lawton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAW",
       "_geoloc": {
         "lat": 34.5677144,
@@ -29030,7 +29030,7 @@ const airports = [
     {
       "name": "John Murtha Johnstown-Cambria County Airport",
       "city": "Johnstown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JST",
       "_geoloc": {
         "lat": 40.316111,
@@ -29090,7 +29090,7 @@ const airports = [
     {
       "name": "Petersburg James A. Johnson",
       "city": "Petersburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PSG",
       "_geoloc": {
         "lat": 56.801667,
@@ -29126,7 +29126,7 @@ const airports = [
     {
       "name": "St George Muni",
       "city": "Saint George",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SGU",
       "_geoloc": {
         "lat": 37.090583,
@@ -29150,7 +29150,7 @@ const airports = [
     {
       "name": "Franklin",
       "city": "Franklin",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FKL",
       "_geoloc": {
         "lat": 41.377874,
@@ -29174,7 +29174,7 @@ const airports = [
     {
       "name": "Decatur",
       "city": "Decatur",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "DEC",
       "_geoloc": {
         "lat": 39.834564,
@@ -29186,7 +29186,7 @@ const airports = [
     {
       "name": "Jackson Hole Airport",
       "city": "Jacksn Hole",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JAC",
       "_geoloc": {
         "lat": 43.607333333,
@@ -29210,7 +29210,7 @@ const airports = [
     {
       "name": "Tweed-New Haven Airport",
       "city": "New Haven",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HVN",
       "_geoloc": {
         "lat": 41.26375,
@@ -29270,7 +29270,7 @@ const airports = [
     {
       "name": "Pullman-Moscow Rgnl",
       "city": "Pullman",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PUW",
       "_geoloc": {
         "lat": 46.743861,
@@ -29318,7 +29318,7 @@ const airports = [
     {
       "name": "Florence Rgnl",
       "city": "Florence",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FLO",
       "_geoloc": {
         "lat": 34.185361,
@@ -29330,7 +29330,7 @@ const airports = [
     {
       "name": "Valdez Pioneer Fld",
       "city": "Valdez",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VDZ",
       "_geoloc": {
         "lat": 61.133949,
@@ -29342,7 +29342,7 @@ const airports = [
     {
       "name": "Kapalua",
       "city": "Lahania-kapalua",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JHM",
       "_geoloc": {
         "lat": 20.962936,
@@ -29354,7 +29354,7 @@ const airports = [
     {
       "name": "Texarkana Rgnl Webb Fld",
       "city": "Texarkana",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TXK",
       "_geoloc": {
         "lat": 33.453722,
@@ -29366,7 +29366,7 @@ const airports = [
     {
       "name": "Middle Georgia Rgnl",
       "city": "Macon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCN",
       "_geoloc": {
         "lat": 32.69285,
@@ -29378,7 +29378,7 @@ const airports = [
     {
       "name": "Sioux Gateway Col Bud Day Fld",
       "city": "Sioux City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SUX",
       "_geoloc": {
         "lat": 42.402603,
@@ -29390,7 +29390,7 @@ const airports = [
     {
       "name": "Roswell Intl Air Center",
       "city": "Roswell",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ROW",
       "_geoloc": {
         "lat": 33.301556,
@@ -29402,7 +29402,7 @@ const airports = [
     {
       "name": "Boeing Fld King Co Intl",
       "city": "Seattle",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BFI",
       "_geoloc": {
         "lat": 47.53,
@@ -29414,7 +29414,7 @@ const airports = [
     {
       "name": "Abilene Rgnl",
       "city": "Abilene",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABI",
       "_geoloc": {
         "lat": 32.411319,
@@ -29426,7 +29426,7 @@ const airports = [
     {
       "name": "San Angelo Rgnl Mathis Fld",
       "city": "San Angelo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SJT",
       "_geoloc": {
         "lat": 31.35775,
@@ -29438,7 +29438,7 @@ const airports = [
     {
       "name": "Mc Kellar Sipes Rgnl",
       "city": "Jackson",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MKL",
       "_geoloc": {
         "lat": 35.599889,
@@ -29450,7 +29450,7 @@ const airports = [
     {
       "name": "Waco Rgnl",
       "city": "Waco",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ACT",
       "_geoloc": {
         "lat": 31.611289,
@@ -29462,7 +29462,7 @@ const airports = [
     {
       "name": "Altoona Blair Co",
       "city": "Altoona",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AOO",
       "_geoloc": {
         "lat": 40.296372,
@@ -29474,7 +29474,7 @@ const airports = [
     {
       "name": "Imperial Co",
       "city": "Imperial",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IPL",
       "_geoloc": {
         "lat": 32.834219,
@@ -29486,7 +29486,7 @@ const airports = [
     {
       "name": "Sheppard Afb Wichita Falls Muni",
       "city": "Wichita Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SPS",
       "_geoloc": {
         "lat": 33.988797,
@@ -29498,7 +29498,7 @@ const airports = [
     {
       "name": "Rickenbacker Intl",
       "city": "Columbus",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LCK",
       "_geoloc": {
         "lat": 39.813786,
@@ -29510,7 +29510,7 @@ const airports = [
     {
       "name": "Homer",
       "city": "Homer",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HOM",
       "_geoloc": {
         "lat": 59.645556,
@@ -29522,7 +29522,7 @@ const airports = [
     {
       "name": "Sloulin Fld Intl",
       "city": "Williston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ISN",
       "_geoloc": {
         "lat": 48.177939,
@@ -29534,7 +29534,7 @@ const airports = [
     {
       "name": "Southeast Texas Rgnl",
       "city": "Beaumont",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BPT",
       "_geoloc": {
         "lat": 29.950833,
@@ -29558,7 +29558,7 @@ const airports = [
     {
       "name": "Williamsport Rgnl",
       "city": "Williamsport",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IPT",
       "_geoloc": {
         "lat": 41.241836,
@@ -29570,7 +29570,7 @@ const airports = [
     {
       "name": "Falls Intl",
       "city": "International Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "INL",
       "_geoloc": {
         "lat": 48.566186,
@@ -29582,7 +29582,7 @@ const airports = [
     {
       "name": "Northern Maine Rgnl At Presque Isle",
       "city": "Presque Isle",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PQI",
       "_geoloc": {
         "lat": 46.688958,
@@ -29594,7 +29594,7 @@ const airports = [
     {
       "name": "Garden City Rgnl",
       "city": "Garden City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GCK",
       "_geoloc": {
         "lat": 37.927528,
@@ -29606,7 +29606,7 @@ const airports = [
     {
       "name": "East Texas Rgnl",
       "city": "Longview",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GGG",
       "_geoloc": {
         "lat": 32.384014,
@@ -29618,7 +29618,7 @@ const airports = [
     {
       "name": "Boone Co",
       "city": "Harrison",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HRO",
       "_geoloc": {
         "lat": 36.261519,
@@ -29630,7 +29630,7 @@ const airports = [
     {
       "name": "Point Lay Lrrs",
       "city": "Point Lay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIZ",
       "_geoloc": {
         "lat": 69.732875,
@@ -29642,7 +29642,7 @@ const airports = [
     {
       "name": "Barter Island Lrrs",
       "city": "Barter Island",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BTI",
       "_geoloc": {
         "lat": 70.133989,
@@ -31622,7 +31622,7 @@ const airports = [
     {
       "name": "Crooked Creek Airport",
       "city": "Crooked Creek",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CKD",
       "_geoloc": {
         "lat": 61.867778,
@@ -31634,7 +31634,7 @@ const airports = [
     {
       "name": "Coffman Cove Seaplane Base",
       "city": "Coffman Cove",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KCC",
       "_geoloc": {
         "lat": 56.014722,
@@ -31646,7 +31646,7 @@ const airports = [
     {
       "name": "Scammon Bay Airport",
       "city": "Scammon Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SCM",
       "_geoloc": {
         "lat": 61.845278,
@@ -31658,7 +31658,7 @@ const airports = [
     {
       "name": "Port Lions Airport",
       "city": "Port Lions",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ORI",
       "_geoloc": {
         "lat": 57.885278,
@@ -31670,7 +31670,7 @@ const airports = [
     {
       "name": "Old Harbor Airport",
       "city": "Old Harbor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OLH",
       "_geoloc": {
         "lat": 57.218056,
@@ -31682,7 +31682,7 @@ const airports = [
     {
       "name": "Shenandoah Valley Regional Airport",
       "city": "Weyers Cave",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHD",
       "_geoloc": {
         "lat": 38.263889,
@@ -31766,7 +31766,7 @@ const airports = [
     {
       "name": "Raleigh County Memorial Airport",
       "city": "Beckley",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BKW",
       "_geoloc": {
         "lat": 37.7873,
@@ -32594,7 +32594,7 @@ const airports = [
     {
       "name": "Goodnews Airport",
       "city": "Goodnews Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GNU",
       "_geoloc": {
         "lat": 59.1175,
@@ -32678,7 +32678,7 @@ const airports = [
     {
       "name": "Los Alamos Airport",
       "city": "Los Alamos",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAM",
       "_geoloc": {
         "lat": 35.8798019,
@@ -32966,7 +32966,7 @@ const airports = [
     {
       "name": "Manley Hot Springs Airport",
       "city": "Manley Hot Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MLY",
       "_geoloc": {
         "lat": 64.9975,
@@ -32978,7 +32978,7 @@ const airports = [
     {
       "name": "Kake Seaplane Base",
       "city": "Kake",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KAE",
       "_geoloc": {
         "lat": 56.973056,
@@ -32990,7 +32990,7 @@ const airports = [
     {
       "name": "Healy River Airport",
       "city": "Healy",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HKB",
       "_geoloc": {
         "lat": 63.8675,
@@ -33002,7 +33002,7 @@ const airports = [
     {
       "name": "Stony River 2 Airport",
       "city": "Stony River",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SRV",
       "_geoloc": {
         "lat": 61.7875,
@@ -33014,7 +33014,7 @@ const airports = [
     {
       "name": "Red Devil Airport",
       "city": "Red Devil",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RDV",
       "_geoloc": {
         "lat": 61.788056,
@@ -33026,7 +33026,7 @@ const airports = [
     {
       "name": "Circle City Airport",
       "city": "Circle",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IRC",
       "_geoloc": {
         "lat": 65.827778,
@@ -33050,7 +33050,7 @@ const airports = [
     {
       "name": "Takotna Airport",
       "city": "Takotna",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TCT",
       "_geoloc": {
         "lat": 62.971944,
@@ -33062,7 +33062,7 @@ const airports = [
     {
       "name": "Nikolai Airport",
       "city": "Nikolai",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NIB",
       "_geoloc": {
         "lat": 63.010833,
@@ -33074,7 +33074,7 @@ const airports = [
     {
       "name": "Nelson Lagoon",
       "city": "Nelson Lagoon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "NLG",
       "_geoloc": {
         "lat": 56.0075,
@@ -33086,7 +33086,7 @@ const airports = [
     {
       "name": "False Pass Airport",
       "city": "False Pass",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KFP",
       "_geoloc": {
         "lat": 54.8475,
@@ -33098,7 +33098,7 @@ const airports = [
     {
       "name": "Nikolski Air Station",
       "city": "Nikolski",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IKO",
       "_geoloc": {
         "lat": 52.941667,
@@ -33110,7 +33110,7 @@ const airports = [
     {
       "name": "Atka Airport",
       "city": "Atka",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AKB",
       "_geoloc": {
         "lat": 52.220278,
@@ -33122,7 +33122,7 @@ const airports = [
     {
       "name": "Tin City LRRS Airport",
       "city": "Tin City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TNC",
       "_geoloc": {
         "lat": 65.563056,
@@ -33134,7 +33134,7 @@ const airports = [
     {
       "name": "Seal Bay Seaplane Base",
       "city": "Seal Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SYB",
       "_geoloc": {
         "lat": 58.166667,
@@ -33146,7 +33146,7 @@ const airports = [
     {
       "name": "Kitoi Bay Seaplane Base",
       "city": "Kitoi Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KKB",
       "_geoloc": {
         "lat": 58.190833,
@@ -33158,7 +33158,7 @@ const airports = [
     {
       "name": "Amook Bay Seaplane Base",
       "city": "Amook Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AOS",
       "_geoloc": {
         "lat": 57.471389,
@@ -33170,7 +33170,7 @@ const airports = [
     {
       "name": "Larsen Bay Airport",
       "city": "Larsen Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KLN",
       "_geoloc": {
         "lat": 57.535,
@@ -33182,7 +33182,7 @@ const airports = [
     {
       "name": "Akhiok Airport",
       "city": "Akhiok",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AKK",
       "_geoloc": {
         "lat": 56.938611,
@@ -33194,7 +33194,7 @@ const airports = [
     {
       "name": "South Naknek Airport",
       "city": "South Naknek",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WSN",
       "_geoloc": {
         "lat": 58.702222,
@@ -33206,7 +33206,7 @@ const airports = [
     {
       "name": "Pilot Point Airport",
       "city": "Pilot Point",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIP",
       "_geoloc": {
         "lat": 57.585393,
@@ -33218,7 +33218,7 @@ const airports = [
     {
       "name": "Perryville Airport",
       "city": "Perryville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KPV",
       "_geoloc": {
         "lat": 55.906667,
@@ -33230,7 +33230,7 @@ const airports = [
     {
       "name": "Chignik Lagoon Airport",
       "city": "Chignik Lagoon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KCL",
       "_geoloc": {
         "lat": 56.311111,
@@ -33242,7 +33242,7 @@ const airports = [
     {
       "name": "Egegik Airport",
       "city": "Egegik",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EGX",
       "_geoloc": {
         "lat": 58.185556,
@@ -33254,7 +33254,7 @@ const airports = [
     {
       "name": "Chignik Lake Airport",
       "city": "Chignik Lake",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KCQ",
       "_geoloc": {
         "lat": 56.255,
@@ -33266,7 +33266,7 @@ const airports = [
     {
       "name": "North Whale Seaplane Base",
       "city": "North Whale Pass",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "WWP",
       "_geoloc": {
         "lat": 56.116389,
@@ -33278,7 +33278,7 @@ const airports = [
     {
       "name": "Port Protection Seaplane Base",
       "city": "Port Protection",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PPV",
       "_geoloc": {
         "lat": 56.328889,
@@ -33290,7 +33290,7 @@ const airports = [
     {
       "name": "Point Baker Seaplane Base",
       "city": "Point Baker",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KPB",
       "_geoloc": {
         "lat": 56.351944,
@@ -33302,7 +33302,7 @@ const airports = [
     {
       "name": "Hydaburg Seaplane Base",
       "city": "Hydaburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HYG",
       "_geoloc": {
         "lat": 55.206389,
@@ -33314,7 +33314,7 @@ const airports = [
     {
       "name": "Excursion Inlet Seaplane Base",
       "city": "Excursion Inlet",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EXI",
       "_geoloc": {
         "lat": 58.420556,
@@ -33326,7 +33326,7 @@ const airports = [
     {
       "name": "Pelican Seaplane Base",
       "city": "Pelican",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PEC",
       "_geoloc": {
         "lat": 57.955278,
@@ -33338,7 +33338,7 @@ const airports = [
     {
       "name": "Tenakee Seaplane Base",
       "city": "Tenakee Springs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TKE",
       "_geoloc": {
         "lat": 57.779722,
@@ -33350,7 +33350,7 @@ const airports = [
     {
       "name": "Elfin Cove Seaplane Base",
       "city": "Elfin Cove",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ELV",
       "_geoloc": {
         "lat": 58.195278,
@@ -33362,7 +33362,7 @@ const airports = [
     {
       "name": "Angoon Seaplane Base",
       "city": "Angoon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AGN",
       "_geoloc": {
         "lat": 57.503611,
@@ -33374,7 +33374,7 @@ const airports = [
     {
       "name": "Merced Municipal Airport",
       "city": "Merced",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCE",
       "_geoloc": {
         "lat": 37.284722,
@@ -33386,7 +33386,7 @@ const airports = [
     {
       "name": "Visalia Municipal Airport",
       "city": "Visalia",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VIS",
       "_geoloc": {
         "lat": 36.318611,
@@ -33398,7 +33398,7 @@ const airports = [
     {
       "name": "Coldfoot Airport",
       "city": "Coldfoot",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CXF",
       "_geoloc": {
         "lat": 67.251389,
@@ -33410,7 +33410,7 @@ const airports = [
     {
       "name": "Birch Creek Airport",
       "city": "Brich Creek",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KBC",
       "_geoloc": {
         "lat": 66.256708,
@@ -33422,7 +33422,7 @@ const airports = [
     {
       "name": "Central Airport",
       "city": "Central",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CEM",
       "_geoloc": {
         "lat": 65.573889,
@@ -33434,7 +33434,7 @@ const airports = [
     {
       "name": "Rampart Airport",
       "city": "Rampart",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RMP",
       "_geoloc": {
         "lat": 65.507778,
@@ -33446,7 +33446,7 @@ const airports = [
     {
       "name": "Minto Airport",
       "city": "Minto",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MNT",
       "_geoloc": {
         "lat": 65.143611,
@@ -33458,7 +33458,7 @@ const airports = [
     {
       "name": "Levelock Airport",
       "city": "Levelock",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KLL",
       "_geoloc": {
         "lat": 59.128056,
@@ -33470,7 +33470,7 @@ const airports = [
     {
       "name": "Chuathbaluk Airport",
       "city": "Chuathbaluk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CHU",
       "_geoloc": {
         "lat": 61.579167,
@@ -33482,7 +33482,7 @@ const airports = [
     {
       "name": "Orcas Island Airport",
       "city": "Eastsound",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ESD",
       "_geoloc": {
         "lat": 48.708056,
@@ -33494,7 +33494,7 @@ const airports = [
     {
       "name": "Friday Harbor Airport",
       "city": "Friday Harbor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FRD",
       "_geoloc": {
         "lat": 48.521944,
@@ -33506,7 +33506,7 @@ const airports = [
     {
       "name": "Vernal Regional Airport",
       "city": "Vernal",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VEL",
       "_geoloc": {
         "lat": 40.440833,
@@ -33518,7 +33518,7 @@ const airports = [
     {
       "name": "Canyonlands Field",
       "city": "Moab",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CNY",
       "_geoloc": {
         "lat": 38.755,
@@ -33530,7 +33530,7 @@ const airports = [
     {
       "name": "LM Clayton Airport",
       "city": "Wolf Point",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OLF",
       "_geoloc": {
         "lat": 48.094444,
@@ -33542,7 +33542,7 @@ const airports = [
     {
       "name": "Dawson Community Airport",
       "city": "Glendive",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GDV",
       "_geoloc": {
         "lat": 47.138611,
@@ -33554,7 +33554,7 @@ const airports = [
     {
       "name": "McCook Regional Airport",
       "city": "McCook",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MCK",
       "_geoloc": {
         "lat": 40.206389,
@@ -33566,7 +33566,7 @@ const airports = [
     {
       "name": "Sidney-Richland Municipal Airport",
       "city": "Sidney",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SDY",
       "_geoloc": {
         "lat": 47.706944,
@@ -33578,7 +33578,7 @@ const airports = [
     {
       "name": "Manistee County-Blacker Airport",
       "city": "Manistee",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MBL",
       "_geoloc": {
         "lat": 44.2725,
@@ -33590,7 +33590,7 @@ const airports = [
     {
       "name": "Gunnison - Crested Butte",
       "city": "Gunnison",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GUC",
       "_geoloc": {
         "lat": 38.533889,
@@ -33626,7 +33626,7 @@ const airports = [
     {
       "name": "Thief River Falls",
       "city": "Thief River Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TVF",
       "_geoloc": {
         "lat": 48.065556,
@@ -33638,7 +33638,7 @@ const airports = [
     {
       "name": "St. Augustine Airport",
       "city": "St. Augustine Airport",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "UST",
       "_geoloc": {
         "lat": 29.959167,
@@ -33674,7 +33674,7 @@ const airports = [
     {
       "name": "Pangborn Field",
       "city": "Wenatchee",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EAT",
       "_geoloc": {
         "lat": 47.398,
@@ -33686,7 +33686,7 @@ const airports = [
     {
       "name": "Eastern Oregon Regional Airport",
       "city": "Pendleton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PDT",
       "_geoloc": {
         "lat": 45.695,
@@ -33698,7 +33698,7 @@ const airports = [
     {
       "name": "Riverton Regional",
       "city": "Riverton WY",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RIW",
       "_geoloc": {
         "lat": 43.064167,
@@ -33710,7 +33710,7 @@ const airports = [
     {
       "name": "Montrose Regional Airport",
       "city": "Montrose CO",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MTJ",
       "_geoloc": {
         "lat": 38.509794,
@@ -33722,7 +33722,7 @@ const airports = [
     {
       "name": "Williamson Country Regional Airport",
       "city": "Marion",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MWA",
       "_geoloc": {
         "lat": 37.7549569,
@@ -33746,7 +33746,7 @@ const airports = [
     {
       "name": "Delta County Airport",
       "city": "Escanaba",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ESC",
       "_geoloc": {
         "lat": 45.722778,
@@ -33866,7 +33866,7 @@ const airports = [
     {
       "name": "Togiak Airport",
       "city": "Togiak Village",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TOG",
       "_geoloc": {
         "lat": 59.0528,
@@ -33878,7 +33878,7 @@ const airports = [
     {
       "name": "Port Heiden Airport",
       "city": "Port Heiden",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PTH",
       "_geoloc": {
         "lat": 56.9591,
@@ -33890,7 +33890,7 @@ const airports = [
     {
       "name": "King Cove Airport",
       "city": "King Cove",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KVC",
       "_geoloc": {
         "lat": 55.1163,
@@ -33902,7 +33902,7 @@ const airports = [
     {
       "name": "Igiugig Airport",
       "city": "Igiugig",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IGG",
       "_geoloc": {
         "lat": 59.324,
@@ -34010,7 +34010,7 @@ const airports = [
     {
       "name": "Arctic Village Airport",
       "city": "Arctic Village",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ARC",
       "_geoloc": {
         "lat": 68.1147,
@@ -34022,7 +34022,7 @@ const airports = [
     {
       "name": "Mekoryuk Airport",
       "city": "Mekoryuk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MYU",
       "_geoloc": {
         "lat": 60.3714,
@@ -34082,7 +34082,7 @@ const airports = [
     {
       "name": "Provincetown Muni",
       "city": "Provincetown",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PVC",
       "_geoloc": {
         "lat": 42.071945,
@@ -34094,7 +34094,7 @@ const airports = [
     {
       "name": "Boulder City Municipal Airport",
       "city": "Boulder City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BLD",
       "_geoloc": {
         "lat": 35.5651,
@@ -34106,7 +34106,7 @@ const airports = [
     {
       "name": "Grand Canyon West Airport",
       "city": "Grand Canyon West",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GCW",
       "_geoloc": {
         "lat": 35.5925,
@@ -34526,7 +34526,7 @@ const airports = [
     {
       "name": "Lopez Island Airport",
       "city": "Lopez",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LPS",
       "_geoloc": {
         "lat": 48.4839,
@@ -34538,7 +34538,7 @@ const airports = [
     {
       "name": "Grant County Airport",
       "city": "Silver City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SVC",
       "_geoloc": {
         "lat": 32.6365,
@@ -34550,7 +34550,7 @@ const airports = [
     {
       "name": "Akutan Seaplane Base",
       "city": "Akutan",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KQA",
       "_geoloc": {
         "lat": 54.1325,
@@ -34562,7 +34562,7 @@ const airports = [
     {
       "name": "Mid Delta Regional Airport",
       "city": "Greenville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GLH",
       "_geoloc": {
         "lat": 33.4829,
@@ -34574,7 +34574,7 @@ const airports = [
     {
       "name": "Kearney Municipal Airport",
       "city": "Kearney",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EAR",
       "_geoloc": {
         "lat": 40.727,
@@ -34934,7 +34934,7 @@ const airports = [
     {
       "name": "Adak Airport",
       "city": "Adak Island",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ADK",
       "_geoloc": {
         "lat": 51.878,
@@ -35354,7 +35354,7 @@ const airports = [
     {
       "name": "Yakima Air Terminal McAllister Field",
       "city": "Yakima",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "YKM",
       "_geoloc": {
         "lat": 46.5682,
@@ -35366,7 +35366,7 @@ const airports = [
     {
       "name": "Victoria Regional Airport",
       "city": "Victoria",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "VCT",
       "_geoloc": {
         "lat": 28.8526,
@@ -35378,7 +35378,7 @@ const airports = [
     {
       "name": "Quincy Regional Baldwin Field",
       "city": "Quincy",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "UIN",
       "_geoloc": {
         "lat": 39.9427,
@@ -35390,7 +35390,7 @@ const airports = [
     {
       "name": "Salina Municipal Airport",
       "city": "Salina",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SLN",
       "_geoloc": {
         "lat": 38.791,
@@ -35402,7 +35402,7 @@ const airports = [
     {
       "name": "Adirondack Regional Airport",
       "city": "Saranac Lake",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SLK",
       "_geoloc": {
         "lat": 44.3853,
@@ -35414,7 +35414,7 @@ const airports = [
     {
       "name": "Sheridan County Airport",
       "city": "Sheridan",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SHR",
       "_geoloc": {
         "lat": 44.7692,
@@ -35426,7 +35426,7 @@ const airports = [
     {
       "name": "Rutland State Airport",
       "city": "Rutland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RUT",
       "_geoloc": {
         "lat": 43.5294,
@@ -35438,7 +35438,7 @@ const airports = [
     {
       "name": "Pease International Tradeport",
       "city": "Portsmouth",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PSM",
       "_geoloc": {
         "lat": 43.0779,
@@ -35450,7 +35450,7 @@ const airports = [
     {
       "name": "Pellston Regional Airport of Emmet County Airport",
       "city": "Pellston",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PLN",
       "_geoloc": {
         "lat": 45.5709,
@@ -35462,7 +35462,7 @@ const airports = [
     {
       "name": "Pocatello Regional Airport",
       "city": "Pocatello",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIH",
       "_geoloc": {
         "lat": 42.9098,
@@ -35474,7 +35474,7 @@ const airports = [
     {
       "name": "Hattiesburg Laurel Regional Airport",
       "city": "Hattiesburg/Laurel",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PIB",
       "_geoloc": {
         "lat": 31.4671,
@@ -35486,7 +35486,7 @@ const airports = [
     {
       "name": "Northwest Alabama Regional Airport",
       "city": "Muscle Shoals",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSL",
       "_geoloc": {
         "lat": 34.7453,
@@ -35498,7 +35498,7 @@ const airports = [
     {
       "name": "Muskegon County Airport",
       "city": "Muskegon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MKG",
       "_geoloc": {
         "lat": 43.1695,
@@ -35510,7 +35510,7 @@ const airports = [
     {
       "name": "Lancaster Airport",
       "city": "Lancaster",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LNS",
       "_geoloc": {
         "lat": 40.1217,
@@ -35522,7 +35522,7 @@ const airports = [
     {
       "name": "North Platte Regional Airport Lee Bird Field",
       "city": "North Platte",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LBF",
       "_geoloc": {
         "lat": 41.1262,
@@ -35534,7 +35534,7 @@ const airports = [
     {
       "name": "Laramie Regional Airport",
       "city": "Laramie",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LAR",
       "_geoloc": {
         "lat": 41.3121,
@@ -35546,7 +35546,7 @@ const airports = [
     {
       "name": "Kirksville Regional Airport",
       "city": "Kirksville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "IRK",
       "_geoloc": {
         "lat": 40.0935,
@@ -35558,7 +35558,7 @@ const airports = [
     {
       "name": "Wokal Field Glasgow International Airport",
       "city": "Glasgow",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GGW",
       "_geoloc": {
         "lat": 48.2125,
@@ -35570,7 +35570,7 @@ const airports = [
     {
       "name": "Elko Regional Airport",
       "city": "Elko",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EKO",
       "_geoloc": {
         "lat": 40.8249,
@@ -35582,7 +35582,7 @@ const airports = [
     {
       "name": "Chippewa Valley Regional Airport",
       "city": "Eau Claire",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EAU",
       "_geoloc": {
         "lat": 44.8658,
@@ -35594,7 +35594,7 @@ const airports = [
     {
       "name": "Houghton County Memorial Airport",
       "city": "Hancock",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CMX",
       "_geoloc": {
         "lat": 47.1684,
@@ -35606,7 +35606,7 @@ const airports = [
     {
       "name": "William R Fairchild International Airport",
       "city": "Port Angeles",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CLM",
       "_geoloc": {
         "lat": 48.1202,
@@ -35618,7 +35618,7 @@ const airports = [
     {
       "name": "Chippewa County International Airport",
       "city": "Sault Ste Marie",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CIU",
       "_geoloc": {
         "lat": 46.2508,
@@ -35630,7 +35630,7 @@ const airports = [
     {
       "name": "Cape Girardeau Regional Airport",
       "city": "Cape Girardeau",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CGI",
       "_geoloc": {
         "lat": 37.2253,
@@ -35642,7 +35642,7 @@ const airports = [
     {
       "name": "Western Nebraska Regional Airport",
       "city": "Scottsbluff",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BFF",
       "_geoloc": {
         "lat": 41.874,
@@ -35654,7 +35654,7 @@ const airports = [
     {
       "name": "Walla Walla Regional Airport",
       "city": "Walla Walla",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ALW",
       "_geoloc": {
         "lat": 46.0949,
@@ -35666,7 +35666,7 @@ const airports = [
     {
       "name": "Athens Ben Epps Airport",
       "city": "Athens",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AHN",
       "_geoloc": {
         "lat": 33.9486,
@@ -35678,7 +35678,7 @@ const airports = [
     {
       "name": "Aberdeen Regional Airport",
       "city": "Aberdeen",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ABR",
       "_geoloc": {
         "lat": 45.4491,
@@ -36242,7 +36242,7 @@ const airports = [
     {
       "name": "Yampa Valley",
       "city": "Hayden",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HDN",
       "_geoloc": {
         "lat": 40.481181,
@@ -36254,7 +36254,7 @@ const airports = [
     {
       "name": "Cortez Muni",
       "city": "Cortez",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CEZ",
       "_geoloc": {
         "lat": 37.303,
@@ -36266,7 +36266,7 @@ const airports = [
     {
       "name": "Key Field",
       "city": "Meridian",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MEI",
       "_geoloc": {
         "lat": 32.332624,
@@ -36314,7 +36314,7 @@ const airports = [
     {
       "name": "Bemidji Regional Airport",
       "city": "Bemidji",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BJI",
       "_geoloc": {
         "lat": 47.510722,
@@ -36338,7 +36338,7 @@ const airports = [
     {
       "name": "Magic Valley Regional Airport",
       "city": "Twin Falls",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TWF",
       "_geoloc": {
         "lat": 42.481803,
@@ -36350,7 +36350,7 @@ const airports = [
     {
       "name": "Eagle Co Rgnl",
       "city": "Vail",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "EGE",
       "_geoloc": {
         "lat": 39.642556,
@@ -36374,7 +36374,7 @@ const airports = [
     {
       "name": "Grand Canyon National Park Airport",
       "city": "Grand Canyon",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "GCN",
       "_geoloc": {
         "lat": 35.9523611,
@@ -36554,7 +36554,7 @@ const airports = [
     {
       "name": "Barkley Regional Airport",
       "city": "PADUCAH",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PAH",
       "_geoloc": {
         "lat": 37.0602875,
@@ -36566,7 +36566,7 @@ const airports = [
     {
       "name": "Mid-Ohio Valley Regional Airport",
       "city": "PARKERSBURG",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PKB",
       "_geoloc": {
         "lat": 39.3451039,
@@ -36590,7 +36590,7 @@ const airports = [
     {
       "name": "Redding Muni",
       "city": "Redding",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RDD",
       "_geoloc": {
         "lat": 40.509,
@@ -36614,7 +36614,7 @@ const airports = [
     {
       "name": "McClellan-Palomar Airport",
       "city": "Carlsbad",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CLD",
       "_geoloc": {
         "lat": 33.0742,
@@ -36674,7 +36674,7 @@ const airports = [
     {
       "name": "Knox County Regional Airport",
       "city": "Rockland",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "RKD",
       "_geoloc": {
         "lat": 44.0601111,
@@ -36686,7 +36686,7 @@ const airports = [
     {
       "name": "Hancock County - Bar Harbor",
       "city": "Bar Harbor",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BHB",
       "_geoloc": {
         "lat": 44.4497689,
@@ -36698,7 +36698,7 @@ const airports = [
     {
       "name": "Bert Mooney Airport",
       "city": "Butte",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BTM",
       "_geoloc": {
         "lat": 45.954806,
@@ -36710,7 +36710,7 @@ const airports = [
     {
       "name": "Naples Muni",
       "city": "Naples",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "APF",
       "_geoloc": {
         "lat": 26.152619,
@@ -36782,7 +36782,7 @@ const airports = [
     {
       "name": "Forbes Fld",
       "city": "Topeka",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "FOE",
       "_geoloc": {
         "lat": 38.950944,
@@ -36794,7 +36794,7 @@ const airports = [
     {
       "name": "Cedar City Rgnl",
       "city": "Cedar City",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CDC",
       "_geoloc": {
         "lat": 37.700967,
@@ -36806,7 +36806,7 @@ const airports = [
     {
       "name": "Modesto City Co Harry Sham",
       "city": "Modesto",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MOD",
       "_geoloc": {
         "lat": 37.625817,
@@ -36818,7 +36818,7 @@ const airports = [
     {
       "name": "Stockton Metropolitan",
       "city": "Stockton",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SCK",
       "_geoloc": {
         "lat": 37.894167,
@@ -36830,7 +36830,7 @@ const airports = [
     {
       "name": "Scott Afb Midamerica",
       "city": "Belleville",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "BLV",
       "_geoloc": {
         "lat": 38.545178,
@@ -36842,7 +36842,7 @@ const airports = [
     {
       "name": "Lea Co Rgnl",
       "city": "Hobbs",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HOB",
       "_geoloc": {
         "lat": 32.687528,
@@ -36866,7 +36866,7 @@ const airports = [
     {
       "name": "Ogdensburg Intl",
       "city": "Ogdensburg",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "OGS",
       "_geoloc": {
         "lat": 44.681854,
@@ -36878,7 +36878,7 @@ const airports = [
     {
       "name": "Chico Muni",
       "city": "Chico",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CIC",
       "_geoloc": {
         "lat": 39.795383,
@@ -36890,7 +36890,7 @@ const airports = [
     {
       "name": "Augusta State",
       "city": "Augusta",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "AUG",
       "_geoloc": {
         "lat": 44.320647,
@@ -36902,7 +36902,7 @@ const airports = [
     {
       "name": "Waynesville Rgnl Arpt At Forney Fld",
       "city": "Fort Leonardwood",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TBN",
       "_geoloc": {
         "lat": 37.741631,
@@ -36914,7 +36914,7 @@ const airports = [
     {
       "name": "Chisholm Hibbing",
       "city": "Hibbing",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HIB",
       "_geoloc": {
         "lat": 47.3866,
@@ -36926,7 +36926,7 @@ const airports = [
     {
       "name": "Teterboro",
       "city": "Teterboro",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TEB",
       "_geoloc": {
         "lat": 40.850103,
@@ -36950,7 +36950,7 @@ const airports = [
     {
       "name": "Scappoose Industrial Airpark",
       "city": "San Luis",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "SPB",
       "_geoloc": {
         "lat": 45.771028,
@@ -36962,7 +36962,7 @@ const airports = [
     {
       "name": "Havre City Co",
       "city": "Havre",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HVR",
       "_geoloc": {
         "lat": 48.542983,
@@ -36974,7 +36974,7 @@ const airports = [
     {
       "name": "Cavern City Air Terminal",
       "city": "Carlsbad",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "CNM",
       "_geoloc": {
         "lat": 32.337472,
@@ -36986,7 +36986,7 @@ const airports = [
     {
       "name": "Jonesboro Muni",
       "city": "Jonesboro",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "JBR",
       "_geoloc": {
         "lat": 35.831708,
@@ -37010,7 +37010,7 @@ const airports = [
     {
       "name": "Massena Intl Richards Fld",
       "city": "Massena",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MSS",
       "_geoloc": {
         "lat": 44.935833,
@@ -37022,7 +37022,7 @@ const airports = [
     {
       "name": "Waimea Kohala",
       "city": "Kamuela",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "MUE",
       "_geoloc": {
         "lat": 20.001328,
@@ -37034,7 +37034,7 @@ const airports = [
     {
       "name": "Pueblo Memorial",
       "city": "Pueblo",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PUB",
       "_geoloc": {
         "lat": 38.289085,
@@ -37046,7 +37046,7 @@ const airports = [
     {
       "name": "Ernest A Love Fld",
       "city": "Prescott",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PRC",
       "_geoloc": {
         "lat": 34.654472,
@@ -37058,7 +37058,7 @@ const airports = [
     {
       "name": "Hana",
       "city": "Hana",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "HNM",
       "_geoloc": {
         "lat": 20.795636,
@@ -37070,7 +37070,7 @@ const airports = [
     {
       "name": "Platinum",
       "city": "Port Moller",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "PTU",
       "_geoloc": {
         "lat": 59.011356,
@@ -37082,7 +37082,7 @@ const airports = [
     {
       "name": "Iliamna",
       "city": "Iliamna",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "ILI",
       "_geoloc": {
         "lat": 59.754356,
@@ -37094,7 +37094,7 @@ const airports = [
     {
       "name": "Tatalina Lrrs",
       "city": "Tatalina",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "TLJ",
       "_geoloc": {
         "lat": 62.894369,
@@ -37106,7 +37106,7 @@ const airports = [
     {
       "name": "Cape Lisburne Lrrs",
       "city": "Cape Lisburne",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "LUR",
       "_geoloc": {
         "lat": 68.875133,
@@ -39230,7 +39230,7 @@ const airports = [
     {
       "name": "Zachar Bay Seaplane Base",
       "city": "Zachar Bay",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KZB",
       "_geoloc": {
         "lat": 57.55,
@@ -39242,7 +39242,7 @@ const airports = [
     {
       "name": "Port Williams Seaplane Base",
       "city": "Port Williams",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KPR",
       "_geoloc": {
         "lat": 58.49,
@@ -39254,7 +39254,7 @@ const airports = [
     {
       "name": "Karuluk Airport",
       "city": "Karluk",
-      "country": "USA",
+      "country": "United States",
       "iata_code": "KYK",
       "_geoloc": {
         "lat": 57.566944,

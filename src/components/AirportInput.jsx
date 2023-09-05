@@ -51,6 +51,7 @@ export default function AirportInput({
                 value={airportInput}
                 onChange={handleAirportInput}
                 placeholder={airportInputPlaceholder}
+                autoComplete="off"
             ></input>
 
             {!airportInput || airportsMatchingInput === null

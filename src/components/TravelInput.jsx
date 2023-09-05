@@ -23,7 +23,7 @@ export default function TravelInput({
     
     function handleSubmit(event) {
         event.preventDefault();
-        navigate(`/destination/${selectedArrivalAirportId.toLowerCase()}?departure_airport_id=${selectedDepartureAirportId.toLowerCase()}`);
+        navigate(`/destination/${selectedArrivalAirportId.toLowerCase()}/departure/${selectedDepartureAirportId.toLowerCase()}`);
         setDepartureAirportInput("");
         setArrivalAirportInput("");
         setSelectedDepartureAirportId("");
@@ -39,7 +39,7 @@ export default function TravelInput({
 
     return (
         <header>
-            <h1>Get travel information for cities around the world</h1>
+            <h1>Get travel information for destinations around the world</h1>
             <p>Enter departure and arrival airports to get entry requirements, flight, accommodation, weather, and events information for your destination.</p>
             <form>
                 <AirportInput
