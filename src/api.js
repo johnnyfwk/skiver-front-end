@@ -32,3 +32,13 @@ export function getRESTCountriesCountryInfo(country) {
             return response.data;
         })
 }
+
+export function getOpenMateoWeatherForeCast(latitude, longitude) {
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m&forecast_days=14`;
+
+    return axios
+        .get(url)
+        .then((response) => {
+            return response.data;
+        })
+}

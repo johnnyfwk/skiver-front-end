@@ -5,8 +5,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ATL",
       "_geoloc": {
-        "lat": 33.636719,
-        "lng": -84.428067
+        "latitude": 33.636719,
+        "longitude": -84.428067
       },
       "links_count": 1826,
       "objectID": "3682"
@@ -17,8 +17,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ORD",
       "_geoloc": {
-        "lat": 41.978603,
-        "lng": -87.904842
+        "latitude": 41.978603,
+        "longitude": -87.904842
       },
       "links_count": 1108,
       "objectID": "3830"
@@ -29,8 +29,8 @@ const airports = [
       "country": "China",
       "iata_code": "PEK",
       "_geoloc": {
-        "lat": 40.080111,
-        "lng": 116.584556
+        "latitude": 40.080111,
+        "longitude": 116.584556
       },
       "links_count": 1069,
       "objectID": "3364"
@@ -41,8 +41,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LHR",
       "_geoloc": {
-        "lat": 51.4775,
-        "lng": -0.461389
+        "latitude": 51.4775,
+        "longitude": -0.461389
       },
       "links_count": 1051,
       "objectID": "507"
@@ -53,8 +53,8 @@ const airports = [
       "country": "France",
       "iata_code": "CDG",
       "_geoloc": {
-        "lat": 49.012779,
-        "lng": 2.55
+        "latitude": 49.012779,
+        "longitude": 2.55
       },
       "links_count": 1041,
       "objectID": "1382"
@@ -65,8 +65,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAX",
       "_geoloc": {
-        "lat": 33.942536,
-        "lng": -118.408075
+        "latitude": 33.942536,
+        "longitude": -118.408075
       },
       "links_count": 990,
       "objectID": "3484"
@@ -77,8 +77,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "FRA",
       "_geoloc": {
-        "lat": 50.026421,
-        "lng": 8.543125
+        "latitude": 50.026421,
+        "longitude": 8.543125
       },
       "links_count": 990,
       "objectID": "340"
@@ -89,8 +89,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DFW",
       "_geoloc": {
-        "lat": 32.896828,
-        "lng": -97.037997
+        "latitude": 32.896828,
+        "longitude": -97.037997
       },
       "links_count": 936,
       "objectID": "3670"
@@ -101,8 +101,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JFK",
       "_geoloc": {
-        "lat": 40.639751,
-        "lng": -73.778925
+        "latitude": 40.639751,
+        "longitude": -73.778925
       },
       "links_count": 911,
       "objectID": "3797"
@@ -113,8 +113,8 @@ const airports = [
       "country": "Netherlands",
       "iata_code": "AMS",
       "_geoloc": {
-        "lat": 52.308613,
-        "lng": 4.763889
+        "latitude": 52.308613,
+        "longitude": 4.763889
       },
       "links_count": 903,
       "objectID": "580"
@@ -125,8 +125,8 @@ const airports = [
       "country": "China",
       "iata_code": "PVG",
       "_geoloc": {
-        "lat": 31.143378,
-        "lng": 121.805214
+        "latitude": 31.143378,
+        "longitude": 121.805214
       },
       "links_count": 825,
       "objectID": "3406"
@@ -137,8 +137,8 @@ const airports = [
       "country": "Singapore",
       "iata_code": "SIN",
       "_geoloc": {
-        "lat": 1.350189,
-        "lng": 103.994433
+        "latitude": 1.350189,
+        "longitude": 103.994433
       },
       "links_count": 820,
       "objectID": "3316"
@@ -149,8 +149,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "BCN",
       "_geoloc": {
-        "lat": 41.297078,
-        "lng": 2.078464
+        "latitude": 41.297078,
+        "longitude": 2.078464
       },
       "links_count": 783,
       "objectID": "1218"
@@ -161,8 +161,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "ICN",
       "_geoloc": {
-        "lat": 37.469075,
-        "lng": 126.450517
+        "latitude": 37.469075,
+        "longitude": 126.450517
       },
       "links_count": 740,
       "objectID": "3930"
@@ -173,8 +173,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DEN",
       "_geoloc": {
-        "lat": 39.861656,
-        "lng": -104.673178
+        "latitude": 39.861656,
+        "longitude": -104.673178
       },
       "links_count": 735,
       "objectID": "3751"
@@ -185,8 +185,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MIA",
       "_geoloc": {
-        "lat": 25.79325,
-        "lng": -80.290556
+        "latitude": 25.79325,
+        "longitude": -80.290556
       },
       "links_count": 734,
       "objectID": "3576"
@@ -197,8 +197,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "MUC",
       "_geoloc": {
-        "lat": 48.353783,
-        "lng": 11.786086
+        "latitude": 48.353783,
+        "longitude": 11.786086
       },
       "links_count": 728,
       "objectID": "346"
@@ -209,8 +209,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "IST",
       "_geoloc": {
-        "lat": 40.976922,
-        "lng": 28.814606
+        "latitude": 40.976922,
+        "longitude": 28.814606
       },
       "links_count": 719,
       "objectID": "1701"
@@ -221,8 +221,8 @@ const airports = [
       "country": "Hong Kong",
       "iata_code": "HKG",
       "_geoloc": {
-        "lat": 22.308919,
-        "lng": 113.914603
+        "latitude": 22.308919,
+        "longitude": 113.914603
       },
       "links_count": 710,
       "objectID": "3077"
@@ -233,8 +233,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "DXB",
       "_geoloc": {
-        "lat": 25.252778,
-        "lng": 55.364444
+        "latitude": 25.252778,
+        "longitude": 55.364444
       },
       "links_count": 710,
       "objectID": "2188"
@@ -245,8 +245,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LGW",
       "_geoloc": {
-        "lat": 51.148056,
-        "lng": -0.190278
+        "latitude": 51.148056,
+        "longitude": -0.190278
       },
       "links_count": 708,
       "objectID": "502"
@@ -257,8 +257,8 @@ const airports = [
       "country": "China",
       "iata_code": "CAN",
       "_geoloc": {
-        "lat": 23.392436,
-        "lng": 113.298786
+        "latitude": 23.392436,
+        "longitude": 113.298786
       },
       "links_count": 674,
       "objectID": "3370"
@@ -269,8 +269,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "FCO",
       "_geoloc": {
-        "lat": 41.804475,
-        "lng": 12.250797
+        "latitude": 41.804475,
+        "longitude": 12.250797
       },
       "links_count": 662,
       "objectID": "1555"
@@ -281,8 +281,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "MAD",
       "_geoloc": {
-        "lat": 40.493556,
-        "lng": -3.566764
+        "latitude": 40.493556,
+        "longitude": -3.566764
       },
       "links_count": 661,
       "objectID": "1229"
@@ -293,8 +293,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "BKK",
       "_geoloc": {
-        "lat": 13.681108,
-        "lng": 100.747283
+        "latitude": 13.681108,
+        "longitude": 100.747283
       },
       "links_count": 656,
       "objectID": "3885"
@@ -305,8 +305,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "DME",
       "_geoloc": {
-        "lat": 55.408611,
-        "lng": 37.906111
+        "latitude": 55.408611,
+        "longitude": 37.906111
       },
       "links_count": 649,
       "objectID": "4029"
@@ -317,8 +317,8 @@ const airports = [
       "country": "China",
       "iata_code": "CTU",
       "_geoloc": {
-        "lat": 30.578528,
-        "lng": 103.947086
+        "latitude": 30.578528,
+        "longitude": 103.947086
       },
       "links_count": 647,
       "objectID": "3395"
@@ -329,8 +329,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYZ",
       "_geoloc": {
-        "lat": 43.677223,
-        "lng": -79.630556
+        "latitude": 43.677223,
+        "longitude": -79.630556
       },
       "links_count": 636,
       "objectID": "193"
@@ -341,8 +341,8 @@ const airports = [
       "country": "Belgium",
       "iata_code": "BRU",
       "_geoloc": {
-        "lat": 50.901389,
-        "lng": 4.484444
+        "latitude": 50.901389,
+        "longitude": 4.484444
       },
       "links_count": 631,
       "objectID": "302"
@@ -353,8 +353,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "MAN",
       "_geoloc": {
-        "lat": 53.353744,
-        "lng": -2.27495
+        "latitude": 53.353744,
+        "longitude": -2.27495
       },
       "links_count": 627,
       "objectID": "478"
@@ -365,8 +365,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "VIE",
       "_geoloc": {
-        "lat": 48.110278,
-        "lng": 16.569722
+        "latitude": 48.110278,
+        "longitude": 16.569722
       },
       "links_count": 616,
       "objectID": "1613"
@@ -377,8 +377,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CLT",
       "_geoloc": {
-        "lat": 35.214,
-        "lng": -80.943139
+        "latitude": 35.214,
+        "longitude": -80.943139
       },
       "links_count": 600,
       "objectID": "3876"
@@ -389,8 +389,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PHL",
       "_geoloc": {
-        "lat": 39.871944,
-        "lng": -75.241139
+        "latitude": 39.871944,
+        "longitude": -75.241139
       },
       "links_count": 576,
       "objectID": "3752"
@@ -401,8 +401,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "NRT",
       "_geoloc": {
-        "lat": 35.764722,
-        "lng": 140.386389
+        "latitude": 35.764722,
+        "longitude": 140.386389
       },
       "links_count": 575,
       "objectID": "2279"
@@ -413,8 +413,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "DUS",
       "_geoloc": {
-        "lat": 51.289453,
-        "lng": 6.766775
+        "latitude": 51.289453,
+        "longitude": 6.766775
       },
       "links_count": 570,
       "objectID": "345"
@@ -425,8 +425,8 @@ const airports = [
       "country": "China",
       "iata_code": "XIY",
       "_geoloc": {
-        "lat": 34.447119,
-        "lng": 108.751592
+        "latitude": 34.447119,
+        "longitude": 108.751592
       },
       "links_count": 563,
       "objectID": "3379"
@@ -437,8 +437,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "PMI",
       "_geoloc": {
-        "lat": 39.55361,
-        "lng": 2.727778
+        "latitude": 39.55361,
+        "longitude": 2.727778
       },
       "links_count": 548,
       "objectID": "3998"
@@ -449,8 +449,8 @@ const airports = [
       "country": "China",
       "iata_code": "KMG",
       "_geoloc": {
-        "lat": 24.992364,
-        "lng": 102.743536
+        "latitude": 24.992364,
+        "longitude": 102.743536
       },
       "links_count": 545,
       "objectID": "3382"
@@ -461,8 +461,8 @@ const airports = [
       "country": "China",
       "iata_code": "CKG",
       "_geoloc": {
-        "lat": 29.719217,
-        "lng": 106.641678
+        "latitude": 29.719217,
+        "longitude": 106.641678
       },
       "links_count": 540,
       "objectID": "3393"
@@ -473,8 +473,8 @@ const airports = [
       "country": "India",
       "iata_code": "DEL",
       "_geoloc": {
-        "lat": 28.5665,
-        "lng": 77.103088
+        "latitude": 28.5665,
+        "longitude": 77.103088
       },
       "links_count": 527,
       "objectID": "3093"
@@ -485,8 +485,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "TPE",
       "_geoloc": {
-        "lat": 25.077731,
-        "lng": 121.232822
+        "latitude": 25.077731,
+        "longitude": 121.232822
       },
       "links_count": 527,
       "objectID": "2276"
@@ -497,8 +497,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KUL",
       "_geoloc": {
-        "lat": 2.745578,
-        "lng": 101.709917
+        "latitude": 2.745578,
+        "longitude": 101.709917
       },
       "links_count": 514,
       "objectID": "3304"
@@ -509,8 +509,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PHX",
       "_geoloc": {
-        "lat": 33.434278,
-        "lng": -112.011583
+        "latitude": 33.434278,
+        "longitude": -112.011583
       },
       "links_count": 508,
       "objectID": "3462"
@@ -521,8 +521,8 @@ const airports = [
       "country": "China",
       "iata_code": "HGH",
       "_geoloc": {
-        "lat": 30.229503,
-        "lng": 120.434453
+        "latitude": 30.229503,
+        "longitude": 120.434453
       },
       "links_count": 506,
       "objectID": "3386"
@@ -533,8 +533,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EWR",
       "_geoloc": {
-        "lat": 40.6925,
-        "lng": -74.168667
+        "latitude": 40.6925,
+        "longitude": -74.168667
       },
       "links_count": 505,
       "objectID": "3494"
@@ -545,8 +545,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SFO",
       "_geoloc": {
-        "lat": 37.618972,
-        "lng": -122.374889
+        "latitude": 37.618972,
+        "longitude": -122.374889
       },
       "links_count": 499,
       "objectID": "3469"
@@ -557,8 +557,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAS",
       "_geoloc": {
-        "lat": 36.080056,
-        "lng": -115.15225
+        "latitude": 36.080056,
+        "longitude": -115.15225
       },
       "links_count": 498,
       "objectID": "3877"
@@ -569,8 +569,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "ZRH",
       "_geoloc": {
-        "lat": 47.464722,
-        "lng": 8.549167
+        "latitude": 47.464722,
+        "longitude": 8.549167
       },
       "links_count": 494,
       "objectID": "1678"
@@ -581,8 +581,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IAH",
       "_geoloc": {
-        "lat": 29.984433,
-        "lng": -95.341442
+        "latitude": 29.984433,
+        "longitude": -95.341442
       },
       "links_count": 485,
       "objectID": "3550"
@@ -593,8 +593,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MEX",
       "_geoloc": {
-        "lat": 19.436303,
-        "lng": -99.072097
+        "latitude": 19.436303,
+        "longitude": -99.072097
       },
       "links_count": 485,
       "objectID": "1824"
@@ -605,8 +605,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "AUH",
       "_geoloc": {
-        "lat": 24.432972,
-        "lng": 54.651138
+        "latitude": 24.432972,
+        "longitude": 54.651138
       },
       "links_count": 477,
       "objectID": "2179"
@@ -617,8 +617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCO",
       "_geoloc": {
-        "lat": 28.429394,
-        "lng": -81.308994
+        "latitude": 28.429394,
+        "longitude": -81.308994
       },
       "links_count": 475,
       "objectID": "3878"
@@ -629,8 +629,8 @@ const airports = [
       "country": "China",
       "iata_code": "SZX",
       "_geoloc": {
-        "lat": 22.639258,
-        "lng": 113.810664
+        "latitude": 22.639258,
+        "longitude": 113.810664
       },
       "links_count": 467,
       "objectID": "3374"
@@ -641,8 +641,8 @@ const airports = [
       "country": "China",
       "iata_code": "XMN",
       "_geoloc": {
-        "lat": 24.544036,
-        "lng": 118.127739
+        "latitude": 24.544036,
+        "longitude": 118.127739
       },
       "links_count": 466,
       "objectID": "3383"
@@ -653,8 +653,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "CPH",
       "_geoloc": {
-        "lat": 55.617917,
-        "lng": 12.655972
+        "latitude": 55.617917,
+        "longitude": 12.655972
       },
       "links_count": 457,
       "objectID": "609"
@@ -665,8 +665,8 @@ const airports = [
       "country": "India",
       "iata_code": "BOM",
       "_geoloc": {
-        "lat": 19.088686,
-        "lng": 72.867919
+        "latitude": 19.088686,
+        "longitude": 72.867919
       },
       "links_count": 452,
       "objectID": "2997"
@@ -677,8 +677,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "ARN",
       "_geoloc": {
-        "lat": 59.651944,
-        "lng": 17.918611
+        "latitude": 59.651944,
+        "longitude": 17.918611
       },
       "links_count": 439,
       "objectID": "737"
@@ -689,8 +689,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "LIS",
       "_geoloc": {
-        "lat": 38.781311,
-        "lng": -9.135919
+        "latitude": 38.781311,
+        "longitude": -9.135919
       },
       "links_count": 435,
       "objectID": "1638"
@@ -701,8 +701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DTW",
       "_geoloc": {
-        "lat": 42.212444,
-        "lng": -83.353389
+        "latitude": 42.212444,
+        "longitude": -83.353389
       },
       "links_count": 433,
       "objectID": "3645"
@@ -713,8 +713,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSP",
       "_geoloc": {
-        "lat": 44.881956,
-        "lng": -93.221767
+        "latitude": 44.881956,
+        "longitude": -93.221767
       },
       "links_count": 430,
       "objectID": "3858"
@@ -725,8 +725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BOS",
       "_geoloc": {
-        "lat": 42.364347,
-        "lng": -71.005181
+        "latitude": 42.364347,
+        "longitude": -71.005181
       },
       "links_count": 424,
       "objectID": "3448"
@@ -737,8 +737,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "TXL",
       "_geoloc": {
-        "lat": 52.559686,
-        "lng": 13.287711
+        "latitude": 52.559686,
+        "longitude": 13.287711
       },
       "links_count": 418,
       "objectID": "351"
@@ -749,8 +749,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "DUB",
       "_geoloc": {
-        "lat": 53.421333,
-        "lng": -6.270075
+        "latitude": 53.421333,
+        "longitude": -6.270075
       },
       "links_count": 414,
       "objectID": "599"
@@ -761,8 +761,8 @@ const airports = [
       "country": "China",
       "iata_code": "SHA",
       "_geoloc": {
-        "lat": 31.197875,
-        "lng": 121.336319
+        "latitude": 31.197875,
+        "longitude": 121.336319
       },
       "links_count": 411,
       "objectID": "3391"
@@ -773,8 +773,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "SYD",
       "_geoloc": {
-        "lat": -33.946111,
-        "lng": 151.177222
+        "latitude": -33.946111,
+        "longitude": 151.177222
       },
       "links_count": 410,
       "objectID": "3361"
@@ -785,8 +785,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "AGP",
       "_geoloc": {
-        "lat": 36.6749,
-        "lng": -4.499106
+        "latitude": 36.6749,
+        "longitude": -4.499106
       },
       "links_count": 410,
       "objectID": "1230"
@@ -797,8 +797,8 @@ const airports = [
       "country": "France",
       "iata_code": "ORY",
       "_geoloc": {
-        "lat": 48.725278,
-        "lng": 2.359444
+        "latitude": 48.725278,
+        "longitude": 2.359444
       },
       "links_count": 404,
       "objectID": "1386"
@@ -809,8 +809,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "ATH",
       "_geoloc": {
-        "lat": 37.936358,
-        "lng": 23.944467
+        "latitude": 37.936358,
+        "longitude": 23.944467
       },
       "links_count": 403,
       "objectID": "3941"
@@ -821,8 +821,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SEA",
       "_geoloc": {
-        "lat": 47.449,
-        "lng": -122.309306
+        "latitude": 47.449,
+        "longitude": -122.309306
       },
       "links_count": 403,
       "objectID": "3577"
@@ -833,8 +833,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SVO",
       "_geoloc": {
-        "lat": 55.972642,
-        "lng": 37.414589
+        "latitude": 55.972642,
+        "longitude": 37.414589
       },
       "links_count": 397,
       "objectID": "2985"
@@ -845,8 +845,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DCA",
       "_geoloc": {
-        "lat": 38.852083,
-        "lng": -77.037722
+        "latitude": 38.852083,
+        "longitude": -77.037722
       },
       "links_count": 388,
       "objectID": "3520"
@@ -857,8 +857,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GRU",
       "_geoloc": {
-        "lat": -23.432075,
-        "lng": -46.469511
+        "latitude": -23.432075,
+        "longitude": -46.469511
       },
       "links_count": 387,
       "objectID": "2564"
@@ -869,8 +869,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IAD",
       "_geoloc": {
-        "lat": 38.944533,
-        "lng": -77.455811
+        "latitude": 38.944533,
+        "longitude": -77.455811
       },
       "links_count": 386,
       "objectID": "3714"
@@ -881,8 +881,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "MNL",
       "_geoloc": {
-        "lat": 14.508647,
-        "lng": 121.019581
+        "latitude": 14.508647,
+        "longitude": 121.019581
       },
       "links_count": 386,
       "objectID": "2397"
@@ -893,8 +893,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "MXP",
       "_geoloc": {
-        "lat": 45.630606,
-        "lng": 8.728111
+        "latitude": 45.630606,
+        "longitude": 8.728111
       },
       "links_count": 386,
       "objectID": "1524"
@@ -905,8 +905,8 @@ const airports = [
       "country": "China",
       "iata_code": "CSX",
       "_geoloc": {
-        "lat": 28.189158,
-        "lng": 113.219633
+        "latitude": 28.189158,
+        "longitude": 113.219633
       },
       "links_count": 377,
       "objectID": "3371"
@@ -917,8 +917,8 @@ const airports = [
       "country": "Qatar",
       "iata_code": "DOH",
       "_geoloc": {
-        "lat": 25.261125,
-        "lng": 51.565056
+        "latitude": 25.261125,
+        "longitude": 51.565056
       },
       "links_count": 377,
       "objectID": "2241"
@@ -929,8 +929,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "JED",
       "_geoloc": {
-        "lat": 21.679564,
-        "lng": 39.156536
+        "latitude": 21.679564,
+        "longitude": 39.156536
       },
       "links_count": 377,
       "objectID": "2072"
@@ -941,8 +941,8 @@ const airports = [
       "country": "China",
       "iata_code": "TAO",
       "_geoloc": {
-        "lat": 36.266108,
-        "lng": 120.374436
+        "latitude": 36.266108,
+        "longitude": 120.374436
       },
       "links_count": 376,
       "objectID": "3390"
@@ -953,8 +953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FLL",
       "_geoloc": {
-        "lat": 26.072583,
-        "lng": -80.15275
+        "latitude": 26.072583,
+        "longitude": -80.15275
       },
       "links_count": 374,
       "objectID": "3533"
@@ -965,8 +965,8 @@ const airports = [
       "country": "China",
       "iata_code": "WUH",
       "_geoloc": {
-        "lat": 30.783758,
-        "lng": 114.2081
+        "latitude": 30.783758,
+        "longitude": 114.2081
       },
       "links_count": 374,
       "objectID": "3376"
@@ -977,8 +977,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUL",
       "_geoloc": {
-        "lat": 45.470556,
-        "lng": -73.740833
+        "latitude": 45.470556,
+        "longitude": -73.740833
       },
       "links_count": 371,
       "objectID": "146"
@@ -989,8 +989,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "LED",
       "_geoloc": {
-        "lat": 59.800292,
-        "lng": 30.262503
+        "latitude": 59.800292,
+        "longitude": 30.262503
       },
       "links_count": 368,
       "objectID": "2948"
@@ -1001,8 +1001,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "CGK",
       "_geoloc": {
-        "lat": -6.125567,
-        "lng": 106.655897
+        "latitude": -6.125567,
+        "longitude": 106.655897
       },
       "links_count": 367,
       "objectID": "3275"
@@ -1013,8 +1013,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "OSL",
       "_geoloc": {
-        "lat": 60.193917,
-        "lng": 11.100361
+        "latitude": 60.193917,
+        "longitude": 11.100361
       },
       "links_count": 363,
       "objectID": "644"
@@ -1025,8 +1025,8 @@ const airports = [
       "country": "Czech Republic",
       "iata_code": "PRG",
       "_geoloc": {
-        "lat": 50.100833,
-        "lng": 14.26
+        "latitude": 50.100833,
+        "longitude": 14.26
       },
       "links_count": 361,
       "objectID": "1587"
@@ -1037,8 +1037,8 @@ const airports = [
       "country": "China",
       "iata_code": "CGO",
       "_geoloc": {
-        "lat": 34.519672,
-        "lng": 113.840889
+        "latitude": 34.519672,
+        "longitude": 113.840889
       },
       "links_count": 348,
       "objectID": "3375"
@@ -1049,8 +1049,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "STN",
       "_geoloc": {
-        "lat": 51.885,
-        "lng": 0.235
+        "latitude": 51.885,
+        "longitude": 0.235
       },
       "links_count": 343,
       "objectID": "548"
@@ -1061,8 +1061,8 @@ const airports = [
       "country": "China",
       "iata_code": "NKG",
       "_geoloc": {
-        "lat": 31.742042,
-        "lng": 118.862025
+        "latitude": 31.742042,
+        "longitude": 118.862025
       },
       "links_count": 330,
       "objectID": "3388"
@@ -1073,8 +1073,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "GVA",
       "_geoloc": {
-        "lat": 46.238064,
-        "lng": 6.10895
+        "latitude": 46.238064,
+        "longitude": 6.10895
       },
       "links_count": 329,
       "objectID": "1665"
@@ -1085,8 +1085,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "JNB",
       "_geoloc": {
-        "lat": -26.139166,
-        "lng": 28.246
+        "latitude": -26.139166,
+        "longitude": 28.246
       },
       "links_count": 321,
       "objectID": "813"
@@ -1097,8 +1097,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "HAM",
       "_geoloc": {
-        "lat": 53.630389,
-        "lng": 9.988228
+        "latitude": 53.630389,
+        "longitude": 9.988228
       },
       "links_count": 321,
       "objectID": "342"
@@ -1109,8 +1109,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "HEL",
       "_geoloc": {
-        "lat": 60.317222,
-        "lng": 24.963333
+        "latitude": 60.317222,
+        "longitude": 24.963333
       },
       "links_count": 320,
       "objectID": "421"
@@ -1121,8 +1121,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "TFS",
       "_geoloc": {
-        "lat": 28.044475,
-        "lng": -16.572489
+        "latitude": 28.044475,
+        "longitude": -16.572489
       },
       "links_count": 318,
       "objectID": "1056"
@@ -1133,8 +1133,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LGA",
       "_geoloc": {
-        "lat": 40.777245,
-        "lng": -73.872608
+        "latitude": 40.777245,
+        "longitude": -73.872608
       },
       "links_count": 316,
       "objectID": "3697"
@@ -1145,8 +1145,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HND",
       "_geoloc": {
-        "lat": 35.552258,
-        "lng": 139.779694
+        "latitude": 35.552258,
+        "longitude": 139.779694
       },
       "links_count": 315,
       "objectID": "2359"
@@ -1157,8 +1157,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVR",
       "_geoloc": {
-        "lat": 49.193889,
-        "lng": -123.184444
+        "latitude": 49.193889,
+        "longitude": -123.184444
       },
       "links_count": 315,
       "objectID": "156"
@@ -1169,8 +1169,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "ALC",
       "_geoloc": {
-        "lat": 38.282169,
-        "lng": -0.558156
+        "latitude": 38.282169,
+        "longitude": -0.558156
       },
       "links_count": 314,
       "objectID": "1212"
@@ -1181,8 +1181,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CUN",
       "_geoloc": {
-        "lat": 21.036528,
-        "lng": -86.877083
+        "latitude": 21.036528,
+        "longitude": -86.877083
       },
       "links_count": 311,
       "objectID": "1852"
@@ -1193,8 +1193,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "LPA",
       "_geoloc": {
-        "lat": 27.931886,
-        "lng": -15.386586
+        "latitude": 27.931886,
+        "longitude": -15.386586
       },
       "links_count": 308,
       "objectID": "1054"
@@ -1205,8 +1205,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "BOG",
       "_geoloc": {
-        "lat": 4.701594,
-        "lng": -74.146947
+        "latitude": 4.701594,
+        "longitude": -74.146947
       },
       "links_count": 307,
       "objectID": "2709"
@@ -1217,8 +1217,8 @@ const airports = [
       "country": "China",
       "iata_code": "URC",
       "_geoloc": {
-        "lat": 43.907106,
-        "lng": 87.474244
+        "latitude": 43.907106,
+        "longitude": 87.474244
       },
       "links_count": 306,
       "objectID": "3399"
@@ -1229,8 +1229,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KIX",
       "_geoloc": {
-        "lat": 34.4347222,
-        "lng": 135.244167
+        "latitude": 34.4347222,
+        "longitude": 135.244167
       },
       "links_count": 304,
       "objectID": "3992"
@@ -1241,8 +1241,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "CAI",
       "_geoloc": {
-        "lat": 30.121944,
-        "lng": 31.405556
+        "latitude": 30.121944,
+        "longitude": 31.405556
       },
       "links_count": 303,
       "objectID": "1128"
@@ -1253,8 +1253,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BNE",
       "_geoloc": {
-        "lat": -27.384167,
-        "lng": 153.1175
+        "latitude": -27.384167,
+        "longitude": 153.1175
       },
       "links_count": 296,
       "objectID": "3320"
@@ -1265,8 +1265,8 @@ const airports = [
       "country": "China",
       "iata_code": "TSN",
       "_geoloc": {
-        "lat": 39.124353,
-        "lng": 117.346183
+        "latitude": 39.124353,
+        "longitude": 117.346183
       },
       "links_count": 294,
       "objectID": "3368"
@@ -1277,8 +1277,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "SAW",
       "_geoloc": {
-        "lat": 40.898553,
-        "lng": 29.309219
+        "latitude": 40.898553,
+        "longitude": 29.309219
       },
       "links_count": 290,
       "objectID": "4317"
@@ -1289,8 +1289,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BWI",
       "_geoloc": {
-        "lat": 39.175361,
-        "lng": -76.668333
+        "latitude": 39.175361,
+        "longitude": -76.668333
       },
       "links_count": 286,
       "objectID": "3849"
@@ -1301,8 +1301,8 @@ const airports = [
       "country": "China",
       "iata_code": "DLC",
       "_geoloc": {
-        "lat": 38.965667,
-        "lng": 121.5386
+        "latitude": 38.965667,
+        "longitude": 121.5386
       },
       "links_count": 285,
       "objectID": "3404"
@@ -1313,8 +1313,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SLC",
       "_geoloc": {
-        "lat": 40.788389,
-        "lng": -111.977772
+        "latitude": 40.788389,
+        "longitude": -111.977772
       },
       "links_count": 278,
       "objectID": "3536"
@@ -1325,8 +1325,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TPA",
       "_geoloc": {
-        "lat": 27.975472,
-        "lng": -82.53325
+        "latitude": 27.975472,
+        "longitude": -82.53325
       },
       "links_count": 276,
       "objectID": "3646"
@@ -1337,8 +1337,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "RUH",
       "_geoloc": {
-        "lat": 24.95764,
-        "lng": 46.698776
+        "latitude": 24.95764,
+        "longitude": 46.698776
       },
       "links_count": 276,
       "objectID": "2082"
@@ -1349,8 +1349,8 @@ const airports = [
       "country": "France",
       "iata_code": "LYS",
       "_geoloc": {
-        "lat": 45.726387,
-        "lng": 5.090833
+        "latitude": 45.726387,
+        "longitude": 5.090833
       },
       "links_count": 275,
       "objectID": "1335"
@@ -1361,8 +1361,8 @@ const airports = [
       "country": "China",
       "iata_code": "KWE",
       "_geoloc": {
-        "lat": 26.538522,
-        "lng": 106.800703
+        "latitude": 26.538522,
+        "longitude": 106.800703
       },
       "links_count": 274,
       "objectID": "3394"
@@ -1373,8 +1373,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "STR",
       "_geoloc": {
-        "lat": 48.689878,
-        "lng": 9.221964
+        "latitude": 48.689878,
+        "longitude": 9.221964
       },
       "links_count": 273,
       "objectID": "350"
@@ -1385,8 +1385,8 @@ const airports = [
       "country": "China",
       "iata_code": "SHE",
       "_geoloc": {
-        "lat": 41.3824,
-        "lng": 123.2901
+        "latitude": 41.3824,
+        "longitude": 123.2901
       },
       "links_count": 272,
       "objectID": "4144"
@@ -1397,8 +1397,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MDW",
       "_geoloc": {
-        "lat": 41.785972,
-        "lng": -87.752417
+        "latitude": 41.785972,
+        "longitude": -87.752417
       },
       "links_count": 271,
       "objectID": "3747"
@@ -1409,8 +1409,8 @@ const airports = [
       "country": "Israel",
       "iata_code": "TLV",
       "_geoloc": {
-        "lat": 32.011389,
-        "lng": 34.886667
+        "latitude": 32.011389,
+        "longitude": 34.886667
       },
       "links_count": 271,
       "objectID": "1590"
@@ -1421,8 +1421,8 @@ const airports = [
       "country": "China",
       "iata_code": "TNA",
       "_geoloc": {
-        "lat": 36.857214,
-        "lng": 117.215992
+        "latitude": 36.857214,
+        "longitude": 117.215992
       },
       "links_count": 270,
       "objectID": "4108"
@@ -1433,8 +1433,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MEL",
       "_geoloc": {
-        "lat": -37.673333,
-        "lng": 144.843333
+        "latitude": -37.673333,
+        "longitude": 144.843333
       },
       "links_count": 269,
       "objectID": "3339"
@@ -1445,8 +1445,8 @@ const airports = [
       "country": "France",
       "iata_code": "NCE",
       "_geoloc": {
-        "lat": 43.658411,
-        "lng": 7.215872
+        "latitude": 43.658411,
+        "longitude": 7.215872
       },
       "links_count": 269,
       "objectID": "1354"
@@ -1457,8 +1457,8 @@ const airports = [
       "country": "China",
       "iata_code": "FOC",
       "_geoloc": {
-        "lat": 25.935064,
-        "lng": 119.663272
+        "latitude": 25.935064,
+        "longitude": 119.663272
       },
       "links_count": 266,
       "objectID": "3385"
@@ -1469,8 +1469,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "CGN",
       "_geoloc": {
-        "lat": 50.865917,
-        "lng": 7.142744
+        "latitude": 50.865917,
+        "longitude": 7.142744
       },
       "links_count": 265,
       "objectID": "344"
@@ -1481,8 +1481,8 @@ const airports = [
       "country": "France",
       "iata_code": "MRS",
       "_geoloc": {
-        "lat": 43.435555,
-        "lng": 5.213611
+        "latitude": 43.435555,
+        "longitude": 5.213611
       },
       "links_count": 265,
       "objectID": "1353"
@@ -1493,8 +1493,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BHX",
       "_geoloc": {
-        "lat": 52.453856,
-        "lng": -1.748028
+        "latitude": 52.453856,
+        "longitude": -1.748028
       },
       "links_count": 264,
       "objectID": "469"
@@ -1505,8 +1505,8 @@ const airports = [
       "country": "China",
       "iata_code": "HRB",
       "_geoloc": {
-        "lat": 45.623403,
-        "lng": 126.250328
+        "latitude": 45.623403,
+        "longitude": 126.250328
       },
       "links_count": 259,
       "objectID": "3400"
@@ -1517,8 +1517,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "NBO",
       "_geoloc": {
-        "lat": -1.319167,
-        "lng": 36.9275
+        "latitude": -1.319167,
+        "longitude": 36.9275
       },
       "links_count": 258,
       "objectID": "4059"
@@ -1529,8 +1529,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "AYT",
       "_geoloc": {
-        "lat": 36.898731,
-        "lng": 30.800461
+        "latitude": 36.898731,
+        "longitude": 30.800461
       },
       "links_count": 253,
       "objectID": "1688"
@@ -1541,8 +1541,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "CMN",
       "_geoloc": {
-        "lat": 33.367467,
-        "lng": -7.589967
+        "latitude": 33.367467,
+        "longitude": -7.589967
       },
       "links_count": 250,
       "objectID": "1074"
@@ -1553,8 +1553,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSY",
       "_geoloc": {
-        "lat": 29.993389,
-        "lng": -90.258028
+        "latitude": 29.993389,
+        "longitude": -90.258028
       },
       "links_count": 248,
       "objectID": "3861"
@@ -1565,8 +1565,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "VCE",
       "_geoloc": {
-        "lat": 45.505278,
-        "lng": 12.351944
+        "latitude": 45.505278,
+        "longitude": 12.351944
       },
       "links_count": 245,
       "objectID": "1551"
@@ -1577,8 +1577,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "WAW",
       "_geoloc": {
-        "lat": 52.16575,
-        "lng": 20.967122
+        "latitude": 52.16575,
+        "longitude": 20.967122
       },
       "links_count": 240,
       "objectID": "679"
@@ -1589,8 +1589,8 @@ const airports = [
       "country": "Kuwait",
       "iata_code": "KWI",
       "_geoloc": {
-        "lat": 29.226567,
-        "lng": 47.968928
+        "latitude": 29.226567,
+        "longitude": 47.968928
       },
       "links_count": 239,
       "objectID": "2176"
@@ -1601,8 +1601,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SAN",
       "_geoloc": {
-        "lat": 32.733556,
-        "lng": -117.189667
+        "latitude": 32.733556,
+        "longitude": -117.189667
       },
       "links_count": 238,
       "objectID": "3731"
@@ -1613,8 +1613,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "EDI",
       "_geoloc": {
-        "lat": 55.95,
-        "lng": -3.3725
+        "latitude": 55.95,
+        "longitude": -3.3725
       },
       "links_count": 237,
       "objectID": "535"
@@ -1625,8 +1625,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HNL",
       "_geoloc": {
-        "lat": 21.318681,
-        "lng": -157.922428
+        "latitude": 21.318681,
+        "longitude": -157.922428
       },
       "links_count": 233,
       "objectID": "3728"
@@ -1637,8 +1637,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "CTA",
       "_geoloc": {
-        "lat": 37.466781,
-        "lng": 15.0664
+        "latitude": 37.466781,
+        "longitude": 15.0664
       },
       "links_count": 233,
       "objectID": "1509"
@@ -1649,8 +1649,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "ACE",
       "_geoloc": {
-        "lat": 28.945464,
-        "lng": -13.605225
+        "latitude": 28.945464,
+        "longitude": -13.605225
       },
       "links_count": 233,
       "objectID": "1055"
@@ -1661,8 +1661,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PDX",
       "_geoloc": {
-        "lat": 45.588722,
-        "lng": -122.5975
+        "latitude": 45.588722,
+        "longitude": -122.5975
       },
       "links_count": 230,
       "objectID": "3720"
@@ -1673,8 +1673,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "LIM",
       "_geoloc": {
-        "lat": -12.021889,
-        "lng": -77.114319
+        "latitude": -12.021889,
+        "longitude": -77.114319
       },
       "links_count": 230,
       "objectID": "2789"
@@ -1685,8 +1685,8 @@ const airports = [
       "country": "China",
       "iata_code": "NNG",
       "_geoloc": {
-        "lat": 22.608267,
-        "lng": 108.172442
+        "latitude": 22.608267,
+        "longitude": 108.172442
       },
       "links_count": 228,
       "objectID": "3373"
@@ -1697,8 +1697,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYC",
       "_geoloc": {
-        "lat": 51.113888,
-        "lng": -114.020278
+        "latitude": 51.113888,
+        "longitude": -114.020278
       },
       "links_count": 228,
       "objectID": "178"
@@ -1709,8 +1709,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "OTP",
       "_geoloc": {
-        "lat": 44.572161,
-        "lng": 26.102178
+        "latitude": 44.572161,
+        "longitude": 26.102178
       },
       "links_count": 227,
       "objectID": "1657"
@@ -1721,8 +1721,8 @@ const airports = [
       "country": "Malta",
       "iata_code": "MLA",
       "_geoloc": {
-        "lat": 35.857497,
-        "lng": 14.4775
+        "latitude": 35.857497,
+        "longitude": 14.4775
       },
       "links_count": 226,
       "objectID": "1606"
@@ -1733,8 +1733,8 @@ const airports = [
       "country": "Jordan",
       "iata_code": "AMM",
       "_geoloc": {
-        "lat": 31.722556,
-        "lng": 35.993214
+        "latitude": 31.722556,
+        "longitude": 35.993214
       },
       "links_count": 223,
       "objectID": "2170"
@@ -1745,8 +1745,8 @@ const airports = [
       "country": "United States",
       "iata_code": "STL",
       "_geoloc": {
-        "lat": 38.748697,
-        "lng": -90.370028
+        "latitude": 38.748697,
+        "longitude": -90.370028
       },
       "links_count": 221,
       "objectID": "3678"
@@ -1757,8 +1757,8 @@ const airports = [
       "country": "China",
       "iata_code": "TYN",
       "_geoloc": {
-        "lat": 37.746897,
-        "lng": 112.628428
+        "latitude": 37.746897,
+        "longitude": 112.628428
       },
       "links_count": 220,
       "objectID": "3369"
@@ -1769,8 +1769,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "HER",
       "_geoloc": {
-        "lat": 35.339719,
-        "lng": 25.180297
+        "latitude": 35.339719,
+        "longitude": 25.180297
       },
       "links_count": 219,
       "objectID": "1452"
@@ -1781,8 +1781,8 @@ const airports = [
       "country": "China",
       "iata_code": "SYX",
       "_geoloc": {
-        "lat": 18.302897,
-        "lng": 109.412272
+        "latitude": 18.302897,
+        "longitude": 109.412272
       },
       "links_count": 218,
       "objectID": "4030"
@@ -1793,8 +1793,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "SGN",
       "_geoloc": {
-        "lat": 10.818797,
-        "lng": 106.651856
+        "latitude": 10.818797,
+        "longitude": 106.651856
       },
       "links_count": 218,
       "objectID": "3205"
@@ -1805,8 +1805,8 @@ const airports = [
       "country": "China",
       "iata_code": "HAK",
       "_geoloc": {
-        "lat": 19.934856,
-        "lng": 110.458961
+        "latitude": 19.934856,
+        "longitude": 110.458961
       },
       "links_count": 215,
       "objectID": "4120"
@@ -1817,8 +1817,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LTN",
       "_geoloc": {
-        "lat": 51.874722,
-        "lng": -0.368333
+        "latitude": 51.874722,
+        "longitude": -0.368333
       },
       "links_count": 214,
       "objectID": "492"
@@ -1829,8 +1829,8 @@ const airports = [
       "country": "China",
       "iata_code": "KWL",
       "_geoloc": {
-        "lat": 25.218106,
-        "lng": 110.039197
+        "latitude": 25.218106,
+        "longitude": 110.039197
       },
       "links_count": 214,
       "objectID": "3372"
@@ -1841,8 +1841,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "ADD",
       "_geoloc": {
-        "lat": 8.977889,
-        "lng": 38.799319
+        "latitude": 8.977889,
+        "longitude": 38.799319
       },
       "links_count": 214,
       "objectID": "1107"
@@ -1853,8 +1853,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "AKL",
       "_geoloc": {
-        "lat": -37.008056,
-        "lng": 174.791667
+        "latitude": -37.008056,
+        "longitude": 174.791667
       },
       "links_count": 213,
       "objectID": "2006"
@@ -1865,8 +1865,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "PTY",
       "_geoloc": {
-        "lat": 9.071364,
-        "lng": -79.383453
+        "latitude": 9.071364,
+        "longitude": -79.383453
       },
       "links_count": 212,
       "objectID": "1871"
@@ -1877,8 +1877,8 @@ const airports = [
       "country": "India",
       "iata_code": "MAA",
       "_geoloc": {
-        "lat": 12.994414,
-        "lng": 80.180517
+        "latitude": 12.994414,
+        "longitude": 80.180517
       },
       "links_count": 211,
       "objectID": "3144"
@@ -1889,8 +1889,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "FAO",
       "_geoloc": {
-        "lat": 37.014425,
-        "lng": -7.965911
+        "latitude": 37.014425,
+        "longitude": -7.965911
       },
       "links_count": 211,
       "objectID": "1626"
@@ -1901,8 +1901,8 @@ const airports = [
       "country": "Oman",
       "iata_code": "MCT",
       "_geoloc": {
-        "lat": 23.593278,
-        "lng": 58.284444
+        "latitude": 23.593278,
+        "longitude": 58.284444
       },
       "links_count": 208,
       "objectID": "2194"
@@ -1913,8 +1913,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "SJU",
       "_geoloc": {
-        "lat": 18.439417,
-        "lng": -66.001833
+        "latitude": 18.439417,
+        "longitude": -66.001833
       },
       "links_count": 204,
       "objectID": "2890"
@@ -1925,8 +1925,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "CMB",
       "_geoloc": {
-        "lat": 7.180756,
-        "lng": 79.884117
+        "latitude": 7.180756,
+        "longitude": 79.884117
       },
       "links_count": 203,
       "objectID": "3024"
@@ -1937,8 +1937,8 @@ const airports = [
       "country": "Latvia",
       "iata_code": "RIX",
       "_geoloc": {
-        "lat": 56.923611,
-        "lng": 23.971111
+        "latitude": 56.923611,
+        "longitude": 23.971111
       },
       "links_count": 202,
       "objectID": "3953"
@@ -1949,8 +1949,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "KBP",
       "_geoloc": {
-        "lat": 50.345,
-        "lng": 30.894722
+        "latitude": 50.345,
+        "longitude": 30.894722
       },
       "links_count": 202,
       "objectID": "2939"
@@ -1961,8 +1961,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "OPO",
       "_geoloc": {
-        "lat": 41.248055,
-        "lng": -8.681389
+        "latitude": 41.248055,
+        "longitude": -8.681389
       },
       "links_count": 202,
       "objectID": "1636"
@@ -1973,8 +1973,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "IBZ",
       "_geoloc": {
-        "lat": 38.872858,
-        "lng": 1.373117
+        "latitude": 38.872858,
+        "longitude": 1.373117
       },
       "links_count": 202,
       "objectID": "1225"
@@ -1985,8 +1985,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "DPS",
       "_geoloc": {
-        "lat": -8.748169,
-        "lng": 115.167172
+        "latitude": -8.748169,
+        "longitude": 115.167172
       },
       "links_count": 201,
       "objectID": "3940"
@@ -1997,8 +1997,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BRS",
       "_geoloc": {
-        "lat": 51.382669,
-        "lng": -2.719089
+        "latitude": 51.382669,
+        "longitude": -2.719089
       },
       "links_count": 200,
       "objectID": "490"
@@ -2009,8 +2009,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SVX",
       "_geoloc": {
-        "lat": 56.743108,
-        "lng": 60.802728
+        "latitude": 56.743108,
+        "longitude": 60.802728
       },
       "links_count": 199,
       "objectID": "2975"
@@ -2021,8 +2021,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BSB",
       "_geoloc": {
-        "lat": -15.8711,
-        "lng": -47.918625
+        "latitude": -15.8711,
+        "longitude": -47.918625
       },
       "links_count": 197,
       "objectID": "2531"
@@ -2033,8 +2033,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "GLA",
       "_geoloc": {
-        "lat": 55.871944,
-        "lng": -4.433056
+        "latitude": 55.871944,
+        "longitude": -4.433056
       },
       "links_count": 196,
       "objectID": "534"
@@ -2045,8 +2045,8 @@ const airports = [
       "country": "India",
       "iata_code": "BLR",
       "_geoloc": {
-        "lat": 12.949986,
-        "lng": 77.668206
+        "latitude": 12.949986,
+        "longitude": 77.668206
       },
       "links_count": 195,
       "objectID": "3131"
@@ -2057,8 +2057,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "SHJ",
       "_geoloc": {
-        "lat": 25.328575,
-        "lng": 55.51715
+        "latitude": 25.328575,
+        "longitude": 55.51715
       },
       "links_count": 195,
       "objectID": "2191"
@@ -2069,8 +2069,8 @@ const airports = [
       "country": "Hungary",
       "iata_code": "BUD",
       "_geoloc": {
-        "lat": 47.436933,
-        "lng": 19.255592
+        "latitude": 47.436933,
+        "longitude": 19.255592
       },
       "links_count": 195,
       "objectID": "1489"
@@ -2081,8 +2081,8 @@ const airports = [
       "country": "India",
       "iata_code": "CCU",
       "_geoloc": {
-        "lat": 22.654739,
-        "lng": 88.446722
+        "latitude": 22.654739,
+        "longitude": 88.446722
       },
       "links_count": 194,
       "objectID": "3043"
@@ -2093,8 +2093,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GIG",
       "_geoloc": {
-        "lat": -22.808903,
-        "lng": -43.243647
+        "latitude": -22.808903,
+        "longitude": -43.243647
       },
       "links_count": 194,
       "objectID": "2560"
@@ -2105,8 +2105,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "EMA",
       "_geoloc": {
-        "lat": 52.831111,
-        "lng": -1.328056
+        "latitude": 52.831111,
+        "longitude": -1.328056
       },
       "links_count": 192,
       "objectID": "523"
@@ -2117,8 +2117,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "FUE",
       "_geoloc": {
-        "lat": 28.452717,
-        "lng": -13.863761
+        "latitude": 28.452717,
+        "longitude": -13.863761
       },
       "links_count": 192,
       "objectID": "1051"
@@ -2129,8 +2129,8 @@ const airports = [
       "country": "Cyprus",
       "iata_code": "LCA",
       "_geoloc": {
-        "lat": 34.875117,
-        "lng": 33.62485
+        "latitude": 34.875117,
+        "longitude": 33.62485
       },
       "links_count": 190,
       "objectID": "1197"
@@ -2141,8 +2141,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "BSL",
       "_geoloc": {
-        "lat": 47.59,
-        "lng": 7.529167
+        "latitude": 47.59,
+        "longitude": 7.529167
       },
       "links_count": 189,
       "objectID": "4053"
@@ -2153,8 +2153,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "GDL",
       "_geoloc": {
-        "lat": 20.5218,
-        "lng": -103.311167
+        "latitude": 20.5218,
+        "longitude": -103.311167
       },
       "links_count": 185,
       "objectID": "1804"
@@ -2165,8 +2165,8 @@ const airports = [
       "country": "France",
       "iata_code": "NTE",
       "_geoloc": {
-        "lat": 47.153189,
-        "lng": -1.610725
+        "latitude": 47.153189,
+        "longitude": -1.610725
       },
       "links_count": 183,
       "objectID": "1418"
@@ -2177,8 +2177,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PER",
       "_geoloc": {
-        "lat": -31.940278,
-        "lng": 115.966944
+        "latitude": -31.940278,
+        "longitude": 115.966944
       },
       "links_count": 182,
       "objectID": "3351"
@@ -2189,8 +2189,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "CCS",
       "_geoloc": {
-        "lat": 10.603117,
-        "lng": -66.990583
+        "latitude": 10.603117,
+        "longitude": -66.990583
       },
       "links_count": 181,
       "objectID": "2851"
@@ -2201,8 +2201,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OVB",
       "_geoloc": {
-        "lat": 55.012622,
-        "lng": 82.650656
+        "latitude": 55.012622,
+        "longitude": 82.650656
       },
       "links_count": 177,
       "objectID": "4078"
@@ -2213,8 +2213,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "ALG",
       "_geoloc": {
-        "lat": 36.691014,
-        "lng": 3.215408
+        "latitude": 36.691014,
+        "longitude": 3.215408
       },
       "links_count": 176,
       "objectID": "210"
@@ -2225,8 +2225,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "BLQ",
       "_geoloc": {
-        "lat": 44.535444,
-        "lng": 11.288667
+        "latitude": 44.535444,
+        "longitude": 11.288667
       },
       "links_count": 176,
       "objectID": "1538"
@@ -2237,8 +2237,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "TUN",
       "_geoloc": {
-        "lat": 36.851033,
-        "lng": 10.227217
+        "latitude": 36.851033,
+        "longitude": 10.227217
       },
       "links_count": 175,
       "objectID": "287"
@@ -2249,8 +2249,8 @@ const airports = [
       "country": "China",
       "iata_code": "HET",
       "_geoloc": {
-        "lat": 40.851422,
-        "lng": 111.824103
+        "latitude": 40.851422,
+        "longitude": 111.824103
       },
       "links_count": 174,
       "objectID": "6345"
@@ -2261,8 +2261,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "HAN",
       "_geoloc": {
-        "lat": 21.221192,
-        "lng": 105.807178
+        "latitude": 21.221192,
+        "longitude": 105.807178
       },
       "links_count": 174,
       "objectID": "3199"
@@ -2273,8 +2273,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "SKG",
       "_geoloc": {
-        "lat": 40.519725,
-        "lng": 22.97095
+        "latitude": 40.519725,
+        "longitude": 22.97095
       },
       "links_count": 174,
       "objectID": "1486"
@@ -2285,8 +2285,8 @@ const airports = [
       "country": "China",
       "iata_code": "KHN",
       "_geoloc": {
-        "lat": 28.865,
-        "lng": 115.9
+        "latitude": 28.865,
+        "longitude": 115.9
       },
       "links_count": 172,
       "objectID": "3384"
@@ -2297,8 +2297,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VKO",
       "_geoloc": {
-        "lat": 55.591531,
-        "lng": 37.261486
+        "latitude": 55.591531,
+        "longitude": 37.261486
       },
       "links_count": 171,
       "objectID": "2988"
@@ -2309,8 +2309,8 @@ const airports = [
       "country": "Serbia",
       "iata_code": "BEG",
       "_geoloc": {
-        "lat": 44.818444,
-        "lng": 20.309139
+        "latitude": 44.818444,
+        "longitude": 20.309139
       },
       "links_count": 171,
       "objectID": "1739"
@@ -2321,8 +2321,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "FUK",
       "_geoloc": {
-        "lat": 33.585942,
-        "lng": 130.450686
+        "latitude": 33.585942,
+        "longitude": 130.450686
       },
       "links_count": 170,
       "objectID": "2305"
@@ -2333,8 +2333,8 @@ const airports = [
       "country": "Bahrain",
       "iata_code": "BAH",
       "_geoloc": {
-        "lat": 26.270834,
-        "lng": 50.63361
+        "latitude": 26.270834,
+        "longitude": 50.63361
       },
       "links_count": 170,
       "objectID": "2057"
@@ -2345,8 +2345,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "NGO",
       "_geoloc": {
-        "lat": 34.858414,
-        "lng": 136.805408
+        "latitude": 34.858414,
+        "longitude": 136.805408
       },
       "links_count": 169,
       "objectID": "3942"
@@ -2357,8 +2357,8 @@ const airports = [
       "country": "China",
       "iata_code": "LHW",
       "_geoloc": {
-        "lat": 36.117,
-        "lng": 103.617
+        "latitude": 36.117,
+        "longitude": 103.617
       },
       "links_count": 168,
       "objectID": "6431"
@@ -2369,8 +2369,8 @@ const airports = [
       "country": "China",
       "iata_code": "NGB",
       "_geoloc": {
-        "lat": 29.826683,
-        "lng": 121.461906
+        "latitude": 29.826683,
+        "longitude": 121.461906
       },
       "links_count": 168,
       "objectID": "3387"
@@ -2381,8 +2381,8 @@ const airports = [
       "country": "Belgium",
       "iata_code": "CRL",
       "_geoloc": {
-        "lat": 50.459197,
-        "lng": 4.453817
+        "latitude": 50.459197,
+        "longitude": 4.453817
       },
       "links_count": 168,
       "objectID": "304"
@@ -2393,8 +2393,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "RHO",
       "_geoloc": {
-        "lat": 36.405419,
-        "lng": 28.086192
+        "latitude": 36.405419,
+        "longitude": 28.086192
       },
       "links_count": 168,
       "objectID": "1472"
@@ -2405,8 +2405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AUS",
       "_geoloc": {
-        "lat": 30.194528,
-        "lng": -97.669889
+        "latitude": 30.194528,
+        "longitude": -97.669889
       },
       "links_count": 167,
       "objectID": "3673"
@@ -2417,8 +2417,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RDU",
       "_geoloc": {
-        "lat": 35.877639,
-        "lng": -78.787472
+        "latitude": 35.877639,
+        "longitude": -78.787472
       },
       "links_count": 167,
       "objectID": "3626"
@@ -2429,8 +2429,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "NCL",
       "_geoloc": {
-        "lat": 55.0375,
-        "lng": -1.691667
+        "latitude": 55.0375,
+        "longitude": -1.691667
       },
       "links_count": 165,
       "objectID": "521"
@@ -2441,8 +2441,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "SXF",
       "_geoloc": {
-        "lat": 52.380001,
-        "lng": 13.5225
+        "latitude": 52.380001,
+        "longitude": 13.5225
       },
       "links_count": 165,
       "objectID": "337"
@@ -2453,8 +2453,8 @@ const airports = [
       "country": "China",
       "iata_code": "SJW",
       "_geoloc": {
-        "lat": 38.280686,
-        "lng": 114.6973
+        "latitude": 38.280686,
+        "longitude": 114.6973
       },
       "links_count": 164,
       "objectID": "6347"
@@ -2465,8 +2465,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BNA",
       "_geoloc": {
-        "lat": 36.124472,
-        "lng": -86.678194
+        "latitude": 36.124472,
+        "longitude": -86.678194
       },
       "links_count": 164,
       "objectID": "3690"
@@ -2477,8 +2477,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "DMM",
       "_geoloc": {
-        "lat": 26.471161,
-        "lng": 49.79789
+        "latitude": 26.471161,
+        "longitude": 49.79789
       },
       "links_count": 164,
       "objectID": "2064"
@@ -2489,8 +2489,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "VLC",
       "_geoloc": {
-        "lat": 39.489314,
-        "lng": -0.481625
+        "latitude": 39.489314,
+        "longitude": -0.481625
       },
       "links_count": 163,
       "objectID": "1246"
@@ -2501,8 +2501,8 @@ const airports = [
       "country": "China",
       "iata_code": "WNZ",
       "_geoloc": {
-        "lat": 27.9122,
-        "lng": 120.852
+        "latitude": 27.9122,
+        "longitude": 120.852
       },
       "links_count": 162,
       "objectID": "6392"
@@ -2513,8 +2513,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "CTS",
       "_geoloc": {
-        "lat": 42.7752,
-        "lng": 141.692283
+        "latitude": 42.7752,
+        "longitude": 141.692283
       },
       "links_count": 162,
       "objectID": "2287"
@@ -2525,8 +2525,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "BGY",
       "_geoloc": {
-        "lat": 45.673889,
-        "lng": 9.704166
+        "latitude": 45.673889,
+        "longitude": 9.704166
       },
       "links_count": 162,
       "objectID": "1525"
@@ -2537,8 +2537,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CLE",
       "_geoloc": {
-        "lat": 41.411689,
-        "lng": -81.849794
+        "latitude": 41.411689,
+        "longitude": -81.849794
       },
       "links_count": 161,
       "objectID": "3486"
@@ -2549,8 +2549,8 @@ const airports = [
       "country": "France",
       "iata_code": "TLS",
       "_geoloc": {
-        "lat": 43.629075,
-        "lng": 1.363819
+        "latitude": 43.629075,
+        "longitude": 1.363819
       },
       "links_count": 161,
       "objectID": "1273"
@@ -2561,8 +2561,8 @@ const airports = [
       "country": "China",
       "iata_code": "NAY",
       "_geoloc": {
-        "lat": 39.7825,
-        "lng": 116.387778
+        "latitude": 39.7825,
+        "longitude": 116.387778
       },
       "links_count": 160,
       "objectID": "6341"
@@ -2573,8 +2573,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LBA",
       "_geoloc": {
-        "lat": 53.865897,
-        "lng": -1.660569
+        "latitude": 53.865897,
+        "longitude": -1.660569
       },
       "links_count": 160,
       "objectID": "517"
@@ -2585,8 +2585,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "TAS",
       "_geoloc": {
-        "lat": 41.257861,
-        "lng": 69.281186
+        "latitude": 41.257861,
+        "longitude": 69.281186
       },
       "links_count": 160,
       "objectID": "2983"
@@ -2597,8 +2597,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "PUS",
       "_geoloc": {
-        "lat": 35.179528,
-        "lng": 128.938222
+        "latitude": 35.179528,
+        "longitude": 128.938222
       },
       "links_count": 160,
       "objectID": "2372"
@@ -2609,8 +2609,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCI",
       "_geoloc": {
-        "lat": 39.297606,
-        "lng": -94.713905
+        "latitude": 39.297606,
+        "longitude": -94.713905
       },
       "links_count": 159,
       "objectID": "3458"
@@ -2621,8 +2621,8 @@ const airports = [
       "country": "Macau",
       "iata_code": "MFM",
       "_geoloc": {
-        "lat": 22.149556,
-        "lng": 113.591558
+        "latitude": 22.149556,
+        "longitude": 113.591558
       },
       "links_count": 158,
       "objectID": "3121"
@@ -2633,8 +2633,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "SCL",
       "_geoloc": {
-        "lat": -33.392975,
-        "lng": -70.785803
+        "latitude": -33.392975,
+        "longitude": -70.785803
       },
       "links_count": 158,
       "objectID": "2650"
@@ -2645,8 +2645,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "NAP",
       "_geoloc": {
-        "lat": 40.886033,
-        "lng": 14.290781
+        "latitude": 40.886033,
+        "longitude": 14.290781
       },
       "links_count": 158,
       "objectID": "1561"
@@ -2657,8 +2657,8 @@ const airports = [
       "country": "China",
       "iata_code": "HFE",
       "_geoloc": {
-        "lat": 31.780019,
-        "lng": 117.298436
+        "latitude": 31.780019,
+        "longitude": 117.298436
       },
       "links_count": 154,
       "objectID": "3389"
@@ -2669,8 +2669,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "HAJ",
       "_geoloc": {
-        "lat": 52.461056,
-        "lng": 9.685078
+        "latitude": 52.461056,
+        "longitude": 9.685078
       },
       "links_count": 152,
       "objectID": "352"
@@ -2681,8 +2681,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PSA",
       "_geoloc": {
-        "lat": 43.683917,
-        "lng": 10.39275
+        "latitude": 43.683917,
+        "longitude": 10.39275
       },
       "links_count": 152,
       "objectID": "1562"
@@ -2693,8 +2693,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CVG",
       "_geoloc": {
-        "lat": 39.048836,
-        "lng": -84.667822
+        "latitude": 39.048836,
+        "longitude": -84.667822
       },
       "links_count": 150,
       "objectID": "3488"
@@ -2705,8 +2705,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "EZE",
       "_geoloc": {
-        "lat": -34.822222,
-        "lng": -58.535833
+        "latitude": -34.822222,
+        "longitude": -58.535833
       },
       "links_count": 149,
       "objectID": "3988"
@@ -2717,8 +2717,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HOU",
       "_geoloc": {
-        "lat": 29.645419,
-        "lng": -95.278889
+        "latitude": 29.645419,
+        "longitude": -95.278889
       },
       "links_count": 149,
       "objectID": "3566"
@@ -2729,8 +2729,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "SJO",
       "_geoloc": {
-        "lat": 9.993861,
-        "lng": -84.208806
+        "latitude": 9.993861,
+        "longitude": -84.208806
       },
       "links_count": 149,
       "objectID": "1885"
@@ -2741,8 +2741,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIT",
       "_geoloc": {
-        "lat": 40.491467,
-        "lng": -80.232872
+        "latitude": 40.491467,
+        "longitude": -80.232872
       },
       "links_count": 148,
       "objectID": "3570"
@@ -2753,8 +2753,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "DAC",
       "_geoloc": {
-        "lat": 23.843333,
-        "lng": 90.397781
+        "latitude": 23.843333,
+        "longitude": 90.397781
       },
       "links_count": 148,
       "objectID": "3076"
@@ -2765,8 +2765,8 @@ const airports = [
       "country": "India",
       "iata_code": "HYD",
       "_geoloc": {
-        "lat": 17.453117,
-        "lng": 78.467586
+        "latitude": 17.453117,
+        "longitude": 78.467586
       },
       "links_count": 147,
       "objectID": "3141"
@@ -2777,8 +2777,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MTY",
       "_geoloc": {
-        "lat": 25.778489,
-        "lng": -100.106878
+        "latitude": 25.778489,
+        "longitude": -100.106878
       },
       "links_count": 145,
       "objectID": "1825"
@@ -2789,8 +2789,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "RAK",
       "_geoloc": {
-        "lat": 31.606886,
-        "lng": -8.0363
+        "latitude": 31.606886,
+        "longitude": -8.0363
       },
       "links_count": 145,
       "objectID": "1075"
@@ -2801,8 +2801,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "PUJ",
       "_geoloc": {
-        "lat": 18.567367,
-        "lng": -68.363431
+        "latitude": 18.567367,
+        "longitude": -68.363431
       },
       "links_count": 143,
       "objectID": "1760"
@@ -2813,8 +2813,8 @@ const airports = [
       "country": "Luxembourg",
       "iata_code": "LUX",
       "_geoloc": {
-        "lat": 49.626575,
-        "lng": 6.211517
+        "latitude": 49.626575,
+        "longitude": 6.211517
       },
       "links_count": 140,
       "objectID": "629"
@@ -2825,8 +2825,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YEG",
       "_geoloc": {
-        "lat": 53.309723,
-        "lng": -113.579722
+        "latitude": 53.309723,
+        "longitude": -113.579722
       },
       "links_count": 139,
       "objectID": "49"
@@ -2837,8 +2837,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IND",
       "_geoloc": {
-        "lat": 39.717331,
-        "lng": -86.294383
+        "latitude": 39.717331,
+        "longitude": -86.294383
       },
       "links_count": 138,
       "objectID": "3585"
@@ -2849,8 +2849,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "HKT",
       "_geoloc": {
-        "lat": 8.1132,
-        "lng": 98.316872
+        "latitude": 8.1132,
+        "longitude": 98.316872
       },
       "links_count": 138,
       "objectID": "3179"
@@ -2861,8 +2861,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BGO",
       "_geoloc": {
-        "lat": 60.293386,
-        "lng": 5.218142
+        "latitude": 60.293386,
+        "longitude": 5.218142
       },
       "links_count": 137,
       "objectID": "636"
@@ -2873,8 +2873,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SAT",
       "_geoloc": {
-        "lat": 29.533694,
-        "lng": -98.469778
+        "latitude": 29.533694,
+        "longitude": -98.469778
       },
       "links_count": 136,
       "objectID": "3621"
@@ -2885,8 +2885,8 @@ const airports = [
       "country": "Netherlands",
       "iata_code": "EIN",
       "_geoloc": {
-        "lat": 51.450139,
-        "lng": 5.374528
+        "latitude": 51.450139,
+        "longitude": 5.374528
       },
       "links_count": 135,
       "objectID": "585"
@@ -2897,8 +2897,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "NAS",
       "_geoloc": {
-        "lat": 25.038958,
-        "lng": -77.466231
+        "latitude": 25.038958,
+        "longitude": -77.466231
       },
       "links_count": 135,
       "objectID": "1953"
@@ -2909,8 +2909,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "DMK",
       "_geoloc": {
-        "lat": 13.912583,
-        "lng": 100.60675
+        "latitude": 13.912583,
+        "longitude": 100.60675
       },
       "links_count": 134,
       "objectID": "3157"
@@ -2921,8 +2921,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "ALA",
       "_geoloc": {
-        "lat": 43.352072,
-        "lng": 77.040508
+        "latitude": 43.352072,
+        "longitude": 77.040508
       },
       "links_count": 134,
       "objectID": "2908"
@@ -2933,8 +2933,8 @@ const airports = [
       "country": "France",
       "iata_code": "BOD",
       "_geoloc": {
-        "lat": 44.828335,
-        "lng": -0.715556
+        "latitude": 44.828335,
+        "longitude": -0.715556
       },
       "links_count": 134,
       "objectID": "1264"
@@ -2945,8 +2945,8 @@ const airports = [
       "country": "Senegal",
       "iata_code": "DKR",
       "_geoloc": {
-        "lat": 14.739708,
-        "lng": -17.490225
+        "latitude": 14.739708,
+        "longitude": -17.490225
       },
       "links_count": 134,
       "objectID": "1084"
@@ -2957,8 +2957,8 @@ const airports = [
       "country": "Lebanon",
       "iata_code": "BEY",
       "_geoloc": {
-        "lat": 33.820931,
-        "lng": 35.488389
+        "latitude": 33.820931,
+        "longitude": 35.488389
       },
       "links_count": 133,
       "objectID": "2177"
@@ -2969,8 +2969,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ADB",
       "_geoloc": {
-        "lat": 38.292392,
-        "lng": 27.156953
+        "latitude": 38.292392,
+        "longitude": 27.156953
       },
       "links_count": 133,
       "objectID": "1706"
@@ -2981,8 +2981,8 @@ const airports = [
       "country": "Bulgaria",
       "iata_code": "SOF",
       "_geoloc": {
-        "lat": 42.695194,
-        "lng": 23.406167
+        "latitude": 42.695194,
+        "longitude": 23.406167
       },
       "links_count": 132,
       "objectID": "1194"
@@ -2993,8 +2993,8 @@ const airports = [
       "country": "China",
       "iata_code": "CGQ",
       "_geoloc": {
-        "lat": 43.5412,
-        "lng": 125.1201
+        "latitude": 43.5412,
+        "longitude": 125.1201
       },
       "links_count": 131,
       "objectID": "4380"
@@ -3005,8 +3005,8 @@ const airports = [
       "country": "China",
       "iata_code": "INC",
       "_geoloc": {
-        "lat": 38.481944,
-        "lng": 106.009167
+        "latitude": 38.481944,
+        "longitude": 106.009167
       },
       "links_count": 131,
       "objectID": "4085"
@@ -3017,8 +3017,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "SUB",
       "_geoloc": {
-        "lat": -7.379831,
-        "lng": 112.786858
+        "latitude": -7.379831,
+        "longitude": 112.786858
       },
       "links_count": 131,
       "objectID": "3928"
@@ -3029,8 +3029,8 @@ const airports = [
       "country": "China",
       "iata_code": "LJG",
       "_geoloc": {
-        "lat": 26.883333,
-        "lng": 100.23333
+        "latitude": 26.883333,
+        "longitude": 100.23333
       },
       "links_count": 129,
       "objectID": "4033"
@@ -3041,8 +3041,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "KHH",
       "_geoloc": {
-        "lat": 22.577094,
-        "lng": 120.350006
+        "latitude": 22.577094,
+        "longitude": 120.350006
       },
       "links_count": 129,
       "objectID": "2264"
@@ -3053,8 +3053,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LCY",
       "_geoloc": {
-        "lat": 51.505278,
-        "lng": 0.055278
+        "latitude": 51.505278,
+        "longitude": 0.055278
       },
       "links_count": 128,
       "objectID": "503"
@@ -3065,8 +3065,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "MHD",
       "_geoloc": {
-        "lat": 36.234,
-        "lng": 59.643
+        "latitude": 36.234,
+        "longitude": 59.643
       },
       "links_count": 128,
       "objectID": "4331"
@@ -3077,8 +3077,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RSW",
       "_geoloc": {
-        "lat": 26.536167,
-        "lng": -81.755167
+        "latitude": 26.536167,
+        "longitude": -81.755167
       },
       "links_count": 128,
       "objectID": "3793"
@@ -3089,8 +3089,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CMH",
       "_geoloc": {
-        "lat": 39.997972,
-        "lng": -82.891889
+        "latitude": 39.997972,
+        "longitude": -82.891889
       },
       "links_count": 128,
       "objectID": "3759"
@@ -3101,8 +3101,8 @@ const airports = [
       "country": "Azerbaijan",
       "iata_code": "GYD",
       "_geoloc": {
-        "lat": 40.4675,
-        "lng": 50.046667
+        "latitude": 40.4675,
+        "longitude": 50.046667
       },
       "links_count": 128,
       "objectID": "2922"
@@ -3113,8 +3113,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "AEP",
       "_geoloc": {
-        "lat": -34.559175,
-        "lng": -58.415606
+        "latitude": -34.559175,
+        "longitude": -58.415606
       },
       "links_count": 128,
       "objectID": "2442"
@@ -3125,8 +3125,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "BIO",
       "_geoloc": {
-        "lat": 43.301097,
-        "lng": -2.910608
+        "latitude": 43.301097,
+        "longitude": -2.910608
       },
       "links_count": 128,
       "objectID": "1216"
@@ -3137,8 +3137,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "SVQ",
       "_geoloc": {
-        "lat": 37.418,
-        "lng": -5.893106
+        "latitude": 37.418,
+        "longitude": -5.893106
       },
       "links_count": 127,
       "objectID": "1253"
@@ -3149,8 +3149,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PMO",
       "_geoloc": {
-        "lat": 38.175958,
-        "lng": 13.091019
+        "latitude": 38.175958,
+        "longitude": 13.091019
       },
       "links_count": 126,
       "objectID": "1512"
@@ -3161,8 +3161,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MKE",
       "_geoloc": {
-        "lat": 42.947222,
-        "lng": -87.896583
+        "latitude": 42.947222,
+        "longitude": -87.896583
       },
       "links_count": 125,
       "objectID": "3717"
@@ -3173,8 +3173,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "KHI",
       "_geoloc": {
-        "lat": 24.906547,
-        "lng": 67.160797
+        "latitude": 24.906547,
+        "longitude": 67.160797
       },
       "links_count": 125,
       "objectID": "2206"
@@ -3185,8 +3185,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "THR",
       "_geoloc": {
-        "lat": 35.689167,
-        "lng": 51.313416
+        "latitude": 35.689167,
+        "longitude": 51.313416
       },
       "links_count": 125,
       "objectID": "2131"
@@ -3197,8 +3197,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "OKA",
       "_geoloc": {
-        "lat": 26.195814,
-        "lng": 127.645869
+        "latitude": 26.195814,
+        "longitude": 127.645869
       },
       "links_count": 123,
       "objectID": "2384"
@@ -3209,8 +3209,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "IKA",
       "_geoloc": {
-        "lat": 35.416111,
-        "lng": 51.152222
+        "latitude": 35.416111,
+        "longitude": 51.152222
       },
       "links_count": 122,
       "objectID": "4330"
@@ -3221,8 +3221,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "DBV",
       "_geoloc": {
-        "lat": 42.561353,
-        "lng": 18.268244
+        "latitude": 42.561353,
+        "longitude": 18.268244
       },
       "links_count": 121,
       "objectID": "1200"
@@ -3233,8 +3233,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SJC",
       "_geoloc": {
-        "lat": 37.3626,
-        "lng": -121.929022
+        "latitude": 37.3626,
+        "longitude": -121.929022
       },
       "links_count": 120,
       "objectID": "3748"
@@ -3245,8 +3245,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "LIN",
       "_geoloc": {
-        "lat": 45.445103,
-        "lng": 9.276739
+        "latitude": 45.445103,
+        "longitude": 9.276739
       },
       "links_count": 120,
       "objectID": "1529"
@@ -3257,8 +3257,8 @@ const airports = [
       "country": "France",
       "iata_code": "BVA",
       "_geoloc": {
-        "lat": 49.454444,
-        "lng": 2.112778
+        "latitude": 49.454444,
+        "longitude": 2.112778
       },
       "links_count": 120,
       "objectID": "1367"
@@ -3269,8 +3269,8 @@ const airports = [
       "country": "China",
       "iata_code": "ZUH",
       "_geoloc": {
-        "lat": 22.0064,
-        "lng": 113.376
+        "latitude": 22.0064,
+        "longitude": 113.376
       },
       "links_count": 119,
       "objectID": "6355"
@@ -3281,8 +3281,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "LOS",
       "_geoloc": {
-        "lat": 6.577369,
-        "lng": 3.321156
+        "latitude": 6.577369,
+        "longitude": 3.321156
       },
       "links_count": 119,
       "objectID": "273"
@@ -3293,8 +3293,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ANC",
       "_geoloc": {
-        "lat": 61.174361,
-        "lng": -149.996361
+        "latitude": 61.174361,
+        "longitude": -149.996361
       },
       "links_count": 118,
       "objectID": "3774"
@@ -3305,8 +3305,8 @@ const airports = [
       "country": "India",
       "iata_code": "COK",
       "_geoloc": {
-        "lat": 10.155556,
-        "lng": 76.391389
+        "latitude": 10.155556,
+        "longitude": 76.391389
       },
       "links_count": 118,
       "objectID": "3136"
@@ -3317,8 +3317,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "CJU",
       "_geoloc": {
-        "lat": 33.511306,
-        "lng": 126.493028
+        "latitude": 33.511306,
+        "longitude": 126.493028
       },
       "links_count": 118,
       "objectID": "2370"
@@ -3329,8 +3329,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "ISB",
       "_geoloc": {
-        "lat": 33.616653,
-        "lng": 73.099233
+        "latitude": 33.616653,
+        "longitude": 73.099233
       },
       "links_count": 117,
       "objectID": "2223"
@@ -3341,8 +3341,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LPL",
       "_geoloc": {
-        "lat": 53.333611,
-        "lng": -2.849722
+        "latitude": 53.333611,
+        "longitude": -2.849722
       },
       "links_count": 116,
       "objectID": "491"
@@ -3353,8 +3353,8 @@ const airports = [
       "country": "Lithuania",
       "iata_code": "VNO",
       "_geoloc": {
-        "lat": 54.634133,
-        "lng": 25.285767
+        "latitude": 54.634133,
+        "longitude": 25.285767
       },
       "links_count": 116,
       "objectID": "3959"
@@ -3365,8 +3365,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SSA",
       "_geoloc": {
-        "lat": -12.910994,
-        "lng": -38.331044
+        "latitude": -12.910994,
+        "longitude": -38.331044
       },
       "links_count": 116,
       "objectID": "2621"
@@ -3377,8 +3377,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "DLM",
       "_geoloc": {
-        "lat": 36.713056,
-        "lng": 28.7925
+        "latitude": 36.713056,
+        "longitude": 28.7925
       },
       "links_count": 116,
       "objectID": "1715"
@@ -3389,8 +3389,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "KRK",
       "_geoloc": {
-        "lat": 50.077731,
-        "lng": 19.784836
+        "latitude": 50.077731,
+        "longitude": 19.784836
       },
       "links_count": 114,
       "objectID": "669"
@@ -3401,8 +3401,8 @@ const airports = [
       "country": "Netherlands Antilles",
       "iata_code": "SXM",
       "_geoloc": {
-        "lat": 18.040953,
-        "lng": -63.1089
+        "latitude": 18.040953,
+        "longitude": -63.1089
       },
       "links_count": 114,
       "objectID": "2899"
@@ -3413,8 +3413,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "VCP",
       "_geoloc": {
-        "lat": -23.0075,
-        "lng": -47.134444
+        "latitude": -23.0075,
+        "longitude": -47.134444
       },
       "links_count": 114,
       "objectID": "2578"
@@ -3425,8 +3425,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MEM",
       "_geoloc": {
-        "lat": 35.042417,
-        "lng": -89.976667
+        "latitude": 35.042417,
+        "longitude": -89.976667
       },
       "links_count": 112,
       "objectID": "3473"
@@ -3437,8 +3437,8 @@ const airports = [
       "country": "China",
       "iata_code": "YNT",
       "_geoloc": {
-        "lat": 37.401667,
-        "lng": 121.371667
+        "latitude": 37.401667,
+        "longitude": 121.371667
       },
       "links_count": 112,
       "objectID": "3392"
@@ -3449,8 +3449,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "UPG",
       "_geoloc": {
-        "lat": -5.061631,
-        "lng": 119.554042
+        "latitude": -5.061631,
+        "longitude": 119.554042
       },
       "links_count": 112,
       "objectID": "3240"
@@ -3461,8 +3461,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OAK",
       "_geoloc": {
-        "lat": 37.721278,
-        "lng": -122.220722
+        "latitude": 37.721278,
+        "longitude": -122.220722
       },
       "links_count": 111,
       "objectID": "3453"
@@ -3473,8 +3473,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "LHE",
       "_geoloc": {
-        "lat": 31.521564,
-        "lng": 74.403594
+        "latitude": 31.521564,
+        "longitude": 74.403594
       },
       "links_count": 111,
       "objectID": "2207"
@@ -3485,8 +3485,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CNS",
       "_geoloc": {
-        "lat": -16.885833,
-        "lng": 145.755278
+        "latitude": -16.885833,
+        "longitude": 145.755278
       },
       "links_count": 110,
       "objectID": "3322"
@@ -3497,8 +3497,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CNF",
       "_geoloc": {
-        "lat": -19.63375,
-        "lng": -43.968856
+        "latitude": -19.63375,
+        "longitude": -43.968856
       },
       "links_count": 110,
       "objectID": "2537"
@@ -3509,8 +3509,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SMF",
       "_geoloc": {
-        "lat": 38.695417,
-        "lng": -121.590778
+        "latitude": 38.695417,
+        "longitude": -121.590778
       },
       "links_count": 108,
       "objectID": "3817"
@@ -3521,8 +3521,8 @@ const airports = [
       "country": "Belarus",
       "iata_code": "MSQ",
       "_geoloc": {
-        "lat": 53.882469,
-        "lng": 28.030731
+        "latitude": 53.882469,
+        "longitude": 28.030731
       },
       "links_count": 108,
       "objectID": "2954"
@@ -3533,8 +3533,8 @@ const airports = [
       "country": "Ghana",
       "iata_code": "ACC",
       "_geoloc": {
-        "lat": 5.605186,
-        "lng": -0.166786
+        "latitude": 5.605186,
+        "longitude": -0.166786
       },
       "links_count": 107,
       "objectID": "248"
@@ -3545,8 +3545,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "GOT",
       "_geoloc": {
-        "lat": 57.662836,
-        "lng": 12.279819
+        "latitude": 57.662836,
+        "longitude": 12.279819
       },
       "links_count": 106,
       "objectID": "687"
@@ -3557,8 +3557,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SVG",
       "_geoloc": {
-        "lat": 58.876778,
-        "lng": 5.637856
+        "latitude": 58.876778,
+        "longitude": 5.637856
       },
       "links_count": 106,
       "objectID": "666"
@@ -3569,8 +3569,8 @@ const airports = [
       "country": "Tajikistan",
       "iata_code": "DYU",
       "_geoloc": {
-        "lat": 38.543333,
-        "lng": 68.825
+        "latitude": 38.543333,
+        "longitude": 68.825
       },
       "links_count": 106,
       "objectID": "2979"
@@ -3581,8 +3581,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "FLR",
       "_geoloc": {
-        "lat": 43.809953,
-        "lng": 11.2051
+        "latitude": 43.809953,
+        "longitude": 11.2051
       },
       "links_count": 106,
       "objectID": "1563"
@@ -3593,8 +3593,8 @@ const airports = [
       "country": "El Salvador",
       "iata_code": "SAL",
       "_geoloc": {
-        "lat": 13.440947,
-        "lng": -89.055728
+        "latitude": 13.440947,
+        "longitude": -89.055728
       },
       "links_count": 105,
       "objectID": "1892"
@@ -3605,8 +3605,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ESB",
       "_geoloc": {
-        "lat": 40.128082,
-        "lng": 32.995083
+        "latitude": 40.128082,
+        "longitude": 32.995083
       },
       "links_count": 105,
       "objectID": "1682"
@@ -3617,8 +3617,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "FNC",
       "_geoloc": {
-        "lat": 32.697889,
-        "lng": -16.774453
+        "latitude": 32.697889,
+        "longitude": -16.774453
       },
       "links_count": 104,
       "objectID": "4091"
@@ -3629,8 +3629,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "BKI",
       "_geoloc": {
-        "lat": 5.937208,
-        "lng": 116.051181
+        "latitude": 5.937208,
+        "longitude": 116.051181
       },
       "links_count": 104,
       "objectID": "3269"
@@ -3641,8 +3641,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "TSE",
       "_geoloc": {
-        "lat": 51.022222,
-        "lng": 71.466944
+        "latitude": 51.022222,
+        "longitude": 71.466944
       },
       "links_count": 104,
       "objectID": "2910"
@@ -3653,8 +3653,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "OLB",
       "_geoloc": {
-        "lat": 40.898661,
-        "lng": 9.517628
+        "latitude": 40.898661,
+        "longitude": 9.517628
       },
       "links_count": 104,
       "objectID": "1520"
@@ -3665,8 +3665,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BDL",
       "_geoloc": {
-        "lat": 41.938889,
-        "lng": -72.683222
+        "latitude": 41.938889,
+        "longitude": -72.683222
       },
       "links_count": 103,
       "objectID": "3825"
@@ -3677,8 +3677,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "CFU",
       "_geoloc": {
-        "lat": 39.601944,
-        "lng": 19.911667
+        "latitude": 39.601944,
+        "longitude": 19.911667
       },
       "links_count": 103,
       "objectID": "1460"
@@ -3689,8 +3689,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "POM",
       "_geoloc": {
-        "lat": -9.443383,
-        "lng": 147.22005
+        "latitude": -9.443383,
+        "longitude": 147.22005
       },
       "links_count": 102,
       "objectID": "5"
@@ -3701,8 +3701,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ADL",
       "_geoloc": {
-        "lat": -34.945,
-        "lng": 138.530556
+        "latitude": -34.945,
+        "longitude": 138.530556
       },
       "links_count": 102,
       "objectID": "3341"
@@ -3713,8 +3713,8 @@ const airports = [
       "country": "Cote d'Ivoire",
       "iata_code": "ABJ",
       "_geoloc": {
-        "lat": 5.261386,
-        "lng": -3.926294
+        "latitude": 5.261386,
+        "longitude": -3.926294
       },
       "links_count": 102,
       "objectID": "253"
@@ -3725,8 +3725,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "GDN",
       "_geoloc": {
-        "lat": 54.377569,
-        "lng": 18.466222
+        "latitude": 54.377569,
+        "longitude": 18.466222
       },
       "links_count": 101,
       "objectID": "668"
@@ -3737,8 +3737,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "SJD",
       "_geoloc": {
-        "lat": 23.15185,
-        "lng": -109.721044
+        "latitude": 23.15185,
+        "longitude": -109.721044
       },
       "links_count": 101,
       "objectID": "1840"
@@ -3749,8 +3749,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "BRE",
       "_geoloc": {
-        "lat": 53.0475,
-        "lng": 8.786667
+        "latitude": 53.0475,
+        "longitude": 8.786667
       },
       "links_count": 100,
       "objectID": "353"
@@ -3761,8 +3761,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "CIA",
       "_geoloc": {
-        "lat": 41.799361,
-        "lng": 12.594936
+        "latitude": 41.799361,
+        "longitude": 12.594936
       },
       "links_count": 100,
       "objectID": "1553"
@@ -3773,8 +3773,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "BRI",
       "_geoloc": {
-        "lat": 41.138856,
-        "lng": 16.760594
+        "latitude": 41.138856,
+        "longitude": 16.760594
       },
       "links_count": 100,
       "objectID": "1501"
@@ -3785,8 +3785,8 @@ const airports = [
       "country": "China",
       "iata_code": "XNN",
       "_geoloc": {
-        "lat": 36.5275,
-        "lng": 102.043
+        "latitude": 36.5275,
+        "longitude": 102.043
       },
       "links_count": 99,
       "objectID": "6366"
@@ -3797,8 +3797,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "RGN",
       "_geoloc": {
-        "lat": 16.907305,
-        "lng": 96.133222
+        "latitude": 16.907305,
+        "longitude": 96.133222
       },
       "links_count": 99,
       "objectID": "3239"
@@ -3809,8 +3809,8 @@ const airports = [
       "country": "Cameroon",
       "iata_code": "DLA",
       "_geoloc": {
-        "lat": 4.006081,
-        "lng": 9.719481
+        "latitude": 4.006081,
+        "longitude": 9.719481
       },
       "links_count": 98,
       "objectID": "897"
@@ -3821,8 +3821,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "MED",
       "_geoloc": {
-        "lat": 24.553422,
-        "lng": 39.705061
+        "latitude": 24.553422,
+        "longitude": 39.705061
       },
       "links_count": 98,
       "objectID": "2074"
@@ -3833,8 +3833,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "GRO",
       "_geoloc": {
-        "lat": 41.900969,
-        "lng": 2.760547
+        "latitude": 41.900969,
+        "longitude": 2.760547
       },
       "links_count": 98,
       "objectID": "1222"
@@ -3845,8 +3845,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CEB",
       "_geoloc": {
-        "lat": 10.307542,
-        "lng": 123.979439
+        "latitude": 10.307542,
+        "longitude": 123.979439
       },
       "links_count": 97,
       "objectID": "4206"
@@ -3857,8 +3857,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SFB",
       "_geoloc": {
-        "lat": 28.777639,
-        "lng": -81.237489
+        "latitude": 28.777639,
+        "longitude": -81.237489
       },
       "links_count": 97,
       "objectID": "4167"
@@ -3869,8 +3869,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "SPU",
       "_geoloc": {
-        "lat": 43.538944,
-        "lng": 16.297964
+        "latitude": 43.538944,
+        "longitude": 16.297964
       },
       "links_count": 97,
       "objectID": "1206"
@@ -3881,8 +3881,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHZ",
       "_geoloc": {
-        "lat": 44.880833,
-        "lng": -63.50861
+        "latitude": 44.880833,
+        "longitude": -63.50861
       },
       "links_count": 95,
       "objectID": "73"
@@ -3893,8 +3893,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "CNX",
       "_geoloc": {
-        "lat": 18.766847,
-        "lng": 98.962644
+        "latitude": 18.766847,
+        "longitude": 98.962644
       },
       "links_count": 95,
       "objectID": "3931"
@@ -3905,8 +3905,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "NUE",
       "_geoloc": {
-        "lat": 49.4987,
-        "lng": 11.066897
+        "latitude": 49.4987,
+        "longitude": 11.066897
       },
       "links_count": 95,
       "objectID": "347"
@@ -3917,8 +3917,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "TIP",
       "_geoloc": {
-        "lat": 32.663544,
-        "lng": 13.159011
+        "latitude": 32.663544,
+        "longitude": 13.159011
       },
       "links_count": 95,
       "objectID": "1157"
@@ -3929,8 +3929,8 @@ const airports = [
       "country": "China",
       "iata_code": "WUX",
       "_geoloc": {
-        "lat": 31.4944,
-        "lng": 120.429
+        "latitude": 31.4944,
+        "longitude": 120.429
       },
       "links_count": 94,
       "objectID": "6390"
@@ -3941,8 +3941,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "BLL",
       "_geoloc": {
-        "lat": 55.740322,
-        "lng": 9.151778
+        "latitude": 55.740322,
+        "longitude": 9.151778
       },
       "links_count": 94,
       "objectID": "608"
@@ -3953,8 +3953,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "HHN",
       "_geoloc": {
-        "lat": 49.948672,
-        "lng": 7.263892
+        "latitude": 49.948672,
+        "longitude": 7.263892
       },
       "links_count": 94,
       "objectID": "355"
@@ -3965,8 +3965,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CGH",
       "_geoloc": {
-        "lat": -23.626692,
-        "lng": -46.655375
+        "latitude": -23.626692,
+        "longitude": -46.655375
       },
       "links_count": 94,
       "objectID": "2618"
@@ -3977,8 +3977,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "SDQ",
       "_geoloc": {
-        "lat": 18.429664,
-        "lng": -69.668925
+        "latitude": 18.429664,
+        "longitude": -69.668925
       },
       "links_count": 93,
       "objectID": "1762"
@@ -3989,8 +3989,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "LAD",
       "_geoloc": {
-        "lat": -8.858375,
-        "lng": 13.231178
+        "latitude": -8.858375,
+        "longitude": 13.231178
       },
       "links_count": 92,
       "objectID": "951"
@@ -4001,8 +4001,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "DWC",
       "_geoloc": {
-        "lat": 24.55056,
-        "lng": 55.103174
+        "latitude": 24.55056,
+        "longitude": 55.103174
       },
       "links_count": 92,
       "objectID": "8076"
@@ -4013,8 +4013,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KJA",
       "_geoloc": {
-        "lat": 56.18,
-        "lng": 92.475
+        "latitude": 56.18,
+        "longitude": 92.475
       },
       "links_count": 92,
       "objectID": "4374"
@@ -4025,8 +4025,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "PVR",
       "_geoloc": {
-        "lat": 20.680083,
-        "lng": -105.254167
+        "latitude": 20.680083,
+        "longitude": -105.254167
       },
       "links_count": 92,
       "objectID": "1836"
@@ -4037,8 +4037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JAX",
       "_geoloc": {
-        "lat": 30.494056,
-        "lng": -81.687861
+        "latitude": 30.494056,
+        "longitude": -81.687861
       },
       "links_count": 91,
       "objectID": "3712"
@@ -4049,8 +4049,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KRR",
       "_geoloc": {
-        "lat": 45.034689,
-        "lng": 39.170539
+        "latitude": 45.034689,
+        "longitude": 39.170539
       },
       "links_count": 91,
       "objectID": "2960"
@@ -4061,8 +4061,8 @@ const airports = [
       "country": "Iceland",
       "iata_code": "KEF",
       "_geoloc": {
-        "lat": 63.985,
-        "lng": -22.605556
+        "latitude": 63.985,
+        "longitude": -22.605556
       },
       "links_count": 91,
       "objectID": "16"
@@ -4073,8 +4073,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "NBE",
       "_geoloc": {
-        "lat": 36.075833,
-        "lng": 10.438611
+        "latitude": 36.075833,
+        "longitude": 10.438611
       },
       "links_count": 90,
       "objectID": "7447"
@@ -4085,8 +4085,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "DRW",
       "_geoloc": {
-        "lat": -12.4083333,
-        "lng": 130.87266
+        "latitude": -12.4083333,
+        "longitude": 130.87266
       },
       "links_count": 90,
       "objectID": "3999"
@@ -4097,8 +4097,8 @@ const airports = [
       "country": "Armenia",
       "iata_code": "EVN",
       "_geoloc": {
-        "lat": 40.147275,
-        "lng": 44.395881
+        "latitude": 40.147275,
+        "longitude": 44.395881
       },
       "links_count": 90,
       "objectID": "3964"
@@ -4109,8 +4109,8 @@ const airports = [
       "country": "Kyrgyzstan",
       "iata_code": "FRU",
       "_geoloc": {
-        "lat": 43.061306,
-        "lng": 74.477556
+        "latitude": 43.061306,
+        "longitude": 74.477556
       },
       "links_count": 90,
       "objectID": "2912"
@@ -4121,8 +4121,8 @@ const airports = [
       "country": "Aruba",
       "iata_code": "AUA",
       "_geoloc": {
-        "lat": 12.501389,
-        "lng": -70.015221
+        "latitude": 12.501389,
+        "longitude": -70.015221
       },
       "links_count": 90,
       "objectID": "2895"
@@ -4133,8 +4133,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "CHQ",
       "_geoloc": {
-        "lat": 35.531747,
-        "lng": 24.149678
+        "latitude": 35.531747,
+        "longitude": 24.149678
       },
       "links_count": 90,
       "objectID": "1474"
@@ -4145,8 +4145,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KGS",
       "_geoloc": {
-        "lat": 36.793335,
-        "lng": 27.091667
+        "latitude": 36.793335,
+        "longitude": 27.091667
       },
       "links_count": 90,
       "objectID": "1458"
@@ -4157,8 +4157,8 @@ const airports = [
       "country": "Jamaica",
       "iata_code": "MBJ",
       "_geoloc": {
-        "lat": 18.503717,
-        "lng": -77.913358
+        "latitude": 18.503717,
+        "longitude": -77.913358
       },
       "links_count": 89,
       "objectID": "1780"
@@ -4169,8 +4169,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YOW",
       "_geoloc": {
-        "lat": 45.3225,
-        "lng": -75.669167
+        "latitude": 45.3225,
+        "longitude": -75.669167
       },
       "links_count": 89,
       "objectID": "100"
@@ -4181,8 +4181,8 @@ const airports = [
       "country": "China",
       "iata_code": "JJN",
       "_geoloc": {
-        "lat": 24.7964,
-        "lng": 118.59
+        "latitude": 24.7964,
+        "longitude": 118.59
       },
       "links_count": 88,
       "objectID": "6386"
@@ -4193,8 +4193,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PBI",
       "_geoloc": {
-        "lat": 26.683161,
-        "lng": -80.095589
+        "latitude": 26.683161,
+        "longitude": -80.095589
       },
       "links_count": 88,
       "objectID": "3722"
@@ -4205,8 +4205,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "KTM",
       "_geoloc": {
-        "lat": 27.696583,
-        "lng": 85.3591
+        "latitude": 27.696583,
+        "longitude": 85.3591
       },
       "links_count": 88,
       "objectID": "3125"
@@ -4217,8 +4217,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "HAV",
       "_geoloc": {
-        "lat": 22.989153,
-        "lng": -82.409086
+        "latitude": 22.989153,
+        "longitude": -82.409086
       },
       "links_count": 87,
       "objectID": "1909"
@@ -4229,8 +4229,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "CPT",
       "_geoloc": {
-        "lat": -33.964806,
-        "lng": 18.601667
+        "latitude": -33.964806,
+        "longitude": 18.601667
       },
       "links_count": 86,
       "objectID": "797"
@@ -4241,8 +4241,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "TRD",
       "_geoloc": {
-        "lat": 63.457556,
-        "lng": 10.92425
+        "latitude": 63.457556,
+        "longitude": 10.92425
       },
       "links_count": 86,
       "objectID": "665"
@@ -4253,8 +4253,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SNA",
       "_geoloc": {
-        "lat": 33.675667,
-        "lng": -117.868222
+        "latitude": 33.675667,
+        "longitude": -117.868222
       },
       "links_count": 86,
       "objectID": "3867"
@@ -4265,8 +4265,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "POA",
       "_geoloc": {
-        "lat": -29.994428,
-        "lng": -51.171428
+        "latitude": -29.994428,
+        "longitude": -51.171428
       },
       "links_count": 86,
       "objectID": "2599"
@@ -4277,8 +4277,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CWB",
       "_geoloc": {
-        "lat": -25.528475,
-        "lng": -49.175775
+        "latitude": -25.528475,
+        "longitude": -49.175775
       },
       "links_count": 86,
       "objectID": "2545"
@@ -4289,8 +4289,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "TRN",
       "_geoloc": {
-        "lat": 45.200761,
-        "lng": 7.649631
+        "latitude": 45.200761,
+        "longitude": 7.649631
       },
       "links_count": 86,
       "objectID": "1526"
@@ -4301,8 +4301,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "CAG",
       "_geoloc": {
-        "lat": 39.251469,
-        "lng": 9.054283
+        "latitude": 39.251469,
+        "longitude": 9.054283
       },
       "links_count": 86,
       "objectID": "1519"
@@ -4313,8 +4313,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "MLE",
       "_geoloc": {
-        "lat": 4.191833,
-        "lng": 73.529128
+        "latitude": 4.191833,
+        "longitude": 73.529128
       },
       "links_count": 85,
       "objectID": "3156"
@@ -4325,8 +4325,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "ZAG",
       "_geoloc": {
-        "lat": 45.742931,
-        "lng": 16.068778
+        "latitude": 45.742931,
+        "longitude": 16.068778
       },
       "links_count": 85,
       "objectID": "1208"
@@ -4337,8 +4337,8 @@ const airports = [
       "country": "Cyprus",
       "iata_code": "PFO",
       "_geoloc": {
-        "lat": 34.718039,
-        "lng": 32.485731
+        "latitude": 34.718039,
+        "longitude": 32.485731
       },
       "links_count": 85,
       "objectID": "1198"
@@ -4349,8 +4349,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OGG",
       "_geoloc": {
-        "lat": 20.89865,
-        "lng": -156.430458
+        "latitude": 20.89865,
+        "longitude": -156.430458
       },
       "links_count": 84,
       "objectID": "3456"
@@ -4361,8 +4361,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "PEN",
       "_geoloc": {
-        "lat": 5.297139,
-        "lng": 100.276864
+        "latitude": 5.297139,
+        "longitude": 100.276864
       },
       "links_count": 84,
       "objectID": "3308"
@@ -4373,8 +4373,8 @@ const airports = [
       "country": "India",
       "iata_code": "TRV",
       "_geoloc": {
-        "lat": 8.482122,
-        "lng": 76.920114
+        "latitude": 8.482122,
+        "longitude": 76.920114
       },
       "links_count": 84,
       "objectID": "3153"
@@ -4385,8 +4385,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "ITM",
       "_geoloc": {
-        "lat": 34.785528,
-        "lng": 135.438222
+        "latitude": 34.785528,
+        "longitude": 135.438222
       },
       "links_count": 84,
       "objectID": "2334"
@@ -4397,8 +4397,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABQ",
       "_geoloc": {
-        "lat": 35.0402222,
-        "lng": -106.6091944
+        "latitude": 35.0402222,
+        "longitude": -106.6091944
       },
       "links_count": 83,
       "objectID": "4019"
@@ -4409,8 +4409,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SDF",
       "_geoloc": {
-        "lat": 38.1740858,
-        "lng": -85.7364989
+        "latitude": 38.1740858,
+        "longitude": -85.7364989
       },
       "links_count": 83,
       "objectID": "4014"
@@ -4421,8 +4421,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "NAN",
       "_geoloc": {
-        "lat": -17.755392,
-        "lng": 177.443378
+        "latitude": -17.755392,
+        "longitude": 177.443378
       },
       "links_count": 83,
       "objectID": "1960"
@@ -4433,8 +4433,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TIJ",
       "_geoloc": {
-        "lat": 32.541064,
-        "lng": -116.970158
+        "latitude": 32.541064,
+        "longitude": -116.970158
       },
       "links_count": 83,
       "objectID": "1847"
@@ -4445,8 +4445,8 @@ const airports = [
       "country": "Mauritius",
       "iata_code": "MRU",
       "_geoloc": {
-        "lat": -20.430235,
-        "lng": 57.6836
+        "latitude": -20.430235,
+        "longitude": 57.6836
       },
       "links_count": 82,
       "objectID": "893"
@@ -4457,8 +4457,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "ABZ",
       "_geoloc": {
-        "lat": 57.201944,
-        "lng": -2.197778
+        "latitude": 57.201944,
+        "longitude": -2.197778
       },
       "links_count": 82,
       "objectID": "532"
@@ -4469,8 +4469,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "IKT",
       "_geoloc": {
-        "lat": 52.268028,
-        "lng": 104.388975
+        "latitude": 52.268028,
+        "longitude": 104.388975
       },
       "links_count": 82,
       "objectID": "2937"
@@ -4481,8 +4481,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OKC",
       "_geoloc": {
-        "lat": 35.393089,
-        "lng": -97.600733
+        "latitude": 35.393089,
+        "longitude": -97.600733
       },
       "links_count": 81,
       "objectID": "3863"
@@ -4493,8 +4493,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "HBE",
       "_geoloc": {
-        "lat": 30.917669,
-        "lng": 29.696408
+        "latitude": 30.917669,
+        "longitude": 29.696408
       },
       "links_count": 81,
       "objectID": "3410"
@@ -4505,8 +4505,8 @@ const airports = [
       "country": "Cambodia",
       "iata_code": "REP",
       "_geoloc": {
-        "lat": 13.410666,
-        "lng": 103.81284
+        "latitude": 13.410666,
+        "longitude": 103.81284
       },
       "links_count": 81,
       "objectID": "3035"
@@ -4517,8 +4517,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWG",
       "_geoloc": {
-        "lat": 49.910036,
-        "lng": -97.239886
+        "latitude": 49.910036,
+        "longitude": -97.239886
       },
       "links_count": 81,
       "objectID": "160"
@@ -4529,8 +4529,8 @@ const airports = [
       "country": "Sudan",
       "iata_code": "KRT",
       "_geoloc": {
-        "lat": 15.589497,
-        "lng": 32.553161
+        "latitude": 15.589497,
+        "longitude": 32.553161
       },
       "links_count": 81,
       "objectID": "1175"
@@ -4541,8 +4541,8 @@ const airports = [
       "country": "Benin",
       "iata_code": "COO",
       "_geoloc": {
-        "lat": 6.357228,
-        "lng": 2.384353
+        "latitude": 6.357228,
+        "longitude": 2.384353
       },
       "links_count": 80,
       "objectID": "245"
@@ -4553,8 +4553,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "TSA",
       "_geoloc": {
-        "lat": 25.069722,
-        "lng": 121.5525
+        "latitude": 25.069722,
+        "longitude": 121.5525
       },
       "links_count": 80,
       "objectID": "2275"
@@ -4565,8 +4565,8 @@ const airports = [
       "country": "France",
       "iata_code": "LIL",
       "_geoloc": {
-        "lat": 50.561942,
-        "lng": 3.089444
+        "latitude": 50.561942,
+        "longitude": 3.089444
       },
       "links_count": 80,
       "objectID": "1399"
@@ -4577,8 +4577,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "LEJ",
       "_geoloc": {
-        "lat": 51.432447,
-        "lng": 12.241633
+        "latitude": 51.432447,
+        "longitude": 12.241633
       },
       "links_count": 79,
       "objectID": "348"
@@ -4589,8 +4589,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "HRG",
       "_geoloc": {
-        "lat": 27.178317,
-        "lng": 33.799436
+        "latitude": 27.178317,
+        "longitude": 33.799436
       },
       "links_count": 79,
       "objectID": "1130"
@@ -4601,8 +4601,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "UIO",
       "_geoloc": {
-        "lat": -0.141144,
-        "lng": -78.488214
+        "latitude": -0.141144,
+        "longitude": -78.488214
       },
       "links_count": 78,
       "objectID": "2688"
@@ -4613,8 +4613,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "GMP",
       "_geoloc": {
-        "lat": 37.558311,
-        "lng": 126.790586
+        "latitude": 37.558311,
+        "longitude": 126.790586
       },
       "links_count": 78,
       "objectID": "2378"
@@ -4625,8 +4625,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "SYZ",
       "_geoloc": {
-        "lat": 29.539242,
-        "lng": 52.589786
+        "latitude": 29.539242,
+        "longitude": 52.589786
       },
       "links_count": 78,
       "objectID": "2157"
@@ -4637,8 +4637,8 @@ const airports = [
       "country": "France",
       "iata_code": "AJA",
       "_geoloc": {
-        "lat": 41.923637,
-        "lng": 8.802917
+        "latitude": 41.923637,
+        "longitude": 8.802917
       },
       "links_count": 78,
       "objectID": "1324"
@@ -4649,8 +4649,8 @@ const airports = [
       "country": "Rwanda",
       "iata_code": "KGL",
       "_geoloc": {
-        "lat": -1.968628,
-        "lng": 30.13945
+        "latitude": -1.968628,
+        "longitude": 30.13945
       },
       "links_count": 78,
       "objectID": "1165"
@@ -4661,8 +4661,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "PPT",
       "_geoloc": {
-        "lat": -17.556667,
-        "lng": -149.611389
+        "latitude": -17.556667,
+        "longitude": -149.611389
       },
       "links_count": 77,
       "objectID": "4075"
@@ -4673,8 +4673,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "SSH",
       "_geoloc": {
-        "lat": 27.977222,
-        "lng": 34.394722
+        "latitude": 27.977222,
+        "longitude": 34.394722
       },
       "links_count": 77,
       "objectID": "4057"
@@ -4685,8 +4685,8 @@ const airports = [
       "country": "Guatemala",
       "iata_code": "GUA",
       "_geoloc": {
-        "lat": 14.583272,
-        "lng": -90.527475
+        "latitude": 14.583272,
+        "longitude": -90.527475
       },
       "links_count": 77,
       "objectID": "1767"
@@ -4697,8 +4697,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "VRN",
       "_geoloc": {
-        "lat": 45.395706,
-        "lng": 10.888533
+        "latitude": 45.395706,
+        "longitude": 10.888533
       },
       "links_count": 77,
       "objectID": "1550"
@@ -4709,8 +4709,8 @@ const airports = [
       "country": "Jersey",
       "iata_code": "JER",
       "_geoloc": {
-        "lat": 49.207947,
-        "lng": -2.195508
+        "latitude": 49.207947,
+        "longitude": -2.195508
       },
       "links_count": 76,
       "objectID": "499"
@@ -4721,8 +4721,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "NRN",
       "_geoloc": {
-        "lat": 51.602222,
-        "lng": 6.141944
+        "latitude": 51.602222,
+        "longitude": 6.141944
       },
       "links_count": 76,
       "objectID": "4198"
@@ -4733,8 +4733,8 @@ const airports = [
       "country": "Estonia",
       "iata_code": "TLL",
       "_geoloc": {
-        "lat": 59.413317,
-        "lng": 24.832844
+        "latitude": 59.413317,
+        "longitude": 24.832844
       },
       "links_count": 76,
       "objectID": "415"
@@ -4745,8 +4745,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RIC",
       "_geoloc": {
-        "lat": 37.505167,
-        "lng": -77.319667
+        "latitude": 37.505167,
+        "longitude": -77.319667
       },
       "links_count": 76,
       "objectID": "3608"
@@ -4757,8 +4757,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "YKS",
       "_geoloc": {
-        "lat": 62.09325,
-        "lng": 129.770672
+        "latitude": 62.09325,
+        "longitude": 129.770672
       },
       "links_count": 76,
       "objectID": "2923"
@@ -4769,8 +4769,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "TSF",
       "_geoloc": {
-        "lat": 45.6484,
-        "lng": 12.194422
+        "latitude": 45.6484,
+        "longitude": 12.194422
       },
       "links_count": 76,
       "objectID": "1539"
@@ -4781,8 +4781,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "SAH",
       "_geoloc": {
-        "lat": 15.476258,
-        "lng": 44.219739
+        "latitude": 15.476258,
+        "longitude": 44.219739
       },
       "links_count": 75,
       "objectID": "3980"
@@ -4793,8 +4793,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DAL",
       "_geoloc": {
-        "lat": 32.847111,
-        "lng": -96.851778
+        "latitude": 32.847111,
+        "longitude": -96.851778
       },
       "links_count": 75,
       "objectID": "3502"
@@ -4805,8 +4805,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KHV",
       "_geoloc": {
-        "lat": 48.528044,
-        "lng": 135.188361
+        "latitude": 48.528044,
+        "longitude": 135.188361
       },
       "links_count": 75,
       "objectID": "2927"
@@ -4817,8 +4817,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "TRF",
       "_geoloc": {
-        "lat": 59.186703,
-        "lng": 10.258628
+        "latitude": 59.186703,
+        "longitude": 10.258628
       },
       "links_count": 74,
       "objectID": "664"
@@ -4829,8 +4829,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "RYG",
       "_geoloc": {
-        "lat": 59.378933,
-        "lng": 10.785389
+        "latitude": 59.378933,
+        "longitude": 10.785389
       },
       "links_count": 74,
       "objectID": "657"
@@ -4841,8 +4841,8 @@ const airports = [
       "country": "China",
       "iata_code": "CZX",
       "_geoloc": {
-        "lat": 31.941667,
-        "lng": 119.711667
+        "latitude": 31.941667,
+        "longitude": 119.711667
       },
       "links_count": 74,
       "objectID": "4109"
@@ -4853,8 +4853,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ORF",
       "_geoloc": {
-        "lat": 36.894611,
-        "lng": -76.201222
+        "latitude": 36.894611,
+        "longitude": -76.201222
       },
       "links_count": 74,
       "objectID": "3611"
@@ -4865,8 +4865,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "DJE",
       "_geoloc": {
-        "lat": 33.875031,
-        "lng": 10.775461
+        "latitude": 33.875031,
+        "longitude": 10.775461
       },
       "links_count": 73,
       "objectID": "293"
@@ -4877,8 +4877,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BPN",
       "_geoloc": {
-        "lat": -1.268272,
-        "lng": 116.894478
+        "latitude": -1.268272,
+        "longitude": 116.894478
       },
       "links_count": 72,
       "objectID": "3919"
@@ -4889,8 +4889,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "REC",
       "_geoloc": {
-        "lat": -8.126794,
-        "lng": -34.923039
+        "latitude": -8.126794,
+        "longitude": -34.923039
       },
       "links_count": 72,
       "objectID": "2610"
@@ -4901,8 +4901,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "CHC",
       "_geoloc": {
-        "lat": -43.489358,
-        "lng": 172.532225
+        "latitude": -43.489358,
+        "longitude": 172.532225
       },
       "links_count": 72,
       "objectID": "2009"
@@ -4913,8 +4913,8 @@ const airports = [
       "country": "France",
       "iata_code": "BIA",
       "_geoloc": {
-        "lat": 42.552664,
-        "lng": 9.483731
+        "latitude": 42.552664,
+        "longitude": 9.483731
       },
       "links_count": 72,
       "objectID": "1321"
@@ -4925,8 +4925,8 @@ const airports = [
       "country": "Albania",
       "iata_code": "TIA",
       "_geoloc": {
-        "lat": 41.414742,
-        "lng": 19.720561
+        "latitude": 41.414742,
+        "longitude": 19.720561
       },
       "links_count": 72,
       "objectID": "1190"
@@ -4937,8 +4937,8 @@ const airports = [
       "country": "China",
       "iata_code": "SWA",
       "_geoloc": {
-        "lat": 23.4,
-        "lng": 116.683
+        "latitude": 23.4,
+        "longitude": 116.683
       },
       "links_count": 71,
       "objectID": "4302"
@@ -4949,8 +4949,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BUF",
       "_geoloc": {
-        "lat": 42.940525,
-        "lng": -78.732167
+        "latitude": 42.940525,
+        "longitude": -78.732167
       },
       "links_count": 71,
       "objectID": "3820"
@@ -4961,8 +4961,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BHM",
       "_geoloc": {
-        "lat": 33.562942,
-        "lng": -86.75355
+        "latitude": 33.562942,
+        "longitude": -86.75355
       },
       "links_count": 71,
       "objectID": "3811"
@@ -4973,8 +4973,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "GYE",
       "_geoloc": {
-        "lat": -2.157419,
-        "lng": -79.883558
+        "latitude": -2.157419,
+        "longitude": -79.883558
       },
       "links_count": 71,
       "objectID": "2673"
@@ -4985,8 +4985,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "FOR",
       "_geoloc": {
-        "lat": -3.776283,
-        "lng": -38.532556
+        "latitude": -3.776283,
+        "longitude": -38.532556
       },
       "links_count": 71,
       "objectID": "2559"
@@ -4997,8 +4997,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BFS",
       "_geoloc": {
-        "lat": 54.6575,
-        "lng": -6.215833
+        "latitude": 54.6575,
+        "longitude": -6.215833
       },
       "links_count": 70,
       "objectID": "465"
@@ -5009,8 +5009,8 @@ const airports = [
       "country": "India",
       "iata_code": "AMD",
       "_geoloc": {
-        "lat": 23.077242,
-        "lng": 72.63465
+        "latitude": 23.077242,
+        "longitude": 72.63465
       },
       "links_count": 70,
       "objectID": "2994"
@@ -5021,8 +5021,8 @@ const airports = [
       "country": "Trinidad and Tobago",
       "iata_code": "POS",
       "_geoloc": {
-        "lat": 10.595369,
-        "lng": -61.337242
+        "latitude": 10.595369,
+        "longitude": -61.337242
       },
       "links_count": 70,
       "objectID": "2902"
@@ -5033,8 +5033,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BEL",
       "_geoloc": {
-        "lat": -1.37925,
-        "lng": -48.476292
+        "latitude": -1.37925,
+        "longitude": -48.476292
       },
       "links_count": 70,
       "objectID": "2526"
@@ -5045,8 +5045,8 @@ const airports = [
       "country": "Guam",
       "iata_code": "GUM",
       "_geoloc": {
-        "lat": 13.48345,
-        "lng": 144.795983
+        "latitude": 13.48345,
+        "longitude": 144.795983
       },
       "links_count": 70,
       "objectID": "2246"
@@ -5057,8 +5057,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "SCQ",
       "_geoloc": {
-        "lat": 42.896333,
-        "lng": -8.415144
+        "latitude": 42.896333,
+        "longitude": -8.415144
       },
       "links_count": 70,
       "objectID": "1243"
@@ -5069,8 +5069,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "MAH",
       "_geoloc": {
-        "lat": 39.862597,
-        "lng": 4.218647
+        "latitude": 39.862597,
+        "longitude": 4.218647
       },
       "links_count": 70,
       "objectID": "1231"
@@ -5081,8 +5081,8 @@ const airports = [
       "country": "Georgia",
       "iata_code": "TBS",
       "_geoloc": {
-        "lat": 41.669167,
-        "lng": 44.954722
+        "latitude": 41.669167,
+        "longitude": 44.954722
       },
       "links_count": 69,
       "objectID": "3973"
@@ -5093,8 +5093,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CHS",
       "_geoloc": {
-        "lat": 32.898647,
-        "lng": -80.040528
+        "latitude": 32.898647,
+        "longitude": -80.040528
       },
       "links_count": 69,
       "objectID": "3806"
@@ -5105,8 +5105,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OMA",
       "_geoloc": {
-        "lat": 41.303167,
-        "lng": -95.894069
+        "latitude": 41.303167,
+        "longitude": -95.894069
       },
       "links_count": 69,
       "objectID": "3454"
@@ -5117,8 +5117,8 @@ const airports = [
       "country": "Antigua and Barbuda",
       "iata_code": "ANU",
       "_geoloc": {
-        "lat": 17.136749,
-        "lng": -61.792667
+        "latitude": 17.136749,
+        "longitude": -61.792667
       },
       "links_count": 69,
       "objectID": "2874"
@@ -5129,8 +5129,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "SZG",
       "_geoloc": {
-        "lat": 47.793304,
-        "lng": 13.004333
+        "latitude": 47.793304,
+        "longitude": 13.004333
       },
       "links_count": 69,
       "objectID": "1612"
@@ -5141,8 +5141,8 @@ const airports = [
       "country": "France",
       "iata_code": "SXB",
       "_geoloc": {
-        "lat": 48.538319,
-        "lng": 7.628233
+        "latitude": 48.538319,
+        "longitude": 7.628233
       },
       "links_count": 69,
       "objectID": "1435"
@@ -5153,8 +5153,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "ORK",
       "_geoloc": {
-        "lat": 51.841269,
-        "lng": -8.491111
+        "latitude": 51.841269,
+        "longitude": -8.491111
       },
       "links_count": 68,
       "objectID": "596"
@@ -5165,8 +5165,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MYR",
       "_geoloc": {
-        "lat": 33.67975,
-        "lng": -78.928333
+        "latitude": 33.67975,
+        "longitude": -78.928333
       },
       "links_count": 68,
       "objectID": "3515"
@@ -5177,8 +5177,8 @@ const airports = [
       "country": "India",
       "iata_code": "PNQ",
       "_geoloc": {
-        "lat": 18.582111,
-        "lng": 73.919697
+        "latitude": 18.582111,
+        "longitude": 73.919697
       },
       "links_count": 68,
       "objectID": "3017"
@@ -5189,8 +5189,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "ORN",
       "_geoloc": {
-        "lat": 35.623858,
-        "lng": -0.621183
+        "latitude": 35.623858,
+        "longitude": -0.621183
       },
       "links_count": 68,
       "objectID": "231"
@@ -5201,8 +5201,8 @@ const airports = [
       "country": "Moldova",
       "iata_code": "KIV",
       "_geoloc": {
-        "lat": 46.927744,
-        "lng": 28.930978
+        "latitude": 46.927744,
+        "longitude": 28.930978
       },
       "links_count": 68,
       "objectID": "1735"
@@ -5213,8 +5213,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "LUN",
       "_geoloc": {
-        "lat": -15.330817,
-        "lng": 28.452628
+        "latitude": -15.330817,
+        "longitude": 28.452628
       },
       "links_count": 67,
       "objectID": "907"
@@ -5225,8 +5225,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "DTM",
       "_geoloc": {
-        "lat": 51.518314,
-        "lng": 7.612242
+        "latitude": 51.518314,
+        "longitude": 7.612242
       },
       "links_count": 67,
       "objectID": "373"
@@ -5237,8 +5237,8 @@ const airports = [
       "country": "Uganda",
       "iata_code": "EBB",
       "_geoloc": {
-        "lat": 0.042386,
-        "lng": 32.443503
+        "latitude": 0.042386,
+        "longitude": 32.443503
       },
       "links_count": 67,
       "objectID": "1187"
@@ -5249,8 +5249,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "DAR",
       "_geoloc": {
-        "lat": -6.878111,
-        "lng": 39.202625
+        "latitude": -6.878111,
+        "longitude": 39.202625
       },
       "links_count": 67,
       "objectID": "1177"
@@ -5261,8 +5261,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "WRO",
       "_geoloc": {
-        "lat": 51.102683,
-        "lng": 16.885836
+        "latitude": 51.102683,
+        "longitude": 16.885836
       },
       "links_count": 66,
       "objectID": "680"
@@ -5273,8 +5273,8 @@ const airports = [
       "country": "Tajikistan",
       "iata_code": "LBD",
       "_geoloc": {
-        "lat": 40.2154,
-        "lng": 69.6947
+        "latitude": 40.2154,
+        "longitude": 69.6947
       },
       "links_count": 66,
       "objectID": "6147"
@@ -5285,8 +5285,8 @@ const airports = [
       "country": "Netherlands",
       "iata_code": "RTM",
       "_geoloc": {
-        "lat": 51.956944,
-        "lng": 4.437222
+        "latitude": 51.956944,
+        "longitude": 4.437222
       },
       "links_count": 66,
       "objectID": "591"
@@ -5297,8 +5297,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "SOU",
       "_geoloc": {
-        "lat": 50.950261,
-        "lng": -1.356803
+        "latitude": 50.950261,
+        "longitude": -1.356803
       },
       "links_count": 66,
       "objectID": "495"
@@ -5309,8 +5309,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "DAD",
       "_geoloc": {
-        "lat": 16.043917,
-        "lng": 108.19937
+        "latitude": 16.043917,
+        "longitude": 108.19937
       },
       "links_count": 66,
       "objectID": "3196"
@@ -5321,8 +5321,8 @@ const airports = [
       "country": "Virgin Islands",
       "iata_code": "STT",
       "_geoloc": {
-        "lat": 18.337306,
-        "lng": -64.973361
+        "latitude": 18.337306,
+        "longitude": -64.973361
       },
       "links_count": 66,
       "objectID": "2883"
@@ -5333,8 +5333,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CGB",
       "_geoloc": {
-        "lat": -15.652931,
-        "lng": -56.116719
+        "latitude": -15.652931,
+        "longitude": -56.116719
       },
       "links_count": 66,
       "objectID": "2548"
@@ -5345,8 +5345,8 @@ const airports = [
       "country": "Burkina Faso",
       "iata_code": "OUA",
       "_geoloc": {
-        "lat": 12.353194,
-        "lng": -1.512417
+        "latitude": 12.353194,
+        "longitude": -1.512417
       },
       "links_count": 66,
       "objectID": "246"
@@ -5357,8 +5357,8 @@ const airports = [
       "country": "Slovenia",
       "iata_code": "LJU",
       "_geoloc": {
-        "lat": 46.223686,
-        "lng": 14.457611
+        "latitude": 46.223686,
+        "longitude": 14.457611
       },
       "links_count": 66,
       "objectID": "1569"
@@ -5369,8 +5369,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "TFN",
       "_geoloc": {
-        "lat": 28.482653,
-        "lng": -16.341536
+        "latitude": 28.482653,
+        "longitude": -16.341536
       },
       "links_count": 66,
       "objectID": "1057"
@@ -5381,8 +5381,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AZA",
       "_geoloc": {
-        "lat": 33.307833,
-        "lng": -111.655
+        "latitude": 33.307833,
+        "longitude": -111.655
       },
       "links_count": 64,
       "objectID": "6505"
@@ -5393,8 +5393,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DAY",
       "_geoloc": {
-        "lat": 39.902375,
-        "lng": -84.219375
+        "latitude": 39.902375,
+        "longitude": -84.219375
       },
       "links_count": 64,
       "objectID": "3627"
@@ -5405,8 +5405,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MAO",
       "_geoloc": {
-        "lat": -3.038611,
-        "lng": -60.049721
+        "latitude": -3.038611,
+        "longitude": -60.049721
       },
       "links_count": 64,
       "objectID": "2551"
@@ -5417,8 +5417,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "WLG",
       "_geoloc": {
-        "lat": -41.327221,
-        "lng": 174.805278
+        "latitude": -41.327221,
+        "longitude": 174.805278
       },
       "links_count": 64,
       "objectID": "2042"
@@ -5429,8 +5429,8 @@ const airports = [
       "country": "India",
       "iata_code": "GAU",
       "_geoloc": {
-        "lat": 26.106092,
-        "lng": 91.585939
+        "latitude": 26.106092,
+        "longitude": 91.585939
       },
       "links_count": 63,
       "objectID": "6173"
@@ -5441,8 +5441,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "CWL",
       "_geoloc": {
-        "lat": 51.396667,
-        "lng": -3.343333
+        "latitude": 51.396667,
+        "longitude": -3.343333
       },
       "links_count": 63,
       "objectID": "488"
@@ -5453,8 +5453,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "BJV",
       "_geoloc": {
-        "lat": 37.249,
-        "lng": 27.667
+        "latitude": 37.249,
+        "longitude": 27.667
       },
       "links_count": 63,
       "objectID": "4315"
@@ -5465,8 +5465,8 @@ const airports = [
       "country": "Netherlands Antilles",
       "iata_code": "CUR",
       "_geoloc": {
-        "lat": 12.188853,
-        "lng": -68.959803
+        "latitude": 12.188853,
+        "longitude": -68.959803
       },
       "links_count": 63,
       "objectID": "2897"
@@ -5477,8 +5477,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "NYO",
       "_geoloc": {
-        "lat": 58.788636,
-        "lng": 16.912189
+        "latitude": 58.788636,
+        "longitude": 16.912189
       },
       "links_count": 62,
       "objectID": "699"
@@ -5489,8 +5489,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TYS",
       "_geoloc": {
-        "lat": 35.810972,
-        "lng": -83.994028
+        "latitude": 35.810972,
+        "longitude": -83.994028
       },
       "links_count": 62,
       "objectID": "3676"
@@ -5501,8 +5501,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TUS",
       "_geoloc": {
-        "lat": 32.116083,
-        "lng": -110.941028
+        "latitude": 32.116083,
+        "longitude": -110.941028
       },
       "links_count": 62,
       "objectID": "3636"
@@ -5513,8 +5513,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIE",
       "_geoloc": {
-        "lat": 27.910167,
-        "lng": -82.687389
+        "latitude": 27.910167,
+        "longitude": -82.687389
       },
       "links_count": 62,
       "objectID": "3617"
@@ -5525,8 +5525,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "SDJ",
       "_geoloc": {
-        "lat": 38.139722,
-        "lng": 140.916944
+        "latitude": 38.139722,
+        "longitude": 140.916944
       },
       "links_count": 62,
       "objectID": "2347"
@@ -5537,8 +5537,8 @@ const airports = [
       "country": "Turks and Caicos Islands",
       "iata_code": "PLS",
       "_geoloc": {
-        "lat": 21.773625,
-        "lng": -72.265886
+        "latitude": 21.773625,
+        "longitude": -72.265886
       },
       "links_count": 62,
       "objectID": "1754"
@@ -5549,8 +5549,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "AHO",
       "_geoloc": {
-        "lat": 40.632133,
-        "lng": 8.290772
+        "latitude": 40.632133,
+        "longitude": 8.290772
       },
       "links_count": 62,
       "objectID": "1517"
@@ -5561,8 +5561,8 @@ const airports = [
       "country": "India",
       "iata_code": "CCJ",
       "_geoloc": {
-        "lat": 11.136839,
-        "lng": 75.9553
+        "latitude": 11.136839,
+        "longitude": 75.9553
       },
       "links_count": 61,
       "objectID": "3137"
@@ -5573,8 +5573,8 @@ const airports = [
       "country": "Cambodia",
       "iata_code": "PNH",
       "_geoloc": {
-        "lat": 11.546556,
-        "lng": 104.844139
+        "latitude": 11.546556,
+        "longitude": 104.844139
       },
       "links_count": 61,
       "objectID": "3034"
@@ -5585,8 +5585,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SDU",
       "_geoloc": {
-        "lat": -22.910461,
-        "lng": -43.163133
+        "latitude": -22.910461,
+        "longitude": -43.163133
       },
       "links_count": 61,
       "objectID": "2612"
@@ -5597,8 +5597,8 @@ const airports = [
       "country": "China",
       "iata_code": "LXA",
       "_geoloc": {
-        "lat": 29.297778,
-        "lng": 90.911944
+        "latitude": 29.297778,
+        "longitude": 90.911944
       },
       "links_count": 60,
       "objectID": "4097"
@@ -5609,8 +5609,8 @@ const airports = [
       "country": "Iraq",
       "iata_code": "EBL",
       "_geoloc": {
-        "lat": 36.237611,
-        "lng": 43.963158
+        "latitude": 36.237611,
+        "longitude": 43.963158
       },
       "links_count": 60,
       "objectID": "3989"
@@ -5621,8 +5621,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ALB",
       "_geoloc": {
-        "lat": 42.748267,
-        "lng": -73.801692
+        "latitude": 42.748267,
+        "longitude": -73.801692
       },
       "links_count": 60,
       "objectID": "3864"
@@ -5633,8 +5633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ROC",
       "_geoloc": {
-        "lat": 43.118866,
-        "lng": -77.672389
+        "latitude": 43.118866,
+        "longitude": -77.672389
       },
       "links_count": 60,
       "objectID": "3622"
@@ -5645,8 +5645,8 @@ const airports = [
       "country": "Kyrgyzstan",
       "iata_code": "OSS",
       "_geoloc": {
-        "lat": 40.608989,
-        "lng": 72.793269
+        "latitude": 40.608989,
+        "longitude": 72.793269
       },
       "links_count": 60,
       "objectID": "2913"
@@ -5657,8 +5657,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "ABV",
       "_geoloc": {
-        "lat": 9.006792,
-        "lng": 7.263172
+        "latitude": 9.006792,
+        "longitude": 7.263172
       },
       "links_count": 60,
       "objectID": "260"
@@ -5669,8 +5669,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "PEW",
       "_geoloc": {
-        "lat": 33.993911,
-        "lng": 71.514581
+        "latitude": 33.993911,
+        "longitude": 71.514581
       },
       "links_count": 60,
       "objectID": "2219"
@@ -5681,8 +5681,8 @@ const airports = [
       "country": "China",
       "iata_code": "YCU",
       "_geoloc": {
-        "lat": 35.018,
-        "lng": 110.993
+        "latitude": 35.018,
+        "longitude": 110.993
       },
       "links_count": 58,
       "objectID": "6430"
@@ -5693,8 +5693,8 @@ const airports = [
       "country": "China",
       "iata_code": "BAV",
       "_geoloc": {
-        "lat": 40.56,
-        "lng": 109.997
+        "latitude": 40.56,
+        "longitude": 109.997
       },
       "links_count": 58,
       "objectID": "6346"
@@ -5705,8 +5705,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "SNN",
       "_geoloc": {
-        "lat": 52.701978,
-        "lng": -8.924817
+        "latitude": 52.701978,
+        "longitude": -8.924817
       },
       "links_count": 58,
       "objectID": "603"
@@ -5717,8 +5717,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GSP",
       "_geoloc": {
-        "lat": 34.895556,
-        "lng": -82.218889
+        "latitude": 34.895556,
+        "longitude": -82.218889
       },
       "links_count": 58,
       "objectID": "4034"
@@ -5729,8 +5729,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "JOG",
       "_geoloc": {
-        "lat": -7.788181,
-        "lng": 110.431758
+        "latitude": -7.788181,
+        "longitude": 110.431758
       },
       "links_count": 58,
       "objectID": "3898"
@@ -5741,8 +5741,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LIT",
       "_geoloc": {
-        "lat": 34.729444,
-        "lng": -92.224306
+        "latitude": 34.729444,
+        "longitude": -92.224306
       },
       "links_count": 58,
       "objectID": "3660"
@@ -5753,8 +5753,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "SZB",
       "_geoloc": {
-        "lat": 3.130583,
-        "lng": 101.549333
+        "latitude": 3.130583,
+        "longitude": 101.549333
       },
       "links_count": 58,
       "objectID": "3408"
@@ -5765,8 +5765,8 @@ const airports = [
       "country": "India",
       "iata_code": "GOI",
       "_geoloc": {
-        "lat": 15.380833,
-        "lng": 73.831422
+        "latitude": 15.380833,
+        "longitude": 73.831422
       },
       "links_count": 58,
       "objectID": "3007"
@@ -5777,8 +5777,8 @@ const airports = [
       "country": "Guadeloupe",
       "iata_code": "PTP",
       "_geoloc": {
-        "lat": 16.265306,
-        "lng": -61.531806
+        "latitude": 16.265306,
+        "longitude": -61.531806
       },
       "links_count": 58,
       "objectID": "2881"
@@ -5789,8 +5789,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "RMQ",
       "_geoloc": {
-        "lat": 24.264668,
-        "lng": 120.62058
+        "latitude": 24.264668,
+        "longitude": 120.62058
       },
       "links_count": 58,
       "objectID": "2268"
@@ -5801,8 +5801,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZF",
       "_geoloc": {
-        "lat": 62.462778,
-        "lng": -114.440278
+        "latitude": 62.462778,
+        "longitude": -114.440278
       },
       "links_count": 58,
       "objectID": "196"
@@ -5813,8 +5813,8 @@ const airports = [
       "country": "Jamaica",
       "iata_code": "KIN",
       "_geoloc": {
-        "lat": 17.935667,
-        "lng": -76.7875
+        "latitude": 17.935667,
+        "longitude": -76.7875
       },
       "links_count": 58,
       "objectID": "1779"
@@ -5825,8 +5825,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DSM",
       "_geoloc": {
-        "lat": 41.533972,
-        "lng": -93.663083
+        "latitude": 41.533972,
+        "longitude": -93.663083
       },
       "links_count": 57,
       "objectID": "3729"
@@ -5837,8 +5837,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BET",
       "_geoloc": {
-        "lat": 60.779778,
-        "lng": -161.838
+        "latitude": 60.779778,
+        "longitude": -161.838
       },
       "links_count": 57,
       "objectID": "3599"
@@ -5849,8 +5849,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "CLO",
       "_geoloc": {
-        "lat": 3.543222,
-        "lng": -76.381583
+        "latitude": 3.543222,
+        "longitude": -76.381583
       },
       "links_count": 57,
       "objectID": "2715"
@@ -5861,8 +5861,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQB",
       "_geoloc": {
-        "lat": 46.791111,
-        "lng": -71.393333
+        "latitude": 46.791111,
+        "longitude": -71.393333
       },
       "links_count": 57,
       "objectID": "111"
@@ -5873,8 +5873,8 @@ const airports = [
       "country": "Zimbabwe",
       "iata_code": "HRE",
       "_geoloc": {
-        "lat": -17.931806,
-        "lng": 31.092847
+        "latitude": -17.931806,
+        "longitude": 31.092847
       },
       "links_count": 57,
       "objectID": "1005"
@@ -5885,8 +5885,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "KTW",
       "_geoloc": {
-        "lat": 50.474253,
-        "lng": 19.080019
+        "latitude": 50.474253,
+        "longitude": 19.080019
       },
       "links_count": 56,
       "objectID": "671"
@@ -5897,8 +5897,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RNO",
       "_geoloc": {
-        "lat": 39.499108,
-        "lng": -119.768108
+        "latitude": 39.499108,
+        "longitude": -119.768108
       },
       "links_count": 56,
       "objectID": "3807"
@@ -5909,8 +5909,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GRR",
       "_geoloc": {
-        "lat": 42.880833,
-        "lng": -85.522806
+        "latitude": 42.880833,
+        "longitude": -85.522806
       },
       "links_count": 56,
       "objectID": "3685"
@@ -5921,8 +5921,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "OOL",
       "_geoloc": {
-        "lat": -28.164444,
-        "lng": 153.504722
+        "latitude": -28.164444,
+        "longitude": 153.504722
       },
       "links_count": 56,
       "objectID": "3321"
@@ -5933,8 +5933,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KZN",
       "_geoloc": {
-        "lat": 55.606186,
-        "lng": 49.278728
+        "latitude": 55.606186,
+        "longitude": 49.278728
       },
       "links_count": 56,
       "objectID": "2990"
@@ -5945,8 +5945,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ROV",
       "_geoloc": {
-        "lat": 47.258208,
-        "lng": 39.818089
+        "latitude": 47.258208,
+        "longitude": 39.818089
       },
       "links_count": 56,
       "objectID": "2964"
@@ -5957,8 +5957,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "VLI",
       "_geoloc": {
-        "lat": -17.699325,
-        "lng": 168.319794
+        "latitude": -17.699325,
+        "longitude": 168.319794
       },
       "links_count": 56,
       "objectID": "1997"
@@ -5969,8 +5969,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "BZE",
       "_geoloc": {
-        "lat": 17.539144,
-        "lng": -88.308203
+        "latitude": 17.539144,
+        "longitude": -88.308203
       },
       "links_count": 56,
       "objectID": "1957"
@@ -5981,8 +5981,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "TPS",
       "_geoloc": {
-        "lat": 37.911403,
-        "lng": 12.487961
+        "latitude": 37.911403,
+        "longitude": 12.487961
       },
       "links_count": 56,
       "objectID": "1515"
@@ -5993,8 +5993,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "AGA",
       "_geoloc": {
-        "lat": 30.381353,
-        "lng": -9.546311
+        "latitude": 30.381353,
+        "longitude": -9.546311
       },
       "links_count": 56,
       "objectID": "1064"
@@ -6005,8 +6005,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TUL",
       "_geoloc": {
-        "lat": 36.198389,
-        "lng": -95.888111
+        "latitude": 36.198389,
+        "longitude": -95.888111
       },
       "links_count": 55,
       "objectID": "3855"
@@ -6017,8 +6017,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PVD",
       "_geoloc": {
-        "lat": 41.732581,
-        "lng": -71.420383
+        "latitude": 41.732581,
+        "longitude": -71.420383
       },
       "links_count": 55,
       "objectID": "3641"
@@ -6029,8 +6029,8 @@ const airports = [
       "country": "Mali",
       "iata_code": "BKO",
       "_geoloc": {
-        "lat": 12.533544,
-        "lng": -7.949944
+        "latitude": 12.533544,
+        "longitude": -7.949944
       },
       "links_count": 55,
       "objectID": "1044"
@@ -6041,8 +6041,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "FIH",
       "_geoloc": {
-        "lat": -4.38575,
-        "lng": 15.444569
+        "latitude": -4.38575,
+        "longitude": 15.444569
       },
       "links_count": 55,
       "objectID": "1020"
@@ -6053,8 +6053,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "TNR",
       "_geoloc": {
-        "lat": -18.79695,
-        "lng": 47.478806
+        "latitude": -18.79695,
+        "longitude": 47.478806
       },
       "links_count": 54,
       "objectID": "918"
@@ -6065,8 +6065,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "BMA",
       "_geoloc": {
-        "lat": 59.354372,
-        "lng": 17.94165
+        "latitude": 59.354372,
+        "longitude": 17.94165
       },
       "links_count": 54,
       "objectID": "738"
@@ -6077,8 +6077,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KUF",
       "_geoloc": {
-        "lat": 53.5,
-        "lng": 50.15
+        "latitude": 53.5,
+        "longitude": 50.15
       },
       "links_count": 54,
       "objectID": "4118"
@@ -6089,8 +6089,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BTH",
       "_geoloc": {
-        "lat": 1.121028,
-        "lng": 104.118753
+        "latitude": 1.121028,
+        "longitude": 104.118753
       },
       "links_count": 54,
       "objectID": "3903"
@@ -6101,8 +6101,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FAI",
       "_geoloc": {
-        "lat": 64.815114,
-        "lng": -147.856267
+        "latitude": 64.815114,
+        "longitude": -147.856267
       },
       "links_count": 54,
       "objectID": "3832"
@@ -6113,8 +6113,8 @@ const airports = [
       "country": "Afghanistan",
       "iata_code": "KBL",
       "_geoloc": {
-        "lat": 34.565853,
-        "lng": 69.212328
+        "latitude": 34.565853,
+        "longitude": 69.212328
       },
       "links_count": 54,
       "objectID": "2050"
@@ -6125,8 +6125,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "WMI",
       "_geoloc": {
-        "lat": 52.451111,
-        "lng": 20.651667
+        "latitude": 52.451111,
+        "longitude": 20.651667
       },
       "links_count": 52,
       "objectID": "8414"
@@ -6137,8 +6137,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "TOS",
       "_geoloc": {
-        "lat": 69.683333,
-        "lng": 18.918919
+        "latitude": 69.683333,
+        "longitude": 18.918919
       },
       "links_count": 52,
       "objectID": "663"
@@ -6149,8 +6149,8 @@ const airports = [
       "country": "China",
       "iata_code": "TXN",
       "_geoloc": {
-        "lat": 29.7333,
-        "lng": 118.256
+        "latitude": 29.7333,
+        "longitude": 118.256
       },
       "links_count": 52,
       "objectID": "6387"
@@ -6161,8 +6161,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SYR",
       "_geoloc": {
-        "lat": 43.111187,
-        "lng": -76.106311
+        "latitude": 43.111187,
+        "longitude": -76.106311
       },
       "links_count": 52,
       "objectID": "3745"
@@ -6173,8 +6173,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KCH",
       "_geoloc": {
-        "lat": 1.484697,
-        "lng": 110.346933
+        "latitude": 1.484697,
+        "longitude": 110.346933
       },
       "links_count": 52,
       "objectID": "3263"
@@ -6185,8 +6185,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "AER",
       "_geoloc": {
-        "lat": 43.449928,
-        "lng": 39.956589
+        "latitude": 43.449928,
+        "longitude": 39.956589
       },
       "links_count": 52,
       "objectID": "2965"
@@ -6197,8 +6197,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VVO",
       "_geoloc": {
-        "lat": 43.398953,
-        "lng": 132.148017
+        "latitude": 43.398953,
+        "longitude": 132.148017
       },
       "links_count": 52,
       "objectID": "2934"
@@ -6209,8 +6209,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "MDE",
       "_geoloc": {
-        "lat": 6.164536,
-        "lng": -75.423119
+        "latitude": 6.164536,
+        "longitude": -75.423119
       },
       "links_count": 52,
       "objectID": "2745"
@@ -6221,8 +6221,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "ZAD",
       "_geoloc": {
-        "lat": 44.108269,
-        "lng": 15.346697
+        "latitude": 44.108269,
+        "longitude": 15.346697
       },
       "links_count": 52,
       "objectID": "1209"
@@ -6233,8 +6233,8 @@ const airports = [
       "country": "Congo (Brazzaville)",
       "iata_code": "BZV",
       "_geoloc": {
-        "lat": -4.2517,
-        "lng": 15.253031
+        "latitude": -4.2517,
+        "longitude": 15.253031
       },
       "links_count": 51,
       "objectID": "883"
@@ -6245,8 +6245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GSO",
       "_geoloc": {
-        "lat": 36.09775,
-        "lng": -79.937306
+        "latitude": 36.09775,
+        "longitude": -79.937306
       },
       "links_count": 51,
       "objectID": "4008"
@@ -6257,8 +6257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PSP",
       "_geoloc": {
-        "lat": 33.829667,
-        "lng": -116.506694
+        "latitude": 33.829667,
+        "longitude": -116.506694
       },
       "links_count": 51,
       "objectID": "3839"
@@ -6269,8 +6269,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "LPB",
       "_geoloc": {
-        "lat": -16.513339,
-        "lng": -68.192256
+        "latitude": -16.513339,
+        "longitude": -68.192256
       },
       "links_count": 51,
       "objectID": "2762"
@@ -6281,8 +6281,8 @@ const airports = [
       "country": "Cayman Islands",
       "iata_code": "GCM",
       "_geoloc": {
-        "lat": 19.292778,
-        "lng": -81.35775
+        "latitude": 19.292778,
+        "longitude": -81.35775
       },
       "links_count": 51,
       "objectID": "1926"
@@ -6293,8 +6293,8 @@ const airports = [
       "country": "China",
       "iata_code": "DSN",
       "_geoloc": {
-        "lat": 39.85,
-        "lng": 110.033
+        "latitude": 39.85,
+        "longitude": 110.033
       },
       "links_count": 50,
       "objectID": "6434"
@@ -6305,8 +6305,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ONT",
       "_geoloc": {
-        "lat": 34.056,
-        "lng": -117.601194
+        "latitude": 34.056,
+        "longitude": -117.601194
       },
       "links_count": 50,
       "objectID": "3734"
@@ -6317,8 +6317,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "VTE",
       "_geoloc": {
-        "lat": 17.988322,
-        "lng": 102.563256
+        "latitude": 17.988322,
+        "longitude": 102.563256
       },
       "links_count": 50,
       "objectID": "3120"
@@ -6329,8 +6329,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "SUF",
       "_geoloc": {
-        "lat": 38.905394,
-        "lng": 16.242269
+        "latitude": 38.905394,
+        "longitude": 16.242269
       },
       "links_count": 50,
       "objectID": "1508"
@@ -6341,8 +6341,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "BEN",
       "_geoloc": {
-        "lat": 32.096786,
-        "lng": 20.269472
+        "latitude": 32.096786,
+        "longitude": 20.269472
       },
       "links_count": 50,
       "objectID": "1154"
@@ -6353,8 +6353,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "EXT",
       "_geoloc": {
-        "lat": 50.734444,
-        "lng": -3.413889
+        "latitude": 50.734444,
+        "longitude": -3.413889
       },
       "links_count": 49,
       "objectID": "552"
@@ -6365,8 +6365,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OME",
       "_geoloc": {
-        "lat": 64.512203,
-        "lng": -165.445247
+        "latitude": 64.512203,
+        "longitude": -165.445247
       },
       "links_count": 49,
       "objectID": "3615"
@@ -6377,8 +6377,8 @@ const airports = [
       "country": "Gabon",
       "iata_code": "LBV",
       "_geoloc": {
-        "lat": 0.4586,
-        "lng": 9.412283
+        "latitude": 0.4586,
+        "longitude": 9.412283
       },
       "links_count": 48,
       "objectID": "970"
@@ -6389,8 +6389,8 @@ const airports = [
       "country": "China",
       "iata_code": "YIH",
       "_geoloc": {
-        "lat": 30.671,
-        "lng": 111.441
+        "latitude": 30.671,
+        "longitude": 111.441
       },
       "links_count": 48,
       "objectID": "6361"
@@ -6401,8 +6401,8 @@ const airports = [
       "country": "United States",
       "iata_code": "XNA",
       "_geoloc": {
-        "lat": 36.2818694,
-        "lng": -94.3068111
+        "latitude": 36.2818694,
+        "longitude": -94.3068111
       },
       "links_count": 48,
       "objectID": "4356"
@@ -6413,8 +6413,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "HIR",
       "_geoloc": {
-        "lat": -9.428,
-        "lng": 160.054789
+        "latitude": -9.428,
+        "longitude": 160.054789
       },
       "links_count": 48,
       "objectID": "4074"
@@ -6425,8 +6425,8 @@ const airports = [
       "country": "China",
       "iata_code": "JHG",
       "_geoloc": {
-        "lat": 21.973914,
-        "lng": 100.759611
+        "latitude": 21.973914,
+        "longitude": 100.759611
       },
       "links_count": 48,
       "objectID": "4055"
@@ -6437,8 +6437,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "MYY",
       "_geoloc": {
-        "lat": 4.322014,
-        "lng": 113.986806
+        "latitude": 4.322014,
+        "longitude": 113.986806
       },
       "links_count": 48,
       "objectID": "3266"
@@ -6449,8 +6449,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "VVI",
       "_geoloc": {
-        "lat": -17.644756,
-        "lng": -63.135364
+        "latitude": -17.644756,
+        "longitude": -63.135364
       },
       "links_count": 48,
       "objectID": "2771"
@@ -6461,8 +6461,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "AWZ",
       "_geoloc": {
-        "lat": 31.337431,
-        "lng": 48.76195
+        "latitude": 31.337431,
+        "longitude": 48.76195
       },
       "links_count": 48,
       "objectID": "2104"
@@ -6473,8 +6473,8 @@ const airports = [
       "country": "Haiti",
       "iata_code": "PAP",
       "_geoloc": {
-        "lat": 18.58005,
-        "lng": -72.292542
+        "latitude": 18.58005,
+        "longitude": -72.292542
       },
       "links_count": 48,
       "objectID": "1897"
@@ -6485,8 +6485,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "HMO",
       "_geoloc": {
-        "lat": 29.095858,
-        "lng": -111.047858
+        "latitude": 29.095858,
+        "longitude": -111.047858
       },
       "links_count": 48,
       "objectID": "1807"
@@ -6497,8 +6497,8 @@ const airports = [
       "country": "Macedonia",
       "iata_code": "SKP",
       "_geoloc": {
-        "lat": 41.961622,
-        "lng": 21.621381
+        "latitude": 41.961622,
+        "longitude": 21.621381
       },
       "links_count": 48,
       "objectID": "1737"
@@ -6509,8 +6509,8 @@ const airports = [
       "country": "France",
       "iata_code": "MPL",
       "_geoloc": {
-        "lat": 43.576194,
-        "lng": 3.963014
+        "latitude": 43.576194,
+        "longitude": 3.963014
       },
       "links_count": 48,
       "objectID": "1359"
@@ -6521,8 +6521,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YRT",
       "_geoloc": {
-        "lat": 62.81139,
-        "lng": -92.115833
+        "latitude": 62.81139,
+        "longitude": -92.115833
       },
       "links_count": 48,
       "objectID": "132"
@@ -6533,8 +6533,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ELP",
       "_geoloc": {
-        "lat": 31.80725,
-        "lng": -106.377583
+        "latitude": 31.80725,
+        "longitude": -106.377583
       },
       "links_count": 47,
       "objectID": "3559"
@@ -6545,8 +6545,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "PDL",
       "_geoloc": {
-        "lat": 37.741184,
-        "lng": -25.69787
+        "latitude": 37.741184,
+        "longitude": -25.69787
       },
       "links_count": 47,
       "objectID": "1633"
@@ -6557,8 +6557,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "FMM",
       "_geoloc": {
-        "lat": 47.988758,
-        "lng": 10.2395
+        "latitude": 47.988758,
+        "longitude": 10.2395
       },
       "links_count": 46,
       "objectID": "3986"
@@ -6569,8 +6569,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SAV",
       "_geoloc": {
-        "lat": 32.127583,
-        "lng": -81.202139
+        "latitude": 32.127583,
+        "longitude": -81.202139
       },
       "links_count": 46,
       "objectID": "3613"
@@ -6581,8 +6581,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HPN",
       "_geoloc": {
-        "lat": 41.066959,
-        "lng": -73.707575
+        "latitude": 41.066959,
+        "longitude": -73.707575
       },
       "links_count": 46,
       "objectID": "3589"
@@ -6593,8 +6593,8 @@ const airports = [
       "country": "Brunei",
       "iata_code": "BWN",
       "_geoloc": {
-        "lat": 4.9442,
-        "lng": 114.928353
+        "latitude": 4.9442,
+        "longitude": 114.928353
       },
       "links_count": 46,
       "objectID": "3272"
@@ -6605,8 +6605,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UFA",
       "_geoloc": {
-        "lat": 54.557511,
-        "lng": 55.874417
+        "latitude": 54.557511,
+        "longitude": 55.874417
       },
       "links_count": 46,
       "objectID": "2992"
@@ -6617,8 +6617,8 @@ const airports = [
       "country": "Martinique",
       "iata_code": "FDF",
       "_geoloc": {
-        "lat": 14.591033,
-        "lng": -61.003175
+        "latitude": 14.591033,
+        "longitude": -61.003175
       },
       "links_count": 46,
       "objectID": "2878"
@@ -6629,8 +6629,8 @@ const airports = [
       "country": "Barbados",
       "iata_code": "BGI",
       "_geoloc": {
-        "lat": 13.074603,
-        "lng": -59.492456
+        "latitude": 13.074603,
+        "longitude": -59.492456
       },
       "links_count": 46,
       "objectID": "2875"
@@ -6641,8 +6641,8 @@ const airports = [
       "country": "Uruguay",
       "iata_code": "MVD",
       "_geoloc": {
-        "lat": -34.838417,
-        "lng": -56.030806
+        "latitude": -34.838417,
+        "longitude": -56.030806
       },
       "links_count": 46,
       "objectID": "2816"
@@ -6653,8 +6653,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "SAP",
       "_geoloc": {
-        "lat": 15.452639,
-        "lng": -87.923556
+        "latitude": 15.452639,
+        "longitude": -87.923556
       },
       "links_count": 46,
       "objectID": "1772"
@@ -6665,8 +6665,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "TJM",
       "_geoloc": {
-        "lat": 57.189567,
-        "lng": 65.3243
+        "latitude": 57.189567,
+        "longitude": 65.3243
       },
       "links_count": 45,
       "objectID": "4111"
@@ -6677,8 +6677,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OTZ",
       "_geoloc": {
-        "lat": 66.884678,
-        "lng": -162.59855
+        "latitude": 66.884678,
+        "longitude": -162.59855
       },
       "links_count": 45,
       "objectID": "3693"
@@ -6689,8 +6689,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "LIR",
       "_geoloc": {
-        "lat": 10.593289,
-        "lng": -85.544408
+        "latitude": 10.593289,
+        "longitude": -85.544408
       },
       "links_count": 45,
       "objectID": "1881"
@@ -6701,8 +6701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CAK",
       "_geoloc": {
-        "lat": 40.9160833,
-        "lng": -81.4421944
+        "latitude": 40.9160833,
+        "longitude": -81.4421944
       },
       "links_count": 44,
       "objectID": "4112"
@@ -6713,8 +6713,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "ADE",
       "_geoloc": {
-        "lat": 12.829542,
-        "lng": 45.028792
+        "latitude": 12.829542,
+        "longitude": 45.028792
       },
       "links_count": 44,
       "objectID": "3977"
@@ -6725,8 +6725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KTN",
       "_geoloc": {
-        "lat": 55.355556,
-        "lng": -131.71375
+        "latitude": 55.355556,
+        "longitude": -131.71375
       },
       "links_count": 44,
       "objectID": "3808"
@@ -6737,8 +6737,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "DRS",
       "_geoloc": {
-        "lat": 51.132767,
-        "lng": 13.767161
+        "latitude": 51.132767,
+        "longitude": 13.767161
       },
       "links_count": 44,
       "objectID": "338"
@@ -6749,8 +6749,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "MRV",
       "_geoloc": {
-        "lat": 44.225072,
-        "lng": 43.081889
+        "latitude": 44.225072,
+        "longitude": 43.081889
       },
       "links_count": 44,
       "objectID": "2962"
@@ -6761,8 +6761,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "IEV",
       "_geoloc": {
-        "lat": 50.401694,
-        "lng": 30.449697
+        "latitude": 50.401694,
+        "longitude": 30.449697
       },
       "links_count": 44,
       "objectID": "2944"
@@ -6773,8 +6773,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZV",
       "_geoloc": {
-        "lat": 50.223333,
-        "lng": -66.265556
+        "latitude": 50.223333,
+        "longitude": -66.265556
       },
       "links_count": 44,
       "objectID": "202"
@@ -6785,8 +6785,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "BDS",
       "_geoloc": {
-        "lat": 40.657633,
-        "lng": 17.947033
+        "latitude": 40.657633,
+        "longitude": 17.947033
       },
       "links_count": 44,
       "objectID": "1506"
@@ -6797,8 +6797,8 @@ const airports = [
       "country": "Sierra Leone",
       "iata_code": "FNA",
       "_geoloc": {
-        "lat": 8.616444,
-        "lng": -13.195489
+        "latitude": 8.616444,
+        "longitude": -13.195489
       },
       "links_count": 44,
       "objectID": "1059"
@@ -6809,8 +6809,8 @@ const airports = [
       "country": "China",
       "iata_code": "MIG",
       "_geoloc": {
-        "lat": 31.4281,
-        "lng": 104.741
+        "latitude": 31.4281,
+        "longitude": 104.741
       },
       "links_count": 43,
       "objectID": "6400"
@@ -6821,8 +6821,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GYN",
       "_geoloc": {
-        "lat": -16.632033,
-        "lng": -49.220686
+        "latitude": -16.632033,
+        "longitude": -49.220686
       },
       "links_count": 43,
       "objectID": "2562"
@@ -6833,8 +6833,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYT",
       "_geoloc": {
-        "lat": 47.61861,
-        "lng": -52.751945
+        "latitude": 47.61861,
+        "longitude": -52.751945
       },
       "links_count": 43,
       "objectID": "189"
@@ -6845,8 +6845,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "XRY",
       "_geoloc": {
-        "lat": 36.744622,
-        "lng": -6.060111
+        "latitude": 36.744622,
+        "longitude": -6.060111
       },
       "links_count": 43,
       "objectID": "1226"
@@ -6857,8 +6857,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "DUR",
       "_geoloc": {
-        "lat": -29.970089,
-        "lng": 30.950519
+        "latitude": -29.970089,
+        "longitude": 30.950519
       },
       "links_count": 42,
       "objectID": "799"
@@ -6869,8 +6869,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "GSE",
       "_geoloc": {
-        "lat": 57.774722,
-        "lng": 11.870372
+        "latitude": 57.774722,
+        "longitude": 11.870372
       },
       "links_count": 42,
       "objectID": "691"
@@ -6881,8 +6881,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "POZ",
       "_geoloc": {
-        "lat": 52.421031,
-        "lng": 16.826325
+        "latitude": 52.421031,
+        "longitude": 16.826325
       },
       "links_count": 42,
       "objectID": "674"
@@ -6893,8 +6893,8 @@ const airports = [
       "country": "China",
       "iata_code": "DYG",
       "_geoloc": {
-        "lat": 29.1028,
-        "lng": 110.443
+        "latitude": 29.1028,
+        "longitude": 110.443
       },
       "links_count": 42,
       "objectID": "6353"
@@ -6905,8 +6905,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "PIK",
       "_geoloc": {
-        "lat": 55.509444,
-        "lng": -4.586667
+        "latitude": 55.509444,
+        "longitude": -4.586667
       },
       "links_count": 42,
       "objectID": "537"
@@ -6917,8 +6917,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BHD",
       "_geoloc": {
-        "lat": 54.618056,
-        "lng": -5.8725
+        "latitude": 54.618056,
+        "longitude": -5.8725
       },
       "links_count": 42,
       "objectID": "467"
@@ -6929,8 +6929,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "SCO",
       "_geoloc": {
-        "lat": 43.86005,
-        "lng": 51.091978
+        "latitude": 43.86005,
+        "longitude": 51.091978
       },
       "links_count": 42,
       "objectID": "4367"
@@ -6941,8 +6941,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BDO",
       "_geoloc": {
-        "lat": -6.900625,
-        "lng": 107.576294
+        "latitude": -6.900625,
+        "longitude": 107.576294
       },
       "links_count": 42,
       "objectID": "3896"
@@ -6953,8 +6953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LIH",
       "_geoloc": {
-        "lat": 21.975983,
-        "lng": -159.338958
+        "latitude": 21.975983,
+        "longitude": -159.338958
       },
       "links_count": 42,
       "objectID": "3602"
@@ -6965,8 +6965,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PNS",
       "_geoloc": {
-        "lat": 30.473425,
-        "lng": -87.186611
+        "latitude": 30.473425,
+        "longitude": -87.186611
       },
       "links_count": 42,
       "objectID": "3564"
@@ -6977,8 +6977,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MDC",
       "_geoloc": {
-        "lat": 1.549447,
-        "lng": 124.925878
+        "latitude": 1.549447,
+        "longitude": 124.925878
       },
       "links_count": 42,
       "objectID": "3250"
@@ -6989,8 +6989,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "FLN",
       "_geoloc": {
-        "lat": -27.670489,
-        "lng": -48.547181
+        "latitude": -27.670489,
+        "longitude": -48.547181
       },
       "links_count": 42,
       "objectID": "2555"
@@ -7001,8 +7001,8 @@ const airports = [
       "country": "Serbia",
       "iata_code": "PRN",
       "_geoloc": {
-        "lat": 42.572778,
-        "lng": 21.035833
+        "latitude": 42.572778,
+        "longitude": 21.035833
       },
       "links_count": 42,
       "objectID": "1742"
@@ -7013,8 +7013,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "CLJ",
       "_geoloc": {
-        "lat": 46.785167,
-        "lng": 23.686167
+        "latitude": 46.785167,
+        "longitude": 23.686167
       },
       "links_count": 42,
       "objectID": "1652"
@@ -7025,8 +7025,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "AAL",
       "_geoloc": {
-        "lat": 57.092789,
-        "lng": 9.849164
+        "latitude": 57.092789,
+        "longitude": 9.849164
       },
       "links_count": 41,
       "objectID": "628"
@@ -7037,8 +7037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KOA",
       "_geoloc": {
-        "lat": 19.738767,
-        "lng": -156.045631
+        "latitude": 19.738767,
+        "longitude": -156.045631
       },
       "links_count": 41,
       "objectID": "3514"
@@ -7049,8 +7049,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BOI",
       "_geoloc": {
-        "lat": 43.564361,
-        "lng": -116.222861
+        "latitude": 43.564361,
+        "longitude": -116.222861
       },
       "links_count": 41,
       "objectID": "3495"
@@ -7061,8 +7061,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "ULN",
       "_geoloc": {
-        "lat": 47.843056,
-        "lng": 106.766639
+        "latitude": 47.843056,
+        "longitude": 106.766639
       },
       "links_count": 41,
       "objectID": "3380"
@@ -7073,8 +7073,8 @@ const airports = [
       "country": "Togo",
       "iata_code": "LFW",
       "_geoloc": {
-        "lat": 6.165611,
-        "lng": 1.254511
+        "latitude": 6.165611,
+        "longitude": 1.254511
       },
       "links_count": 41,
       "objectID": "298"
@@ -7085,8 +7085,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "JRO",
       "_geoloc": {
-        "lat": -3.429406,
-        "lng": 37.074461
+        "latitude": -3.429406,
+        "longitude": 37.074461
       },
       "links_count": 41,
       "objectID": "1180"
@@ -7097,8 +7097,8 @@ const airports = [
       "country": "Reunion",
       "iata_code": "RUN",
       "_geoloc": {
-        "lat": -20.8871,
-        "lng": 55.510308
+        "latitude": -20.8871,
+        "longitude": 55.510308
       },
       "links_count": 40,
       "objectID": "916"
@@ -7109,8 +7109,8 @@ const airports = [
       "country": "China",
       "iata_code": "BHY",
       "_geoloc": {
-        "lat": 21.5394,
-        "lng": 109.294
+        "latitude": 21.5394,
+        "longitude": 109.294
       },
       "links_count": 40,
       "objectID": "6351"
@@ -7121,8 +7121,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "FKB",
       "_geoloc": {
-        "lat": 48.7793,
-        "lng": 8.08048
+        "latitude": 48.7793,
+        "longitude": 8.08048
       },
       "links_count": 40,
       "objectID": "4166"
@@ -7133,8 +7133,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "IFN",
       "_geoloc": {
-        "lat": 32.750836,
-        "lng": 51.861267
+        "latitude": 32.750836,
+        "longitude": 51.861267
       },
       "links_count": 40,
       "objectID": "4150"
@@ -7145,8 +7145,8 @@ const airports = [
       "country": "China",
       "iata_code": "XUZ",
       "_geoloc": {
-        "lat": 34.16,
-        "lng": 117.11
+        "latitude": 34.16,
+        "longitude": 117.11
       },
       "links_count": 40,
       "objectID": "4149"
@@ -7157,8 +7157,8 @@ const airports = [
       "country": "Djibouti",
       "iata_code": "JIB",
       "_geoloc": {
-        "lat": 11.5472,
-        "lng": 43.1594
+        "latitude": 11.5472,
+        "longitude": 43.1594
       },
       "links_count": 40,
       "objectID": "4119"
@@ -7169,8 +7169,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LEX",
       "_geoloc": {
-        "lat": 38.0365,
-        "lng": -84.605889
+        "latitude": 38.0365,
+        "longitude": -84.605889
       },
       "links_count": 40,
       "objectID": "4017"
@@ -7181,8 +7181,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MHT",
       "_geoloc": {
-        "lat": 42.932556,
-        "lng": -71.435667
+        "latitude": 42.932556,
+        "longitude": -71.435667
       },
       "links_count": 40,
       "objectID": "4011"
@@ -7193,8 +7193,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FAT",
       "_geoloc": {
-        "lat": 36.776194,
-        "lng": -119.71814
+        "latitude": 36.776194,
+        "longitude": -119.71814
       },
       "links_count": 40,
       "objectID": "3687"
@@ -7205,8 +7205,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JNU",
       "_geoloc": {
-        "lat": 58.354972,
-        "lng": -134.576278
+        "latitude": 58.354972,
+        "longitude": -134.576278
       },
       "links_count": 40,
       "objectID": "3492"
@@ -7217,8 +7217,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ICT",
       "_geoloc": {
-        "lat": 37.649944,
-        "lng": -97.433056
+        "latitude": 37.649944,
+        "longitude": -97.433056
       },
       "links_count": 40,
       "objectID": "3457"
@@ -7229,8 +7229,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CEK",
       "_geoloc": {
-        "lat": 55.305836,
-        "lng": 61.503333
+        "latitude": 55.305836,
+        "longitude": 61.503333
       },
       "links_count": 40,
       "objectID": "2968"
@@ -7241,8 +7241,8 @@ const airports = [
       "country": "Slovakia",
       "iata_code": "BTS",
       "_geoloc": {
-        "lat": 48.170167,
-        "lng": 17.212667
+        "latitude": 48.170167,
+        "longitude": 17.212667
       },
       "links_count": 40,
       "objectID": "1745"
@@ -7253,8 +7253,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "GOA",
       "_geoloc": {
-        "lat": 44.413333,
-        "lng": 8.8375
+        "latitude": 44.413333,
+        "longitude": 8.8375
       },
       "links_count": 40,
       "objectID": "1528"
@@ -7265,8 +7265,8 @@ const airports = [
       "country": "France",
       "iata_code": "CLY",
       "_geoloc": {
-        "lat": 42.530753,
-        "lng": 8.793189
+        "latitude": 42.530753,
+        "longitude": 8.793189
       },
       "links_count": 40,
       "objectID": "1322"
@@ -7277,8 +7277,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "MJV",
       "_geoloc": {
-        "lat": 37.774972,
-        "lng": -0.812389
+        "latitude": 37.774972,
+        "longitude": -0.812389
       },
       "links_count": 40,
       "objectID": "1227"
@@ -7289,8 +7289,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MDT",
       "_geoloc": {
-        "lat": 40.193494,
-        "lng": -76.763403
+        "latitude": 40.193494,
+        "longitude": -76.763403
       },
       "links_count": 39,
       "objectID": "3542"
@@ -7301,8 +7301,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "PMV",
       "_geoloc": {
-        "lat": 10.912926,
-        "lng": -63.967581
+        "latitude": 10.912926,
+        "longitude": -63.967581
       },
       "links_count": 39,
       "objectID": "2850"
@@ -7313,8 +7313,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "REU",
       "_geoloc": {
-        "lat": 41.147392,
-        "lng": 1.167172
+        "latitude": 41.147392,
+        "longitude": 1.167172
       },
       "links_count": 39,
       "objectID": "1236"
@@ -7325,8 +7325,8 @@ const airports = [
       "country": "China",
       "iata_code": "ZHA",
       "_geoloc": {
-        "lat": 21.2144,
-        "lng": 110.358
+        "latitude": 21.2144,
+        "longitude": 110.358
       },
       "links_count": 38,
       "objectID": "6357"
@@ -7337,8 +7337,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BOH",
       "_geoloc": {
-        "lat": 50.78,
-        "lng": -1.8425
+        "latitude": 50.78,
+        "longitude": -1.8425
       },
       "links_count": 38,
       "objectID": "494"
@@ -7349,8 +7349,8 @@ const airports = [
       "country": "Cameroon",
       "iata_code": "NSI",
       "_geoloc": {
-        "lat": 3.722556,
-        "lng": 11.553269
+        "latitude": 3.722556,
+        "longitude": 11.553269
       },
       "links_count": 38,
       "objectID": "4161"
@@ -7361,8 +7361,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "WDH",
       "_geoloc": {
-        "lat": -22.486667,
-        "lng": 17.4625
+        "latitude": -22.486667,
+        "longitude": 17.4625
       },
       "links_count": 38,
       "objectID": "4105"
@@ -7373,8 +7373,8 @@ const airports = [
       "country": "Lithuania",
       "iata_code": "KUN",
       "_geoloc": {
-        "lat": 54.963919,
-        "lng": 24.084778
+        "latitude": 54.963919,
+        "longitude": 24.084778
       },
       "links_count": 38,
       "objectID": "3956"
@@ -7385,8 +7385,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RAO",
       "_geoloc": {
-        "lat": -21.134167,
-        "lng": -47.774189
+        "latitude": -21.134167,
+        "longitude": -47.774189
       },
       "links_count": 38,
       "objectID": "2613"
@@ -7397,8 +7397,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "BND",
       "_geoloc": {
-        "lat": 27.218317,
-        "lng": 56.37785
+        "latitude": 27.218317,
+        "longitude": 56.37785
       },
       "links_count": 38,
       "objectID": "2134"
@@ -7409,8 +7409,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "GRZ",
       "_geoloc": {
-        "lat": 46.991067,
-        "lng": 15.439628
+        "latitude": 46.991067,
+        "longitude": 15.439628
       },
       "links_count": 38,
       "objectID": "1609"
@@ -7421,8 +7421,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "SDR",
       "_geoloc": {
-        "lat": 43.427064,
-        "lng": -3.820006
+        "latitude": 43.427064,
+        "longitude": -3.820006
       },
       "links_count": 38,
       "objectID": "1251"
@@ -7433,8 +7433,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "TNG",
       "_geoloc": {
-        "lat": 35.726917,
-        "lng": -5.916889
+        "latitude": 35.726917,
+        "longitude": -5.916889
       },
       "links_count": 38,
       "objectID": "1080"
@@ -7445,8 +7445,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "ODS",
       "_geoloc": {
-        "lat": 46.426767,
-        "lng": 30.676464
+        "latitude": 46.426767,
+        "longitude": 30.676464
       },
       "links_count": 37,
       "objectID": "2947"
@@ -7457,8 +7457,8 @@ const airports = [
       "country": "Saint Lucia",
       "iata_code": "UVF",
       "_geoloc": {
-        "lat": 13.733194,
-        "lng": -60.952597
+        "latitude": 13.733194,
+        "longitude": -60.952597
       },
       "links_count": 37,
       "objectID": "2894"
@@ -7469,8 +7469,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "WIL",
       "_geoloc": {
-        "lat": -1.321719,
-        "lng": 36.814833
+        "latitude": -1.321719,
+        "longitude": 36.814833
       },
       "links_count": 37,
       "objectID": "1147"
@@ -7481,8 +7481,8 @@ const airports = [
       "country": "China",
       "iata_code": "YTY",
       "_geoloc": {
-        "lat": 32.5617,
-        "lng": 119.715
+        "latitude": 32.5617,
+        "longitude": 119.715
       },
       "links_count": 36,
       "objectID": "8876"
@@ -7493,8 +7493,8 @@ const airports = [
       "country": "Congo (Brazzaville)",
       "iata_code": "PNR",
       "_geoloc": {
-        "lat": -4.816028,
-        "lng": 11.886597
+        "latitude": -4.816028,
+        "longitude": 11.886597
       },
       "links_count": 36,
       "objectID": "886"
@@ -7505,8 +7505,8 @@ const airports = [
       "country": "China",
       "iata_code": "YIW",
       "_geoloc": {
-        "lat": 29.3447,
-        "lng": 120.032
+        "latitude": 29.3447,
+        "longitude": 120.032
       },
       "links_count": 36,
       "objectID": "6394"
@@ -7517,8 +7517,8 @@ const airports = [
       "country": "China",
       "iata_code": "LYI",
       "_geoloc": {
-        "lat": 35.0461,
-        "lng": 118.412
+        "latitude": 35.0461,
+        "longitude": 118.412
       },
       "links_count": 36,
       "objectID": "6385"
@@ -7529,8 +7529,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "NDR",
       "_geoloc": {
-        "lat": 34.9888,
-        "lng": -3.02821
+        "latitude": 34.9888,
+        "longitude": -3.02821
       },
       "links_count": 36,
       "objectID": "5673"
@@ -7541,8 +7541,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFB",
       "_geoloc": {
-        "lat": 63.75639,
-        "lng": -68.555832
+        "latitude": 63.75639,
+        "longitude": -68.555832
       },
       "links_count": 36,
       "objectID": "55"
@@ -7553,8 +7553,8 @@ const airports = [
       "country": "China",
       "iata_code": "NTG",
       "_geoloc": {
-        "lat": 32.0708,
-        "lng": 120.976
+        "latitude": 32.0708,
+        "longitude": 120.976
       },
       "links_count": 36,
       "objectID": "5475"
@@ -7565,8 +7565,8 @@ const airports = [
       "country": "Guernsey",
       "iata_code": "GCI",
       "_geoloc": {
-        "lat": 49.434956,
-        "lng": -2.601969
+        "latitude": 49.434956,
+        "longitude": -2.601969
       },
       "links_count": 36,
       "objectID": "498"
@@ -7577,8 +7577,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "GOJ",
       "_geoloc": {
-        "lat": 56.230119,
-        "lng": 43.784042
+        "latitude": 56.230119,
+        "longitude": 43.784042
       },
       "links_count": 36,
       "objectID": "4274"
@@ -7589,8 +7589,8 @@ const airports = [
       "country": "Guinea",
       "iata_code": "CKY",
       "_geoloc": {
-        "lat": 9.576889,
-        "lng": -13.611961
+        "latitude": 9.576889,
+        "longitude": -13.611961
       },
       "links_count": 36,
       "objectID": "4162"
@@ -7601,8 +7601,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HSV",
       "_geoloc": {
-        "lat": 34.6371944,
-        "lng": -86.7750556
+        "latitude": 34.6371944,
+        "longitude": -86.7750556
       },
       "links_count": 36,
       "objectID": "4113"
@@ -7613,8 +7613,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BUR",
       "_geoloc": {
-        "lat": 34.200667,
-        "lng": -118.358667
+        "latitude": 34.200667,
+        "longitude": -118.358667
       },
       "links_count": 36,
       "objectID": "3644"
@@ -7625,8 +7625,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LGB",
       "_geoloc": {
-        "lat": 33.817722,
-        "lng": -118.151611
+        "latitude": 33.817722,
+        "longitude": -118.151611
       },
       "links_count": 36,
       "objectID": "3582"
@@ -7637,8 +7637,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JAN",
       "_geoloc": {
-        "lat": 32.311167,
-        "lng": -90.075889
+        "latitude": 32.311167,
+        "longitude": -90.075889
       },
       "links_count": 36,
       "objectID": "3580"
@@ -7649,8 +7649,8 @@ const airports = [
       "country": "China",
       "iata_code": "HLD",
       "_geoloc": {
-        "lat": 49.204997,
-        "lng": 119.825
+        "latitude": 49.204997,
+        "longitude": 119.825
       },
       "links_count": 36,
       "objectID": "3366"
@@ -7661,8 +7661,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "JHB",
       "_geoloc": {
-        "lat": 1.641308,
-        "lng": 103.669619
+        "latitude": 1.641308,
+        "longitude": 103.669619
       },
       "links_count": 36,
       "objectID": "3303"
@@ -7673,8 +7673,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PKU",
       "_geoloc": {
-        "lat": 0.460786,
-        "lng": 101.444539
+        "latitude": 0.460786,
+        "longitude": 101.444539
       },
       "links_count": 36,
       "objectID": "3273"
@@ -7685,8 +7685,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "USM",
       "_geoloc": {
-        "lat": 9.547794,
-        "lng": 100.062272
+        "latitude": 9.547794,
+        "longitude": 100.062272
       },
       "links_count": 36,
       "objectID": "3177"
@@ -7697,8 +7697,8 @@ const airports = [
       "country": "India",
       "iata_code": "LKO",
       "_geoloc": {
-        "lat": 26.760594,
-        "lng": 80.889339
+        "latitude": 26.760594,
+        "longitude": 80.889339
       },
       "links_count": 36,
       "objectID": "3105"
@@ -7709,8 +7709,8 @@ const airports = [
       "country": "India",
       "iata_code": "VTZ",
       "_geoloc": {
-        "lat": 17.721167,
-        "lng": 83.224483
+        "latitude": 17.721167,
+        "longitude": 83.224483
       },
       "links_count": 36,
       "objectID": "3066"
@@ -7721,8 +7721,8 @@ const airports = [
       "country": "Paraguay",
       "iata_code": "ASU",
       "_geoloc": {
-        "lat": -25.23985,
-        "lng": -57.519133
+        "latitude": -25.23985,
+        "longitude": -57.519133
       },
       "links_count": 36,
       "objectID": "2699"
@@ -7733,8 +7733,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "KLO",
       "_geoloc": {
-        "lat": 11.679431,
-        "lng": 122.376294
+        "latitude": 11.679431,
+        "longitude": 122.376294
       },
       "links_count": 36,
       "objectID": "2430"
@@ -7745,8 +7745,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KOJ",
       "_geoloc": {
-        "lat": 31.803397,
-        "lng": 130.719408
+        "latitude": 31.803397,
+        "longitude": 130.719408
       },
       "links_count": 36,
       "objectID": "2307"
@@ -7757,8 +7757,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "TGU",
       "_geoloc": {
-        "lat": 14.060883,
-        "lng": -87.217197
+        "latitude": 14.060883,
+        "longitude": -87.217197
       },
       "links_count": 36,
       "objectID": "1776"
@@ -7769,8 +7769,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "LEI",
       "_geoloc": {
-        "lat": 36.843936,
-        "lng": -2.370097
+        "latitude": 36.843936,
+        "longitude": -2.370097
       },
       "links_count": 36,
       "objectID": "1213"
@@ -7781,8 +7781,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "FEZ",
       "_geoloc": {
-        "lat": 33.927261,
-        "lng": -4.977958
+        "latitude": 33.927261,
+        "longitude": -4.977958
       },
       "links_count": 36,
       "objectID": "1066"
@@ -7793,8 +7793,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PGD",
       "_geoloc": {
-        "lat": 26.919722,
-        "lng": -81.990556
+        "latitude": 26.919722,
+        "longitude": -81.990556
       },
       "links_count": 35,
       "objectID": "7056"
@@ -7805,8 +7805,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BOO",
       "_geoloc": {
-        "lat": 67.269167,
-        "lng": 14.365278
+        "latitude": 67.269167,
+        "longitude": 14.365278
       },
       "links_count": 35,
       "objectID": "635"
@@ -7817,8 +7817,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CID",
       "_geoloc": {
-        "lat": 41.884694,
-        "lng": -91.710806
+        "latitude": 41.884694,
+        "longitude": -91.710806
       },
       "links_count": 35,
       "objectID": "4043"
@@ -7829,8 +7829,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "DJJ",
       "_geoloc": {
-        "lat": -2.576953,
-        "lng": 140.516372
+        "latitude": -2.576953,
+        "longitude": 140.516372
       },
       "links_count": 35,
       "objectID": "3244"
@@ -7841,8 +7841,8 @@ const airports = [
       "country": "Dominica",
       "iata_code": "DOM",
       "_geoloc": {
-        "lat": 15.547028,
-        "lng": -61.3
+        "latitude": 15.547028,
+        "longitude": -61.3
       },
       "links_count": 35,
       "objectID": "2877"
@@ -7853,8 +7853,8 @@ const airports = [
       "country": "Cape Verde",
       "iata_code": "SID",
       "_geoloc": {
-        "lat": 16.741389,
-        "lng": -22.949444
+        "latitude": 16.741389,
+        "longitude": -22.949444
       },
       "links_count": 35,
       "objectID": "1102"
@@ -7865,8 +7865,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "MPM",
       "_geoloc": {
-        "lat": -25.920836,
-        "lng": 32.572606
+        "latitude": -25.920836,
+        "longitude": 32.572606
       },
       "links_count": 34,
       "objectID": "979"
@@ -7877,8 +7877,8 @@ const airports = [
       "country": "China",
       "iata_code": "YNZ",
       "_geoloc": {
-        "lat": 33.3856,
-        "lng": 120.125
+        "latitude": 33.3856,
+        "longitude": 120.125
       },
       "links_count": 34,
       "objectID": "6393"
@@ -7889,8 +7889,8 @@ const airports = [
       "country": "Santiago Island",
       "iata_code": "RAI",
       "_geoloc": {
-        "lat": 0.0,
-        "lng": 14.9245
+        "latitude": 0.0,
+        "longitude": 14.9245
       },
       "links_count": 34,
       "objectID": "5674"
@@ -7901,8 +7901,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "SRG",
       "_geoloc": {
-        "lat": -6.971447,
-        "lng": 110.374122
+        "latitude": -6.971447,
+        "longitude": 110.374122
       },
       "links_count": 34,
       "objectID": "3901"
@@ -7913,8 +7913,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CAE",
       "_geoloc": {
-        "lat": 33.938833,
-        "lng": -81.119528
+        "latitude": 33.938833,
+        "longitude": -81.119528
       },
       "links_count": 34,
       "objectID": "3561"
@@ -7925,8 +7925,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSN",
       "_geoloc": {
-        "lat": 43.139858,
-        "lng": -89.337514
+        "latitude": 43.139858,
+        "longitude": -89.337514
       },
       "links_count": 34,
       "objectID": "3459"
@@ -7937,8 +7937,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LGK",
       "_geoloc": {
-        "lat": 6.329728,
-        "lng": 99.728667
+        "latitude": 6.329728,
+        "longitude": 99.728667
       },
       "links_count": 34,
       "objectID": "3305"
@@ -7949,8 +7949,8 @@ const airports = [
       "country": "India",
       "iata_code": "CJB",
       "_geoloc": {
-        "lat": 11.030031,
-        "lng": 77.043383
+        "latitude": 11.030031,
+        "longitude": 77.043383
       },
       "links_count": 34,
       "objectID": "3135"
@@ -7961,8 +7961,8 @@ const airports = [
       "country": "India",
       "iata_code": "JAI",
       "_geoloc": {
-        "lat": 26.824192,
-        "lng": 75.812161
+        "latitude": 26.824192,
+        "longitude": 75.812161
       },
       "links_count": 34,
       "objectID": "3098"
@@ -7973,8 +7973,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OMS",
       "_geoloc": {
-        "lat": 54.967042,
-        "lng": 73.310514
+        "latitude": 54.967042,
+        "longitude": 73.310514
       },
       "links_count": 34,
       "objectID": "2958"
@@ -7985,8 +7985,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "LWO",
       "_geoloc": {
-        "lat": 49.8125,
-        "lng": 23.956111
+        "latitude": 49.8125,
+        "longitude": 23.956111
       },
       "links_count": 34,
       "objectID": "2945"
@@ -7997,8 +7997,8 @@ const airports = [
       "country": "Niger",
       "iata_code": "NIM",
       "_geoloc": {
-        "lat": 13.481547,
-        "lng": 2.183614
+        "latitude": 13.481547,
+        "longitude": 2.183614
       },
       "links_count": 34,
       "objectID": "280"
@@ -8009,8 +8009,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CGR",
       "_geoloc": {
-        "lat": -20.468667,
-        "lng": -54.6725
+        "latitude": -20.468667,
+        "longitude": -54.6725
       },
       "links_count": 34,
       "objectID": "2538"
@@ -8021,8 +8021,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HIJ",
       "_geoloc": {
-        "lat": 34.436111,
-        "lng": 132.919444
+        "latitude": 34.436111,
+        "longitude": 132.919444
       },
       "links_count": 34,
       "objectID": "2326"
@@ -8033,8 +8033,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KMQ",
       "_geoloc": {
-        "lat": 36.394611,
-        "lng": 136.406544
+        "latitude": 36.394611,
+        "longitude": 136.406544
       },
       "links_count": 34,
       "objectID": "2322"
@@ -8045,8 +8045,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "NGS",
       "_geoloc": {
-        "lat": 32.916944,
-        "lng": 129.913611
+        "latitude": 32.916944,
+        "longitude": 129.913611
       },
       "links_count": 34,
       "objectID": "2313"
@@ -8057,8 +8057,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXL",
       "_geoloc": {
-        "lat": 50.113889,
-        "lng": -91.905278
+        "latitude": 50.113889,
+        "longitude": -91.905278
       },
       "links_count": 34,
       "objectID": "169"
@@ -8069,8 +8069,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ADA",
       "_geoloc": {
-        "lat": 36.982166,
-        "lng": 35.280388
+        "latitude": 36.982166,
+        "longitude": 35.280388
       },
       "links_count": 34,
       "objectID": "1685"
@@ -8081,8 +8081,8 @@ const airports = [
       "country": "France",
       "iata_code": "BES",
       "_geoloc": {
-        "lat": 48.447911,
-        "lng": -4.418539
+        "latitude": 48.447911,
+        "longitude": -4.418539
       },
       "links_count": 34,
       "objectID": "1403"
@@ -8093,8 +8093,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "OVD",
       "_geoloc": {
-        "lat": 43.563567,
-        "lng": -6.034622
+        "latitude": 43.563567,
+        "longitude": -6.034622
       },
       "links_count": 34,
       "objectID": "1214"
@@ -8105,8 +8105,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EYW",
       "_geoloc": {
-        "lat": 24.556111,
-        "lng": -81.759556
+        "latitude": 24.556111,
+        "longitude": -81.759556
       },
       "links_count": 33,
       "objectID": "3875"
@@ -8117,8 +8117,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ISP",
       "_geoloc": {
-        "lat": 40.79525,
-        "lng": -73.100222
+        "latitude": 40.79525,
+        "longitude": -73.100222
       },
       "links_count": 33,
       "objectID": "3857"
@@ -8129,8 +8129,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "MDL",
       "_geoloc": {
-        "lat": 21.702156,
-        "lng": 95.977928
+        "latitude": 21.702156,
+        "longitude": 95.977928
       },
       "links_count": 33,
       "objectID": "3222"
@@ -8141,8 +8141,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UUS",
       "_geoloc": {
-        "lat": 46.888672,
-        "lng": 142.717531
+        "latitude": 46.888672,
+        "longitude": 142.717531
       },
       "links_count": 33,
       "objectID": "2933"
@@ -8153,8 +8153,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "KIH",
       "_geoloc": {
-        "lat": 26.526156,
-        "lng": 53.980211
+        "latitude": 26.526156,
+        "longitude": 53.980211
       },
       "links_count": 33,
       "objectID": "2109"
@@ -8165,8 +8165,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CUU",
       "_geoloc": {
-        "lat": 28.702875,
-        "lng": -105.964567
+        "latitude": 28.702875,
+        "longitude": -105.964567
       },
       "links_count": 33,
       "objectID": "1797"
@@ -8177,8 +8177,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "ZTH",
       "_geoloc": {
-        "lat": 37.750853,
-        "lng": 20.88425
+        "latitude": 37.750853,
+        "longitude": 20.88425
       },
       "links_count": 33,
       "objectID": "1488"
@@ -8189,8 +8189,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQR",
       "_geoloc": {
-        "lat": 50.431944,
-        "lng": -104.665833
+        "latitude": 50.431944,
+        "longitude": -104.665833
       },
       "links_count": 33,
       "objectID": "120"
@@ -8201,8 +8201,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "LOP",
       "_geoloc": {
-        "lat": -8.7573222,
-        "lng": 116.276675
+        "latitude": -8.7573222,
+        "longitude": 116.276675
       },
       "links_count": 32,
       "objectID": "8401"
@@ -8213,8 +8213,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "MMX",
       "_geoloc": {
-        "lat": 55.530193,
-        "lng": 13.371639
+        "latitude": 55.530193,
+        "longitude": 13.371639
       },
       "links_count": 32,
       "objectID": "708"
@@ -8225,8 +8225,8 @@ const airports = [
       "country": "China",
       "iata_code": "LYG",
       "_geoloc": {
-        "lat": 34.55,
-        "lng": 119.25
+        "latitude": 34.55,
+        "longitude": 119.25
       },
       "links_count": 32,
       "objectID": "6383"
@@ -8237,8 +8237,8 @@ const airports = [
       "country": "China",
       "iata_code": "JDZ",
       "_geoloc": {
-        "lat": 29.3386,
-        "lng": 117.176
+        "latitude": 29.3386,
+        "longitude": 117.176
       },
       "links_count": 32,
       "objectID": "6380"
@@ -8249,8 +8249,8 @@ const airports = [
       "country": "China",
       "iata_code": "CIH",
       "_geoloc": {
-        "lat": 36.2475,
-        "lng": 113.126
+        "latitude": 36.2475,
+        "longitude": 113.126
       },
       "links_count": 32,
       "objectID": "6343"
@@ -8261,8 +8261,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KIJ",
       "_geoloc": {
-        "lat": 37.5711,
-        "lng": 139.0646
+        "latitude": 37.5711,
+        "longitude": 139.0646
       },
       "links_count": 32,
       "objectID": "4381"
@@ -8273,8 +8273,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NUX",
       "_geoloc": {
-        "lat": 66.041811,
-        "lng": 76.313938
+        "latitude": 66.041811,
+        "longitude": 76.313938
       },
       "links_count": 32,
       "objectID": "4364"
@@ -8285,8 +8285,8 @@ const airports = [
       "country": "China",
       "iata_code": "JZH",
       "_geoloc": {
-        "lat": 32.857,
-        "lng": 103.683
+        "latitude": 32.857,
+        "longitude": 103.683
       },
       "links_count": 32,
       "objectID": "4301"
@@ -8297,8 +8297,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FWA",
       "_geoloc": {
-        "lat": 40.978472,
-        "lng": -85.195139
+        "latitude": 40.978472,
+        "longitude": -85.195139
       },
       "links_count": 32,
       "objectID": "4041"
@@ -8309,8 +8309,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CHA",
       "_geoloc": {
-        "lat": 35.035278,
-        "lng": -85.203808
+        "latitude": 35.035278,
+        "longitude": -85.203808
       },
       "links_count": 32,
       "objectID": "3578"
@@ -8321,8 +8321,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "TSV",
       "_geoloc": {
-        "lat": -19.2525,
-        "lng": 146.765278
+        "latitude": -19.2525,
+        "longitude": 146.765278
       },
       "links_count": 32,
       "objectID": "3330"
@@ -8333,8 +8333,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "KBV",
       "_geoloc": {
-        "lat": 8.095969,
-        "lng": 98.988764
+        "latitude": 8.095969,
+        "longitude": 98.988764
       },
       "links_count": 32,
       "objectID": "3174"
@@ -8345,8 +8345,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "CGP",
       "_geoloc": {
-        "lat": 22.249611,
-        "lng": 91.813286
+        "latitude": 22.249611,
+        "longitude": 91.813286
       },
       "links_count": 32,
       "objectID": "3069"
@@ -8357,8 +8357,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXB",
       "_geoloc": {
-        "lat": 26.681206,
-        "lng": 88.328567
+        "latitude": 26.681206,
+        "longitude": 88.328567
       },
       "links_count": 32,
       "objectID": "3040"
@@ -8369,8 +8369,8 @@ const airports = [
       "country": "India",
       "iata_code": "IDR",
       "_geoloc": {
-        "lat": 22.721786,
-        "lng": 75.801086
+        "latitude": 22.721786,
+        "longitude": 75.801086
       },
       "links_count": 32,
       "objectID": "3008"
@@ -8381,8 +8381,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "VIX",
       "_geoloc": {
-        "lat": -20.258056,
-        "lng": -40.286389
+        "latitude": -20.258056,
+        "longitude": -40.286389
       },
       "links_count": 32,
       "objectID": "2638"
@@ -8393,8 +8393,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "NAT",
       "_geoloc": {
-        "lat": -5.911417,
-        "lng": -35.247717
+        "latitude": -5.911417,
+        "longitude": -35.247717
       },
       "links_count": 32,
       "objectID": "2597"
@@ -8405,8 +8405,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "CZL",
       "_geoloc": {
-        "lat": 36.276028,
-        "lng": 6.620386
+        "latitude": 36.276028,
+        "longitude": 6.620386
       },
       "links_count": 32,
       "objectID": "221"
@@ -8417,8 +8417,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "VER",
       "_geoloc": {
-        "lat": 19.145931,
-        "lng": -96.187267
+        "latitude": 19.145931,
+        "longitude": -96.187267
       },
       "links_count": 32,
       "objectID": "1854"
@@ -8429,8 +8429,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CZM",
       "_geoloc": {
-        "lat": 20.522403,
-        "lng": -86.925644
+        "latitude": 20.522403,
+        "longitude": -86.925644
       },
       "links_count": 32,
       "objectID": "1800"
@@ -8441,8 +8441,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CUL",
       "_geoloc": {
-        "lat": 24.764547,
-        "lng": -107.474717
+        "latitude": 24.764547,
+        "longitude": -107.474717
       },
       "links_count": 32,
       "objectID": "1792"
@@ -8453,8 +8453,8 @@ const airports = [
       "country": "Montenegro",
       "iata_code": "TGD",
       "_geoloc": {
-        "lat": 42.359392,
-        "lng": 19.251894
+        "latitude": 42.359392,
+        "longitude": 19.251894
       },
       "links_count": 32,
       "objectID": "1741"
@@ -8465,8 +8465,8 @@ const airports = [
       "country": "Bosnia and Herzegovina",
       "iata_code": "SJJ",
       "_geoloc": {
-        "lat": 43.824583,
-        "lng": 18.331467
+        "latitude": 43.824583,
+        "longitude": 18.331467
       },
       "links_count": 32,
       "objectID": "1646"
@@ -8477,8 +8477,8 @@ const airports = [
       "country": "Liberia",
       "iata_code": "ROB",
       "_geoloc": {
-        "lat": 6.233789,
-        "lng": -10.362311
+        "latitude": 6.233789,
+        "longitude": -10.362311
       },
       "links_count": 32,
       "objectID": "1063"
@@ -8489,8 +8489,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXE",
       "_geoloc": {
-        "lat": 12.961267,
-        "lng": 74.890069
+        "latitude": 12.961267,
+        "longitude": 74.890069
       },
       "links_count": 31,
       "objectID": "3143"
@@ -8501,8 +8501,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "MIR",
       "_geoloc": {
-        "lat": 35.758056,
-        "lng": 10.754722
+        "latitude": 35.758056,
+        "longitude": 10.754722
       },
       "links_count": 31,
       "objectID": "286"
@@ -8513,8 +8513,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SLZ",
       "_geoloc": {
-        "lat": -2.585361,
-        "lng": -44.234139
+        "latitude": -2.585361,
+        "longitude": -44.234139
       },
       "links_count": 31,
       "objectID": "2616"
@@ -8525,8 +8525,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWK",
       "_geoloc": {
-        "lat": 52.921944,
-        "lng": -66.864444
+        "latitude": 52.921944,
+        "longitude": -66.864444
       },
       "links_count": 31,
       "objectID": "161"
@@ -8537,8 +8537,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JTR",
       "_geoloc": {
-        "lat": 36.399169,
-        "lng": 25.479333
+        "latitude": 36.399169,
+        "longitude": 25.479333
       },
       "links_count": 31,
       "objectID": "1479"
@@ -8549,8 +8549,8 @@ const airports = [
       "country": "Mayotte",
       "iata_code": "DZA",
       "_geoloc": {
-        "lat": -12.804722,
-        "lng": 45.281113
+        "latitude": -12.804722,
+        "longitude": 45.281113
       },
       "links_count": 30,
       "objectID": "915"
@@ -8561,8 +8561,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YLW",
       "_geoloc": {
-        "lat": 49.956112,
-        "lng": -119.377778
+        "latitude": 49.956112,
+        "longitude": -119.377778
       },
       "links_count": 30,
       "objectID": "87"
@@ -8573,8 +8573,8 @@ const airports = [
       "country": "China",
       "iata_code": "WUS",
       "_geoloc": {
-        "lat": 27.7019,
-        "lng": 118.001
+        "latitude": 27.7019,
+        "longitude": 118.001
       },
       "links_count": 30,
       "objectID": "6391"
@@ -8585,8 +8585,8 @@ const airports = [
       "country": "China",
       "iata_code": "CIF",
       "_geoloc": {
-        "lat": 42.235,
-        "lng": 118.908
+        "latitude": 42.235,
+        "longitude": 118.908
       },
       "links_count": 30,
       "objectID": "6342"
@@ -8597,8 +8597,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "NOC",
       "_geoloc": {
-        "lat": 53.910297,
-        "lng": -8.818492
+        "latitude": 53.910297,
+        "longitude": -8.818492
       },
       "links_count": 30,
       "objectID": "600"
@@ -8609,8 +8609,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MLI",
       "_geoloc": {
-        "lat": 41.448528,
-        "lng": -90.507539
+        "latitude": 41.448528,
+        "longitude": -90.507539
       },
       "links_count": 30,
       "objectID": "4072"
@@ -8621,8 +8621,8 @@ const airports = [
       "country": "Bermuda",
       "iata_code": "BDA",
       "_geoloc": {
-        "lat": 32.364042,
-        "lng": -64.678703
+        "latitude": 32.364042,
+        "longitude": -64.678703
       },
       "links_count": 30,
       "objectID": "4069"
@@ -8633,8 +8633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIA",
       "_geoloc": {
-        "lat": 40.664203,
-        "lng": -89.693258
+        "latitude": 40.664203,
+        "longitude": -89.693258
       },
       "links_count": 30,
       "objectID": "4046"
@@ -8645,8 +8645,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ROA",
       "_geoloc": {
-        "lat": 37.325472,
-        "lng": -79.975417
+        "latitude": 37.325472,
+        "longitude": -79.975417
       },
       "links_count": 30,
       "objectID": "4016"
@@ -8657,8 +8657,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TLH",
       "_geoloc": {
-        "lat": 30.396528,
-        "lng": -84.350333
+        "latitude": 30.396528,
+        "longitude": -84.350333
       },
       "links_count": 30,
       "objectID": "3698"
@@ -8669,8 +8669,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GEG",
       "_geoloc": {
-        "lat": 47.619861,
-        "lng": -117.533833
+        "latitude": 47.619861,
+        "longitude": -117.533833
       },
       "links_count": 30,
       "objectID": "3467"
@@ -8681,8 +8681,8 @@ const airports = [
       "country": "India",
       "iata_code": "NAG",
       "_geoloc": {
-        "lat": 21.092192,
-        "lng": 79.047183
+        "latitude": 21.092192,
+        "longitude": 79.047183
       },
       "links_count": 30,
       "objectID": "3015"
@@ -8693,8 +8693,8 @@ const airports = [
       "country": "Turkmenistan",
       "iata_code": "ASB",
       "_geoloc": {
-        "lat": 37.986814,
-        "lng": 58.360967
+        "latitude": 37.986814,
+        "longitude": 58.360967
       },
       "links_count": 30,
       "objectID": "2976"
@@ -8705,8 +8705,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KGD",
       "_geoloc": {
-        "lat": 54.89005,
-        "lng": 20.592633
+        "latitude": 54.89005,
+        "longitude": 20.592633
       },
       "links_count": 30,
       "objectID": "2952"
@@ -8717,8 +8717,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "DOK",
       "_geoloc": {
-        "lat": 48.073611,
-        "lng": 37.739722
+        "latitude": 48.073611,
+        "longitude": 37.739722
       },
       "links_count": 30,
       "objectID": "2940"
@@ -8729,8 +8729,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "UDI",
       "_geoloc": {
-        "lat": -18.882844,
-        "lng": -48.225594
+        "latitude": -18.882844,
+        "longitude": -48.225594
       },
       "links_count": 30,
       "objectID": "2633"
@@ -8741,8 +8741,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "TBZ",
       "_geoloc": {
-        "lat": 38.133889,
-        "lng": 46.235
+        "latitude": 38.133889,
+        "longitude": 46.235
       },
       "links_count": 30,
       "objectID": "2162"
@@ -8753,8 +8753,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "FPO",
       "_geoloc": {
-        "lat": 26.558686,
-        "lng": -78.695553
+        "latitude": 26.558686,
+        "longitude": -78.695553
       },
       "links_count": 30,
       "objectID": "1948"
@@ -8765,8 +8765,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYR",
       "_geoloc": {
-        "lat": 53.319168,
-        "lng": -60.425833
+        "latitude": 53.319168,
+        "longitude": -60.425833
       },
       "links_count": 30,
       "objectID": "188"
@@ -8777,8 +8777,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MZT",
       "_geoloc": {
-        "lat": 23.161356,
-        "lng": -106.266072
+        "latitude": 23.161356,
+        "longitude": -106.266072
       },
       "links_count": 30,
       "objectID": "1826"
@@ -8789,8 +8789,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MID",
       "_geoloc": {
-        "lat": 20.936981,
-        "lng": -89.657672
+        "latitude": 20.936981,
+        "longitude": -89.657672
       },
       "links_count": 30,
       "objectID": "1819"
@@ -8801,8 +8801,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXE",
       "_geoloc": {
-        "lat": 52.170834,
-        "lng": -106.699722
+        "latitude": 52.170834,
+        "longitude": -106.699722
       },
       "links_count": 30,
       "objectID": "166"
@@ -8813,8 +8813,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "PUY",
       "_geoloc": {
-        "lat": 44.893533,
-        "lng": 13.922192
+        "latitude": 44.893533,
+        "longitude": 13.922192
       },
       "links_count": 30,
       "objectID": "1203"
@@ -8825,8 +8825,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NSK",
       "_geoloc": {
-        "lat": 69.311053,
-        "lng": 87.332183
+        "latitude": 69.311053,
+        "longitude": 87.332183
       },
       "links_count": 29,
       "objectID": "4352"
@@ -8837,8 +8837,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BDJ",
       "_geoloc": {
-        "lat": -3.442356,
-        "lng": 114.762553
+        "latitude": -3.442356,
+        "longitude": 114.762553
       },
       "links_count": 29,
       "objectID": "3908"
@@ -8849,8 +8849,8 @@ const airports = [
       "country": "India",
       "iata_code": "SXR",
       "_geoloc": {
-        "lat": 33.987139,
-        "lng": 74.77425
+        "latitude": 33.987139,
+        "longitude": 74.77425
       },
       "links_count": 29,
       "objectID": "3112"
@@ -8861,8 +8861,8 @@ const airports = [
       "country": "Grenada",
       "iata_code": "GND",
       "_geoloc": {
-        "lat": 12.004247,
-        "lng": -61.786192
+        "latitude": 12.004247,
+        "longitude": -61.786192
       },
       "links_count": 29,
       "objectID": "2882"
@@ -8873,8 +8873,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "AHB",
       "_geoloc": {
-        "lat": 18.240367,
-        "lng": 42.656625
+        "latitude": 18.240367,
+        "longitude": 42.656625
       },
       "links_count": 29,
       "objectID": "2059"
@@ -8885,8 +8885,8 @@ const airports = [
       "country": "Nicaragua",
       "iata_code": "MGA",
       "_geoloc": {
-        "lat": 12.141494,
-        "lng": -86.168178
+        "latitude": 12.141494,
+        "longitude": -86.168178
       },
       "links_count": 29,
       "objectID": "1863"
@@ -8897,8 +8897,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "BJX",
       "_geoloc": {
-        "lat": 20.993464,
-        "lng": -101.480847
+        "latitude": 20.993464,
+        "longitude": -101.480847
       },
       "links_count": 29,
       "objectID": "1815"
@@ -8909,8 +8909,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "POP",
       "_geoloc": {
-        "lat": 19.7579,
-        "lng": -70.570033
+        "latitude": 19.7579,
+        "longitude": -70.570033
       },
       "links_count": 29,
       "objectID": "1761"
@@ -8921,8 +8921,8 @@ const airports = [
       "country": "Equatorial Guinea",
       "iata_code": "SSG",
       "_geoloc": {
-        "lat": 3.755267,
-        "lng": 8.708717
+        "latitude": 3.755267,
+        "longitude": 8.708717
       },
       "links_count": 28,
       "objectID": "891"
@@ -8933,8 +8933,8 @@ const airports = [
       "country": "China",
       "iata_code": "YNJ",
       "_geoloc": {
-        "lat": 42.8828,
-        "lng": 129.451258
+        "latitude": 42.8828,
+        "longitude": 129.451258
       },
       "links_count": 28,
       "objectID": "6414"
@@ -8945,8 +8945,8 @@ const airports = [
       "country": "China",
       "iata_code": "HYN",
       "_geoloc": {
-        "lat": 28.5622,
-        "lng": 121.429
+        "latitude": 28.5622,
+        "longitude": 121.429
       },
       "links_count": 28,
       "objectID": "6384"
@@ -8957,8 +8957,8 @@ const airports = [
       "country": "China",
       "iata_code": "LZH",
       "_geoloc": {
-        "lat": 24.2075,
-        "lng": 109.391
+        "latitude": 24.2075,
+        "longitude": 109.391
       },
       "links_count": 28,
       "objectID": "6356"
@@ -8969,8 +8969,8 @@ const airports = [
       "country": "Cyprus",
       "iata_code": "ECN",
       "_geoloc": {
-        "lat": 35.1547,
-        "lng": 33.4961
+        "latitude": 35.1547,
+        "longitude": 33.4961
       },
       "links_count": 28,
       "objectID": "5780"
@@ -8981,8 +8981,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "SEN",
       "_geoloc": {
-        "lat": 51.571389,
-        "lng": 0.695556
+        "latitude": 51.571389,
+        "longitude": 0.695556
       },
       "links_count": 28,
       "objectID": "508"
@@ -8993,8 +8993,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SGF",
       "_geoloc": {
-        "lat": 37.245667,
-        "lng": -93.388639
+        "latitude": 37.245667,
+        "longitude": -93.388639
       },
       "links_count": 28,
       "objectID": "4348"
@@ -9005,8 +9005,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FAR",
       "_geoloc": {
-        "lat": 46.92065,
-        "lng": -96.8157639
+        "latitude": 46.92065,
+        "longitude": -96.8157639
       },
       "links_count": 28,
       "objectID": "4292"
@@ -9017,8 +9017,8 @@ const airports = [
       "country": "Iraq",
       "iata_code": "BGW",
       "_geoloc": {
-        "lat": 33.262539,
-        "lng": 44.234578
+        "latitude": 33.262539,
+        "longitude": 44.234578
       },
       "links_count": 28,
       "objectID": "4130"
@@ -9029,8 +9029,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "STM",
       "_geoloc": {
-        "lat": -2.422431,
-        "lng": -54.792789
+        "latitude": -2.422431,
+        "longitude": -54.792789
       },
       "links_count": 28,
       "objectID": "4092"
@@ -9041,8 +9041,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "DVO",
       "_geoloc": {
-        "lat": 7.125522,
-        "lng": 125.645778
+        "latitude": 7.125522,
+        "longitude": 125.645778
       },
       "links_count": 28,
       "objectID": "4090"
@@ -9053,8 +9053,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TTN",
       "_geoloc": {
-        "lat": 40.276692,
-        "lng": -74.813469
+        "latitude": 40.276692,
+        "longitude": -74.813469
       },
       "links_count": 28,
       "objectID": "3447"
@@ -9065,8 +9065,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KBR",
       "_geoloc": {
-        "lat": 6.16685,
-        "lng": 102.293014
+        "latitude": 6.16685,
+        "longitude": 102.293014
       },
       "links_count": 28,
       "objectID": "3298"
@@ -9077,8 +9077,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "AMQ",
       "_geoloc": {
-        "lat": -3.710264,
-        "lng": 128.089136
+        "latitude": -3.710264,
+        "longitude": 128.089136
       },
       "links_count": 28,
       "objectID": "3256"
@@ -9089,8 +9089,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SGC",
       "_geoloc": {
-        "lat": 61.343694,
-        "lng": 73.401842
+        "latitude": 61.343694,
+        "longitude": 73.401842
       },
       "links_count": 28,
       "objectID": "2974"
@@ -9101,8 +9101,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NJC",
       "_geoloc": {
-        "lat": 60.949272,
-        "lng": 76.483617
+        "latitude": 60.949272,
+        "longitude": 76.483617
       },
       "links_count": 28,
       "objectID": "2972"
@@ -9113,8 +9113,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "DNK",
       "_geoloc": {
-        "lat": 48.357222,
-        "lng": 35.100556
+        "latitude": 48.357222,
+        "longitude": 35.100556
       },
       "links_count": 28,
       "objectID": "2941"
@@ -9125,8 +9125,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "MAR",
       "_geoloc": {
-        "lat": 10.558208,
-        "lng": -71.727856
+        "latitude": 10.558208,
+        "longitude": -71.727856
       },
       "links_count": 28,
       "objectID": "2848"
@@ -9137,8 +9137,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "ISG",
       "_geoloc": {
-        "lat": 24.344525,
-        "lng": 124.186983
+        "latitude": 24.344525,
+        "longitude": 124.186983
       },
       "links_count": 28,
       "objectID": "2387"
@@ -9149,8 +9149,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "UET",
       "_geoloc": {
-        "lat": 30.251369,
-        "lng": 66.937764
+        "latitude": 30.251369,
+        "longitude": 66.937764
       },
       "links_count": 28,
       "objectID": "2221"
@@ -9161,8 +9161,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "MHH",
       "_geoloc": {
-        "lat": 26.511406,
-        "lng": -77.083472
+        "latitude": 26.511406,
+        "longitude": -77.083472
       },
       "links_count": 28,
       "objectID": "1930"
@@ -9173,8 +9173,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "RTB",
       "_geoloc": {
-        "lat": 16.316814,
-        "lng": -86.522961
+        "latitude": 16.316814,
+        "longitude": -86.522961
       },
       "links_count": 28,
       "objectID": "1774"
@@ -9185,8 +9185,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTZ",
       "_geoloc": {
-        "lat": 43.627499,
-        "lng": -79.396167
+        "latitude": 43.627499,
+        "longitude": -79.396167
       },
       "links_count": 28,
       "objectID": "144"
@@ -9197,8 +9197,8 @@ const airports = [
       "country": "France",
       "iata_code": "FSC",
       "_geoloc": {
-        "lat": 41.500557,
-        "lng": 9.097777
+        "latitude": 41.500557,
+        "longitude": 9.097777
       },
       "links_count": 28,
       "objectID": "1323"
@@ -9209,8 +9209,8 @@ const airports = [
       "country": "France",
       "iata_code": "BIQ",
       "_geoloc": {
-        "lat": 43.468419,
-        "lng": -1.523325
+        "latitude": 43.468419,
+        "longitude": -1.523325
       },
       "links_count": 28,
       "objectID": "1280"
@@ -9221,8 +9221,8 @@ const airports = [
       "country": "Cape Verde",
       "iata_code": "BVC",
       "_geoloc": {
-        "lat": 16.136531,
-        "lng": -22.888897
+        "latitude": 16.136531,
+        "longitude": -22.888897
       },
       "links_count": 28,
       "objectID": "1103"
@@ -9233,8 +9233,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EUG",
       "_geoloc": {
-        "lat": 44.124583,
-        "lng": -123.211972
+        "latitude": 44.124583,
+        "longitude": -123.211972
       },
       "links_count": 27,
       "objectID": "4099"
@@ -9245,8 +9245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "COS",
       "_geoloc": {
-        "lat": 38.805805,
-        "lng": -104.700778
+        "latitude": 38.805805,
+        "longitude": -104.700778
       },
       "links_count": 27,
       "objectID": "3819"
@@ -9257,8 +9257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BTV",
       "_geoloc": {
-        "lat": 44.471861,
-        "lng": -73.153278
+        "latitude": 44.471861,
+        "longitude": -73.153278
       },
       "links_count": 27,
       "objectID": "3711"
@@ -9269,8 +9269,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PLM",
       "_geoloc": {
-        "lat": -2.89825,
-        "lng": 104.699903
+        "latitude": -2.89825,
+        "longitude": 104.699903
       },
       "links_count": 27,
       "objectID": "3289"
@@ -9281,8 +9281,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "RAR",
       "_geoloc": {
-        "lat": -21.202739,
-        "lng": -159.805556
+        "latitude": -21.202739,
+        "longitude": -159.805556
       },
       "links_count": 27,
       "objectID": "1959"
@@ -9293,8 +9293,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TLC",
       "_geoloc": {
-        "lat": 19.337072,
-        "lng": -99.566008
+        "latitude": 19.337072,
+        "longitude": -99.566008
       },
       "links_count": 27,
       "objectID": "1850"
@@ -9305,8 +9305,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQT",
       "_geoloc": {
-        "lat": 48.371944,
-        "lng": -89.323889
+        "latitude": 48.371944,
+        "longitude": -89.323889
       },
       "links_count": 27,
       "objectID": "121"
@@ -9317,8 +9317,8 @@ const airports = [
       "country": "Burundi",
       "iata_code": "BJM",
       "_geoloc": {
-        "lat": -3.324019,
-        "lng": 29.318519
+        "latitude": -3.324019,
+        "longitude": 29.318519
       },
       "links_count": 27,
       "objectID": "1120"
@@ -9329,8 +9329,8 @@ const airports = [
       "country": "Seychelles",
       "iata_code": "SEZ",
       "_geoloc": {
-        "lat": -4.674342,
-        "lng": 55.521839
+        "latitude": -4.674342,
+        "longitude": 55.521839
       },
       "links_count": 26,
       "objectID": "994"
@@ -9341,8 +9341,8 @@ const airports = [
       "country": "China",
       "iata_code": "LZO",
       "_geoloc": {
-        "lat": 28.8522,
-        "lng": 105.393
+        "latitude": 28.8522,
+        "longitude": 105.393
       },
       "links_count": 26,
       "objectID": "6399"
@@ -9353,8 +9353,8 @@ const airports = [
       "country": "China",
       "iata_code": "HSN",
       "_geoloc": {
-        "lat": 29.9342,
-        "lng": 122.362
+        "latitude": 29.9342,
+        "longitude": 122.362
       },
       "links_count": 26,
       "objectID": "6395"
@@ -9365,8 +9365,8 @@ const airports = [
       "country": "China",
       "iata_code": "KOW",
       "_geoloc": {
-        "lat": 25.8258,
-        "lng": 114.912
+        "latitude": 25.8258,
+        "longitude": 114.912
       },
       "links_count": 26,
       "objectID": "6379"
@@ -9377,8 +9377,8 @@ const airports = [
       "country": "China",
       "iata_code": "XFN",
       "_geoloc": {
-        "lat": 32.1506,
-        "lng": 112.291
+        "latitude": 32.1506,
+        "longitude": 112.291
       },
       "links_count": 26,
       "objectID": "6360"
@@ -9389,8 +9389,8 @@ const airports = [
       "country": "China",
       "iata_code": "TGO",
       "_geoloc": {
-        "lat": 43.5567,
-        "lng": 122.2
+        "latitude": 43.5567,
+        "longitude": 122.2
       },
       "links_count": 26,
       "objectID": "6348"
@@ -9401,8 +9401,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "AES",
       "_geoloc": {
-        "lat": 62.560372,
-        "lng": 6.110164
+        "latitude": 62.560372,
+        "longitude": 6.110164
       },
       "links_count": 26,
       "objectID": "630"
@@ -9413,8 +9413,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABE",
       "_geoloc": {
-        "lat": 40.652083,
-        "lng": -75.440806
+        "latitude": 40.652083,
+        "longitude": -75.440806
       },
       "links_count": 26,
       "objectID": "4355"
@@ -9425,8 +9425,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CRK",
       "_geoloc": {
-        "lat": 15.185833,
-        "lng": 120.560278
+        "latitude": 15.185833,
+        "longitude": 120.560278
       },
       "links_count": 26,
       "objectID": "4140"
@@ -9437,8 +9437,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FNT",
       "_geoloc": {
-        "lat": 42.965424,
-        "lng": -83.743629
+        "latitude": 42.965424,
+        "longitude": -83.743629
       },
       "links_count": 26,
       "objectID": "4089"
@@ -9449,8 +9449,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SRQ",
       "_geoloc": {
-        "lat": 27.395444,
-        "lng": -82.554389
+        "latitude": 27.395444,
+        "longitude": -82.554389
       },
       "links_count": 26,
       "objectID": "4067"
@@ -9461,8 +9461,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CHO",
       "_geoloc": {
-        "lat": 38.138639,
-        "lng": -78.452861
+        "latitude": 38.138639,
+        "longitude": -78.452861
       },
       "links_count": 26,
       "objectID": "4015"
@@ -9473,8 +9473,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FSD",
       "_geoloc": {
-        "lat": 43.582014,
-        "lng": -96.741914
+        "latitude": 43.582014,
+        "longitude": -96.741914
       },
       "links_count": 26,
       "objectID": "4009"
@@ -9485,8 +9485,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ILM",
       "_geoloc": {
-        "lat": 34.270615,
-        "lng": -77.902569
+        "latitude": 34.270615,
+        "longitude": -77.902569
       },
       "links_count": 26,
       "objectID": "3845"
@@ -9497,8 +9497,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "FDH",
       "_geoloc": {
-        "lat": 47.671317,
-        "lng": 9.511486
+        "latitude": 47.671317,
+        "longitude": 9.511486
       },
       "links_count": 26,
       "objectID": "382"
@@ -9509,8 +9509,8 @@ const airports = [
       "country": "China",
       "iata_code": "KHG",
       "_geoloc": {
-        "lat": 39.542922,
-        "lng": 76.019956
+        "latitude": 39.542922,
+        "longitude": 76.019956
       },
       "links_count": 26,
       "objectID": "3397"
@@ -9521,8 +9521,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CBR",
       "_geoloc": {
-        "lat": -35.306944,
-        "lng": 149.195
+        "latitude": -35.306944,
+        "longitude": 149.195
       },
       "links_count": 26,
       "objectID": "3355"
@@ -9533,8 +9533,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ISA",
       "_geoloc": {
-        "lat": -20.663889,
-        "lng": 139.488611
+        "latitude": -20.663889,
+        "longitude": 139.488611
       },
       "links_count": 26,
       "objectID": "3324"
@@ -9545,8 +9545,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "LPQ",
       "_geoloc": {
-        "lat": 19.897914,
-        "lng": 102.160764
+        "latitude": 19.897914,
+        "longitude": 102.160764
       },
       "links_count": 26,
       "objectID": "3115"
@@ -9557,8 +9557,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MCZ",
       "_geoloc": {
-        "lat": -9.510808,
-        "lng": -35.791678
+        "latitude": -9.510808,
+        "longitude": -35.791678
       },
       "links_count": 26,
       "objectID": "2590"
@@ -9569,8 +9569,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "AJU",
       "_geoloc": {
-        "lat": -10.984,
-        "lng": -37.070333
+        "latitude": -10.984,
+        "longitude": -37.070333
       },
       "links_count": 26,
       "objectID": "2522"
@@ -9581,8 +9581,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "COR",
       "_geoloc": {
-        "lat": -31.323619,
-        "lng": -64.207953
+        "latitude": -31.323619,
+        "longitude": -64.207953
       },
       "links_count": 26,
       "objectID": "2443"
@@ -9593,8 +9593,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "OKJ",
       "_geoloc": {
-        "lat": 34.756944,
-        "lng": 133.855278
+        "latitude": 34.756944,
+        "longitude": 133.855278
       },
       "links_count": 26,
       "objectID": "2327"
@@ -9605,8 +9605,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "TIF",
       "_geoloc": {
-        "lat": 21.483418,
-        "lng": 40.544334
+        "latitude": 21.483418,
+        "longitude": 40.544334
       },
       "links_count": 26,
       "objectID": "2090"
@@ -9617,8 +9617,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "NOU",
       "_geoloc": {
-        "lat": -22.014553,
-        "lng": 166.212972
+        "latitude": -22.014553,
+        "longitude": 166.212972
       },
       "links_count": 26,
       "objectID": "2005"
@@ -9629,8 +9629,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "VSA",
       "_geoloc": {
-        "lat": 17.997,
-        "lng": -92.817361
+        "latitude": 17.997,
+        "longitude": -92.817361
       },
       "links_count": 26,
       "objectID": "1853"
@@ -9641,8 +9641,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYJ",
       "_geoloc": {
-        "lat": 48.646944,
-        "lng": -123.425833
+        "latitude": 48.646944,
+        "longitude": -123.425833
       },
       "links_count": 26,
       "objectID": "184"
@@ -9653,8 +9653,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "TSR",
       "_geoloc": {
-        "lat": 45.809861,
-        "lng": 21.337861
+        "latitude": 45.809861,
+        "longitude": 21.337861
       },
       "links_count": 26,
       "objectID": "1663"
@@ -9665,8 +9665,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JMK",
       "_geoloc": {
-        "lat": 37.435128,
-        "lng": 25.348103
+        "latitude": 37.435128,
+        "longitude": 25.348103
       },
       "links_count": 26,
       "objectID": "1468"
@@ -9677,8 +9677,8 @@ const airports = [
       "country": "France",
       "iata_code": "RNS",
       "_geoloc": {
-        "lat": 48.069508,
-        "lng": -1.734794
+        "latitude": 48.069508,
+        "longitude": -1.734794
       },
       "links_count": 26,
       "objectID": "1415"
@@ -9689,8 +9689,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "MBA",
       "_geoloc": {
-        "lat": -4.034833,
-        "lng": 39.59425
+        "latitude": -4.034833,
+        "longitude": 39.59425
       },
       "links_count": 26,
       "objectID": "1145"
@@ -9701,8 +9701,8 @@ const airports = [
       "country": "Gambia",
       "iata_code": "BJL",
       "_geoloc": {
-        "lat": 13.337961,
-        "lng": -16.652206
+        "latitude": 13.337961,
+        "longitude": -16.652206
       },
       "links_count": 26,
       "objectID": "1050"
@@ -9713,8 +9713,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YMM",
       "_geoloc": {
-        "lat": 56.653333,
-        "lng": -111.221944
+        "latitude": 56.653333,
+        "longitude": -111.221944
       },
       "links_count": 25,
       "objectID": "90"
@@ -9725,8 +9725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ANI",
       "_geoloc": {
-        "lat": 61.5816,
-        "lng": -159.543
+        "latitude": 61.5816,
+        "longitude": -159.543
       },
       "links_count": 25,
       "objectID": "5967"
@@ -9737,8 +9737,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "RAB",
       "_geoloc": {
-        "lat": -4.34046,
-        "lng": 152.38
+        "latitude": -4.34046,
+        "longitude": 152.38
       },
       "links_count": 25,
       "objectID": "5435"
@@ -9749,8 +9749,8 @@ const airports = [
       "country": "India",
       "iata_code": "PAT",
       "_geoloc": {
-        "lat": 25.591317,
-        "lng": 85.087992
+        "latitude": 25.591317,
+        "longitude": 85.087992
       },
       "links_count": 25,
       "objectID": "3061"
@@ -9761,8 +9761,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PLU",
       "_geoloc": {
-        "lat": -19.851181,
-        "lng": -43.950628
+        "latitude": -19.851181,
+        "longitude": -43.950628
       },
       "links_count": 25,
       "objectID": "2528"
@@ -9773,8 +9773,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "ELQ",
       "_geoloc": {
-        "lat": 26.302822,
-        "lng": 43.773911
+        "latitude": 26.302822,
+        "longitude": 43.773911
       },
       "links_count": 25,
       "objectID": "2067"
@@ -9785,8 +9785,8 @@ const airports = [
       "country": "Malawi",
       "iata_code": "LLW",
       "_geoloc": {
-        "lat": -13.789378,
-        "lng": 33.781
+        "latitude": -13.789378,
+        "longitude": 33.781
       },
       "links_count": 25,
       "objectID": "1016"
@@ -9797,8 +9797,8 @@ const airports = [
       "country": "China",
       "iata_code": "HIA",
       "_geoloc": {
-        "lat": 33.7772,
-        "lng": 119.1478
+        "latitude": 33.7772,
+        "longitude": 119.1478
       },
       "links_count": 24,
       "objectID": "7898"
@@ -9809,8 +9809,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "HAU",
       "_geoloc": {
-        "lat": 59.345267,
-        "lng": 5.208364
+        "latitude": 59.345267,
+        "longitude": 5.208364
       },
       "links_count": 24,
       "objectID": "645"
@@ -9821,8 +9821,8 @@ const airports = [
       "country": "China",
       "iata_code": "WXN",
       "_geoloc": {
-        "lat": 30.8361,
-        "lng": 108.406
+        "latitude": 30.8361,
+        "longitude": 108.406
       },
       "links_count": 24,
       "objectID": "6403"
@@ -9833,8 +9833,8 @@ const airports = [
       "country": "China",
       "iata_code": "UYN",
       "_geoloc": {
-        "lat": 38.2692,
-        "lng": 109.731
+        "latitude": 38.2692,
+        "longitude": 109.731
       },
       "links_count": 24,
       "objectID": "6368"
@@ -9845,8 +9845,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "NMA",
       "_geoloc": {
-        "lat": 40.9846,
-        "lng": 71.5567
+        "latitude": 40.9846,
+        "longitude": 71.5567
       },
       "links_count": 24,
       "objectID": "6150"
@@ -9857,8 +9857,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "MRA",
       "_geoloc": {
-        "lat": 32.325,
-        "lng": 15.061
+        "latitude": 32.325,
+        "longitude": 15.061
       },
       "links_count": 24,
       "objectID": "5804"
@@ -9869,8 +9869,8 @@ const airports = [
       "country": "Somalia",
       "iata_code": "MGQ",
       "_geoloc": {
-        "lat": 2.01444,
-        "lng": 45.3047
+        "latitude": 2.01444,
+        "longitude": 45.3047
       },
       "links_count": 24,
       "objectID": "5687"
@@ -9881,8 +9881,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "TMP",
       "_geoloc": {
-        "lat": 61.414147,
-        "lng": 23.604392
+        "latitude": 61.414147,
+        "longitude": 23.604392
       },
       "links_count": 24,
       "objectID": "458"
@@ -9893,8 +9893,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BME",
       "_geoloc": {
-        "lat": -17.8,
-        "lng": 122.2
+        "latitude": -17.8,
+        "longitude": 122.2
       },
       "links_count": 24,
       "objectID": "4319"
@@ -9905,8 +9905,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BMI",
       "_geoloc": {
-        "lat": 40.477111,
-        "lng": -88.915917
+        "latitude": 40.477111,
+        "longitude": -88.915917
       },
       "links_count": 24,
       "objectID": "4037"
@@ -9917,8 +9917,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BIL",
       "_geoloc": {
-        "lat": 45.80921,
-        "lng": -108.537654
+        "latitude": 45.80921,
+        "longitude": -108.537654
       },
       "links_count": 24,
       "objectID": "4021"
@@ -9929,8 +9929,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AVL",
       "_geoloc": {
-        "lat": 35.436194,
-        "lng": -82.541806
+        "latitude": 35.436194,
+        "longitude": -82.541806
       },
       "links_count": 24,
       "objectID": "4007"
@@ -9941,8 +9941,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "UKB",
       "_geoloc": {
-        "lat": 34.632778,
-        "lng": 135.223889
+        "latitude": 34.632778,
+        "longitude": 135.223889
       },
       "links_count": 24,
       "objectID": "3943"
@@ -9953,8 +9953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GNV",
       "_geoloc": {
-        "lat": 29.690056,
-        "lng": -82.271778
+        "latitude": 29.690056,
+        "longitude": -82.271778
       },
       "links_count": 24,
       "objectID": "3472"
@@ -9965,8 +9965,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ASP",
       "_geoloc": {
-        "lat": -23.806667,
-        "lng": 133.902222
+        "latitude": -23.806667,
+        "longitude": 133.902222
       },
       "links_count": 24,
       "objectID": "3319"
@@ -9977,8 +9977,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXJ",
       "_geoloc": {
-        "lat": 32.689142,
-        "lng": 74.837389
+        "latitude": 32.689142,
+        "longitude": 74.837389
       },
       "links_count": 24,
       "objectID": "3100"
@@ -9989,8 +9989,8 @@ const airports = [
       "country": "British Virgin Islands",
       "iata_code": "EIS",
       "_geoloc": {
-        "lat": 18.444834,
-        "lng": -64.542975
+        "latitude": 18.444834,
+        "longitude": -64.542975
       },
       "links_count": 24,
       "objectID": "2903"
@@ -10001,8 +10001,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "CTG",
       "_geoloc": {
-        "lat": 10.442381,
-        "lng": -75.512961
+        "latitude": 10.442381,
+        "longitude": -75.512961
       },
       "links_count": 24,
       "objectID": "2714"
@@ -10013,8 +10013,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IGU",
       "_geoloc": {
-        "lat": -25.59615,
-        "lng": -54.487206
+        "latitude": -25.59615,
+        "longitude": -54.487206
       },
       "links_count": 24,
       "objectID": "2554"
@@ -10025,8 +10025,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MYJ",
       "_geoloc": {
-        "lat": 33.827222,
-        "lng": 132.699722
+        "latitude": 33.827222,
+        "longitude": 132.699722
       },
       "links_count": 24,
       "objectID": "2333"
@@ -10037,8 +10037,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "MUX",
       "_geoloc": {
-        "lat": 30.203222,
-        "lng": 71.419111
+        "latitude": 30.203222,
+        "longitude": 71.419111
       },
       "links_count": 24,
       "objectID": "2214"
@@ -10049,8 +10049,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "VRA",
       "_geoloc": {
-        "lat": 23.034445,
-        "lng": -81.435278
+        "latitude": 23.034445,
+        "longitude": -81.435278
       },
       "links_count": 24,
       "objectID": "1923"
@@ -10061,8 +10061,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CJS",
       "_geoloc": {
-        "lat": 31.636133,
-        "lng": -106.428667
+        "latitude": 31.636133,
+        "longitude": -106.428667
       },
       "links_count": 24,
       "objectID": "1796"
@@ -10073,8 +10073,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "BRN",
       "_geoloc": {
-        "lat": 46.9141,
-        "lng": 7.497153
+        "latitude": 46.9141,
+        "longitude": 7.497153
       },
       "links_count": 24,
       "objectID": "1676"
@@ -10085,8 +10085,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "IAS",
       "_geoloc": {
-        "lat": 47.178492,
-        "lng": 27.620631
+        "latitude": 47.178492,
+        "longitude": 27.620631
       },
       "links_count": 24,
       "objectID": "1655"
@@ -10097,8 +10097,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "LCG",
       "_geoloc": {
-        "lat": 43.302061,
-        "lng": -8.377256
+        "latitude": 43.302061,
+        "longitude": -8.377256
       },
       "links_count": 24,
       "objectID": "1220"
@@ -10109,8 +10109,8 @@ const airports = [
       "country": "Bulgaria",
       "iata_code": "BOJ",
       "_geoloc": {
-        "lat": 42.569583,
-        "lng": 27.515236
+        "latitude": 42.569583,
+        "longitude": 27.515236
       },
       "links_count": 24,
       "objectID": "1191"
@@ -10121,8 +10121,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "ZNZ",
       "_geoloc": {
-        "lat": -6.222025,
-        "lng": 39.224886
+        "latitude": -6.222025,
+        "longitude": 39.224886
       },
       "links_count": 24,
       "objectID": "1186"
@@ -10133,8 +10133,8 @@ const airports = [
       "country": "South Sudan",
       "iata_code": "JUB",
       "_geoloc": {
-        "lat": 4.872006,
-        "lng": 31.601117
+        "latitude": 4.872006,
+        "longitude": 31.601117
       },
       "links_count": 24,
       "objectID": "1173"
@@ -10145,8 +10145,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "SKT",
       "_geoloc": {
-        "lat": 32.5356,
-        "lng": 74.3639
+        "latitude": 32.5356,
+        "longitude": 74.3639
       },
       "links_count": 23,
       "objectID": "6776"
@@ -10157,8 +10157,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "LDB",
       "_geoloc": {
-        "lat": -23.333625,
-        "lng": -51.130072
+        "latitude": -23.333625,
+        "longitude": -51.130072
       },
       "links_count": 23,
       "objectID": "2581"
@@ -10169,8 +10169,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "SUV",
       "_geoloc": {
-        "lat": -18.043267,
-        "lng": 178.559228
+        "latitude": -18.043267,
+        "longitude": 178.559228
       },
       "links_count": 23,
       "objectID": "1961"
@@ -10181,8 +10181,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "LNZ",
       "_geoloc": {
-        "lat": 48.233219,
-        "lng": 14.187511
+        "latitude": 48.233219,
+        "longitude": 14.187511
       },
       "links_count": 23,
       "objectID": "1611"
@@ -10193,8 +10193,8 @@ const airports = [
       "country": "France",
       "iata_code": "MLH",
       "_geoloc": {
-        "lat": 47.589583,
-        "lng": 7.529914
+        "latitude": 47.589583,
+        "longitude": 7.529914
       },
       "links_count": 23,
       "objectID": "1423"
@@ -10205,8 +10205,8 @@ const airports = [
       "country": "Mauritania",
       "iata_code": "NKC",
       "_geoloc": {
-        "lat": 18.097856,
-        "lng": -15.947956
+        "latitude": 18.097856,
+        "longitude": -15.947956
       },
       "links_count": 23,
       "objectID": "1094"
@@ -10217,8 +10217,8 @@ const airports = [
       "country": "China",
       "iata_code": "FUG",
       "_geoloc": {
-        "lat": 32.9,
-        "lng": 115.816667
+        "latitude": 32.9,
+        "longitude": 115.816667
       },
       "links_count": 22,
       "objectID": "7503"
@@ -10229,8 +10229,8 @@ const airports = [
       "country": "China",
       "iata_code": "NZH",
       "_geoloc": {
-        "lat": 49.566667,
-        "lng": 117.329444
+        "latitude": 49.566667,
+        "longitude": 117.329444
       },
       "links_count": 22,
       "objectID": "6954"
@@ -10241,8 +10241,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "RZE",
       "_geoloc": {
-        "lat": 50.109958,
-        "lng": 22.019
+        "latitude": 50.109958,
+        "longitude": 22.019
       },
       "links_count": 22,
       "objectID": "675"
@@ -10253,8 +10253,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "KRS",
       "_geoloc": {
-        "lat": 58.204214,
-        "lng": 8.085369
+        "latitude": 58.204214,
+        "longitude": 8.085369
       },
       "links_count": 22,
       "objectID": "638"
@@ -10265,8 +10265,8 @@ const airports = [
       "country": "China",
       "iata_code": "DAT",
       "_geoloc": {
-        "lat": 40.0603,
-        "lng": 113.482
+        "latitude": 40.0603,
+        "longitude": 113.482
       },
       "links_count": 22,
       "objectID": "6344"
@@ -10277,8 +10277,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "EGO",
       "_geoloc": {
-        "lat": 50.6438,
-        "lng": 36.5901
+        "latitude": 50.6438,
+        "longitude": 36.5901
       },
       "links_count": 22,
       "objectID": "6156"
@@ -10289,8 +10289,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "SON",
       "_geoloc": {
-        "lat": -15.505033,
-        "lng": 167.219742
+        "latitude": -15.505033,
+        "longitude": 167.219742
       },
       "links_count": 22,
       "objectID": "5908"
@@ -10301,8 +10301,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "KOI",
       "_geoloc": {
-        "lat": 58.957778,
-        "lng": -2.905
+        "latitude": 58.957778,
+        "longitude": -2.905
       },
       "links_count": 22,
       "objectID": "529"
@@ -10313,8 +10313,8 @@ const airports = [
       "country": "Isle of Man",
       "iata_code": "IOM",
       "_geoloc": {
-        "lat": 54.083333,
-        "lng": -4.623889
+        "latitude": 54.083333,
+        "longitude": -4.623889
       },
       "links_count": 22,
       "objectID": "520"
@@ -10325,8 +10325,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SBN",
       "_geoloc": {
-        "lat": 41.708661,
-        "lng": -86.31725
+        "latitude": 41.708661,
+        "longitude": -86.31725
       },
       "links_count": 22,
       "objectID": "4359"
@@ -10337,8 +10337,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "SPR",
       "_geoloc": {
-        "lat": 17.913936,
-        "lng": -87.971075
+        "latitude": 17.913936,
+        "longitude": -87.971075
       },
       "links_count": 22,
       "objectID": "4279"
@@ -10349,8 +10349,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "LAE",
       "_geoloc": {
-        "lat": -6.569828,
-        "lng": 146.726242
+        "latitude": -6.569828,
+        "longitude": 146.726242
       },
       "links_count": 22,
       "objectID": "4"
@@ -10361,8 +10361,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "RIY",
       "_geoloc": {
-        "lat": 14.662639,
-        "lng": 49.375028
+        "latitude": 14.662639,
+        "longitude": 49.375028
       },
       "links_count": 22,
       "objectID": "3974"
@@ -10373,8 +10373,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "CEI",
       "_geoloc": {
-        "lat": 19.952342,
-        "lng": 99.882928
+        "latitude": 19.952342,
+        "longitude": 99.882928
       },
       "links_count": 22,
       "objectID": "3932"
@@ -10385,8 +10385,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "PAD",
       "_geoloc": {
-        "lat": 51.614089,
-        "lng": 8.616317
+        "latitude": 51.614089,
+        "longitude": 8.616317
       },
       "links_count": 22,
       "objectID": "371"
@@ -10397,8 +10397,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "FMO",
       "_geoloc": {
-        "lat": 52.134642,
-        "lng": 7.684831
+        "latitude": 52.134642,
+        "longitude": 7.684831
       },
       "links_count": 22,
       "objectID": "341"
@@ -10409,8 +10409,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXZ",
       "_geoloc": {
-        "lat": 11.641161,
-        "lng": 92.729744
+        "latitude": 11.641161,
+        "longitude": 92.729744
       },
       "links_count": 22,
       "objectID": "3146"
@@ -10421,8 +10421,8 @@ const airports = [
       "country": "India",
       "iata_code": "RPR",
       "_geoloc": {
-        "lat": 21.180406,
-        "lng": 81.738753
+        "latitude": 21.180406,
+        "longitude": 81.738753
       },
       "links_count": 22,
       "objectID": "3020"
@@ -10433,8 +10433,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "HGU",
       "_geoloc": {
-        "lat": -5.826789,
-        "lng": 144.295861
+        "latitude": -5.826789,
+        "longitude": 144.295861
       },
       "links_count": 22,
       "objectID": "3"
@@ -10445,8 +10445,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UUD",
       "_geoloc": {
-        "lat": 51.807764,
-        "lng": 107.437644
+        "latitude": 51.807764,
+        "longitude": 107.437644
       },
       "links_count": 22,
       "objectID": "2938"
@@ -10457,8 +10457,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "HTA",
       "_geoloc": {
-        "lat": 52.026317,
-        "lng": 113.305556
+        "latitude": 52.026317,
+        "longitude": 113.305556
       },
       "links_count": 22,
       "objectID": "2935"
@@ -10469,8 +10469,8 @@ const airports = [
       "country": "Saint Kitts and Nevis",
       "iata_code": "SKB",
       "_geoloc": {
-        "lat": 17.311194,
-        "lng": -62.718667
+        "latitude": 17.311194,
+        "longitude": -62.718667
       },
       "links_count": 22,
       "objectID": "2891"
@@ -10481,8 +10481,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "PZO",
       "_geoloc": {
-        "lat": 8.288528,
-        "lng": -62.760361
+        "latitude": 8.288528,
+        "longitude": -62.760361
       },
       "links_count": 22,
       "objectID": "2856"
@@ -10493,8 +10493,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "BLA",
       "_geoloc": {
-        "lat": 10.107139,
-        "lng": -64.689161
+        "latitude": 10.107139,
+        "longitude": -64.689161
       },
       "links_count": 22,
       "objectID": "2821"
@@ -10505,8 +10505,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "CUZ",
       "_geoloc": {
-        "lat": -13.535722,
-        "lng": -71.938781
+        "latitude": -13.535722,
+        "longitude": -71.938781
       },
       "links_count": 22,
       "objectID": "2812"
@@ -10517,8 +10517,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "ADZ",
       "_geoloc": {
-        "lat": 12.583594,
-        "lng": -81.711192
+        "latitude": 12.583594,
+        "longitude": -81.711192
       },
       "links_count": 22,
       "objectID": "2749"
@@ -10529,8 +10529,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "EOH",
       "_geoloc": {
-        "lat": 6.219958,
-        "lng": -75.590519
+        "latitude": 6.219958,
+        "longitude": -75.590519
       },
       "links_count": 22,
       "objectID": "2729"
@@ -10541,8 +10541,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "ANF",
       "_geoloc": {
-        "lat": -23.444478,
-        "lng": -70.4451
+        "latitude": -23.444478,
+        "longitude": -70.4451
       },
       "links_count": 22,
       "objectID": "2651"
@@ -10553,8 +10553,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "THE",
       "_geoloc": {
-        "lat": -5.059942,
-        "lng": -42.823478
+        "latitude": -5.059942,
+        "longitude": -42.823478
       },
       "links_count": 22,
       "objectID": "2623"
@@ -10565,8 +10565,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MAB",
       "_geoloc": {
-        "lat": -5.368589,
-        "lng": -49.138025
+        "latitude": -5.368589,
+        "longitude": -49.138025
       },
       "links_count": 22,
       "objectID": "2584"
@@ -10577,8 +10577,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JPA",
       "_geoloc": {
-        "lat": -7.148381,
-        "lng": -34.950681
+        "latitude": -7.148381,
+        "longitude": -34.950681
       },
       "links_count": 22,
       "objectID": "2575"
@@ -10589,8 +10589,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KMI",
       "_geoloc": {
-        "lat": 31.877222,
-        "lng": 131.448611
+        "latitude": 31.877222,
+        "longitude": 131.448611
       },
       "links_count": 22,
       "objectID": "2308"
@@ -10601,8 +10601,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "ZAH",
       "_geoloc": {
-        "lat": 29.475686,
-        "lng": 60.906189
+        "latitude": 29.475686,
+        "longitude": 60.906189
       },
       "links_count": 22,
       "objectID": "2167"
@@ -10613,8 +10613,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "STI",
       "_geoloc": {
-        "lat": 19.406092,
-        "lng": -70.604689
+        "latitude": 19.406092,
+        "longitude": -70.604689
       },
       "links_count": 22,
       "objectID": "1764"
@@ -10625,8 +10625,8 @@ const airports = [
       "country": "Montenegro",
       "iata_code": "TIV",
       "_geoloc": {
-        "lat": 42.404664,
-        "lng": 18.723286
+        "latitude": 42.404664,
+        "longitude": 18.723286
       },
       "links_count": 22,
       "objectID": "1743"
@@ -10637,8 +10637,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "TER",
       "_geoloc": {
-        "lat": 38.761842,
-        "lng": -27.090797
+        "latitude": 38.761842,
+        "longitude": -27.090797
       },
       "links_count": 22,
       "objectID": "1629"
@@ -10649,8 +10649,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "TRS",
       "_geoloc": {
-        "lat": 45.8275,
-        "lng": 13.472222
+        "latitude": 45.8275,
+        "longitude": 13.472222
       },
       "links_count": 22,
       "objectID": "1545"
@@ -10661,8 +10661,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "PVK",
       "_geoloc": {
-        "lat": 38.925467,
-        "lng": 20.765311
+        "latitude": 38.925467,
+        "longitude": 20.765311
       },
       "links_count": 22,
       "objectID": "1470"
@@ -10673,8 +10673,8 @@ const airports = [
       "country": "France",
       "iata_code": "LIG",
       "_geoloc": {
-        "lat": 45.862778,
-        "lng": 1.179444
+        "latitude": 45.862778,
+        "longitude": 1.179444
       },
       "links_count": 22,
       "objectID": "1270"
@@ -10685,8 +10685,8 @@ const airports = [
       "country": "France",
       "iata_code": "EGC",
       "_geoloc": {
-        "lat": 44.825279,
-        "lng": 0.518611
+        "latitude": 44.825279,
+        "longitude": 0.518611
       },
       "links_count": 22,
       "objectID": "1265"
@@ -10697,8 +10697,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "VGO",
       "_geoloc": {
-        "lat": 42.2318,
-        "lng": -8.626775
+        "latitude": 42.2318,
+        "longitude": -8.626775
       },
       "links_count": 22,
       "objectID": "1250"
@@ -10709,8 +10709,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "RBA",
       "_geoloc": {
-        "lat": 34.051467,
-        "lng": -6.751519
+        "latitude": 34.051467,
+        "longitude": -6.751519
       },
       "links_count": 22,
       "objectID": "1072"
@@ -10721,8 +10721,8 @@ const airports = [
       "country": "Iraq",
       "iata_code": "NJF",
       "_geoloc": {
-        "lat": 31.991667,
-        "lng": 44.404167
+        "latitude": 31.991667,
+        "longitude": 44.404167
       },
       "links_count": 21,
       "objectID": "7490"
@@ -10733,8 +10733,8 @@ const airports = [
       "country": "France",
       "iata_code": "SBH",
       "_geoloc": {
-        "lat": 17.9023,
-        "lng": -62.8324
+        "latitude": 17.9023,
+        "longitude": -62.8324
       },
       "links_count": 21,
       "objectID": "6460"
@@ -10745,8 +10745,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "INV",
       "_geoloc": {
-        "lat": 57.5425,
-        "lng": -4.0475
+        "latitude": 57.5425,
+        "longitude": -4.0475
       },
       "links_count": 21,
       "objectID": "533"
@@ -10757,8 +10757,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CRW",
       "_geoloc": {
-        "lat": 38.373147,
-        "lng": -81.593189
+        "latitude": 38.373147,
+        "longitude": -81.593189
       },
       "links_count": 21,
       "objectID": "4285"
@@ -10769,8 +10769,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BPS",
       "_geoloc": {
-        "lat": -16.438611,
-        "lng": -39.080833
+        "latitude": -16.438611,
+        "longitude": -39.080833
       },
       "links_count": 21,
       "objectID": "4209"
@@ -10781,8 +10781,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "KOE",
       "_geoloc": {
-        "lat": -10.171583,
-        "lng": 123.671136
+        "latitude": -10.171583,
+        "longitude": 123.671136
       },
       "links_count": 21,
       "objectID": "3916"
@@ -10793,8 +10793,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VPS",
       "_geoloc": {
-        "lat": 30.48325,
-        "lng": -86.5254
+        "latitude": 30.48325,
+        "longitude": -86.5254
       },
       "links_count": 21,
       "objectID": "3873"
@@ -10805,8 +10805,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXR",
       "_geoloc": {
-        "lat": 23.31425,
-        "lng": 85.321675
+        "latitude": 23.31425,
+        "longitude": 85.321675
       },
       "links_count": 21,
       "objectID": "3063"
@@ -10817,8 +10817,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "CIT",
       "_geoloc": {
-        "lat": 42.364167,
-        "lng": 69.478889
+        "latitude": 42.364167,
+        "longitude": 69.478889
       },
       "links_count": 21,
       "objectID": "2914"
@@ -10829,8 +10829,8 @@ const airports = [
       "country": "Saint Lucia",
       "iata_code": "SLU",
       "_geoloc": {
-        "lat": 14.020228,
-        "lng": -60.992936
+        "latitude": 14.020228,
+        "longitude": -60.992936
       },
       "links_count": 21,
       "objectID": "2893"
@@ -10841,8 +10841,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "MDZ",
       "_geoloc": {
-        "lat": -32.831717,
-        "lng": -68.792856
+        "latitude": -32.831717,
+        "longitude": -68.792856
       },
       "links_count": 21,
       "objectID": "2452"
@@ -10853,8 +10853,8 @@ const airports = [
       "country": "Comoros",
       "iata_code": "HAH",
       "_geoloc": {
-        "lat": -11.533661,
-        "lng": 43.27185
+        "latitude": -11.533661,
+        "longitude": 43.27185
       },
       "links_count": 20,
       "objectID": "912"
@@ -10865,8 +10865,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "NLA",
       "_geoloc": {
-        "lat": -12.998139,
-        "lng": 28.664944
+        "latitude": -12.998139,
+        "longitude": 28.664944
       },
       "links_count": 20,
       "objectID": "910"
@@ -10877,8 +10877,8 @@ const airports = [
       "country": "United States",
       "iata_code": "UNK",
       "_geoloc": {
-        "lat": 63.888333,
-        "lng": -160.798889
+        "latitude": 63.888333,
+        "longitude": -160.798889
       },
       "links_count": 20,
       "objectID": "7088"
@@ -10889,8 +10889,8 @@ const airports = [
       "country": "China",
       "iata_code": "JNG",
       "_geoloc": {
-        "lat": 35.417,
-        "lng": 116.533
+        "latitude": 35.417,
+        "longitude": 116.533
       },
       "links_count": 20,
       "objectID": "6944"
@@ -10901,8 +10901,8 @@ const airports = [
       "country": "China",
       "iata_code": "HMI",
       "_geoloc": {
-        "lat": 42.8414,
-        "lng": 93.6692
+        "latitude": 42.8414,
+        "longitude": 93.6692
       },
       "links_count": 20,
       "objectID": "6743"
@@ -10913,8 +10913,8 @@ const airports = [
       "country": "France",
       "iata_code": "LRH",
       "_geoloc": {
-        "lat": 46.1792,
-        "lng": -1.19528
+        "latitude": 46.1792,
+        "longitude": -1.19528
       },
       "links_count": 20,
       "objectID": "6493"
@@ -10925,8 +10925,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "FSZ",
       "_geoloc": {
-        "lat": 34.796111,
-        "lng": 138.189444
+        "latitude": 34.796111,
+        "longitude": 138.189444
       },
       "links_count": 20,
       "objectID": "6476"
@@ -10937,8 +10937,8 @@ const airports = [
       "country": "China",
       "iata_code": "JMU",
       "_geoloc": {
-        "lat": 46.843394,
-        "lng": 130.465389
+        "latitude": 46.843394,
+        "longitude": 130.465389
       },
       "links_count": 20,
       "objectID": "6411"
@@ -10949,8 +10949,8 @@ const airports = [
       "country": "China",
       "iata_code": "KRL",
       "_geoloc": {
-        "lat": 41.6978,
-        "lng": 86.1289
+        "latitude": 41.6978,
+        "longitude": 86.1289
       },
       "links_count": 20,
       "objectID": "6407"
@@ -10961,8 +10961,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "ALF",
       "_geoloc": {
-        "lat": 69.976111,
-        "lng": 23.371667
+        "latitude": 69.976111,
+        "longitude": 23.371667
       },
       "links_count": 20,
       "objectID": "632"
@@ -10973,8 +10973,8 @@ const airports = [
       "country": "Iraq",
       "iata_code": "ISU",
       "_geoloc": {
-        "lat": 35.5608,
-        "lng": 45.3147
+        "latitude": 35.5608,
+        "longitude": 45.3147
       },
       "links_count": 20,
       "objectID": "5952"
@@ -10985,8 +10985,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "NWI",
       "_geoloc": {
-        "lat": 52.675833,
-        "lng": 1.282778
+        "latitude": 52.675833,
+        "longitude": 1.282778
       },
       "links_count": 20,
       "objectID": "547"
@@ -10997,8 +10997,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "GUW",
       "_geoloc": {
-        "lat": 47.121944,
-        "lng": 51.821389
+        "latitude": 47.121944,
+        "longitude": 51.821389
       },
       "links_count": 20,
       "objectID": "4357"
@@ -11009,8 +11009,8 @@ const airports = [
       "country": "China",
       "iata_code": "MDG",
       "_geoloc": {
-        "lat": 44.523889,
-        "lng": 129.568889
+        "latitude": 44.523889,
+        "longitude": 129.568889
       },
       "links_count": 20,
       "objectID": "4334"
@@ -11021,8 +11021,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "AOI",
       "_geoloc": {
-        "lat": 43.616389,
-        "lng": 13.362222
+        "latitude": 43.616389,
+        "longitude": 13.362222
       },
       "links_count": 20,
       "objectID": "4309"
@@ -11033,8 +11033,8 @@ const airports = [
       "country": "China",
       "iata_code": "YBP",
       "_geoloc": {
-        "lat": 28.800278,
-        "lng": 104.544444
+        "latitude": 28.800278,
+        "longitude": 104.544444
       },
       "links_count": 20,
       "objectID": "4110"
@@ -11045,8 +11045,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MRY",
       "_geoloc": {
-        "lat": 36.587,
-        "lng": -121.842944
+        "latitude": 36.587,
+        "longitude": -121.842944
       },
       "links_count": 20,
       "objectID": "3948"
@@ -11057,8 +11057,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PWM",
       "_geoloc": {
-        "lat": 43.646161,
-        "lng": -70.309281
+        "latitude": 43.646161,
+        "longitude": -70.309281
       },
       "links_count": 20,
       "objectID": "3862"
@@ -11069,8 +11069,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BLI",
       "_geoloc": {
-        "lat": 48.792694,
-        "lng": -122.537528
+        "latitude": 48.792694,
+        "longitude": -122.537528
       },
       "links_count": 20,
       "objectID": "3777"
@@ -11081,8 +11081,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ACY",
       "_geoloc": {
-        "lat": 39.457583,
-        "lng": -74.577167
+        "latitude": 39.457583,
+        "longitude": -74.577167
       },
       "links_count": 20,
       "objectID": "3524"
@@ -11093,8 +11093,8 @@ const airports = [
       "country": "India",
       "iata_code": "VNS",
       "_geoloc": {
-        "lat": 25.452358,
-        "lng": 82.859342
+        "latitude": 25.452358,
+        "longitude": 82.859342
       },
       "links_count": 20,
       "objectID": "3084"
@@ -11105,8 +11105,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VOG",
       "_geoloc": {
-        "lat": 48.782528,
-        "lng": 44.345544
+        "latitude": 48.782528,
+        "longitude": 44.345544
       },
       "links_count": 20,
       "objectID": "2967"
@@ -11117,8 +11117,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "SFA",
       "_geoloc": {
-        "lat": 34.717953,
-        "lng": 10.690972
+        "latitude": 34.717953,
+        "longitude": 10.690972
       },
       "links_count": 20,
       "objectID": "295"
@@ -11129,8 +11129,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "VLN",
       "_geoloc": {
-        "lat": 10.149733,
-        "lng": -67.9284
+        "latitude": 10.149733,
+        "longitude": -67.9284
       },
       "links_count": 20,
       "objectID": "2868"
@@ -11141,8 +11141,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "AQP",
       "_geoloc": {
-        "lat": -16.341072,
-        "lng": -71.583083
+        "latitude": -16.341072,
+        "longitude": -71.583083
       },
       "links_count": 20,
       "objectID": "2802"
@@ -11153,8 +11153,8 @@ const airports = [
       "country": "Suriname",
       "iata_code": "PBM",
       "_geoloc": {
-        "lat": 5.452831,
-        "lng": -55.187783
+        "latitude": 5.452831,
+        "longitude": -55.187783
       },
       "links_count": 20,
       "objectID": "2773"
@@ -11165,8 +11165,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "BAQ",
       "_geoloc": {
-        "lat": 10.889589,
-        "lng": -74.780819
+        "latitude": 10.889589,
+        "longitude": -74.780819
       },
       "links_count": 20,
       "objectID": "2710"
@@ -11177,8 +11177,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "PMC",
       "_geoloc": {
-        "lat": -41.438886,
-        "lng": -73.093953
+        "latitude": -41.438886,
+        "longitude": -73.093953
       },
       "links_count": 20,
       "objectID": "2665"
@@ -11189,8 +11189,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MGF",
       "_geoloc": {
-        "lat": -23.476392,
-        "lng": -52.016406
+        "latitude": -23.476392,
+        "longitude": -52.016406
       },
       "links_count": 20,
       "objectID": "2586"
@@ -11201,8 +11201,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "ILO",
       "_geoloc": {
-        "lat": 10.713044,
-        "lng": 122.545297
+        "latitude": 10.713044,
+        "longitude": 122.545297
       },
       "links_count": 20,
       "objectID": "2429"
@@ -11213,8 +11213,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HKD",
       "_geoloc": {
-        "lat": 41.77,
-        "lng": 140.821944
+        "latitude": 41.77,
+        "longitude": 140.821944
       },
       "links_count": 20,
       "objectID": "2288"
@@ -11225,8 +11225,8 @@ const airports = [
       "country": "Northern Mariana Islands",
       "iata_code": "SPN",
       "_geoloc": {
-        "lat": 15.119003,
-        "lng": 145.729356
+        "latitude": 15.119003,
+        "longitude": 145.729356
       },
       "links_count": 20,
       "objectID": "2244"
@@ -11237,8 +11237,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "RAS",
       "_geoloc": {
-        "lat": 37.325314,
-        "lng": 49.605817
+        "latitude": 37.325314,
+        "longitude": 49.605817
       },
       "links_count": 20,
       "objectID": "2123"
@@ -11249,8 +11249,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "HOG",
       "_geoloc": {
-        "lat": 20.785589,
-        "lng": -76.315108
+        "latitude": 20.785589,
+        "longitude": -76.315108
       },
       "links_count": 20,
       "objectID": "1910"
@@ -11261,8 +11261,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TRC",
       "_geoloc": {
-        "lat": 25.568278,
-        "lng": -103.410583
+        "latitude": 25.568278,
+        "longitude": -103.410583
       },
       "links_count": 20,
       "objectID": "1845"
@@ -11273,8 +11273,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MLM",
       "_geoloc": {
-        "lat": 19.849944,
-        "lng": -101.0255
+        "latitude": 19.849944,
+        "longitude": -101.0255
       },
       "links_count": 20,
       "objectID": "1821"
@@ -11285,8 +11285,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "LAP",
       "_geoloc": {
-        "lat": 24.072694,
-        "lng": -110.362475
+        "latitude": 24.072694,
+        "longitude": -110.362475
       },
       "links_count": 20,
       "objectID": "1816"
@@ -11297,8 +11297,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "LRM",
       "_geoloc": {
-        "lat": 18.450711,
-        "lng": -68.911833
+        "latitude": 18.450711,
+        "longitude": -68.911833
       },
       "links_count": 20,
       "objectID": "1759"
@@ -11309,8 +11309,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "TZX",
       "_geoloc": {
-        "lat": 40.995108,
-        "lng": 39.789728
+        "latitude": 40.995108,
+        "longitude": 39.789728
       },
       "links_count": 20,
       "objectID": "1726"
@@ -11321,8 +11321,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXS",
       "_geoloc": {
-        "lat": 53.889444,
-        "lng": -122.678889
+        "latitude": 53.889444,
+        "longitude": -122.678889
       },
       "links_count": 20,
       "objectID": "172"
@@ -11333,8 +11333,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "MJT",
       "_geoloc": {
-        "lat": 39.056667,
-        "lng": 26.598333
+        "latitude": 39.056667,
+        "longitude": 26.598333
       },
       "links_count": 20,
       "objectID": "1469"
@@ -11345,8 +11345,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KLX",
       "_geoloc": {
-        "lat": 37.068319,
-        "lng": 22.025525
+        "latitude": 37.068319,
+        "longitude": 22.025525
       },
       "links_count": 20,
       "objectID": "1456"
@@ -11357,8 +11357,8 @@ const airports = [
       "country": "France",
       "iata_code": "CCF",
       "_geoloc": {
-        "lat": 43.215978,
-        "lng": 2.306317
+        "latitude": 43.215978,
+        "longitude": 2.306317
       },
       "links_count": 20,
       "objectID": "1352"
@@ -11369,8 +11369,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQM",
       "_geoloc": {
-        "lat": 46.112221,
-        "lng": -64.678611
+        "latitude": 46.112221,
+        "longitude": -64.678611
       },
       "links_count": 20,
       "objectID": "117"
@@ -11381,8 +11381,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "LXR",
       "_geoloc": {
-        "lat": 25.671028,
-        "lng": 32.706583
+        "latitude": 25.671028,
+        "longitude": 32.706583
       },
       "links_count": 20,
       "objectID": "1132"
@@ -11393,8 +11393,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "OUD",
       "_geoloc": {
-        "lat": 34.78715,
-        "lng": -1.923986
+        "latitude": 34.78715,
+        "longitude": -1.923986
       },
       "links_count": 20,
       "objectID": "1070"
@@ -11405,8 +11405,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "FBM",
       "_geoloc": {
-        "lat": -11.591333,
-        "lng": 27.530889
+        "latitude": -11.591333,
+        "longitude": 27.530889
       },
       "links_count": 20,
       "objectID": "1038"
@@ -11417,8 +11417,8 @@ const airports = [
       "country": "Chad",
       "iata_code": "NDJ",
       "_geoloc": {
-        "lat": 12.133689,
-        "lng": 15.034019
+        "latitude": 12.133689,
+        "longitude": 15.034019
       },
       "links_count": 19,
       "objectID": "999"
@@ -11429,8 +11429,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "HRK",
       "_geoloc": {
-        "lat": 49.924786,
-        "lng": 36.289986
+        "latitude": 49.924786,
+        "longitude": 36.289986
       },
       "links_count": 19,
       "objectID": "6105"
@@ -11441,8 +11441,8 @@ const airports = [
       "country": "Netherlands",
       "iata_code": "MST",
       "_geoloc": {
-        "lat": 50.911658,
-        "lng": 5.770144
+        "latitude": 50.911658,
+        "longitude": 5.770144
       },
       "links_count": 19,
       "objectID": "582"
@@ -11453,8 +11453,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AVP",
       "_geoloc": {
-        "lat": 41.338478,
-        "lng": -75.723403
+        "latitude": 41.338478,
+        "longitude": -75.723403
       },
       "links_count": 19,
       "objectID": "4286"
@@ -11465,8 +11465,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AMA",
       "_geoloc": {
-        "lat": 35.219369,
-        "lng": -101.705931
+        "latitude": 35.219369,
+        "longitude": -101.705931
       },
       "links_count": 19,
       "objectID": "3840"
@@ -11477,8 +11477,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LBB",
       "_geoloc": {
-        "lat": 33.663639,
-        "lng": -101.822778
+        "latitude": 33.663639,
+        "longitude": -101.822778
       },
       "links_count": 19,
       "objectID": "3829"
@@ -11489,8 +11489,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "CBB",
       "_geoloc": {
-        "lat": -17.421058,
-        "lng": -66.177114
+        "latitude": -17.421058,
+        "longitude": -66.177114
       },
       "links_count": 19,
       "objectID": "2759"
@@ -11501,8 +11501,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "IQQ",
       "_geoloc": {
-        "lat": -20.535222,
-        "lng": -70.181275
+        "latitude": -20.535222,
+        "longitude": -70.181275
       },
       "links_count": 19,
       "objectID": "2649"
@@ -11513,8 +11513,8 @@ const airports = [
       "country": "Palau",
       "iata_code": "ROR",
       "_geoloc": {
-        "lat": 7.367303,
-        "lng": 134.544278
+        "latitude": 7.367303,
+        "longitude": 134.544278
       },
       "links_count": 19,
       "objectID": "2256"
@@ -11525,8 +11525,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "YNB",
       "_geoloc": {
-        "lat": 24.144244,
-        "lng": 38.06335
+        "latitude": 24.144244,
+        "longitude": 38.06335
       },
       "links_count": 19,
       "objectID": "2096"
@@ -11537,8 +11537,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVP",
       "_geoloc": {
-        "lat": 58.096111,
-        "lng": -68.426944
+        "latitude": 58.096111,
+        "longitude": -68.426944
       },
       "links_count": 19,
       "objectID": "154"
@@ -11549,8 +11549,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "APL",
       "_geoloc": {
-        "lat": -15.105611,
-        "lng": 39.2818
+        "latitude": -15.105611,
+        "longitude": 39.2818
       },
       "links_count": 18,
       "objectID": "984"
@@ -11561,8 +11561,8 @@ const airports = [
       "country": "Botswana",
       "iata_code": "GBE",
       "_geoloc": {
-        "lat": -24.555225,
-        "lng": 25.918208
+        "latitude": -24.555225,
+        "longitude": 25.918208
       },
       "links_count": 18,
       "objectID": "881"
@@ -11573,8 +11573,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "PLZ",
       "_geoloc": {
-        "lat": -33.984919,
-        "lng": 25.617275
+        "latitude": -33.984919,
+        "longitude": 25.617275
       },
       "links_count": 18,
       "objectID": "838"
@@ -11585,8 +11585,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "HMB",
       "_geoloc": {
-        "lat": 26.341189,
-        "lng": 31.742983
+        "latitude": 26.341189,
+        "longitude": 31.742983
       },
       "links_count": 18,
       "objectID": "8235"
@@ -11597,8 +11597,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "GOH",
       "_geoloc": {
-        "lat": 64.190922,
-        "lng": -51.678064
+        "latitude": 64.190922,
+        "longitude": -51.678064
       },
       "links_count": 18,
       "objectID": "8"
@@ -11609,8 +11609,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "HTY",
       "_geoloc": {
-        "lat": 36.362778,
-        "lng": 36.282222
+        "latitude": 36.362778,
+        "longitude": 36.282222
       },
       "links_count": 18,
       "objectID": "7453"
@@ -11621,8 +11621,8 @@ const airports = [
       "country": "China",
       "iata_code": "JGS",
       "_geoloc": {
-        "lat": 26.8997,
-        "lng": 114.7375
+        "latitude": 26.8997,
+        "longitude": 114.7375
       },
       "links_count": 18,
       "objectID": "6428"
@@ -11633,8 +11633,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "EVE",
       "_geoloc": {
-        "lat": 68.4913,
-        "lng": 16.678108
+        "latitude": 68.4913,
+        "longitude": 16.678108
       },
       "links_count": 18,
       "objectID": "641"
@@ -11645,8 +11645,8 @@ const airports = [
       "country": "China",
       "iata_code": "DAX",
       "_geoloc": {
-        "lat": 31.3,
-        "lng": 107.5
+        "latitude": 31.3,
+        "longitude": 107.5
       },
       "links_count": 18,
       "objectID": "6397"
@@ -11657,8 +11657,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "CJJ",
       "_geoloc": {
-        "lat": 36.7166,
-        "lng": 127.499119
+        "latitude": 36.7166,
+        "longitude": 127.499119
       },
       "links_count": 18,
       "objectID": "6008"
@@ -11669,8 +11669,8 @@ const airports = [
       "country": "Sheffield",
       "iata_code": "DSA",
       "_geoloc": {
-        "lat": 0.0,
-        "lng": 53.474722
+        "latitude": 0.0,
+        "longitude": 53.474722
       },
       "links_count": 18,
       "objectID": "5562"
@@ -11681,8 +11681,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JUV",
       "_geoloc": {
-        "lat": 72.7902,
-        "lng": -56.1306
+        "latitude": 72.7902,
+        "longitude": -56.1306
       },
       "links_count": 18,
       "objectID": "5448"
@@ -11693,8 +11693,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BLK",
       "_geoloc": {
-        "lat": 53.771667,
-        "lng": -3.028611
+        "latitude": 53.771667,
+        "longitude": -3.028611
       },
       "links_count": 18,
       "objectID": "514"
@@ -11705,8 +11705,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ARH",
       "_geoloc": {
-        "lat": 64.360281,
-        "lng": 40.430167
+        "latitude": 64.360281,
+        "longitude": 40.430167
       },
       "links_count": 18,
       "objectID": "4362"
@@ -11717,8 +11717,8 @@ const airports = [
       "country": "China",
       "iata_code": "LYA",
       "_geoloc": {
-        "lat": 34.41,
-        "lng": 112.28
+        "latitude": 34.41,
+        "longitude": 112.28
       },
       "links_count": 18,
       "objectID": "4148"
@@ -11729,8 +11729,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MFR",
       "_geoloc": {
-        "lat": 42.374228,
-        "lng": -122.8735
+        "latitude": 42.374228,
+        "longitude": -122.8735
       },
       "links_count": 18,
       "objectID": "4101"
@@ -11741,8 +11741,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ATW",
       "_geoloc": {
-        "lat": 44.257526,
-        "lng": -88.507576
+        "latitude": 44.257526,
+        "longitude": -88.507576
       },
       "links_count": 18,
       "objectID": "4047"
@@ -11753,8 +11753,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GPT",
       "_geoloc": {
-        "lat": 30.407278,
-        "lng": -89.070111
+        "latitude": 30.407278,
+        "longitude": -89.070111
       },
       "links_count": 18,
       "objectID": "4038"
@@ -11765,8 +11765,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EVV",
       "_geoloc": {
-        "lat": 38.036997,
-        "lng": -87.532364
+        "latitude": 38.036997,
+        "longitude": -87.532364
       },
       "links_count": 18,
       "objectID": "4018"
@@ -11777,8 +11777,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MOB",
       "_geoloc": {
-        "lat": 30.691231,
-        "lng": -88.242814
+        "latitude": 30.691231,
+        "longitude": -88.242814
       },
       "links_count": 18,
       "objectID": "3782"
@@ -11789,8 +11789,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FMN",
       "_geoloc": {
-        "lat": 36.74125,
-        "lng": -108.229944
+        "latitude": 36.74125,
+        "longitude": -108.229944
       },
       "links_count": 18,
       "objectID": "3743"
@@ -11801,8 +11801,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PHF",
       "_geoloc": {
-        "lat": 37.131894,
-        "lng": -76.492989
+        "latitude": 37.131894,
+        "longitude": -76.492989
       },
       "links_count": 18,
       "objectID": "3633"
@@ -11813,8 +11813,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "SCN",
       "_geoloc": {
-        "lat": 49.214553,
-        "lng": 7.109508
+        "latitude": 49.214553,
+        "longitude": 7.109508
       },
       "links_count": 18,
       "objectID": "349"
@@ -11825,8 +11825,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "HBA",
       "_geoloc": {
-        "lat": -42.836111,
-        "lng": 147.510278
+        "latitude": -42.836111,
+        "longitude": 147.510278
       },
       "links_count": 18,
       "objectID": "3336"
@@ -11837,8 +11837,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "SBW",
       "_geoloc": {
-        "lat": 2.261603,
-        "lng": 111.985322
+        "latitude": 2.261603,
+        "longitude": 111.985322
       },
       "links_count": 18,
       "objectID": "3267"
@@ -11849,8 +11849,8 @@ const airports = [
       "country": "India",
       "iata_code": "TRZ",
       "_geoloc": {
-        "lat": 10.765364,
-        "lng": 78.709722
+        "latitude": 10.765364,
+        "longitude": 78.709722
       },
       "links_count": 18,
       "objectID": "3152"
@@ -11861,8 +11861,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXC",
       "_geoloc": {
-        "lat": 30.673469,
-        "lng": 76.788542
+        "latitude": 30.673469,
+        "longitude": 76.788542
       },
       "links_count": 18,
       "objectID": "3089"
@@ -11873,8 +11873,8 @@ const airports = [
       "country": "India",
       "iata_code": "ATQ",
       "_geoloc": {
-        "lat": 31.709594,
-        "lng": 74.797264
+        "latitude": 31.709594,
+        "longitude": 74.797264
       },
       "links_count": 18,
       "objectID": "3081"
@@ -11885,8 +11885,8 @@ const airports = [
       "country": "India",
       "iata_code": "IMF",
       "_geoloc": {
-        "lat": 24.75995,
-        "lng": 93.896697
+        "latitude": 24.75995,
+        "longitude": 93.896697
       },
       "links_count": 18,
       "objectID": "3050"
@@ -11897,8 +11897,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SCW",
       "_geoloc": {
-        "lat": 61.64705,
-        "lng": 50.84505
+        "latitude": 61.64705,
+        "longitude": 50.84505
       },
       "links_count": 18,
       "objectID": "2989"
@@ -11909,8 +11909,8 @@ const airports = [
       "country": "Netherlands Antilles",
       "iata_code": "BON",
       "_geoloc": {
-        "lat": 12.131044,
-        "lng": -68.268511
+        "latitude": 12.131044,
+        "longitude": -68.268511
       },
       "links_count": 18,
       "objectID": "2896"
@@ -11921,8 +11921,8 @@ const airports = [
       "country": "Virgin Islands",
       "iata_code": "STX",
       "_geoloc": {
-        "lat": 17.701889,
-        "lng": -64.798556
+        "latitude": 17.701889,
+        "longitude": -64.798556
       },
       "links_count": 18,
       "objectID": "2884"
@@ -11933,8 +11933,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PVH",
       "_geoloc": {
-        "lat": -8.709294,
-        "lng": -63.902281
+        "latitude": -8.709294,
+        "longitude": -63.902281
       },
       "links_count": 18,
       "objectID": "2607"
@@ -11945,8 +11945,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IOS",
       "_geoloc": {
-        "lat": -14.815964,
-        "lng": -39.033197
+        "latitude": -14.815964,
+        "longitude": -39.033197
       },
       "links_count": 18,
       "objectID": "2569"
@@ -11957,8 +11957,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "PPS",
       "_geoloc": {
-        "lat": 9.742119,
-        "lng": 118.758731
+        "latitude": 9.742119,
+        "longitude": 118.758731
       },
       "links_count": 18,
       "objectID": "2433"
@@ -11969,8 +11969,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "TOY",
       "_geoloc": {
-        "lat": 36.648333,
-        "lng": 137.1875
+        "latitude": 36.648333,
+        "longitude": 137.1875
       },
       "links_count": 18,
       "objectID": "2324"
@@ -11981,8 +11981,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KMJ",
       "_geoloc": {
-        "lat": 32.837319,
-        "lng": 130.85505
+        "latitude": 32.837319,
+        "longitude": 130.85505
       },
       "links_count": 18,
       "objectID": "2312"
@@ -11993,8 +11993,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "OIT",
       "_geoloc": {
-        "lat": 33.479444,
-        "lng": 131.737222
+        "latitude": 33.479444,
+        "longitude": 131.737222
       },
       "links_count": 18,
       "objectID": "2310"
@@ -12005,8 +12005,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "AAE",
       "_geoloc": {
-        "lat": 36.822225,
-        "lng": 7.809167
+        "latitude": 36.822225,
+        "longitude": 7.809167
       },
       "links_count": 18,
       "objectID": "220"
@@ -12017,8 +12017,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "TUU",
       "_geoloc": {
-        "lat": 28.365417,
-        "lng": 36.618889
+        "latitude": 28.365417,
+        "longitude": 36.618889
       },
       "links_count": 18,
       "objectID": "2089"
@@ -12029,8 +12029,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "GGT",
       "_geoloc": {
-        "lat": 23.562631,
-        "lng": -75.877958
+        "latitude": 23.562631,
+        "longitude": -75.877958
       },
       "links_count": 18,
       "objectID": "1941"
@@ -12041,8 +12041,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "SNU",
       "_geoloc": {
-        "lat": 22.492192,
-        "lng": -79.943611
+        "latitude": 22.492192,
+        "longitude": -79.943611
       },
       "links_count": 18,
       "objectID": "1918"
@@ -12053,8 +12053,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "PAC",
       "_geoloc": {
-        "lat": 8.973339,
-        "lng": -79.555583
+        "latitude": 8.973339,
+        "longitude": -79.555583
       },
       "links_count": 18,
       "objectID": "1869"
@@ -12065,8 +12065,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "ZIH",
       "_geoloc": {
-        "lat": 17.601569,
-        "lng": -101.460536
+        "latitude": 17.601569,
+        "longitude": -101.460536
       },
       "links_count": 18,
       "objectID": "1856"
@@ -12077,8 +12077,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "AGU",
       "_geoloc": {
-        "lat": 21.705558,
-        "lng": -102.317858
+        "latitude": 21.705558,
+        "longitude": -102.317858
       },
       "links_count": 18,
       "objectID": "1785"
@@ -12089,8 +12089,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "GZT",
       "_geoloc": {
-        "lat": 36.947183,
-        "lng": 37.478683
+        "latitude": 36.947183,
+        "longitude": 37.478683
       },
       "links_count": 18,
       "objectID": "1689"
@@ -12101,8 +12101,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PSR",
       "_geoloc": {
-        "lat": 42.431656,
-        "lng": 14.181067
+        "latitude": 42.431656,
+        "longitude": 14.181067
       },
       "links_count": 18,
       "objectID": "1505"
@@ -12113,8 +12113,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "SMI",
       "_geoloc": {
-        "lat": 37.689999,
-        "lng": 26.911667
+        "latitude": 37.689999,
+        "longitude": 26.911667
       },
       "links_count": 18,
       "objectID": "1476"
@@ -12125,8 +12125,8 @@ const airports = [
       "country": "France",
       "iata_code": "BZR",
       "_geoloc": {
-        "lat": 43.323522,
-        "lng": 3.353903
+        "latitude": 43.323522,
+        "longitude": 3.353903
       },
       "links_count": 18,
       "objectID": "1360"
@@ -12137,8 +12137,8 @@ const airports = [
       "country": "France",
       "iata_code": "CFE",
       "_geoloc": {
-        "lat": 45.786661,
-        "lng": 3.169169
+        "latitude": 45.786661,
+        "longitude": 3.169169
       },
       "links_count": 18,
       "objectID": "1330"
@@ -12149,8 +12149,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "GRX",
       "_geoloc": {
-        "lat": 37.188731,
-        "lng": -3.777356
+        "latitude": 37.188731,
+        "longitude": -3.777356
       },
       "links_count": 18,
       "objectID": "1223"
@@ -12161,8 +12161,8 @@ const airports = [
       "country": "Bulgaria",
       "iata_code": "VAR",
       "_geoloc": {
-        "lat": 43.232072,
-        "lng": 27.825106
+        "latitude": 43.232072,
+        "longitude": 27.825106
       },
       "links_count": 18,
       "objectID": "1196"
@@ -12173,8 +12173,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "TZA",
       "_geoloc": {
-        "lat": 17.5344,
-        "lng": -88.298
+        "latitude": 17.5344,
+        "longitude": -88.298
       },
       "links_count": 17,
       "objectID": "6463"
@@ -12185,8 +12185,8 @@ const airports = [
       "country": "Saint Kitts and Nevis",
       "iata_code": "NEV",
       "_geoloc": {
-        "lat": 17.205678,
-        "lng": -62.589869
+        "latitude": 17.205678,
+        "longitude": -62.589869
       },
       "links_count": 17,
       "objectID": "6079"
@@ -12197,8 +12197,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MAF",
       "_geoloc": {
-        "lat": 31.942528,
-        "lng": -102.201914
+        "latitude": 31.942528,
+        "longitude": -102.201914
       },
       "links_count": 17,
       "objectID": "3652"
@@ -12209,8 +12209,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ADQ",
       "_geoloc": {
-        "lat": 57.749967,
-        "lng": -152.493856
+        "latitude": 57.749967,
+        "longitude": -152.493856
       },
       "links_count": 17,
       "objectID": "3531"
@@ -12221,8 +12221,8 @@ const airports = [
       "country": "Belgium",
       "iata_code": "LGG",
       "_geoloc": {
-        "lat": 50.637417,
-        "lng": 5.443222
+        "latitude": 50.637417,
+        "longitude": 5.443222
       },
       "links_count": 17,
       "objectID": "309"
@@ -12233,8 +12233,8 @@ const airports = [
       "country": "India",
       "iata_code": "BBI",
       "_geoloc": {
-        "lat": 20.244364,
-        "lng": 85.817781
+        "latitude": 20.244364,
+        "longitude": 85.817781
       },
       "links_count": 17,
       "objectID": "3042"
@@ -12245,8 +12245,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "MJZ",
       "_geoloc": {
-        "lat": 62.534689,
-        "lng": 114.038928
+        "latitude": 62.534689,
+        "longitude": 114.038928
       },
       "links_count": 17,
       "objectID": "2925"
@@ -12257,8 +12257,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "ZQN",
       "_geoloc": {
-        "lat": -45.021111,
-        "lng": 168.739167
+        "latitude": -45.021111,
+        "longitude": 168.739167
       },
       "links_count": 17,
       "objectID": "2030"
@@ -12269,8 +12269,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "GEA",
       "_geoloc": {
-        "lat": -22.258278,
-        "lng": 166.472806
+        "latitude": -22.258278,
+        "longitude": 166.472806
       },
       "links_count": 17,
       "objectID": "2001"
@@ -12281,8 +12281,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "ACA",
       "_geoloc": {
-        "lat": 16.757061,
-        "lng": -99.753953
+        "latitude": 16.757061,
+        "longitude": -99.753953
       },
       "links_count": 17,
       "objectID": "1783"
@@ -12293,8 +12293,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "POL",
       "_geoloc": {
-        "lat": -12.986753,
-        "lng": 40.522492
+        "latitude": -12.986753,
+        "longitude": 40.522492
       },
       "links_count": 16,
       "objectID": "985"
@@ -12305,8 +12305,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "CIY",
       "_geoloc": {
-        "lat": 37.0,
-        "lng": 14.6144
+        "latitude": 37.0,
+        "longitude": 14.6144
       },
       "links_count": 16,
       "objectID": "9327"
@@ -12317,8 +12317,8 @@ const airports = [
       "country": "China",
       "iata_code": "BFJ",
       "_geoloc": {
-        "lat": 27.253,
-        "lng": 105.426
+        "latitude": 27.253,
+        "longitude": 105.426
       },
       "links_count": 16,
       "objectID": "9025"
@@ -12329,8 +12329,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "SFJ",
       "_geoloc": {
-        "lat": 67.016969,
-        "lng": -50.689325
+        "latitude": 67.016969,
+        "longitude": -50.689325
       },
       "links_count": 16,
       "objectID": "9"
@@ -12341,8 +12341,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "VBY",
       "_geoloc": {
-        "lat": 57.662797,
-        "lng": 18.346211
+        "latitude": 57.662797,
+        "longitude": 18.346211
       },
       "links_count": 16,
       "objectID": "746"
@@ -12353,8 +12353,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "UME",
       "_geoloc": {
-        "lat": 63.791828,
-        "lng": 20.282758
+        "latitude": 63.791828,
+        "longitude": 20.282758
       },
       "links_count": 16,
       "objectID": "728"
@@ -12365,8 +12365,8 @@ const airports = [
       "country": "China",
       "iata_code": "WUA",
       "_geoloc": {
-        "lat": 39.794444,
-        "lng": 106.799444
+        "latitude": 39.794444,
+        "longitude": 106.799444
       },
       "links_count": 16,
       "objectID": "6955"
@@ -12377,8 +12377,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "QSF",
       "_geoloc": {
-        "lat": 36.1781,
-        "lng": 5.32449
+        "latitude": 36.1781,
+        "longitude": 5.32449
       },
       "links_count": 16,
       "objectID": "6492"
@@ -12389,8 +12389,8 @@ const airports = [
       "country": "China",
       "iata_code": "NDG",
       "_geoloc": {
-        "lat": 47.239628,
-        "lng": 123.918131
+        "latitude": 47.239628,
+        "longitude": 123.918131
       },
       "links_count": 16,
       "objectID": "6413"
@@ -12401,8 +12401,8 @@ const airports = [
       "country": "China",
       "iata_code": "GYS",
       "_geoloc": {
-        "lat": 32.3911,
-        "lng": 105.702
+        "latitude": 32.3911,
+        "longitude": 105.702
       },
       "links_count": 16,
       "objectID": "6398"
@@ -12413,8 +12413,8 @@ const airports = [
       "country": "China",
       "iata_code": "NNY",
       "_geoloc": {
-        "lat": 32.9808,
-        "lng": 112.615
+        "latitude": 32.9808,
+        "longitude": 112.615
       },
       "links_count": 16,
       "objectID": "6359"
@@ -12425,8 +12425,8 @@ const airports = [
       "country": "China",
       "iata_code": "CGD",
       "_geoloc": {
-        "lat": 28.9189,
-        "lng": 111.64
+        "latitude": 28.9189,
+        "longitude": 111.64
       },
       "links_count": 16,
       "objectID": "6352"
@@ -12437,8 +12437,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NYM",
       "_geoloc": {
-        "lat": 65.4809,
-        "lng": 72.6989
+        "latitude": 65.4809,
+        "longitude": 72.6989
       },
       "links_count": 16,
       "objectID": "6143"
@@ -12449,8 +12449,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "HMA",
       "_geoloc": {
-        "lat": 61.028479,
-        "lng": 69.086067
+        "latitude": 61.028479,
+        "longitude": 69.086067
       },
       "links_count": 16,
       "objectID": "6138"
@@ -12461,8 +12461,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SLY",
       "_geoloc": {
-        "lat": 66.590753,
-        "lng": 66.611042
+        "latitude": 66.590753,
+        "longitude": 66.611042
       },
       "links_count": 16,
       "objectID": "6137"
@@ -12473,8 +12473,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PSC",
       "_geoloc": {
-        "lat": 46.2647,
-        "lng": -119.119
+        "latitude": 46.2647,
+        "longitude": -119.119
       },
       "links_count": 16,
       "objectID": "6133"
@@ -12485,8 +12485,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "UKK",
       "_geoloc": {
-        "lat": 50.0366,
-        "lng": 82.4942
+        "latitude": 50.0366,
+        "longitude": 82.4942
       },
       "links_count": 16,
       "objectID": "6086"
@@ -12497,8 +12497,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "AAR",
       "_geoloc": {
-        "lat": 56.300017,
-        "lng": 10.619008
+        "latitude": 56.300017,
+        "longitude": 10.619008
       },
       "links_count": 16,
       "objectID": "607"
@@ -12509,8 +12509,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIR",
       "_geoloc": {
-        "lat": 44.3827,
-        "lng": -100.286
+        "latitude": 44.3827,
+        "longitude": -100.286
       },
       "links_count": 16,
       "objectID": "5761"
@@ -12521,8 +12521,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FAY",
       "_geoloc": {
-        "lat": 34.9912,
-        "lng": -78.8803
+        "latitude": 34.9912,
+        "longitude": -78.8803
       },
       "links_count": 16,
       "objectID": "5738"
@@ -12533,8 +12533,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "GSM",
       "_geoloc": {
-        "lat": 26.9487,
-        "lng": 56.2688
+        "latitude": 26.9487,
+        "longitude": 56.2688
       },
       "links_count": 16,
       "objectID": "5712"
@@ -12545,8 +12545,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YRL",
       "_geoloc": {
-        "lat": 51.0669,
-        "lng": -93.7931
+        "latitude": 51.0669,
+        "longitude": -93.7931
       },
       "links_count": 16,
       "objectID": "5527"
@@ -12557,8 +12557,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YEV",
       "_geoloc": {
-        "lat": 68.304167,
-        "lng": -133.482778
+        "latitude": 68.304167,
+        "longitude": -133.482778
       },
       "links_count": 16,
       "objectID": "54"
@@ -12569,8 +12569,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "TKU",
       "_geoloc": {
-        "lat": 60.514142,
-        "lng": 22.262808
+        "latitude": 60.514142,
+        "longitude": 22.262808
       },
       "links_count": 16,
       "objectID": "460"
@@ -12581,8 +12581,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "HFT",
       "_geoloc": {
-        "lat": 70.679722,
-        "lng": 23.668889
+        "latitude": 70.679722,
+        "longitude": 23.668889
       },
       "links_count": 16,
       "objectID": "4325"
@@ -12593,8 +12593,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "NTL",
       "_geoloc": {
-        "lat": -32.78,
-        "lng": 151.83
+        "latitude": -32.78,
+        "longitude": 151.83
       },
       "links_count": 16,
       "objectID": "4320"
@@ -12605,8 +12605,8 @@ const airports = [
       "country": "Guyana",
       "iata_code": "GEO",
       "_geoloc": {
-        "lat": 6.498553,
-        "lng": -58.254119
+        "latitude": 6.498553,
+        "longitude": -58.254119
       },
       "links_count": 16,
       "objectID": "4304"
@@ -12617,8 +12617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RDM",
       "_geoloc": {
-        "lat": 44.254066,
-        "lng": -121.149964
+        "latitude": 44.254066,
+        "longitude": -121.149964
       },
       "links_count": 16,
       "objectID": "4103"
@@ -12629,8 +12629,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "GWT",
       "_geoloc": {
-        "lat": 54.91325,
-        "lng": 8.340472
+        "latitude": 54.91325,
+        "longitude": 8.340472
       },
       "links_count": 16,
       "objectID": "410"
@@ -12641,8 +12641,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RAP",
       "_geoloc": {
-        "lat": 44.045278,
-        "lng": -103.057222
+        "latitude": 44.045278,
+        "longitude": -103.057222
       },
       "links_count": 16,
       "objectID": "4087"
@@ -12653,8 +12653,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GJT",
       "_geoloc": {
-        "lat": 39.122413,
-        "lng": -108.526735
+        "latitude": 39.122413,
+        "longitude": -108.526735
       },
       "links_count": 16,
       "objectID": "4063"
@@ -12665,8 +12665,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BZN",
       "_geoloc": {
-        "lat": 45.777643,
-        "lng": -111.160151
+        "latitude": 45.777643,
+        "longitude": -111.160151
       },
       "links_count": 16,
       "objectID": "4020"
@@ -12677,8 +12677,8 @@ const airports = [
       "country": "Georgia",
       "iata_code": "KUT",
       "_geoloc": {
-        "lat": 42.176653,
-        "lng": 42.482583
+        "latitude": 42.176653,
+        "longitude": 42.482583
       },
       "links_count": 16,
       "objectID": "3972"
@@ -12689,8 +12689,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SBA",
       "_geoloc": {
-        "lat": 34.426211,
-        "lng": -119.840372
+        "latitude": 34.426211,
+        "longitude": -119.840372
       },
       "links_count": 16,
       "objectID": "3949"
@@ -12701,8 +12701,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "SOC",
       "_geoloc": {
-        "lat": -7.516089,
-        "lng": 110.756892
+        "latitude": -7.516089,
+        "longitude": 110.756892
       },
       "links_count": 16,
       "objectID": "3929"
@@ -12713,8 +12713,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BTR",
       "_geoloc": {
-        "lat": 30.533167,
-        "lng": -91.149639
+        "latitude": 30.533167,
+        "longitude": -91.149639
       },
       "links_count": 16,
       "objectID": "3846"
@@ -12725,8 +12725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GRB",
       "_geoloc": {
-        "lat": 44.485072,
-        "lng": -88.129589
+        "latitude": 44.485072,
+        "longitude": -88.129589
       },
       "links_count": 16,
       "objectID": "3653"
@@ -12737,8 +12737,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHV",
       "_geoloc": {
-        "lat": 32.446629,
-        "lng": -93.8256
+        "latitude": 32.446629,
+        "longitude": -93.8256
       },
       "links_count": 16,
       "objectID": "3609"
@@ -12749,8 +12749,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAN",
       "_geoloc": {
-        "lat": 42.7787,
-        "lng": -84.587357
+        "latitude": 42.7787,
+        "longitude": -84.587357
       },
       "links_count": 16,
       "objectID": "3544"
@@ -12761,8 +12761,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BGR",
       "_geoloc": {
-        "lat": 44.807444,
-        "lng": -68.828139
+        "latitude": 44.807444,
+        "longitude": -68.828139
       },
       "links_count": 16,
       "objectID": "3463"
@@ -12773,8 +12773,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PHE",
       "_geoloc": {
-        "lat": -20.377778,
-        "lng": 118.626389
+        "latitude": -20.377778,
+        "longitude": 118.626389
       },
       "links_count": 16,
       "objectID": "3349"
@@ -12785,8 +12785,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KNX",
       "_geoloc": {
-        "lat": -15.778056,
-        "lng": 128.7075
+        "latitude": -15.778056,
+        "longitude": 128.7075
       },
       "links_count": 16,
       "objectID": "3347"
@@ -12797,8 +12797,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "LST",
       "_geoloc": {
-        "lat": -41.545278,
-        "lng": 147.214167
+        "latitude": -41.545278,
+        "longitude": 147.214167
       },
       "links_count": 16,
       "objectID": "3337"
@@ -12809,8 +12809,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "SOQ",
       "_geoloc": {
-        "lat": -0.926358,
-        "lng": 131.121194
+        "latitude": -0.926358,
+        "longitude": 131.121194
       },
       "links_count": 16,
       "objectID": "3261"
@@ -12821,8 +12821,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TTE",
       "_geoloc": {
-        "lat": 0.831414,
-        "lng": 127.381486
+        "latitude": 0.831414,
+        "longitude": 127.381486
       },
       "links_count": 16,
       "objectID": "3253"
@@ -12833,8 +12833,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "HEH",
       "_geoloc": {
-        "lat": 20.747036,
-        "lng": 96.792044
+        "latitude": 20.747036,
+        "longitude": 96.792044
       },
       "links_count": 16,
       "objectID": "3213"
@@ -12845,8 +12845,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXM",
       "_geoloc": {
-        "lat": 9.834508,
-        "lng": 78.093378
+        "latitude": 9.834508,
+        "longitude": 78.093378
       },
       "links_count": 16,
       "objectID": "3142"
@@ -12857,8 +12857,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXA",
       "_geoloc": {
-        "lat": 23.886978,
-        "lng": 91.24045
+        "latitude": 23.886978,
+        "longitude": 91.24045
       },
       "links_count": 16,
       "objectID": "3038"
@@ -12869,8 +12869,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VOZ",
       "_geoloc": {
-        "lat": 51.814211,
-        "lng": 39.229589
+        "latitude": 51.814211,
+        "longitude": 39.229589
       },
       "links_count": 16,
       "objectID": "2987"
@@ -12881,8 +12881,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ASF",
       "_geoloc": {
-        "lat": 46.283333,
-        "lng": 48.006278
+        "latitude": 46.283333,
+        "longitude": 48.006278
       },
       "links_count": 16,
       "objectID": "2966"
@@ -12893,8 +12893,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "TDD",
       "_geoloc": {
-        "lat": -14.818739,
-        "lng": -64.918019
+        "latitude": -14.818739,
+        "longitude": -64.918019
       },
       "links_count": 16,
       "objectID": "2769"
@@ -12905,8 +12905,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "TJA",
       "_geoloc": {
-        "lat": -21.555736,
-        "lng": -64.701325
+        "latitude": -21.555736,
+        "longitude": -64.701325
       },
       "links_count": 16,
       "objectID": "2768"
@@ -12917,8 +12917,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "VVC",
       "_geoloc": {
-        "lat": 4.167875,
-        "lng": -73.613761
+        "latitude": 4.167875,
+        "longitude": -73.613761
       },
       "links_count": 16,
       "objectID": "2756"
@@ -12929,8 +12929,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "PHC",
       "_geoloc": {
-        "lat": 5.015494,
-        "lng": 6.949594
+        "latitude": 5.015494,
+        "longitude": 6.949594
       },
       "links_count": 16,
       "objectID": "275"
@@ -12941,8 +12941,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SJP",
       "_geoloc": {
-        "lat": -20.816567,
-        "lng": -49.406511
+        "latitude": -20.816567,
+        "longitude": -49.406511
       },
       "links_count": 16,
       "objectID": "2619"
@@ -12953,8 +12953,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "AXT",
       "_geoloc": {
-        "lat": 39.615556,
-        "lng": 140.218611
+        "latitude": 39.615556,
+        "longitude": 140.218611
       },
       "links_count": 16,
       "objectID": "2345"
@@ -12965,8 +12965,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "TAK",
       "_geoloc": {
-        "lat": 34.214167,
-        "lng": 134.015556
+        "latitude": 34.214167,
+        "longitude": 134.015556
       },
       "links_count": 16,
       "objectID": "2337"
@@ -12977,8 +12977,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "YGJ",
       "_geoloc": {
-        "lat": 35.492222,
-        "lng": 133.236389
+        "latitude": 35.492222,
+        "longitude": 133.236389
       },
       "links_count": 16,
       "objectID": "2330"
@@ -12989,8 +12989,8 @@ const airports = [
       "country": "Iraq",
       "iata_code": "BSR",
       "_geoloc": {
-        "lat": 30.549069,
-        "lng": 47.662142
+        "latitude": 30.549069,
+        "longitude": 47.662142
       },
       "links_count": 16,
       "objectID": "2234"
@@ -13001,8 +13001,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "MAG",
       "_geoloc": {
-        "lat": -5.207083,
-        "lng": 145.7887
+        "latitude": -5.207083,
+        "longitude": 145.7887
       },
       "links_count": 16,
       "objectID": "2"
@@ -13013,8 +13013,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "ELH",
       "_geoloc": {
-        "lat": 25.474861,
-        "lng": -76.683489
+        "latitude": 25.474861,
+        "longitude": -76.683489
       },
       "links_count": 16,
       "objectID": "1943"
@@ -13025,8 +13025,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYY",
       "_geoloc": {
-        "lat": 48.608612,
-        "lng": -68.208056
+        "latitude": 48.608612,
+        "longitude": -68.208056
       },
       "links_count": 16,
       "objectID": "192"
@@ -13037,8 +13037,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYQ",
       "_geoloc": {
-        "lat": 58.739167,
-        "lng": -94.065
+        "latitude": 58.739167,
+        "longitude": -94.065
       },
       "links_count": 16,
       "objectID": "187"
@@ -13049,8 +13049,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TGZ",
       "_geoloc": {
-        "lat": 16.561822,
-        "lng": -93.026081
+        "latitude": 16.561822,
+        "longitude": -93.026081
       },
       "links_count": 16,
       "objectID": "1846"
@@ -13061,8 +13061,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "SLP",
       "_geoloc": {
-        "lat": 22.254303,
-        "lng": -100.930806
+        "latitude": 22.254303,
+        "longitude": -100.930806
       },
       "links_count": 16,
       "objectID": "1842"
@@ -13073,8 +13073,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "REX",
       "_geoloc": {
-        "lat": 26.008908,
-        "lng": -98.228513
+        "latitude": 26.008908,
+        "longitude": -98.228513
       },
       "links_count": 16,
       "objectID": "1839"
@@ -13085,8 +13085,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "INN",
       "_geoloc": {
-        "lat": 47.260219,
-        "lng": 11.343964
+        "latitude": 47.260219,
+        "longitude": 11.343964
       },
       "links_count": 16,
       "objectID": "1610"
@@ -13097,8 +13097,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "ZAZ",
       "_geoloc": {
-        "lat": 41.666242,
-        "lng": -1.041553
+        "latitude": 41.666242,
+        "longitude": -1.041553
       },
       "links_count": 16,
       "objectID": "1252"
@@ -13109,8 +13109,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "SPC",
       "_geoloc": {
-        "lat": 28.626478,
-        "lng": -17.755611
+        "latitude": 28.626478,
+        "longitude": -17.755611
       },
       "links_count": 16,
       "objectID": "1053"
@@ -13121,8 +13121,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "VXO",
       "_geoloc": {
-        "lat": 56.929144,
-        "lng": 14.727994
+        "latitude": 56.929144,
+        "longitude": 14.727994
       },
       "links_count": 15,
       "objectID": "711"
@@ -13133,8 +13133,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "KSU",
       "_geoloc": {
-        "lat": 63.111781,
-        "lng": 7.824522
+        "latitude": 63.111781,
+        "longitude": 7.824522
       },
       "links_count": 15,
       "objectID": "647"
@@ -13145,8 +13145,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "UGC",
       "_geoloc": {
-        "lat": 41.5843,
-        "lng": 60.6417
+        "latitude": 41.5843,
+        "longitude": 60.6417
       },
       "links_count": 15,
       "objectID": "6152"
@@ -13157,8 +13157,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YDF",
       "_geoloc": {
-        "lat": 49.210833,
-        "lng": -57.391388
+        "latitude": 49.210833,
+        "longitude": -57.391388
       },
       "links_count": 15,
       "objectID": "45"
@@ -13169,8 +13169,8 @@ const airports = [
       "country": "Eritrea",
       "iata_code": "ASM",
       "_geoloc": {
-        "lat": 15.291853,
-        "lng": 38.910667
+        "latitude": 15.291853,
+        "longitude": 38.910667
       },
       "links_count": 15,
       "objectID": "3967"
@@ -13181,8 +13181,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HRL",
       "_geoloc": {
-        "lat": 26.2285,
-        "lng": -97.654389
+        "latitude": 26.2285,
+        "longitude": -97.654389
       },
       "links_count": 15,
       "objectID": "3560"
@@ -13193,8 +13193,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PLW",
       "_geoloc": {
-        "lat": -0.918542,
-        "lng": 119.909642
+        "latitude": -0.918542,
+        "longitude": 119.909642
       },
       "links_count": 15,
       "objectID": "3249"
@@ -13205,8 +13205,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "REN",
       "_geoloc": {
-        "lat": 51.795786,
-        "lng": 55.456744
+        "latitude": 51.795786,
+        "longitude": 55.456744
       },
       "links_count": 15,
       "objectID": "2991"
@@ -13217,8 +13217,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "SKD",
       "_geoloc": {
-        "lat": 39.700547,
-        "lng": 66.983829
+        "latitude": 39.700547,
+        "longitude": 66.983829
       },
       "links_count": 15,
       "objectID": "2981"
@@ -13229,8 +13229,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "LCE",
       "_geoloc": {
-        "lat": 15.742481,
-        "lng": -86.853036
+        "latitude": 15.742481,
+        "longitude": -86.853036
       },
       "links_count": 15,
       "objectID": "1771"
@@ -13241,8 +13241,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ASR",
       "_geoloc": {
-        "lat": 38.770386,
-        "lng": 35.495428
+        "latitude": 38.770386,
+        "longitude": 35.495428
       },
       "links_count": 15,
       "objectID": "1696"
@@ -13253,8 +13253,8 @@ const airports = [
       "country": "Somalia",
       "iata_code": "BBO",
       "_geoloc": {
-        "lat": 10.389167,
-        "lng": 44.941106
+        "latitude": 10.389167,
+        "longitude": 44.941106
       },
       "links_count": 15,
       "objectID": "1122"
@@ -13265,8 +13265,8 @@ const airports = [
       "country": "Somalia",
       "iata_code": "HGA",
       "_geoloc": {
-        "lat": 9.518167,
-        "lng": 44.088758
+        "latitude": 9.518167,
+        "longitude": 44.088758
       },
       "links_count": 15,
       "objectID": "1121"
@@ -13277,8 +13277,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "TET",
       "_geoloc": {
-        "lat": -16.104817,
-        "lng": 33.640181
+        "latitude": -16.104817,
+        "longitude": 33.640181
       },
       "links_count": 14,
       "objectID": "988"
@@ -13289,8 +13289,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "BEW",
       "_geoloc": {
-        "lat": -19.796419,
-        "lng": 34.907556
+        "latitude": -19.796419,
+        "longitude": 34.907556
       },
       "links_count": 14,
       "objectID": "974"
@@ -13301,8 +13301,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "LVI",
       "_geoloc": {
-        "lat": -17.821756,
-        "lng": 25.822692
+        "latitude": -17.821756,
+        "longitude": 25.822692
       },
       "links_count": 14,
       "objectID": "906"
@@ -13313,8 +13313,8 @@ const airports = [
       "country": "Botswana",
       "iata_code": "MUB",
       "_geoloc": {
-        "lat": -19.972564,
-        "lng": 23.431086
+        "latitude": -19.972564,
+        "longitude": 23.431086
       },
       "links_count": 14,
       "objectID": "880"
@@ -13325,8 +13325,8 @@ const airports = [
       "country": "China",
       "iata_code": "JIQ",
       "_geoloc": {
-        "lat": 29.515,
-        "lng": 108.83
+        "latitude": 29.515,
+        "longitude": 108.83
       },
       "links_count": 14,
       "objectID": "8781"
@@ -13337,8 +13337,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "UMD",
       "_geoloc": {
-        "lat": 70.4047,
-        "lng": 52.0702
+        "latitude": 70.4047,
+        "longitude": 52.0702
       },
       "links_count": 14,
       "objectID": "8628"
@@ -13349,8 +13349,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ECP",
       "_geoloc": {
-        "lat": 30.3417,
-        "lng": -85.7973
+        "latitude": 30.3417,
+        "longitude": -85.7973
       },
       "links_count": 14,
       "objectID": "7669"
@@ -13361,8 +13361,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "DGA",
       "_geoloc": {
-        "lat": 16.966667,
-        "lng": -88.216667
+        "latitude": 16.966667,
+        "longitude": -88.216667
       },
       "links_count": 14,
       "objectID": "7287"
@@ -13373,8 +13373,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NBC",
       "_geoloc": {
-        "lat": 55.34,
-        "lng": 52.06
+        "latitude": 55.34,
+        "longitude": 52.06
       },
       "links_count": 14,
       "objectID": "6969"
@@ -13385,8 +13385,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "SZZ",
       "_geoloc": {
-        "lat": 53.584731,
-        "lng": 14.902206
+        "latitude": 53.584731,
+        "longitude": 14.902206
       },
       "links_count": 14,
       "objectID": "676"
@@ -13397,8 +13397,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "MOL",
       "_geoloc": {
-        "lat": 62.744722,
-        "lng": 7.2625
+        "latitude": 62.744722,
+        "longitude": 7.2625
       },
       "links_count": 14,
       "objectID": "651"
@@ -13409,8 +13409,8 @@ const airports = [
       "country": "China",
       "iata_code": "JGN",
       "_geoloc": {
-        "lat": 39.8569,
-        "lng": 98.3414
+        "latitude": 39.8569,
+        "longitude": 98.3414
       },
       "links_count": 14,
       "objectID": "6432"
@@ -13421,8 +13421,8 @@ const airports = [
       "country": "China",
       "iata_code": "SHP",
       "_geoloc": {
-        "lat": 39.9681,
-        "lng": 119.731
+        "latitude": 39.9681,
+        "longitude": 119.731
       },
       "links_count": 14,
       "objectID": "6429"
@@ -13433,8 +13433,8 @@ const airports = [
       "country": "China",
       "iata_code": "AQG",
       "_geoloc": {
-        "lat": 30.5822,
-        "lng": 117.0502
+        "latitude": 30.5822,
+        "longitude": 117.0502
       },
       "links_count": 14,
       "objectID": "6427"
@@ -13445,8 +13445,8 @@ const airports = [
       "country": "China",
       "iata_code": "WEF",
       "_geoloc": {
-        "lat": 36.6467,
-        "lng": 119.119
+        "latitude": 36.6467,
+        "longitude": 119.119
       },
       "links_count": 14,
       "objectID": "6388"
@@ -13457,8 +13457,8 @@ const airports = [
       "country": "China",
       "iata_code": "DIG",
       "_geoloc": {
-        "lat": 27.7936,
-        "lng": 99.6772
+        "latitude": 27.7936,
+        "longitude": 99.6772
       },
       "links_count": 14,
       "objectID": "6375"
@@ -13469,8 +13469,8 @@ const airports = [
       "country": "China",
       "iata_code": "XIL",
       "_geoloc": {
-        "lat": 43.9156,
-        "lng": 115.964
+        "latitude": 43.9156,
+        "longitude": 115.964
       },
       "links_count": 14,
       "objectID": "6350"
@@ -13481,8 +13481,8 @@ const airports = [
       "country": "China",
       "iata_code": "HLH",
       "_geoloc": {
-        "lat": 46.083,
-        "lng": 122.017
+        "latitude": 46.083,
+        "longitude": 122.017
       },
       "links_count": 14,
       "objectID": "6349"
@@ -13493,8 +13493,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "HTI",
       "_geoloc": {
-        "lat": -20.3581,
-        "lng": 148.952
+        "latitude": -20.3581,
+        "longitude": 148.952
       },
       "links_count": 14,
       "objectID": "6242"
@@ -13505,8 +13505,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VII",
       "_geoloc": {
-        "lat": 18.737569,
-        "lng": 105.670764
+        "latitude": 18.737569,
+        "longitude": 105.670764
       },
       "links_count": 14,
       "objectID": "6195"
@@ -13517,8 +13517,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "CXR",
       "_geoloc": {
-        "lat": 11.998153,
-        "lng": 109.219372
+        "latitude": 11.998153,
+        "longitude": 109.219372
       },
       "links_count": 14,
       "objectID": "6189"
@@ -13529,8 +13529,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "BMV",
       "_geoloc": {
-        "lat": 12.668311,
-        "lng": 108.120272
+        "latitude": 12.668311,
+        "longitude": 108.120272
       },
       "links_count": 14,
       "objectID": "6187"
@@ -13541,8 +13541,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "FEG",
       "_geoloc": {
-        "lat": 40.3588,
-        "lng": 71.745
+        "latitude": 40.3588,
+        "longitude": 71.745
       },
       "links_count": 14,
       "objectID": "6149"
@@ -13553,8 +13553,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CEE",
       "_geoloc": {
-        "lat": 59.2736,
-        "lng": 38.0158
+        "latitude": 59.2736,
+        "longitude": 38.0158
       },
       "links_count": 14,
       "objectID": "6111"
@@ -13565,8 +13565,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "CCC",
       "_geoloc": {
-        "lat": 22.5132,
-        "lng": -78.511
+        "latitude": 22.5132,
+        "longitude": -78.511
       },
       "links_count": 14,
       "objectID": "5852"
@@ -13577,8 +13577,8 @@ const airports = [
       "country": "Guinea-Bissau",
       "iata_code": "OXB",
       "_geoloc": {
-        "lat": 11.89485,
-        "lng": -15.653681
+        "latitude": 11.89485,
+        "longitude": -15.653681
       },
       "links_count": 14,
       "objectID": "5665"
@@ -13589,8 +13589,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGW",
       "_geoloc": {
-        "lat": 55.2819,
-        "lng": -77.7653
+        "latitude": 55.2819,
+        "longitude": -77.7653
       },
       "links_count": 14,
       "objectID": "5496"
@@ -13601,8 +13601,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JJU",
       "_geoloc": {
-        "lat": 60.7158,
-        "lng": -46.0294
+        "latitude": 60.7158,
+        "longitude": -46.0294
       },
       "links_count": 14,
       "objectID": "5442"
@@ -13613,8 +13613,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YEK",
       "_geoloc": {
-        "lat": 61.094166,
-        "lng": -94.070833
+        "latitude": 61.094166,
+        "longitude": -94.070833
       },
       "links_count": 14,
       "objectID": "50"
@@ -13625,8 +13625,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OAJ",
       "_geoloc": {
-        "lat": 34.829164,
-        "lng": -77.612139
+        "latitude": 34.829164,
+        "longitude": -77.612139
       },
       "links_count": 14,
       "objectID": "4386"
@@ -13637,8 +13637,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "KGF",
       "_geoloc": {
-        "lat": 49.670833,
-        "lng": 73.334444
+        "latitude": 49.670833,
+        "longitude": 73.334444
       },
       "links_count": 14,
       "objectID": "4375"
@@ -13649,8 +13649,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "VDS",
       "_geoloc": {
-        "lat": 70.065,
-        "lng": 29.844
+        "latitude": 70.065,
+        "longitude": 29.844
       },
       "links_count": 14,
       "objectID": "4328"
@@ -13661,8 +13661,8 @@ const airports = [
       "country": "Austria",
       "iata_code": "KLU",
       "_geoloc": {
-        "lat": 46.642514,
-        "lng": 14.337739
+        "latitude": 46.642514,
+        "longitude": 14.337739
       },
       "links_count": 14,
       "objectID": "4322"
@@ -13673,8 +13673,8 @@ const airports = [
       "country": "China",
       "iata_code": "DNH",
       "_geoloc": {
-        "lat": 40.094,
-        "lng": 94.4818
+        "latitude": 40.094,
+        "longitude": 94.4818
       },
       "links_count": 14,
       "objectID": "4308"
@@ -13685,8 +13685,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "SRZ",
       "_geoloc": {
-        "lat": -17.8,
-        "lng": -63.166667
+        "latitude": -17.8,
+        "longitude": -63.166667
       },
       "links_count": 14,
       "objectID": "4247"
@@ -13697,8 +13697,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSO",
       "_geoloc": {
-        "lat": 46.916306,
-        "lng": -114.090556
+        "latitude": 46.916306,
+        "longitude": -114.090556
       },
       "links_count": 14,
       "objectID": "4216"
@@ -13709,8 +13709,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PMW",
       "_geoloc": {
-        "lat": -10.241667,
-        "lng": -48.35278
+        "latitude": -10.241667,
+        "longitude": -48.35278
       },
       "links_count": 14,
       "objectID": "4214"
@@ -13721,8 +13721,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TRI",
       "_geoloc": {
-        "lat": 36.4752222,
-        "lng": -82.4074167
+        "latitude": 36.4752222,
+        "longitude": -82.4074167
       },
       "links_count": 14,
       "objectID": "4116"
@@ -13733,8 +13733,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MGM",
       "_geoloc": {
-        "lat": 32.3006389,
-        "lng": -86.3939722
+        "latitude": 32.3006389,
+        "longitude": -86.3939722
       },
       "links_count": 14,
       "objectID": "4115"
@@ -13745,8 +13745,8 @@ const airports = [
       "country": "China",
       "iata_code": "DLU",
       "_geoloc": {
-        "lat": 25.649444,
-        "lng": 100.319444
+        "latitude": 25.649444,
+        "longitude": 100.319444
       },
       "links_count": 14,
       "objectID": "4054"
@@ -13757,8 +13757,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "TAI",
       "_geoloc": {
-        "lat": 13.685964,
-        "lng": 44.139056
+        "latitude": 13.685964,
+        "longitude": 44.139056
       },
       "links_count": 14,
       "objectID": "3975"
@@ -13769,8 +13769,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TRK",
       "_geoloc": {
-        "lat": 3.326694,
-        "lng": 117.565569
+        "latitude": 3.326694,
+        "longitude": 117.565569
       },
       "links_count": 14,
       "objectID": "3920"
@@ -13781,8 +13781,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PKN",
       "_geoloc": {
-        "lat": -2.705197,
-        "lng": 111.673208
+        "latitude": -2.705197,
+        "longitude": 111.673208
       },
       "links_count": 14,
       "objectID": "3910"
@@ -13793,8 +13793,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PGK",
       "_geoloc": {
-        "lat": -2.1622,
-        "lng": 106.139064
+        "latitude": -2.1622,
+        "longitude": 106.139064
       },
       "links_count": 14,
       "objectID": "3905"
@@ -13805,8 +13805,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GTF",
       "_geoloc": {
-        "lat": 47.482,
-        "lng": -111.370689
+        "latitude": 47.482,
+        "longitude": -111.370689
       },
       "links_count": 14,
       "objectID": "3880"
@@ -13817,8 +13817,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AKN",
       "_geoloc": {
-        "lat": 58.676778,
-        "lng": -156.649278
+        "latitude": 58.676778,
+        "longitude": -156.649278
       },
       "links_count": 14,
       "objectID": "3794"
@@ -13829,8 +13829,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PBG",
       "_geoloc": {
-        "lat": 44.650944,
-        "lng": -73.468139
+        "latitude": 44.650944,
+        "longitude": -73.468139
       },
       "links_count": 14,
       "objectID": "3771"
@@ -13841,8 +13841,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GAL",
       "_geoloc": {
-        "lat": 64.736178,
-        "lng": -156.937417
+        "latitude": 64.736178,
+        "longitude": -156.937417
       },
       "links_count": 14,
       "objectID": "3764"
@@ -13853,8 +13853,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AGS",
       "_geoloc": {
-        "lat": 33.369944,
-        "lng": -81.9645
+        "latitude": 33.369944,
+        "longitude": -81.9645
       },
       "links_count": 14,
       "objectID": "3658"
@@ -13865,8 +13865,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KTA",
       "_geoloc": {
-        "lat": -20.712222,
-        "lng": 116.773333
+        "latitude": -20.712222,
+        "longitude": 116.773333
       },
       "links_count": 14,
       "objectID": "3345"
@@ -13877,8 +13877,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MKY",
       "_geoloc": {
-        "lat": -21.171667,
-        "lng": 149.179722
+        "latitude": -21.171667,
+        "longitude": 149.179722
       },
       "links_count": 14,
       "objectID": "3326"
@@ -13889,8 +13889,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "TGG",
       "_geoloc": {
-        "lat": 5.382639,
-        "lng": 103.10336
+        "latitude": 5.382639,
+        "longitude": 103.10336
       },
       "links_count": 14,
       "objectID": "3307"
@@ -13901,8 +13901,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PDG",
       "_geoloc": {
-        "lat": -0.874989,
-        "lng": 100.351881
+        "latitude": -0.874989,
+        "longitude": 100.351881
       },
       "links_count": 14,
       "objectID": "3278"
@@ -13913,8 +13913,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "TWU",
       "_geoloc": {
-        "lat": 4.313369,
-        "lng": 118.121953
+        "latitude": 4.313369,
+        "longitude": 118.121953
       },
       "links_count": 14,
       "objectID": "3271"
@@ -13925,8 +13925,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "BTU",
       "_geoloc": {
-        "lat": 3.12385,
-        "lng": 113.020472
+        "latitude": 3.12385,
+        "longitude": 113.020472
       },
       "links_count": 14,
       "objectID": "3262"
@@ -13937,8 +13937,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MKW",
       "_geoloc": {
-        "lat": -0.891833,
-        "lng": 134.049183
+        "latitude": -0.891833,
+        "longitude": 134.049183
       },
       "links_count": 14,
       "objectID": "3260"
@@ -13949,8 +13949,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXS",
       "_geoloc": {
-        "lat": 24.912928,
-        "lng": 92.978742
+        "latitude": 24.912928,
+        "longitude": 92.978742
       },
       "links_count": 14,
       "objectID": "3055"
@@ -13961,8 +13961,8 @@ const airports = [
       "country": "India",
       "iata_code": "UDR",
       "_geoloc": {
-        "lat": 24.617697,
-        "lng": 73.8961
+        "latitude": 24.617697,
+        "longitude": 73.8961
       },
       "links_count": 14,
       "objectID": "3023"
@@ -13973,8 +13973,8 @@ const airports = [
       "country": "India",
       "iata_code": "BHO",
       "_geoloc": {
-        "lat": 23.287467,
-        "lng": 77.337375
+        "latitude": 23.287467,
+        "longitude": 77.337375
       },
       "links_count": 14,
       "objectID": "3002"
@@ -13985,8 +13985,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "MMK",
       "_geoloc": {
-        "lat": 68.781672,
-        "lng": 32.750822
+        "latitude": 68.781672,
+        "longitude": 32.750822
       },
       "links_count": 14,
       "objectID": "2949"
@@ -13997,8 +13997,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "SIP",
       "_geoloc": {
-        "lat": 45.052222,
-        "lng": 33.975139
+        "latitude": 45.052222,
+        "longitude": 33.975139
       },
       "links_count": 14,
       "objectID": "2942"
@@ -14009,8 +14009,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "AKX",
       "_geoloc": {
-        "lat": 50.245833,
-        "lng": 57.206667
+        "latitude": 50.245833,
+        "longitude": 57.206667
       },
       "links_count": 14,
       "objectID": "2920"
@@ -14021,8 +14021,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "IQT",
       "_geoloc": {
-        "lat": -3.784739,
-        "lng": -73.308806
+        "latitude": -3.784739,
+        "longitude": -73.308806
       },
       "links_count": 14,
       "objectID": "2801"
@@ -14033,8 +14033,8 @@ const airports = [
       "country": "French Guiana",
       "iata_code": "CAY",
       "_geoloc": {
-        "lat": 4.819808,
-        "lng": -52.360447
+        "latitude": 4.819808,
+        "longitude": -52.360447
       },
       "links_count": 14,
       "objectID": "2774"
@@ -14045,8 +14045,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "KAN",
       "_geoloc": {
-        "lat": 12.047589,
-        "lng": 8.524622
+        "latitude": 12.047589,
+        "longitude": 8.524622
       },
       "links_count": 14,
       "objectID": "270"
@@ -14057,8 +14057,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "LSC",
       "_geoloc": {
-        "lat": -29.916233,
-        "lng": -71.199522
+        "latitude": -29.916233,
+        "longitude": -71.199522
       },
       "links_count": 14,
       "objectID": "2662"
@@ -14069,8 +14069,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "NVT",
       "_geoloc": {
-        "lat": -26.879999,
-        "lng": -48.65139
+        "latitude": -26.879999,
+        "longitude": -48.65139
       },
       "links_count": 14,
       "objectID": "2595"
@@ -14081,8 +14081,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IMP",
       "_geoloc": {
-        "lat": -5.531292,
-        "lng": -47.46005
+        "latitude": -5.531292,
+        "longitude": -47.46005
       },
       "links_count": 14,
       "objectID": "2572"
@@ -14093,8 +14093,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "BRC",
       "_geoloc": {
-        "lat": -41.151172,
-        "lng": -71.157542
+        "latitude": -41.151172,
+        "longitude": -71.157542
       },
       "links_count": 14,
       "objectID": "2513"
@@ -14105,8 +14105,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "CRD",
       "_geoloc": {
-        "lat": -45.785347,
-        "lng": -67.465508
+        "latitude": -45.785347,
+        "longitude": -67.465508
       },
       "links_count": 14,
       "objectID": "2487"
@@ -14117,8 +14117,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "ROS",
       "_geoloc": {
-        "lat": -32.903611,
-        "lng": -60.785
+        "latitude": -32.903611,
+        "longitude": -60.785
       },
       "links_count": 14,
       "objectID": "2440"
@@ -14129,8 +14129,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CGY",
       "_geoloc": {
-        "lat": 8.415619,
-        "lng": 124.611219
+        "latitude": 8.415619,
+        "longitude": 124.611219
       },
       "links_count": 14,
       "objectID": "2400"
@@ -14141,8 +14141,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "AKJ",
       "_geoloc": {
-        "lat": 43.670833,
-        "lng": 142.4475
+        "latitude": 43.670833,
+        "longitude": 142.4475
       },
       "links_count": 14,
       "objectID": "2299"
@@ -14153,8 +14153,8 @@ const airports = [
       "country": "Oman",
       "iata_code": "SLL",
       "_geoloc": {
-        "lat": 17.038719,
-        "lng": 54.091297
+        "latitude": 17.038719,
+        "longitude": 54.091297
       },
       "links_count": 14,
       "objectID": "2195"
@@ -14165,8 +14165,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "AZD",
       "_geoloc": {
-        "lat": 31.904908,
-        "lng": 54.276503
+        "latitude": 31.904908,
+        "longitude": 54.276503
       },
       "links_count": 14,
       "objectID": "2164"
@@ -14177,8 +14177,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "ZLO",
       "_geoloc": {
-        "lat": 19.144778,
-        "lng": -104.558631
+        "latitude": 19.144778,
+        "longitude": -104.558631
       },
       "links_count": 14,
       "objectID": "1858"
@@ -14189,8 +14189,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "ZCL",
       "_geoloc": {
-        "lat": 22.897112,
-        "lng": -102.68689
+        "latitude": 22.897112,
+        "longitude": -102.68689
       },
       "links_count": 14,
       "objectID": "1855"
@@ -14201,8 +14201,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TAM",
       "_geoloc": {
-        "lat": 22.29645,
-        "lng": -97.865931
+        "latitude": 22.29645,
+        "longitude": -97.865931
       },
       "links_count": 14,
       "objectID": "1848"
@@ -14213,8 +14213,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "QRO",
       "_geoloc": {
-        "lat": 20.617289,
-        "lng": -100.185658
+        "latitude": 20.617289,
+        "longitude": -100.185658
       },
       "links_count": 14,
       "objectID": "1838"
@@ -14225,8 +14225,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "PBC",
       "_geoloc": {
-        "lat": 19.158144,
-        "lng": -98.371447
+        "latitude": 19.158144,
+        "longitude": -98.371447
       },
       "links_count": 14,
       "objectID": "1831"
@@ -14237,8 +14237,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "DIY",
       "_geoloc": {
-        "lat": 37.893897,
-        "lng": 40.201019
+        "latitude": 37.893897,
+        "longitude": 40.201019
       },
       "links_count": 14,
       "objectID": "1722"
@@ -14249,8 +14249,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVO",
       "_geoloc": {
-        "lat": 48.053333,
-        "lng": -77.782778
+        "latitude": 48.053333,
+        "longitude": -77.782778
       },
       "links_count": 14,
       "objectID": "153"
@@ -14261,8 +14261,8 @@ const airports = [
       "country": "France",
       "iata_code": "PIS",
       "_geoloc": {
-        "lat": 46.587745,
-        "lng": 0.306666
+        "latitude": 46.587745,
+        "longitude": 0.306666
       },
       "links_count": 14,
       "objectID": "1268"
@@ -14273,8 +14273,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "RJK",
       "_geoloc": {
-        "lat": 45.216889,
-        "lng": 14.570267
+        "latitude": 45.216889,
+        "longitude": 14.570267
       },
       "links_count": 14,
       "objectID": "1205"
@@ -14285,8 +14285,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQQ",
       "_geoloc": {
-        "lat": 49.710833,
-        "lng": -124.886667
+        "latitude": 49.710833,
+        "longitude": -124.886667
       },
       "links_count": 14,
       "objectID": "119"
@@ -14297,8 +14297,8 @@ const airports = [
       "country": "Zimbabwe",
       "iata_code": "VFA",
       "_geoloc": {
-        "lat": -18.095881,
-        "lng": 25.839006
+        "latitude": -18.095881,
+        "longitude": 25.839006
       },
       "links_count": 14,
       "objectID": "1004"
@@ -14309,8 +14309,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "TMM",
       "_geoloc": {
-        "lat": -18.109517,
-        "lng": 49.392536
+        "latitude": -18.109517,
+        "longitude": 49.392536
       },
       "links_count": 13,
       "objectID": "921"
@@ -14321,8 +14321,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "HRI",
       "_geoloc": {
-        "lat": 6.284467,
-        "lng": 81.124128
+        "latitude": 6.284467,
+        "longitude": 81.124128
       },
       "links_count": 13,
       "objectID": "8949"
@@ -14333,8 +14333,8 @@ const airports = [
       "country": "Tajikistan",
       "iata_code": "TJU",
       "_geoloc": {
-        "lat": 37.981667,
-        "lng": 69.799444
+        "latitude": 37.981667,
+        "longitude": 69.799444
       },
       "links_count": 13,
       "objectID": "7563"
@@ -14345,8 +14345,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "PLJ",
       "_geoloc": {
-        "lat": 16.536944,
-        "lng": -88.361667
+        "latitude": 16.536944,
+        "longitude": -88.361667
       },
       "links_count": 13,
       "objectID": "7288"
@@ -14357,8 +14357,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "KKN",
       "_geoloc": {
-        "lat": 69.725781,
-        "lng": 29.891295
+        "latitude": 69.725781,
+        "longitude": 29.891295
       },
       "links_count": 13,
       "objectID": "649"
@@ -14369,8 +14369,8 @@ const airports = [
       "country": "Netherlands",
       "iata_code": "GRQ",
       "_geoloc": {
-        "lat": 53.11972,
-        "lng": 6.579444
+        "latitude": 53.11972,
+        "longitude": 6.579444
       },
       "links_count": 13,
       "objectID": "586"
@@ -14381,8 +14381,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "NYU",
       "_geoloc": {
-        "lat": 21.173833266,
-        "lng": 94.9246666
+        "latitude": 21.173833266,
+        "longitude": 94.9246666
       },
       "links_count": 13,
       "objectID": "4001"
@@ -14393,8 +14393,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BRW",
       "_geoloc": {
-        "lat": 71.285446,
-        "lng": -156.766003
+        "latitude": 71.285446,
+        "longitude": -156.766003
       },
       "links_count": 13,
       "objectID": "3571"
@@ -14405,8 +14405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FYU",
       "_geoloc": {
-        "lat": 66.571492,
-        "lng": -145.250417
+        "latitude": 66.571492,
+        "longitude": -145.250417
       },
       "links_count": 13,
       "objectID": "3420"
@@ -14417,8 +14417,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "BHK",
       "_geoloc": {
-        "lat": 39.775,
-        "lng": 64.483333
+        "latitude": 39.775,
+        "longitude": 64.483333
       },
       "links_count": 13,
       "objectID": "2980"
@@ -14429,8 +14429,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "JUL",
       "_geoloc": {
-        "lat": -15.467103,
-        "lng": -70.158169
+        "latitude": -15.467103,
+        "longitude": -70.158169
       },
       "links_count": 13,
       "objectID": "2792"
@@ -14441,8 +14441,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "PUQ",
       "_geoloc": {
-        "lat": -53.002642,
-        "lng": -70.854586
+        "latitude": -53.002642,
+        "longitude": -70.854586
       },
       "links_count": 13,
       "objectID": "2647"
@@ -14453,8 +14453,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "CJC",
       "_geoloc": {
-        "lat": -22.498175,
-        "lng": -68.903575
+        "latitude": -22.498175,
+        "longitude": -68.903575
       },
       "links_count": 13,
       "objectID": "2645"
@@ -14465,8 +14465,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "AOK",
       "_geoloc": {
-        "lat": 35.421408,
-        "lng": 27.146008
+        "latitude": 35.421408,
+        "longitude": 27.146008
       },
       "links_count": 13,
       "objectID": "1459"
@@ -14477,8 +14477,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "EFL",
       "_geoloc": {
-        "lat": 38.120069,
-        "lng": 20.500481
+        "latitude": 38.120069,
+        "longitude": 20.500481
       },
       "links_count": 13,
       "objectID": "1455"
@@ -14489,8 +14489,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTH",
       "_geoloc": {
-        "lat": 55.801111,
-        "lng": -97.864166
+        "latitude": 55.801111,
+        "longitude": -97.864166
       },
       "links_count": 13,
       "objectID": "141"
@@ -14501,8 +14501,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YNA",
       "_geoloc": {
-        "lat": 50.19,
-        "lng": -61.789167
+        "latitude": 50.19,
+        "longitude": -61.789167
       },
       "links_count": 12,
       "objectID": "94"
@@ -14513,8 +14513,8 @@ const airports = [
       "country": "China",
       "iata_code": "YIC",
       "_geoloc": {
-        "lat": 27.8033,
-        "lng": 114.3081
+        "latitude": 27.8033,
+        "longitude": 114.3081
       },
       "links_count": 12,
       "objectID": "9107"
@@ -14525,8 +14525,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ULK",
       "_geoloc": {
-        "lat": 60.723,
-        "lng": 114.825
+        "latitude": 60.723,
+        "longitude": 114.825
       },
       "links_count": 12,
       "objectID": "9026"
@@ -14537,8 +14537,8 @@ const airports = [
       "country": "China",
       "iata_code": "TVS",
       "_geoloc": {
-        "lat": 39.717444,
-        "lng": 118.002389
+        "latitude": 39.717444,
+        "longitude": 118.002389
       },
       "links_count": 12,
       "objectID": "8858"
@@ -14549,8 +14549,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "LUZ",
       "_geoloc": {
-        "lat": 51.239333,
-        "lng": 22.714083
+        "latitude": 51.239333,
+        "longitude": 22.714083
       },
       "links_count": 12,
       "objectID": "8832"
@@ -14561,8 +14561,8 @@ const airports = [
       "country": "China",
       "iata_code": "JXA",
       "_geoloc": {
-        "lat": 45.30611,
-        "lng": 130.99667
+        "latitude": 45.30611,
+        "longitude": 130.99667
       },
       "links_count": 12,
       "objectID": "8417"
@@ -14573,8 +14573,8 @@ const airports = [
       "country": "China",
       "iata_code": "HDG",
       "_geoloc": {
-        "lat": 36.524,
-        "lng": 114.43
+        "latitude": 36.524,
+        "longitude": 114.43
       },
       "links_count": 12,
       "objectID": "8407"
@@ -14585,8 +14585,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "GZP",
       "_geoloc": {
-        "lat": 36.2993,
-        "lng": 32.3014
+        "latitude": 36.2993,
+        "longitude": 32.3014
       },
       "links_count": 12,
       "objectID": "8266"
@@ -14597,8 +14597,8 @@ const airports = [
       "country": "China",
       "iata_code": "ACX",
       "_geoloc": {
-        "lat": 25.0882,
-        "lng": 104.9587
+        "latitude": 25.0882,
+        "longitude": 104.9587
       },
       "links_count": 12,
       "objectID": "7506"
@@ -14609,8 +14609,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BRA",
       "_geoloc": {
-        "lat": -12.083333,
-        "lng": -45.0
+        "latitude": -12.083333,
+        "longitude": -45.0
       },
       "links_count": 12,
       "objectID": "7373"
@@ -14621,8 +14621,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "LLA",
       "_geoloc": {
-        "lat": 65.543758,
-        "lng": 22.121989
+        "latitude": 65.543758,
+        "longitude": 22.121989
       },
       "links_count": 12,
       "objectID": "734"
@@ -14633,8 +14633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WBB",
       "_geoloc": {
-        "lat": 63.515833,
-        "lng": -162.278056
+        "latitude": 63.515833,
+        "longitude": -162.278056
       },
       "links_count": 12,
       "objectID": "7193"
@@ -14645,8 +14645,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "GEV",
       "_geoloc": {
-        "lat": 67.132408,
-        "lng": 20.814636
+        "latitude": 67.132408,
+        "longitude": 20.814636
       },
       "links_count": 12,
       "objectID": "715"
@@ -14657,8 +14657,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SOW",
       "_geoloc": {
-        "lat": 34.265556,
-        "lng": -110.005556
+        "latitude": 34.265556,
+        "longitude": -110.005556
       },
       "links_count": 12,
       "objectID": "7078"
@@ -14669,8 +14669,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ALS",
       "_geoloc": {
-        "lat": 37.435,
-        "lng": -105.866667
+        "latitude": 37.435,
+        "longitude": -105.866667
       },
       "links_count": 12,
       "objectID": "7073"
@@ -14681,8 +14681,8 @@ const airports = [
       "country": "United States",
       "iata_code": "STS",
       "_geoloc": {
-        "lat": 38.508978,
-        "lng": -122.81288
+        "latitude": 38.508978,
+        "longitude": -122.81288
       },
       "links_count": 12,
       "objectID": "6992"
@@ -14693,8 +14693,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "VQS",
       "_geoloc": {
-        "lat": 18.1158,
-        "lng": -65.4227
+        "latitude": 18.1158,
+        "longitude": -65.4227
       },
       "links_count": 12,
       "objectID": "6788"
@@ -14705,8 +14705,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "GBT",
       "_geoloc": {
-        "lat": 36.909381,
-        "lng": 54.401339
+        "latitude": 36.909381,
+        "longitude": 54.401339
       },
       "links_count": 12,
       "objectID": "6747"
@@ -14717,8 +14717,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "NVI",
       "_geoloc": {
-        "lat": 40.1172,
-        "lng": 65.1708
+        "latitude": 40.1172,
+        "longitude": 65.1708
       },
       "links_count": 12,
       "objectID": "6485"
@@ -14729,8 +14729,8 @@ const airports = [
       "country": "India",
       "iata_code": "DIB",
       "_geoloc": {
-        "lat": 27.4839,
-        "lng": 95.0169
+        "latitude": 27.4839,
+        "longitude": 95.0169
       },
       "links_count": 12,
       "objectID": "6443"
@@ -14741,8 +14741,8 @@ const airports = [
       "country": "China",
       "iata_code": "NAO",
       "_geoloc": {
-        "lat": 30.754,
-        "lng": 106.062
+        "latitude": 30.754,
+        "longitude": 106.062
       },
       "links_count": 12,
       "objectID": "6401"
@@ -14753,8 +14753,8 @@ const airports = [
       "country": "China",
       "iata_code": "JUZ",
       "_geoloc": {
-        "lat": 28.9658,
-        "lng": 118.899
+        "latitude": 28.9658,
+        "longitude": 118.899
       },
       "links_count": 12,
       "objectID": "6382"
@@ -14765,8 +14765,8 @@ const airports = [
       "country": "China",
       "iata_code": "JIU",
       "_geoloc": {
-        "lat": 29.733,
-        "lng": 115.983
+        "latitude": 29.733,
+        "longitude": 115.983
       },
       "links_count": 12,
       "objectID": "6381"
@@ -14777,8 +14777,8 @@ const airports = [
       "country": "China",
       "iata_code": "LUM",
       "_geoloc": {
-        "lat": 24.4011,
-        "lng": 98.5317
+        "latitude": 24.4011,
+        "longitude": 98.5317
       },
       "links_count": 12,
       "objectID": "6376"
@@ -14789,8 +14789,8 @@ const airports = [
       "country": "China",
       "iata_code": "IQN",
       "_geoloc": {
-        "lat": 35.7997,
-        "lng": 107.603
+        "latitude": 35.7997,
+        "longitude": 107.603
       },
       "links_count": 12,
       "objectID": "6365"
@@ -14801,8 +14801,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PQQ",
       "_geoloc": {
-        "lat": -31.4358,
-        "lng": 152.863
+        "latitude": -31.4358,
+        "longitude": 152.863
       },
       "links_count": 12,
       "objectID": "6320"
@@ -14813,8 +14813,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MQL",
       "_geoloc": {
-        "lat": -34.2292,
-        "lng": 142.086
+        "latitude": -34.2292,
+        "longitude": 142.086
       },
       "links_count": 12,
       "objectID": "6298"
@@ -14825,8 +14825,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "VDC",
       "_geoloc": {
-        "lat": -14.862761,
-        "lng": -40.863106
+        "latitude": -14.862761,
+        "longitude": -40.863106
       },
       "links_count": 12,
       "objectID": "6039"
@@ -14837,8 +14837,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "KIR",
       "_geoloc": {
-        "lat": 52.180878,
-        "lng": -9.523783
+        "latitude": 52.180878,
+        "longitude": -9.523783
       },
       "links_count": 12,
       "objectID": "601"
@@ -14849,8 +14849,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "WWK",
       "_geoloc": {
-        "lat": -3.583828,
-        "lng": 143.669186
+        "latitude": -3.583828,
+        "longitude": 143.669186
       },
       "links_count": 12,
       "objectID": "6"
@@ -14861,8 +14861,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "NKM",
       "_geoloc": {
-        "lat": 35.255,
-        "lng": 136.924
+        "latitude": 35.255,
+        "longitude": 136.924
       },
       "links_count": 12,
       "objectID": "5997"
@@ -14873,8 +14873,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCG",
       "_geoloc": {
-        "lat": 62.9529,
-        "lng": -155.606
+        "latitude": 62.9529,
+        "longitude": -155.606
       },
       "links_count": 12,
       "objectID": "5965"
@@ -14885,8 +14885,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "LRR",
       "_geoloc": {
-        "lat": 27.674725,
-        "lng": 54.383278
+        "latitude": 27.674725,
+        "longitude": 54.383278
       },
       "links_count": 12,
       "objectID": "5934"
@@ -14897,8 +14897,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "SRY",
       "_geoloc": {
-        "lat": 36.635833,
-        "lng": 53.193611
+        "latitude": 36.635833,
+        "longitude": 53.193611
       },
       "links_count": 12,
       "objectID": "5933"
@@ -14909,8 +14909,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "AZS",
       "_geoloc": {
-        "lat": 19.267,
-        "lng": -69.742
+        "latitude": 19.267,
+        "longitude": -69.742
       },
       "links_count": 12,
       "objectID": "5810"
@@ -14921,8 +14921,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "ATZ",
       "_geoloc": {
-        "lat": 27.046508,
-        "lng": 31.011983
+        "latitude": 27.046508,
+        "longitude": 31.011983
       },
       "links_count": 12,
       "objectID": "5691"
@@ -14933,8 +14933,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "VPE",
       "_geoloc": {
-        "lat": -17.043464,
-        "lng": 15.683822
+        "latitude": -17.043464,
+        "longitude": 15.683822
       },
       "links_count": 12,
       "objectID": "5632"
@@ -14945,8 +14945,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKQ",
       "_geoloc": {
-        "lat": 51.4733,
-        "lng": -78.7583
+        "latitude": 51.4733,
+        "longitude": -78.7583
       },
       "links_count": 12,
       "objectID": "5507"
@@ -14957,8 +14957,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCS",
       "_geoloc": {
-        "lat": 63.3469,
-        "lng": -90.7311
+        "latitude": 63.3469,
+        "longitude": -90.7311
       },
       "links_count": 12,
       "objectID": "5487"
@@ -14969,8 +14969,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "CUK",
       "_geoloc": {
-        "lat": 17.7347,
-        "lng": -88.0325
+        "latitude": 17.7347,
+        "longitude": -88.0325
       },
       "links_count": 12,
       "objectID": "5454"
@@ -14981,8 +14981,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "HKN",
       "_geoloc": {
-        "lat": -5.46217,
-        "lng": 150.405
+        "latitude": -5.46217,
+        "longitude": 150.405
       },
       "links_count": 12,
       "objectID": "5424"
@@ -14993,8 +14993,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "NQY",
       "_geoloc": {
-        "lat": 50.440558,
-        "lng": -4.995408
+        "latitude": 50.440558,
+        "longitude": -4.995408
       },
       "links_count": 12,
       "objectID": "481"
@@ -15005,8 +15005,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "RMF",
       "_geoloc": {
-        "lat": 25.557111,
-        "lng": 34.583711
+        "latitude": 25.557111,
+        "longitude": 34.583711
       },
       "links_count": 12,
       "objectID": "4197"
@@ -15017,8 +15017,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JKL",
       "_geoloc": {
-        "lat": 36.963333,
-        "lng": 26.940556
+        "latitude": 36.963333,
+        "longitude": 26.940556
       },
       "links_count": 12,
       "objectID": "4192"
@@ -15029,8 +15029,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "MWX",
       "_geoloc": {
-        "lat": 34.991389,
-        "lng": 126.382778
+        "latitude": 34.991389,
+        "longitude": 126.382778
       },
       "links_count": 12,
       "objectID": "4189"
@@ -15041,8 +15041,8 @@ const airports = [
       "country": "China",
       "iata_code": "DOY",
       "_geoloc": {
-        "lat": 37.2716,
-        "lng": 118.2819
+        "latitude": 37.2716,
+        "longitude": 118.2819
       },
       "links_count": 12,
       "objectID": "4145"
@@ -15053,8 +15053,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "SDK",
       "_geoloc": {
-        "lat": 5.900897,
-        "lng": 118.059486
+        "latitude": 5.900897,
+        "longitude": 118.059486
       },
       "links_count": 12,
       "objectID": "4141"
@@ -15065,8 +15065,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PGA",
       "_geoloc": {
-        "lat": 36.9261,
-        "lng": -111.4483
+        "latitude": 36.9261,
+        "longitude": -111.4483
       },
       "links_count": 12,
       "objectID": "4124"
@@ -15077,8 +15077,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BIS",
       "_geoloc": {
-        "lat": 46.775842,
-        "lng": -100.757931
+        "latitude": 46.775842,
+        "longitude": -100.757931
       },
       "links_count": 12,
       "objectID": "4083"
@@ -15089,8 +15089,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "MZV",
       "_geoloc": {
-        "lat": 4.048333,
-        "lng": 114.805
+        "latitude": 4.048333,
+        "longitude": 114.805
       },
       "links_count": 12,
       "objectID": "4056"
@@ -15101,8 +15101,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AZO",
       "_geoloc": {
-        "lat": 42.234875,
-        "lng": -85.552058
+        "latitude": 42.234875,
+        "longitude": -85.552058
       },
       "links_count": 12,
       "objectID": "4039"
@@ -15113,8 +15113,8 @@ const airports = [
       "country": "Georgia",
       "iata_code": "BUS",
       "_geoloc": {
-        "lat": 41.610278,
-        "lng": 41.599694
+        "latitude": 41.610278,
+        "longitude": 41.599694
       },
       "links_count": 12,
       "objectID": "3971"
@@ -15125,8 +15125,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ELM",
       "_geoloc": {
-        "lat": 42.159889,
-        "lng": -76.891611
+        "latitude": 42.159889,
+        "longitude": -76.891611
       },
       "links_count": 12,
       "objectID": "3946"
@@ -15137,8 +15137,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ILG",
       "_geoloc": {
-        "lat": 39.678722,
-        "lng": -75.606528
+        "latitude": 39.678722,
+        "longitude": -75.606528
       },
       "links_count": 12,
       "objectID": "3859"
@@ -15149,8 +15149,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AEX",
       "_geoloc": {
-        "lat": 31.3274,
-        "lng": -92.549833
+        "latitude": 31.3274,
+        "longitude": -92.549833
       },
       "links_count": 12,
       "objectID": "3852"
@@ -15161,8 +15161,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MFE",
       "_geoloc": {
-        "lat": 26.175833,
-        "lng": -98.238611
+        "latitude": 26.175833,
+        "longitude": -98.238611
       },
       "links_count": 12,
       "objectID": "3826"
@@ -15173,8 +15173,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CYS",
       "_geoloc": {
-        "lat": 41.155722,
-        "lng": -104.811839
+        "latitude": 41.155722,
+        "longitude": -104.811839
       },
       "links_count": 12,
       "objectID": "3804"
@@ -15185,8 +15185,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SAF",
       "_geoloc": {
-        "lat": 35.617108,
-        "lng": -106.089422
+        "latitude": 35.617108,
+        "longitude": -106.089422
       },
       "links_count": 12,
       "objectID": "3784"
@@ -15197,8 +15197,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GRK",
       "_geoloc": {
-        "lat": 31.06725,
-        "lng": -97.828917
+        "latitude": 31.06725,
+        "longitude": -97.828917
       },
       "links_count": 12,
       "objectID": "3775"
@@ -15209,8 +15209,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MLU",
       "_geoloc": {
-        "lat": 32.510864,
-        "lng": -92.037689
+        "latitude": 32.510864,
+        "longitude": -92.037689
       },
       "links_count": 12,
       "objectID": "3732"
@@ -15221,8 +15221,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SWF",
       "_geoloc": {
-        "lat": 41.504094,
-        "lng": -74.104839
+        "latitude": 41.504094,
+        "longitude": -74.104839
       },
       "links_count": 12,
       "objectID": "3661"
@@ -15233,8 +15233,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BFL",
       "_geoloc": {
-        "lat": 35.433598,
-        "lng": -119.05677
+        "latitude": 35.433598,
+        "longitude": -119.05677
       },
       "links_count": 12,
       "objectID": "3558"
@@ -15245,8 +15245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ACK",
       "_geoloc": {
-        "lat": 41.253053,
-        "lng": -70.060181
+        "latitude": 41.253053,
+        "longitude": -70.060181
       },
       "links_count": 12,
       "objectID": "3517"
@@ -15257,8 +15257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LFT",
       "_geoloc": {
-        "lat": 30.205278,
-        "lng": -91.987611
+        "latitude": 30.205278,
+        "longitude": -91.987611
       },
       "links_count": 12,
       "objectID": "3493"
@@ -15269,8 +15269,8 @@ const airports = [
       "country": "China",
       "iata_code": "HTN",
       "_geoloc": {
-        "lat": 37.038522,
-        "lng": 79.864933
+        "latitude": 37.038522,
+        "longitude": 79.864933
       },
       "links_count": 12,
       "objectID": "3398"
@@ -15281,8 +15281,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "ERF",
       "_geoloc": {
-        "lat": 50.979811,
-        "lng": 10.958106
+        "latitude": 50.979811,
+        "longitude": 10.958106
       },
       "links_count": 12,
       "objectID": "339"
@@ -15293,8 +15293,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "DJB",
       "_geoloc": {
-        "lat": -1.638017,
-        "lng": 103.644378
+        "latitude": -1.638017,
+        "longitude": 103.644378
       },
       "links_count": 12,
       "objectID": "3287"
@@ -15305,8 +15305,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PNK",
       "_geoloc": {
-        "lat": -0.150711,
-        "lng": 109.403892
+        "latitude": -0.150711,
+        "longitude": 109.403892
       },
       "links_count": 12,
       "objectID": "3284"
@@ -15317,8 +15317,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "MUR",
       "_geoloc": {
-        "lat": 4.1775,
-        "lng": 114.321944
+        "latitude": 4.1775,
+        "longitude": 114.321944
       },
       "links_count": 12,
       "objectID": "3265"
@@ -15329,8 +15329,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCB",
       "_geoloc": {
-        "lat": 69.108055,
-        "lng": -105.138333
+        "latitude": 69.108055,
+        "longitude": -105.138333
       },
       "links_count": 12,
       "objectID": "32"
@@ -15341,8 +15341,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "UTH",
       "_geoloc": {
-        "lat": 17.386436,
-        "lng": 102.788247
+        "latitude": 17.386436,
+        "longitude": 102.788247
       },
       "links_count": 12,
       "objectID": "3183"
@@ -15353,8 +15353,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "HDY",
       "_geoloc": {
-        "lat": 6.933206,
-        "lng": 100.392975
+        "latitude": 6.933206,
+        "longitude": 100.392975
       },
       "links_count": 12,
       "objectID": "3181"
@@ -15365,8 +15365,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXL",
       "_geoloc": {
-        "lat": 34.135872,
-        "lng": 77.546514
+        "latitude": 34.135872,
+        "longitude": 77.546514
       },
       "links_count": 12,
       "objectID": "3104"
@@ -15377,8 +15377,8 @@ const airports = [
       "country": "India",
       "iata_code": "JDH",
       "_geoloc": {
-        "lat": 26.251092,
-        "lng": 73.048869
+        "latitude": 26.251092,
+        "longitude": 73.048869
       },
       "links_count": 12,
       "objectID": "3097"
@@ -15389,8 +15389,8 @@ const airports = [
       "country": "India",
       "iata_code": "AJL",
       "_geoloc": {
-        "lat": 23.746603,
-        "lng": 92.802767
+        "latitude": 23.746603,
+        "longitude": 92.802767
       },
       "links_count": 12,
       "objectID": "3039"
@@ -15401,8 +15401,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBL",
       "_geoloc": {
-        "lat": 49.950832,
-        "lng": -125.270833
+        "latitude": 49.950832,
+        "longitude": -125.270833
       },
       "links_count": 12,
       "objectID": "30"
@@ -15413,8 +15413,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PEE",
       "_geoloc": {
-        "lat": 57.914517,
-        "lng": 56.021214
+        "latitude": 57.914517,
+        "longitude": 56.021214
       },
       "links_count": 12,
       "objectID": "2973"
@@ -15425,8 +15425,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PKC",
       "_geoloc": {
-        "lat": 53.167889,
-        "lng": 158.453669
+        "latitude": 53.167889,
+        "longitude": 158.453669
       },
       "links_count": 12,
       "objectID": "2932"
@@ -15437,8 +15437,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "GDX",
       "_geoloc": {
-        "lat": 59.910989,
-        "lng": 150.720439
+        "latitude": 59.910989,
+        "longitude": 150.720439
       },
       "links_count": 12,
       "objectID": "2930"
@@ -15449,8 +15449,8 @@ const airports = [
       "country": "Anguilla",
       "iata_code": "AXA",
       "_geoloc": {
-        "lat": 18.204834,
-        "lng": -63.055084
+        "latitude": 18.204834,
+        "longitude": -63.055084
       },
       "links_count": 12,
       "objectID": "2900"
@@ -15461,8 +15461,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBK",
       "_geoloc": {
-        "lat": 64.298889,
-        "lng": -96.077778
+        "latitude": 64.298889,
+        "longitude": -96.077778
       },
       "links_count": 12,
       "objectID": "29"
@@ -15473,8 +15473,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "TPP",
       "_geoloc": {
-        "lat": -6.508742,
-        "lng": -76.373247
+        "latitude": -6.508742,
+        "longitude": -76.373247
       },
       "links_count": 12,
       "objectID": "2806"
@@ -15485,8 +15485,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "PCL",
       "_geoloc": {
-        "lat": -8.377939,
-        "lng": -74.574297
+        "latitude": -8.377939,
+        "longitude": -74.574297
       },
       "links_count": 12,
       "objectID": "2781"
@@ -15497,8 +15497,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "SRE",
       "_geoloc": {
-        "lat": -19.007083,
-        "lng": -65.288747
+        "latitude": -19.007083,
+        "longitude": -65.288747
       },
       "links_count": 12,
       "objectID": "2767"
@@ -15509,8 +15509,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "UIB",
       "_geoloc": {
-        "lat": 5.690758,
-        "lng": -76.641181
+        "latitude": 5.690758,
+        "longitude": -76.641181
       },
       "links_count": 12,
       "objectID": "2753"
@@ -15521,8 +15521,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PEI",
       "_geoloc": {
-        "lat": 4.812675,
-        "lng": -75.739519
+        "latitude": 4.812675,
+        "longitude": -75.739519
       },
       "links_count": 12,
       "objectID": "2739"
@@ -15533,8 +15533,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "LET",
       "_geoloc": {
-        "lat": -4.193549,
-        "lng": -69.943163
+        "latitude": -4.193549,
+        "longitude": -69.943163
       },
       "links_count": 12,
       "objectID": "2728"
@@ -15545,8 +15545,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBC",
       "_geoloc": {
-        "lat": 49.1325,
-        "lng": -68.204444
+        "latitude": 49.1325,
+        "longitude": -68.204444
       },
       "links_count": 12,
       "objectID": "27"
@@ -15557,8 +15557,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "NQN",
       "_geoloc": {
-        "lat": -38.949,
-        "lng": -68.155711
+        "latitude": -38.949,
+        "longitude": -68.155711
       },
       "links_count": 12,
       "objectID": "2509"
@@ -15569,8 +15569,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "SLA",
       "_geoloc": {
-        "lat": -24.855978,
-        "lng": -65.486169
+        "latitude": -24.855978,
+        "longitude": -65.486169
       },
       "links_count": 12,
       "objectID": "2476"
@@ -15581,8 +15581,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "BCD",
       "_geoloc": {
-        "lat": 10.642511,
-        "lng": 122.929617
+        "latitude": 10.642511,
+        "longitude": 122.929617
       },
       "links_count": 12,
       "objectID": "2423"
@@ -15593,8 +15593,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "ZAM",
       "_geoloc": {
-        "lat": 6.922419,
-        "lng": 122.059633
+        "latitude": 6.922419,
+        "longitude": 122.059633
       },
       "links_count": 12,
       "objectID": "2404"
@@ -15605,8 +15605,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "TAE",
       "_geoloc": {
-        "lat": 35.894108,
-        "lng": 128.658856
+        "latitude": 35.894108,
+        "longitude": 128.658856
       },
       "links_count": 12,
       "objectID": "2381"
@@ -15617,8 +15617,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "HME",
       "_geoloc": {
-        "lat": 31.672972,
-        "lng": 6.140444
+        "latitude": 31.672972,
+        "longitude": 6.140444
       },
       "links_count": 12,
       "objectID": "238"
@@ -15629,8 +15629,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "TLM",
       "_geoloc": {
-        "lat": 35.016667,
-        "lng": -1.45
+        "latitude": 35.016667,
+        "longitude": -1.45
       },
       "links_count": 12,
       "objectID": "230"
@@ -15641,8 +15641,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MMB",
       "_geoloc": {
-        "lat": 43.880606,
-        "lng": 144.164053
+        "latitude": 43.880606,
+        "longitude": 144.164053
       },
       "links_count": 12,
       "objectID": "2290"
@@ -15653,8 +15653,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "ZBR",
       "_geoloc": {
-        "lat": 25.44335,
-        "lng": 60.382114
+        "latitude": 25.44335,
+        "longitude": 60.382114
       },
       "links_count": 12,
       "objectID": "2166"
@@ -15665,8 +15665,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "KSH",
       "_geoloc": {
-        "lat": 34.345853,
-        "lng": 47.158128
+        "latitude": 34.345853,
+        "longitude": 47.158128
       },
       "links_count": 12,
       "objectID": "2114"
@@ -15677,8 +15677,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "ABD",
       "_geoloc": {
-        "lat": 30.371111,
-        "lng": 48.228333
+        "latitude": 30.371111,
+        "longitude": 48.228333
       },
       "links_count": 12,
       "objectID": "2097"
@@ -15689,8 +15689,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "BJA",
       "_geoloc": {
-        "lat": 36.711997,
-        "lng": 5.069922
+        "latitude": 36.711997,
+        "longitude": 5.069922
       },
       "links_count": 12,
       "objectID": "209"
@@ -15701,8 +15701,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "GIZ",
       "_geoloc": {
-        "lat": 16.901111,
-        "lng": 42.585833
+        "latitude": 16.901111,
+        "longitude": 42.585833
       },
       "links_count": 12,
       "objectID": "2066"
@@ -15713,8 +15713,8 @@ const airports = [
       "country": "Afghanistan",
       "iata_code": "HEA",
       "_geoloc": {
-        "lat": 34.210017,
-        "lng": 62.2283
+        "latitude": 34.210017,
+        "longitude": 62.2283
       },
       "links_count": 12,
       "objectID": "2048"
@@ -15725,8 +15725,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "BOB",
       "_geoloc": {
-        "lat": -16.444378,
-        "lng": -151.751286
+        "latitude": -16.444378,
+        "longitude": -151.751286
       },
       "links_count": 12,
       "objectID": "1989"
@@ -15737,8 +15737,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "PAZ",
       "_geoloc": {
-        "lat": 20.602671,
-        "lng": -97.460839
+        "latitude": 20.602671,
+        "longitude": -97.460839
       },
       "links_count": 12,
       "objectID": "1830"
@@ -15749,8 +15749,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "OAX",
       "_geoloc": {
-        "lat": 16.999906,
-        "lng": -96.726639
+        "latitude": 16.999906,
+        "longitude": -96.726639
       },
       "links_count": 12,
       "objectID": "1829"
@@ -15761,8 +15761,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXU",
       "_geoloc": {
-        "lat": 43.033056,
-        "lng": -81.151111
+        "latitude": 43.033056,
+        "longitude": -81.151111
       },
       "links_count": 12,
       "objectID": "174"
@@ -15773,8 +15773,8 @@ const airports = [
       "country": "Gibraltar",
       "iata_code": "GIB",
       "_geoloc": {
-        "lat": 36.151219,
-        "lng": -5.349664
+        "latitude": 36.151219,
+        "longitude": -5.349664
       },
       "links_count": 12,
       "objectID": "1738"
@@ -15785,8 +15785,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "EZS",
       "_geoloc": {
-        "lat": 38.606925,
-        "lng": 39.291417
+        "latitude": 38.606925,
+        "longitude": 39.291417
       },
       "links_count": 12,
       "objectID": "1721"
@@ -15797,8 +15797,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXJ",
       "_geoloc": {
-        "lat": 56.238056,
-        "lng": -120.740278
+        "latitude": 56.238056,
+        "longitude": -120.740278
       },
       "links_count": 12,
       "objectID": "168"
@@ -15809,8 +15809,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "HOR",
       "_geoloc": {
-        "lat": 38.519894,
-        "lng": -28.715872
+        "latitude": 38.519894,
+        "longitude": -28.715872
       },
       "links_count": 12,
       "objectID": "1628"
@@ -15821,8 +15821,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVQ",
       "_geoloc": {
-        "lat": 65.281617,
-        "lng": -126.798219
+        "latitude": 65.281617,
+        "longitude": -126.798219
       },
       "links_count": 12,
       "objectID": "155"
@@ -15833,8 +15833,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "REG",
       "_geoloc": {
-        "lat": 38.071206,
-        "lng": 15.651556
+        "latitude": 38.071206,
+        "longitude": 15.651556
       },
       "links_count": 12,
       "objectID": "1514"
@@ -15845,8 +15845,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "LRS",
       "_geoloc": {
-        "lat": 37.184903,
-        "lng": 26.800289
+        "latitude": 37.184903,
+        "longitude": 26.800289
       },
       "links_count": 12,
       "objectID": "1464"
@@ -15857,8 +15857,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KVA",
       "_geoloc": {
-        "lat": 40.913306,
-        "lng": 24.619223
+        "latitude": 40.913306,
+        "longitude": 24.619223
       },
       "links_count": 12,
       "objectID": "1462"
@@ -15869,8 +15869,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JKH",
       "_geoloc": {
-        "lat": 38.343175,
-        "lng": 26.140572
+        "latitude": 38.343175,
+        "longitude": 26.140572
       },
       "links_count": 12,
       "objectID": "1450"
@@ -15881,8 +15881,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "MWZ",
       "_geoloc": {
-        "lat": -2.444486,
-        "lng": 32.932667
+        "latitude": -2.444486,
+        "longitude": 32.932667
       },
       "links_count": 12,
       "objectID": "1183"
@@ -15893,8 +15893,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "WJR",
       "_geoloc": {
-        "lat": 1.733239,
-        "lng": 40.091606
+        "latitude": 1.733239,
+        "longitude": 40.091606
       },
       "links_count": 12,
       "objectID": "1149"
@@ -15905,8 +15905,8 @@ const airports = [
       "country": "Cape Verde",
       "iata_code": "VXE",
       "_geoloc": {
-        "lat": 16.833689,
-        "lng": -25.054661
+        "latitude": 16.833689,
+        "longitude": -25.054661
       },
       "links_count": 12,
       "objectID": "1106"
@@ -15917,8 +15917,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SKK",
       "_geoloc": {
-        "lat": 64.371111,
-        "lng": -161.223889
+        "latitude": 64.371111,
+        "longitude": -161.223889
       },
       "links_count": 11,
       "objectID": "7192"
@@ -15929,8 +15929,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "ZQW",
       "_geoloc": {
-        "lat": 49.209445,
-        "lng": 7.401323
+        "latitude": 49.209445,
+        "longitude": 7.401323
       },
       "links_count": 11,
       "objectID": "6510"
@@ -15941,8 +15941,8 @@ const airports = [
       "country": "China",
       "iata_code": "AKU",
       "_geoloc": {
-        "lat": 41.2625,
-        "lng": 80.2917
+        "latitude": 41.2625,
+        "longitude": 80.2917
       },
       "links_count": 11,
       "objectID": "6404"
@@ -15953,8 +15953,8 @@ const airports = [
       "country": "China",
       "iata_code": "ENY",
       "_geoloc": {
-        "lat": 36.6369,
-        "lng": 109.554
+        "latitude": 36.6369,
+        "longitude": 109.554
       },
       "links_count": 11,
       "objectID": "6367"
@@ -15965,8 +15965,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TKG",
       "_geoloc": {
-        "lat": -5.242339,
-        "lng": 105.178939
+        "latitude": -5.242339,
+        "longitude": 105.178939
       },
       "links_count": 11,
       "objectID": "6223"
@@ -15977,8 +15977,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "TUK",
       "_geoloc": {
-        "lat": 25.986369,
-        "lng": 63.030167
+        "latitude": 25.986369,
+        "longitude": 63.030167
       },
       "links_count": 11,
       "objectID": "5951"
@@ -15989,8 +15989,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "BHV",
       "_geoloc": {
-        "lat": 29.3481,
-        "lng": 71.717981
+        "latitude": 29.3481,
+        "longitude": 71.717981
       },
       "links_count": 11,
       "objectID": "5939"
@@ -16001,8 +16001,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXN",
       "_geoloc": {
-        "lat": 62.24,
-        "lng": -92.5981
+        "latitude": 62.24,
+        "longitude": -92.5981
       },
       "links_count": 11,
       "objectID": "5534"
@@ -16013,8 +16013,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "GUR",
       "_geoloc": {
-        "lat": -10.3115,
-        "lng": 150.334
+        "latitude": -10.3115,
+        "longitude": 150.334
       },
       "links_count": 11,
       "objectID": "5422"
@@ -16025,8 +16025,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZS",
       "_geoloc": {
-        "lat": 64.193333,
-        "lng": -83.359444
+        "latitude": 64.193333,
+        "longitude": -83.359444
       },
       "links_count": 11,
       "objectID": "41"
@@ -16037,8 +16037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SCC",
       "_geoloc": {
-        "lat": 70.19475,
-        "lng": -148.465167
+        "latitude": 70.19475,
+        "longitude": -148.465167
       },
       "links_count": 11,
       "objectID": "3620"
@@ -16049,8 +16049,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "CCP",
       "_geoloc": {
-        "lat": -36.77265,
-        "lng": -73.063106
+        "latitude": -36.77265,
+        "longitude": -73.063106
       },
       "links_count": 11,
       "objectID": "2656"
@@ -16061,8 +16061,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "RGL",
       "_geoloc": {
-        "lat": -51.608875,
-        "lng": -69.312636
+        "latitude": -51.608875,
+        "longitude": -69.312636
       },
       "links_count": 11,
       "objectID": "2496"
@@ -16073,8 +16073,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "REL",
       "_geoloc": {
-        "lat": -43.2105,
-        "lng": -65.270319
+        "latitude": -43.2105,
+        "longitude": -65.270319
       },
       "links_count": 11,
       "objectID": "2490"
@@ -16085,8 +16085,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "OGX",
       "_geoloc": {
-        "lat": 31.917223,
-        "lng": 5.412778
+        "latitude": 31.917223,
+        "longitude": 5.412778
       },
       "links_count": 11,
       "objectID": "243"
@@ -16097,8 +16097,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "AZR",
       "_geoloc": {
-        "lat": 27.837589,
-        "lng": -0.186414
+        "latitude": 27.837589,
+        "longitude": -0.186414
       },
       "links_count": 11,
       "objectID": "234"
@@ -16109,8 +16109,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "SKZ",
       "_geoloc": {
-        "lat": 27.721989,
-        "lng": 68.791683
+        "latitude": 27.721989,
+        "longitude": 68.791683
       },
       "links_count": 11,
       "objectID": "2227"
@@ -16121,8 +16121,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "RGI",
       "_geoloc": {
-        "lat": -14.954283,
-        "lng": -147.6608
+        "latitude": -14.954283,
+        "longitude": -147.6608
       },
       "links_count": 11,
       "objectID": "1990"
@@ -16133,8 +16133,8 @@ const airports = [
       "country": "Samoa",
       "iata_code": "APW",
       "_geoloc": {
-        "lat": -13.829969,
-        "lng": -172.008336
+        "latitude": -13.829969,
+        "longitude": -172.008336
       },
       "links_count": 11,
       "objectID": "1969"
@@ -16145,8 +16145,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "SCU",
       "_geoloc": {
-        "lat": 19.969769,
-        "lng": -75.835414
+        "latitude": 19.969769,
+        "longitude": -75.835414
       },
       "links_count": 11,
       "objectID": "1905"
@@ -16157,8 +16157,8 @@ const airports = [
       "country": "Slovakia",
       "iata_code": "KSC",
       "_geoloc": {
-        "lat": 48.663055,
-        "lng": 21.241112
+        "latitude": 48.663055,
+        "longitude": 21.241112
       },
       "links_count": 11,
       "objectID": "1746"
@@ -16169,8 +16169,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTS",
       "_geoloc": {
-        "lat": 48.569721,
-        "lng": -81.376667
+        "latitude": 48.569721,
+        "longitude": -81.376667
       },
       "links_count": 11,
       "objectID": "143"
@@ -16181,8 +16181,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSB",
       "_geoloc": {
-        "lat": 46.625,
-        "lng": -80.798889
+        "latitude": 46.625,
+        "longitude": -80.798889
       },
       "links_count": 11,
       "objectID": "133"
@@ -16193,8 +16193,8 @@ const airports = [
       "country": "France",
       "iata_code": "BVE",
       "_geoloc": {
-        "lat": 45.150833,
-        "lng": 1.469167
+        "latitude": 45.150833,
+        "longitude": 1.469167
       },
       "links_count": 11,
       "objectID": "1278"
@@ -16205,8 +16205,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "DIE",
       "_geoloc": {
-        "lat": -12.3494,
-        "lng": 49.291747
+        "latitude": -12.3494,
+        "longitude": 49.291747
       },
       "links_count": 10,
       "objectID": "923"
@@ -16217,8 +16217,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "GNY",
       "_geoloc": {
-        "lat": 37.45,
-        "lng": 38.9
+        "latitude": 37.45,
+        "longitude": 38.9
       },
       "links_count": 10,
       "objectID": "9044"
@@ -16229,8 +16229,8 @@ const airports = [
       "country": "China",
       "iata_code": "NBS",
       "_geoloc": {
-        "lat": 42.088056,
-        "lng": 127.548889
+        "latitude": 42.088056,
+        "longitude": 127.548889
       },
       "links_count": 10,
       "objectID": "8826"
@@ -16241,8 +16241,8 @@ const airports = [
       "country": "China",
       "iata_code": "RLK",
       "_geoloc": {
-        "lat": 40.926389,
-        "lng": 107.738889
+        "latitude": 40.926389,
+        "longitude": 107.738889
       },
       "links_count": 10,
       "objectID": "8630"
@@ -16253,8 +16253,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "BCV",
       "_geoloc": {
-        "lat": 17.269444,
-        "lng": -88.776111
+        "latitude": 17.269444,
+        "longitude": -88.776111
       },
       "links_count": 10,
       "objectID": "8227"
@@ -16265,8 +16265,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "GRJ",
       "_geoloc": {
-        "lat": -34.005553,
-        "lng": 22.378889
+        "latitude": -34.005553,
+        "longitude": 22.378889
       },
       "links_count": 10,
       "objectID": "804"
@@ -16277,8 +16277,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "ELS",
       "_geoloc": {
-        "lat": -33.035569,
-        "lng": 27.825939
+        "latitude": -33.035569,
+        "longitude": 27.825939
       },
       "links_count": 10,
       "objectID": "800"
@@ -16289,8 +16289,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKL",
       "_geoloc": {
-        "lat": 54.805278,
-        "lng": -66.805278
+        "latitude": 54.805278,
+        "longitude": -66.805278
       },
       "links_count": 10,
       "objectID": "80"
@@ -16301,8 +16301,8 @@ const airports = [
       "country": "China",
       "iata_code": "TCZ",
       "_geoloc": {
-        "lat": 24.938651,
-        "lng": 98.483591
+        "latitude": 24.938651,
+        "longitude": 98.483591
       },
       "links_count": 10,
       "objectID": "7862"
@@ -16313,8 +16313,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKA",
       "_geoloc": {
-        "lat": 50.702222,
-        "lng": -120.444444
+        "latitude": 50.702222,
+        "longitude": -120.444444
       },
       "links_count": 10,
       "objectID": "78"
@@ -16325,8 +16325,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "RLG",
       "_geoloc": {
-        "lat": 53.918167,
-        "lng": 12.278333
+        "latitude": 53.918167,
+        "longitude": 12.278333
       },
       "links_count": 10,
       "objectID": "772"
@@ -16337,8 +16337,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "AGM",
       "_geoloc": {
-        "lat": 65.612222,
-        "lng": -37.618333
+        "latitude": 65.612222,
+        "longitude": -37.618333
       },
       "links_count": 10,
       "objectID": "7642"
@@ -16349,8 +16349,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "PGU",
       "_geoloc": {
-        "lat": 27.379444,
-        "lng": 52.7375
+        "latitude": 27.379444,
+        "longitude": 52.7375
       },
       "links_count": 10,
       "objectID": "7546"
@@ -16361,8 +16361,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "SDL",
       "_geoloc": {
-        "lat": 62.528125,
-        "lng": 17.443928
+        "latitude": 62.528125,
+        "longitude": 17.443928
       },
       "links_count": 10,
       "objectID": "721"
@@ -16373,8 +16373,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KKA",
       "_geoloc": {
-        "lat": 64.939444,
-        "lng": -161.154167
+        "latitude": 64.939444,
+        "longitude": -161.154167
       },
       "links_count": 10,
       "objectID": "7190"
@@ -16385,8 +16385,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HYL",
       "_geoloc": {
-        "lat": 55.481667,
-        "lng": -132.646111
+        "latitude": 55.481667,
+        "longitude": -132.646111
       },
       "links_count": 10,
       "objectID": "7145"
@@ -16397,8 +16397,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CGA",
       "_geoloc": {
-        "lat": 55.478889,
-        "lng": -133.147778
+        "latitude": 55.478889,
+        "longitude": -133.147778
       },
       "links_count": 10,
       "objectID": "7144"
@@ -16409,8 +16409,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "HAD",
       "_geoloc": {
-        "lat": 56.691128,
-        "lng": 12.820211
+        "latitude": 56.691128,
+        "longitude": 12.820211
       },
       "links_count": 10,
       "objectID": "709"
@@ -16421,8 +16421,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "UAK",
       "_geoloc": {
-        "lat": 61.160517,
-        "lng": -45.425978
+        "latitude": 61.160517,
+        "longitude": -45.425978
       },
       "links_count": 10,
       "objectID": "7"
@@ -16433,8 +16433,8 @@ const airports = [
       "country": "China",
       "iata_code": "TEN",
       "_geoloc": {
-        "lat": 27.884,
-        "lng": 109.31
+        "latitude": 27.884,
+        "longitude": 109.31
       },
       "links_count": 10,
       "objectID": "6963"
@@ -16445,8 +16445,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "MQM",
       "_geoloc": {
-        "lat": 37.2233,
-        "lng": 40.6317
+        "latitude": 37.2233,
+        "longitude": 40.6317
       },
       "links_count": 10,
       "objectID": "6753"
@@ -16457,8 +16457,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KSM",
       "_geoloc": {
-        "lat": 62.0605,
-        "lng": -163.302
+        "latitude": 62.0605,
+        "longitude": -163.302
       },
       "links_count": 10,
       "objectID": "6718"
@@ -16469,8 +16469,8 @@ const airports = [
       "country": "China",
       "iata_code": "DDG",
       "_geoloc": {
-        "lat": 40.0255,
-        "lng": 124.2866
+        "latitude": 40.0255,
+        "longitude": 124.2866
       },
       "links_count": 10,
       "objectID": "6433"
@@ -16481,8 +16481,8 @@ const airports = [
       "country": "China",
       "iata_code": "JNZ",
       "_geoloc": {
-        "lat": 41.1014,
-        "lng": 121.062
+        "latitude": 41.1014,
+        "longitude": 121.062
       },
       "links_count": 10,
       "objectID": "6412"
@@ -16493,8 +16493,8 @@ const airports = [
       "country": "China",
       "iata_code": "LZY",
       "_geoloc": {
-        "lat": 29.3033,
-        "lng": 94.3353
+        "latitude": 29.3033,
+        "longitude": 94.3353
       },
       "links_count": 10,
       "objectID": "6402"
@@ -16505,8 +16505,8 @@ const airports = [
       "country": "China",
       "iata_code": "MXZ",
       "_geoloc": {
-        "lat": 24.35,
-        "lng": 116.133
+        "latitude": 24.35,
+        "longitude": 116.133
       },
       "links_count": 10,
       "objectID": "6354"
@@ -16517,8 +16517,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BNN",
       "_geoloc": {
-        "lat": 65.461111,
-        "lng": 12.2175
+        "latitude": 65.461111,
+        "longitude": 12.2175
       },
       "links_count": 10,
       "objectID": "634"
@@ -16529,8 +16529,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GOV",
       "_geoloc": {
-        "lat": -12.2694,
-        "lng": 136.818
+        "latitude": -12.2694,
+        "longitude": 136.818
       },
       "links_count": 10,
       "objectID": "6316"
@@ -16541,8 +16541,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CNJ",
       "_geoloc": {
-        "lat": -20.6686,
-        "lng": 140.504
+        "latitude": -20.6686,
+        "longitude": 140.504
       },
       "links_count": 10,
       "objectID": "6255"
@@ -16553,8 +16553,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "KSQ",
       "_geoloc": {
-        "lat": 38.8336,
-        "lng": 65.9215
+        "latitude": 38.8336,
+        "longitude": 65.9215
       },
       "links_count": 10,
       "objectID": "6153"
@@ -16565,8 +16565,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OVS",
       "_geoloc": {
-        "lat": 61.32,
-        "lng": 63.6044
+        "latitude": 61.32,
+        "longitude": 63.6044
       },
       "links_count": 10,
       "objectID": "6140"
@@ -16577,8 +16577,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PYJ",
       "_geoloc": {
-        "lat": 66.400431,
-        "lng": 112.030325
+        "latitude": 66.400431,
+        "longitude": 112.030325
       },
       "links_count": 10,
       "objectID": "6092"
@@ -16589,8 +16589,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JDO",
       "_geoloc": {
-        "lat": -7.218958,
-        "lng": -39.2701
+        "latitude": -7.218958,
+        "longitude": -39.2701
       },
       "links_count": 10,
       "objectID": "6034"
@@ -16601,8 +16601,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "GES",
       "_geoloc": {
-        "lat": 6.106439,
-        "lng": 125.2353
+        "latitude": 6.106439,
+        "longitude": 125.2353
       },
       "links_count": 10,
       "objectID": "6011"
@@ -16613,8 +16613,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KUH",
       "_geoloc": {
-        "lat": 43.041,
-        "lng": 144.193
+        "latitude": 43.041,
+        "longitude": 144.193
       },
       "links_count": 10,
       "objectID": "5994"
@@ -16625,8 +16625,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "GXF",
       "_geoloc": {
-        "lat": 15.966111,
-        "lng": 48.7883
+        "latitude": 15.966111,
+        "longitude": 48.7883
       },
       "links_count": 10,
       "objectID": "5954"
@@ -16637,8 +16637,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "NUS",
       "_geoloc": {
-        "lat": -16.0797,
-        "lng": 167.401
+        "latitude": -16.0797,
+        "longitude": 167.401
       },
       "links_count": 10,
       "objectID": "5905"
@@ -16649,8 +16649,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HTS",
       "_geoloc": {
-        "lat": 38.3667,
-        "lng": -82.558
+        "latitude": 38.3667,
+        "longitude": -82.558
       },
       "links_count": 10,
       "objectID": "5742"
@@ -16661,8 +16661,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DDC",
       "_geoloc": {
-        "lat": 37.7634,
-        "lng": -99.9656
+        "latitude": 37.7634,
+        "longitude": -99.9656
       },
       "links_count": 10,
       "objectID": "5733"
@@ -16673,8 +16673,8 @@ const airports = [
       "country": "Sudan",
       "iata_code": "PZU",
       "_geoloc": {
-        "lat": 19.4336,
-        "lng": 37.2341
+        "latitude": 19.4336,
+        "longitude": 37.2341
       },
       "links_count": 10,
       "objectID": "5702"
@@ -16685,8 +16685,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "MYD",
       "_geoloc": {
-        "lat": -3.22931,
-        "lng": 40.1017
+        "latitude": -3.22931,
+        "longitude": 40.1017
       },
       "links_count": 10,
       "objectID": "5694"
@@ -16697,8 +16697,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "HDF",
       "_geoloc": {
-        "lat": 53.878706,
-        "lng": 14.152347
+        "latitude": 53.878706,
+        "longitude": 14.152347
       },
       "links_count": 10,
       "objectID": "5557"
@@ -16709,8 +16709,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQD",
       "_geoloc": {
-        "lat": 53.9714,
-        "lng": -101.091
+        "latitude": 53.9714,
+        "longitude": -101.091
       },
       "links_count": 10,
       "objectID": "5524"
@@ -16721,8 +16721,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGT",
       "_geoloc": {
-        "lat": 69.3647,
-        "lng": -81.8161
+        "latitude": 69.3647,
+        "longitude": -81.8161
       },
       "links_count": 10,
       "objectID": "5495"
@@ -16733,8 +16733,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "MAS",
       "_geoloc": {
-        "lat": -2.06189,
-        "lng": 147.424
+        "latitude": -2.06189,
+        "longitude": 147.424
       },
       "links_count": 10,
       "objectID": "5430"
@@ -16745,8 +16745,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "PNP",
       "_geoloc": {
-        "lat": -8.80454,
-        "lng": 148.309
+        "latitude": -8.80454,
+        "longitude": 148.309
       },
       "links_count": 10,
       "objectID": "5423"
@@ -16757,8 +16757,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "SYY",
       "_geoloc": {
-        "lat": 58.215556,
-        "lng": -6.331111
+        "latitude": 58.215556,
+        "longitude": -6.331111
       },
       "links_count": 10,
       "objectID": "541"
@@ -16769,8 +16769,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LSI",
       "_geoloc": {
-        "lat": 59.878889,
-        "lng": -1.295556
+        "latitude": 59.878889,
+        "longitude": -1.295556
       },
       "links_count": 10,
       "objectID": "530"
@@ -16781,8 +16781,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "HUY",
       "_geoloc": {
-        "lat": 53.574444,
-        "lng": -0.350833
+        "latitude": 53.574444,
+        "longitude": -0.350833
       },
       "links_count": 10,
       "objectID": "515"
@@ -16793,8 +16793,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LDY",
       "_geoloc": {
-        "lat": 55.042778,
-        "lng": -7.161111
+        "latitude": 55.042778,
+        "longitude": -7.161111
       },
       "links_count": 10,
       "objectID": "468"
@@ -16805,8 +16805,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "VAA",
       "_geoloc": {
-        "lat": 63.05065,
-        "lng": 21.762175
+        "latitude": 63.05065,
+        "longitude": 21.762175
       },
       "links_count": 10,
       "objectID": "462"
@@ -16817,8 +16817,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NOJ",
       "_geoloc": {
-        "lat": 63.110079,
-        "lng": 75.162243
+        "latitude": 63.110079,
+        "longitude": 75.162243
       },
       "links_count": 10,
       "objectID": "4365"
@@ -16829,8 +16829,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "RTW",
       "_geoloc": {
-        "lat": 51.334366,
-        "lng": 46.022952
+        "latitude": 51.334366,
+        "longitude": 46.022952
       },
       "links_count": 10,
       "objectID": "4363"
@@ -16841,8 +16841,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LBL",
       "_geoloc": {
-        "lat": 37.044222,
-        "lng": -100.95986
+        "latitude": 37.044222,
+        "longitude": -100.95986
       },
       "links_count": 10,
       "objectID": "4341"
@@ -16853,8 +16853,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "MEH",
       "_geoloc": {
-        "lat": 71.029722,
-        "lng": 27.826667
+        "latitude": 71.029722,
+        "longitude": 27.826667
       },
       "links_count": 10,
       "objectID": "4327"
@@ -16865,8 +16865,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SCE",
       "_geoloc": {
-        "lat": 40.849278,
-        "lng": -77.848694
+        "latitude": 40.849278,
+        "longitude": -77.848694
       },
       "links_count": 10,
       "objectID": "4318"
@@ -16877,8 +16877,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "TOF",
       "_geoloc": {
-        "lat": 56.380278,
-        "lng": 85.208333
+        "latitude": 56.380278,
+        "longitude": 85.208333
       },
       "links_count": 10,
       "objectID": "4297"
@@ -16889,8 +16889,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BNK",
       "_geoloc": {
-        "lat": -28.833889,
-        "lng": 153.5625
+        "latitude": -28.833889,
+        "longitude": 153.5625
       },
       "links_count": 10,
       "objectID": "4291"
@@ -16901,8 +16901,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "KUS",
       "_geoloc": {
-        "lat": 65.566667,
-        "lng": -37.1166667
+        "latitude": 65.566667,
+        "longitude": -37.1166667
       },
       "links_count": 10,
       "objectID": "4248"
@@ -16913,8 +16913,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "TAH",
       "_geoloc": {
-        "lat": -19.455198,
-        "lng": 169.22394
+        "latitude": -19.455198,
+        "longitude": 169.22394
       },
       "links_count": 10,
       "objectID": "4242"
@@ -16925,8 +16925,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "PQC",
       "_geoloc": {
-        "lat": 10.227025,
-        "lng": 103.967169
+        "latitude": 10.227025,
+        "longitude": 103.967169
       },
       "links_count": 10,
       "objectID": "4168"
@@ -16937,8 +16937,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "DLI",
       "_geoloc": {
-        "lat": 11.75,
-        "lng": 108.367
+        "latitude": 11.75,
+        "longitude": 108.367
       },
       "links_count": 10,
       "objectID": "4153"
@@ -16949,8 +16949,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MBS",
       "_geoloc": {
-        "lat": 43.532913,
-        "lng": -84.079647
+        "latitude": 43.532913,
+        "longitude": -84.079647
       },
       "links_count": 10,
       "objectID": "4128"
@@ -16961,8 +16961,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FCA",
       "_geoloc": {
-        "lat": 48.310472,
-        "lng": -114.256
+        "latitude": 48.310472,
+        "longitude": -114.256
       },
       "links_count": 10,
       "objectID": "4127"
@@ -16973,8 +16973,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CWA",
       "_geoloc": {
-        "lat": 44.772726,
-        "lng": -89.646635
+        "latitude": 44.772726,
+        "longitude": -89.646635
       },
       "links_count": 10,
       "objectID": "4045"
@@ -16985,8 +16985,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TOL",
       "_geoloc": {
-        "lat": 41.586806,
-        "lng": -83.807833
+        "latitude": 41.586806,
+        "longitude": -83.807833
       },
       "links_count": 10,
       "objectID": "4040"
@@ -16997,8 +16997,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RFD",
       "_geoloc": {
-        "lat": 42.1953611,
-        "lng": -89.0972222
+        "latitude": 42.1953611,
+        "longitude": -89.0972222
       },
       "links_count": 10,
       "objectID": "4028"
@@ -17009,8 +17009,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TVC",
       "_geoloc": {
-        "lat": 44.741445,
-        "lng": -85.582235
+        "latitude": 44.741445,
+        "longitude": -85.582235
       },
       "links_count": 10,
       "objectID": "4023"
@@ -17021,8 +17021,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JAV",
       "_geoloc": {
-        "lat": 69.23444,
-        "lng": -51.05111
+        "latitude": 69.23444,
+        "longitude": -51.05111
       },
       "links_count": 10,
       "objectID": "3995"
@@ -17033,8 +17033,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DAB",
       "_geoloc": {
-        "lat": 29.179917,
-        "lng": -81.058056
+        "latitude": 29.179917,
+        "longitude": -81.058056
       },
       "links_count": 10,
       "objectID": "3950"
@@ -17045,8 +17045,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CDB",
       "_geoloc": {
-        "lat": 55.206061,
-        "lng": -162.725436
+        "latitude": 55.206061,
+        "longitude": -162.725436
       },
       "links_count": 10,
       "objectID": "3854"
@@ -17057,8 +17057,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CRP",
       "_geoloc": {
-        "lat": 27.770361,
-        "lng": -97.501222
+        "latitude": 27.770361,
+        "longitude": -97.501222
       },
       "links_count": 10,
       "objectID": "3744"
@@ -17069,8 +17069,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EWN",
       "_geoloc": {
-        "lat": 35.072972,
-        "lng": -77.042944
+        "latitude": 35.072972,
+        "longitude": -77.042944
       },
       "links_count": 10,
       "objectID": "3730"
@@ -17081,8 +17081,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DRO",
       "_geoloc": {
-        "lat": 37.151516,
-        "lng": -107.75377
+        "latitude": 37.151516,
+        "longitude": -107.75377
       },
       "links_count": 10,
       "objectID": "3713"
@@ -17093,8 +17093,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCO",
       "_geoloc": {
-        "lat": 67.816667,
-        "lng": -115.143889
+        "latitude": 67.816667,
+        "longitude": -115.143889
       },
       "links_count": 10,
       "objectID": "37"
@@ -17105,8 +17105,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MLB",
       "_geoloc": {
-        "lat": 28.102753,
-        "lng": -80.645258
+        "latitude": 28.102753,
+        "longitude": -80.645258
       },
       "links_count": 10,
       "objectID": "3671"
@@ -17117,8 +17117,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IAG",
       "_geoloc": {
-        "lat": 43.107333,
-        "lng": -78.946194
+        "latitude": 43.107333,
+        "longitude": -78.946194
       },
       "links_count": 10,
       "objectID": "3630"
@@ -17129,8 +17129,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MOT",
       "_geoloc": {
-        "lat": 48.259378,
-        "lng": -101.280333
+        "latitude": 48.259378,
+        "longitude": -101.280333
       },
       "links_count": 10,
       "objectID": "3498"
@@ -17141,8 +17141,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GFK",
       "_geoloc": {
-        "lat": 47.949256,
-        "lng": -97.176111
+        "latitude": 47.949256,
+        "longitude": -97.176111
       },
       "links_count": 10,
       "objectID": "3442"
@@ -17153,8 +17153,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FSM",
       "_geoloc": {
-        "lat": 35.336583,
-        "lng": -94.367444
+        "latitude": 35.336583,
+        "longitude": -94.367444
       },
       "links_count": 10,
       "objectID": "3437"
@@ -17165,8 +17165,8 @@ const airports = [
       "country": "China",
       "iata_code": "XIC",
       "_geoloc": {
-        "lat": 27.989083,
-        "lng": 102.184361
+        "latitude": 27.989083,
+        "longitude": 102.184361
       },
       "links_count": 10,
       "objectID": "3396"
@@ -17177,8 +17177,8 @@ const airports = [
       "country": "Korea",
       "iata_code": "FNJ",
       "_geoloc": {
-        "lat": 39.224061,
-        "lng": 125.67015
+        "latitude": 39.224061,
+        "longitude": 125.67015
       },
       "links_count": 10,
       "objectID": "3377"
@@ -17189,8 +17189,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KGI",
       "_geoloc": {
-        "lat": -30.789444,
-        "lng": 121.461667
+        "latitude": -30.789444,
+        "longitude": 121.461667
       },
       "links_count": 10,
       "objectID": "3346"
@@ -17201,8 +17201,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ROK",
       "_geoloc": {
-        "lat": -23.381944,
-        "lng": 150.475278
+        "latitude": -23.381944,
+        "longitude": 150.475278
       },
       "links_count": 10,
       "objectID": "3329"
@@ -17213,8 +17213,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MCY",
       "_geoloc": {
-        "lat": -26.603333,
-        "lng": 153.091111
+        "latitude": -26.603333,
+        "longitude": 153.091111
       },
       "links_count": 10,
       "objectID": "3325"
@@ -17225,8 +17225,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KUA",
       "_geoloc": {
-        "lat": 3.775389,
-        "lng": 103.209056
+        "latitude": 3.775389,
+        "longitude": 103.209056
       },
       "links_count": 10,
       "objectID": "3299"
@@ -17237,8 +17237,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "AOR",
       "_geoloc": {
-        "lat": 6.189667,
-        "lng": 100.398183
+        "latitude": 6.189667,
+        "longitude": 100.398183
       },
       "links_count": 10,
       "objectID": "3296"
@@ -17249,8 +17249,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BTJ",
       "_geoloc": {
-        "lat": 5.523522,
-        "lng": 95.420372
+        "latitude": 5.523522,
+        "longitude": 95.420372
       },
       "links_count": 10,
       "objectID": "3294"
@@ -17261,8 +17261,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BKS",
       "_geoloc": {
-        "lat": -3.8637,
-        "lng": 102.339036
+        "latitude": -3.8637,
+        "longitude": 102.339036
       },
       "links_count": 10,
       "objectID": "3288"
@@ -17273,8 +17273,8 @@ const airports = [
       "country": "Bhutan",
       "iata_code": "PBH",
       "_geoloc": {
-        "lat": 27.403192,
-        "lng": 89.424606
+        "latitude": 27.403192,
+        "longitude": 89.424606
       },
       "links_count": 10,
       "objectID": "3155"
@@ -17285,8 +17285,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "PKZ",
       "_geoloc": {
-        "lat": 15.132053,
-        "lng": 105.781417
+        "latitude": 15.132053,
+        "longitude": 105.781417
       },
       "links_count": 10,
       "objectID": "3116"
@@ -17297,8 +17297,8 @@ const airports = [
       "country": "India",
       "iata_code": "DED",
       "_geoloc": {
-        "lat": 30.189689,
-        "lng": 78.180256
+        "latitude": 30.189689,
+        "longitude": 78.180256
       },
       "links_count": 10,
       "objectID": "3092"
@@ -17309,8 +17309,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "ZYL",
       "_geoloc": {
-        "lat": 24.963242,
-        "lng": 91.866783
+        "latitude": 24.963242,
+        "longitude": 91.866783
       },
       "links_count": 10,
       "objectID": "3074"
@@ -17321,8 +17321,8 @@ const airports = [
       "country": "India",
       "iata_code": "BDQ",
       "_geoloc": {
-        "lat": 22.336164,
-        "lng": 73.226289
+        "latitude": 22.336164,
+        "longitude": 73.226289
       },
       "links_count": 10,
       "objectID": "3001"
@@ -17333,8 +17333,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXU",
       "_geoloc": {
-        "lat": 19.862728,
-        "lng": 75.398114
+        "latitude": 19.862728,
+        "longitude": 75.398114
       },
       "links_count": 10,
       "objectID": "2996"
@@ -17345,8 +17345,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "BQS",
       "_geoloc": {
-        "lat": 50.425394,
-        "lng": 127.412478
+        "latitude": 50.425394,
+        "longitude": 127.412478
       },
       "links_count": 10,
       "objectID": "2926"
@@ -17357,8 +17357,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "BRM",
       "_geoloc": {
-        "lat": 10.042747,
-        "lng": -69.358619
+        "latitude": 10.042747,
+        "longitude": -69.358619
       },
       "links_count": 10,
       "objectID": "2824"
@@ -17369,8 +17369,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "BGA",
       "_geoloc": {
-        "lat": 7.1265,
-        "lng": -73.184778
+        "latitude": 7.1265,
+        "longitude": -73.184778
       },
       "links_count": 10,
       "objectID": "2708"
@@ -17381,8 +17381,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "TFF",
       "_geoloc": {
-        "lat": -3.382944,
-        "lng": -64.724056
+        "latitude": -3.382944,
+        "longitude": -64.724056
       },
       "links_count": 10,
       "objectID": "2624"
@@ -17393,8 +17393,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RBR",
       "_geoloc": {
-        "lat": -9.583,
-        "lng": -67.4836
+        "latitude": -9.583,
+        "longitude": -67.4836
       },
       "links_count": 10,
       "objectID": "2609"
@@ -17405,8 +17405,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PNZ",
       "_geoloc": {
-        "lat": -9.362411,
-        "lng": -40.569097
+        "latitude": -9.362411,
+        "longitude": -40.569097
       },
       "links_count": 10,
       "objectID": "2604"
@@ -17417,8 +17417,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PFB",
       "_geoloc": {
-        "lat": -28.243989,
-        "lng": -52.326558
+        "latitude": -28.243989,
+        "longitude": -52.326558
       },
       "links_count": 10,
       "objectID": "2602"
@@ -17429,8 +17429,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JOI",
       "_geoloc": {
-        "lat": -26.224453,
-        "lng": -48.797364
+        "latitude": -26.224453,
+        "longitude": -48.797364
       },
       "links_count": 10,
       "objectID": "2576"
@@ -17441,8 +17441,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "XAP",
       "_geoloc": {
-        "lat": -27.134219,
-        "lng": -52.656553
+        "latitude": -27.134219,
+        "longitude": -52.656553
       },
       "links_count": 10,
       "objectID": "2539"
@@ -17453,8 +17453,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "USH",
       "_geoloc": {
-        "lat": -54.843278,
-        "lng": -68.29575
+        "latitude": -54.843278,
+        "longitude": -68.29575
       },
       "links_count": 10,
       "objectID": "2497"
@@ -17465,8 +17465,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "TAC",
       "_geoloc": {
-        "lat": 11.227628,
-        "lng": 125.027758
+        "latitude": 11.227628,
+        "longitude": 125.027758
       },
       "links_count": 10,
       "objectID": "2422"
@@ -17477,8 +17477,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MMY",
       "_geoloc": {
-        "lat": 24.782833,
-        "lng": 125.295111
+        "latitude": 24.782833,
+        "longitude": 125.295111
       },
       "links_count": 10,
       "objectID": "2390"
@@ -17489,8 +17489,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "AOJ",
       "_geoloc": {
-        "lat": 40.734722,
-        "lng": 140.690833
+        "latitude": 40.734722,
+        "longitude": 140.690833
       },
       "links_count": 10,
       "objectID": "2340"
@@ -17501,8 +17501,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "IBR",
       "_geoloc": {
-        "lat": 36.181083,
-        "lng": 140.415444
+        "latitude": 36.181083,
+        "longitude": 140.415444
       },
       "links_count": 10,
       "objectID": "2281"
@@ -17513,8 +17513,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "MZG",
       "_geoloc": {
-        "lat": 23.568669,
-        "lng": 119.628311
+        "latitude": 23.568669,
+        "longitude": 119.628311
       },
       "links_count": 10,
       "objectID": "2272"
@@ -17525,8 +17525,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "KNH",
       "_geoloc": {
-        "lat": 24.427892,
-        "lng": 118.359197
+        "latitude": 24.427892,
+        "longitude": 118.359197
       },
       "links_count": 10,
       "objectID": "2259"
@@ -17537,8 +17537,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "BUZ",
       "_geoloc": {
-        "lat": 28.944811,
-        "lng": 50.834637
+        "latitude": 28.944811,
+        "longitude": 50.834637
       },
       "links_count": 10,
       "objectID": "2106"
@@ -17549,8 +17549,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "HAS",
       "_geoloc": {
-        "lat": 27.437917,
-        "lng": 41.686292
+        "latitude": 27.437917,
+        "longitude": 41.686292
       },
       "links_count": 10,
       "objectID": "2069"
@@ -17561,8 +17561,8 @@ const airports = [
       "country": "Afghanistan",
       "iata_code": "KDH",
       "_geoloc": {
-        "lat": 31.505756,
-        "lng": 65.847822
+        "latitude": 31.505756,
+        "longitude": 65.847822
       },
       "links_count": 10,
       "objectID": "2051"
@@ -17573,8 +17573,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "PMR",
       "_geoloc": {
-        "lat": -40.320556,
-        "lng": 175.616944
+        "latitude": -40.320556,
+        "longitude": 175.616944
       },
       "links_count": 10,
       "objectID": "2028"
@@ -17585,8 +17585,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "DUD",
       "_geoloc": {
-        "lat": -45.928055,
-        "lng": 170.198333
+        "latitude": -45.928055,
+        "longitude": 170.198333
       },
       "links_count": 10,
       "objectID": "2011"
@@ -17597,8 +17597,8 @@ const airports = [
       "country": "Tonga",
       "iata_code": "TBU",
       "_geoloc": {
-        "lat": -21.241214,
-        "lng": -175.149644
+        "latitude": -21.241214,
+        "longitude": -175.149644
       },
       "links_count": 10,
       "objectID": "1963"
@@ -17609,8 +17609,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "GHB",
       "_geoloc": {
-        "lat": 25.284706,
-        "lng": -76.331011
+        "latitude": 25.284706,
+        "longitude": -76.331011
       },
       "links_count": 10,
       "objectID": "1944"
@@ -17621,8 +17621,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "LMM",
       "_geoloc": {
-        "lat": 25.685194,
-        "lng": -109.080806
+        "latitude": 25.685194,
+        "longitude": -109.080806
       },
       "links_count": 10,
       "objectID": "1814"
@@ -17633,8 +17633,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "DGO",
       "_geoloc": {
-        "lat": 24.124194,
-        "lng": -104.528014
+        "latitude": 24.124194,
+        "longitude": -104.528014
       },
       "links_count": 10,
       "objectID": "1801"
@@ -17645,8 +17645,8 @@ const airports = [
       "country": "Iceland",
       "iata_code": "RKV",
       "_geoloc": {
-        "lat": 64.13,
-        "lng": -21.940556
+        "latitude": 64.13,
+        "longitude": -21.940556
       },
       "links_count": 10,
       "objectID": "18"
@@ -17657,8 +17657,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CEN",
       "_geoloc": {
-        "lat": 27.392639,
-        "lng": -109.833111
+        "latitude": 27.392639,
+        "longitude": -109.833111
       },
       "links_count": 10,
       "objectID": "1794"
@@ -17669,8 +17669,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXY",
       "_geoloc": {
-        "lat": 60.709553,
-        "lng": -135.067269
+        "latitude": 60.709553,
+        "longitude": -135.067269
       },
       "links_count": 10,
       "objectID": "176"
@@ -17681,8 +17681,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXT",
       "_geoloc": {
-        "lat": 54.468508,
-        "lng": -128.576219
+        "latitude": 54.468508,
+        "longitude": -128.576219
       },
       "links_count": 10,
       "objectID": "173"
@@ -17693,8 +17693,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "VAN",
       "_geoloc": {
-        "lat": 38.468219,
-        "lng": 43.3323
+        "latitude": 38.468219,
+        "longitude": 43.3323
       },
       "links_count": 10,
       "objectID": "1728"
@@ -17705,8 +17705,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ERZ",
       "_geoloc": {
-        "lat": 39.956501,
-        "lng": 41.170166
+        "latitude": 39.956501,
+        "longitude": 41.170166
       },
       "links_count": 10,
       "objectID": "1724"
@@ -17717,8 +17717,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWL",
       "_geoloc": {
-        "lat": 52.183056,
-        "lng": -122.054167
+        "latitude": 52.183056,
+        "longitude": -122.054167
       },
       "links_count": 10,
       "objectID": "162"
@@ -17729,8 +17729,8 @@ const airports = [
       "country": "Israel",
       "iata_code": "ETH",
       "_geoloc": {
-        "lat": 29.561281,
-        "lng": 34.960081
+        "latitude": 29.561281,
+        "longitude": 34.960081
       },
       "links_count": 10,
       "objectID": "1594"
@@ -17741,8 +17741,8 @@ const airports = [
       "country": "Czech Republic",
       "iata_code": "KLV",
       "_geoloc": {
-        "lat": 50.202978,
-        "lng": 12.914983
+        "latitude": 50.202978,
+        "longitude": 12.914983
       },
       "links_count": 10,
       "objectID": "1579"
@@ -17753,8 +17753,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PEG",
       "_geoloc": {
-        "lat": 43.095906,
-        "lng": 12.513222
+        "latitude": 43.095906,
+        "longitude": 12.513222
       },
       "links_count": 10,
       "objectID": "1567"
@@ -17765,8 +17765,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "EBA",
       "_geoloc": {
-        "lat": 42.760277,
-        "lng": 10.239445
+        "latitude": 42.760277,
+        "longitude": 10.239445
       },
       "links_count": 10,
       "objectID": "1558"
@@ -17777,8 +17777,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "CUF",
       "_geoloc": {
-        "lat": 44.547019,
-        "lng": 7.623217
+        "latitude": 44.547019,
+        "longitude": 7.623217
       },
       "links_count": 10,
       "objectID": "1534"
@@ -17789,8 +17789,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUY",
       "_geoloc": {
-        "lat": 48.206111,
-        "lng": -78.835556
+        "latitude": 48.206111,
+        "longitude": -78.835556
       },
       "links_count": 10,
       "objectID": "149"
@@ -17801,8 +17801,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JSH",
       "_geoloc": {
-        "lat": 35.216108,
-        "lng": 26.101325
+        "latitude": 35.216108,
+        "longitude": 26.101325
       },
       "links_count": 10,
       "objectID": "1480"
@@ -17813,8 +17813,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "LXS",
       "_geoloc": {
-        "lat": 39.917072,
-        "lng": 25.236308
+        "latitude": 39.917072,
+        "longitude": 25.236308
       },
       "links_count": 10,
       "objectID": "1465"
@@ -17825,8 +17825,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "VOL",
       "_geoloc": {
-        "lat": 39.219619,
-        "lng": 22.794339
+        "latitude": 39.219619,
+        "longitude": 22.794339
       },
       "links_count": 10,
       "objectID": "1448"
@@ -17837,8 +17837,8 @@ const airports = [
       "country": "France",
       "iata_code": "TUF",
       "_geoloc": {
-        "lat": 47.432222,
-        "lng": 0.727606
+        "latitude": 47.432222,
+        "longitude": 0.727606
       },
       "links_count": 10,
       "objectID": "1376"
@@ -17849,8 +17849,8 @@ const airports = [
       "country": "France",
       "iata_code": "PGF",
       "_geoloc": {
-        "lat": 42.740442,
-        "lng": 2.870667
+        "latitude": 42.740442,
+        "longitude": 2.870667
       },
       "links_count": 10,
       "objectID": "1356"
@@ -17861,8 +17861,8 @@ const airports = [
       "country": "France",
       "iata_code": "EBU",
       "_geoloc": {
-        "lat": 45.540554,
-        "lng": 4.296389
+        "latitude": 45.540554,
+        "longitude": 4.296389
       },
       "links_count": 10,
       "objectID": "1350"
@@ -17873,8 +17873,8 @@ const airports = [
       "country": "France",
       "iata_code": "ETZ",
       "_geoloc": {
-        "lat": 48.982142,
-        "lng": 6.251319
+        "latitude": 48.982142,
+        "longitude": 6.251319
       },
       "links_count": 10,
       "objectID": "1320"
@@ -17885,8 +17885,8 @@ const airports = [
       "country": "France",
       "iata_code": "LDE",
       "_geoloc": {
-        "lat": 43.178675,
-        "lng": -0.006439
+        "latitude": 43.178675,
+        "longitude": -0.006439
       },
       "links_count": 10,
       "objectID": "1276"
@@ -17897,8 +17897,8 @@ const airports = [
       "country": "France",
       "iata_code": "PUF",
       "_geoloc": {
-        "lat": 43.38,
-        "lng": -0.418611
+        "latitude": 43.38,
+        "longitude": -0.418611
       },
       "links_count": 10,
       "objectID": "1274"
@@ -17909,8 +17909,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "MLN",
       "_geoloc": {
-        "lat": 35.279817,
-        "lng": -2.956256
+        "latitude": 35.279817,
+        "longitude": -2.956256
       },
       "links_count": 10,
       "objectID": "1058"
@@ -17921,8 +17921,8 @@ const airports = [
       "country": "Malawi",
       "iata_code": "BLZ",
       "_geoloc": {
-        "lat": -15.679053,
-        "lng": 34.974014
+        "latitude": -15.679053,
+        "longitude": 34.974014
       },
       "links_count": 10,
       "objectID": "1013"
@@ -17933,8 +17933,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "GKA",
       "_geoloc": {
-        "lat": -6.081689,
-        "lng": 145.391881
+        "latitude": -6.081689,
+        "longitude": 145.391881
       },
       "links_count": 10,
       "objectID": "1"
@@ -17945,8 +17945,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KWN",
       "_geoloc": {
-        "lat": 59.755,
-        "lng": -161.845278
+        "latitude": 59.755,
+        "longitude": -161.845278
       },
       "links_count": 9,
       "objectID": "7206"
@@ -17957,8 +17957,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WAA",
       "_geoloc": {
-        "lat": 65.6225,
-        "lng": -168.095
+        "latitude": 65.6225,
+        "longitude": -168.095
       },
       "links_count": 9,
       "objectID": "7187"
@@ -17969,8 +17969,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ELI",
       "_geoloc": {
-        "lat": 64.615,
-        "lng": -162.270556
+        "latitude": 64.615,
+        "longitude": -162.270556
       },
       "links_count": 9,
       "objectID": "7184"
@@ -17981,8 +17981,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TAL",
       "_geoloc": {
-        "lat": 65.179556,
-        "lng": -152.075833
+        "latitude": 65.179556,
+        "longitude": -152.075833
       },
       "links_count": 9,
       "objectID": "7113"
@@ -17993,8 +17993,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHK",
       "_geoloc": {
-        "lat": 68.635556,
-        "lng": -95.849722
+        "latitude": 68.635556,
+        "longitude": -95.849722
       },
       "links_count": 9,
       "objectID": "69"
@@ -18005,8 +18005,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RBY",
       "_geoloc": {
-        "lat": 64.7272,
-        "lng": -155.47
+        "latitude": 64.7272,
+        "longitude": -155.47
       },
       "links_count": 9,
       "objectID": "6722"
@@ -18017,8 +18017,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SSJ",
       "_geoloc": {
-        "lat": 65.956828,
-        "lng": 12.468944
+        "latitude": 65.956828,
+        "longitude": 12.468944
       },
       "links_count": 9,
       "objectID": "662"
@@ -18029,8 +18029,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "MJF",
       "_geoloc": {
-        "lat": 65.783997,
-        "lng": 13.214914
+        "latitude": 65.783997,
+        "longitude": 13.214914
       },
       "links_count": 9,
       "objectID": "652"
@@ -18041,8 +18041,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "FRO",
       "_geoloc": {
-        "lat": 61.583611,
-        "lng": 5.024722
+        "latitude": 61.583611,
+        "longitude": 5.024722
       },
       "links_count": 9,
       "objectID": "643"
@@ -18053,8 +18053,8 @@ const airports = [
       "country": "Azerbaijan",
       "iata_code": "KVD",
       "_geoloc": {
-        "lat": 40.7377,
-        "lng": 46.3176
+        "latitude": 40.7377,
+        "longitude": 46.3176
       },
       "links_count": 9,
       "objectID": "6089"
@@ -18065,8 +18065,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFO",
       "_geoloc": {
-        "lat": 54.678055,
-        "lng": -101.681667
+        "latitude": 54.678055,
+        "longitude": -101.681667
       },
       "links_count": 9,
       "objectID": "58"
@@ -18077,8 +18077,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "TOB",
       "_geoloc": {
-        "lat": 31.861,
-        "lng": 23.907
+        "latitude": 31.861,
+        "longitude": 23.907
       },
       "links_count": 9,
       "objectID": "5697"
@@ -18089,8 +18089,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "MQN",
       "_geoloc": {
-        "lat": 66.3639,
-        "lng": 14.3014
+        "latitude": 66.3639,
+        "longitude": 14.3014
       },
       "links_count": 9,
       "objectID": "5582"
@@ -18101,8 +18101,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTL",
       "_geoloc": {
-        "lat": 53.8178,
-        "lng": -89.8969
+        "latitude": 53.8178,
+        "longitude": -89.8969
       },
       "links_count": 9,
       "objectID": "5531"
@@ -18113,8 +18113,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "UNG",
       "_geoloc": {
-        "lat": -6.12571,
-        "lng": 141.282
+        "latitude": -6.12571,
+        "longitude": 141.282
       },
       "links_count": 9,
       "objectID": "5425"
@@ -18125,8 +18125,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "GZO",
       "_geoloc": {
-        "lat": -8.09778,
-        "lng": 156.864
+        "latitude": -8.09778,
+        "longitude": 156.864
       },
       "links_count": 9,
       "objectID": "5412"
@@ -18137,8 +18137,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "HOD",
       "_geoloc": {
-        "lat": 14.753,
-        "lng": 42.976336
+        "latitude": 14.753,
+        "longitude": 42.976336
       },
       "links_count": 9,
       "objectID": "3976"
@@ -18149,8 +18149,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HLN",
       "_geoloc": {
-        "lat": 46.606806,
-        "lng": -111.98275
+        "latitude": 46.606806,
+        "longitude": -111.98275
       },
       "links_count": 9,
       "objectID": "3504"
@@ -18161,8 +18161,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BTT",
       "_geoloc": {
-        "lat": 66.913944,
-        "lng": -151.529056
+        "latitude": 66.913944,
+        "longitude": -151.529056
       },
       "links_count": 9,
       "objectID": "3417"
@@ -18173,8 +18173,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "THL",
       "_geoloc": {
-        "lat": 20.483831,
-        "lng": 99.935353
+        "latitude": 20.483831,
+        "longitude": 99.935353
       },
       "links_count": 9,
       "objectID": "3237"
@@ -18185,8 +18185,8 @@ const airports = [
       "country": "Saint Vincent and the Grenadines",
       "iata_code": "SVD",
       "_geoloc": {
-        "lat": 13.144306,
-        "lng": -61.210861
+        "latitude": 13.144306,
+        "longitude": -61.210861
       },
       "links_count": 9,
       "objectID": "2907"
@@ -18197,8 +18197,8 @@ const airports = [
       "country": "Trinidad and Tobago",
       "iata_code": "TAB",
       "_geoloc": {
-        "lat": 11.149658,
-        "lng": -60.832194
+        "latitude": 11.149658,
+        "longitude": -60.832194
       },
       "links_count": 9,
       "objectID": "2901"
@@ -18209,8 +18209,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "ARI",
       "_geoloc": {
-        "lat": -18.348531,
-        "lng": -70.338742
+        "latitude": -18.348531,
+        "longitude": -70.338742
       },
       "links_count": 9,
       "objectID": "2641"
@@ -18221,8 +18221,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "RFP",
       "_geoloc": {
-        "lat": -16.722861,
-        "lng": -151.465856
+        "latitude": -16.722861,
+        "longitude": -151.465856
       },
       "links_count": 9,
       "objectID": "1995"
@@ -18233,8 +18233,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "XQP",
       "_geoloc": {
-        "lat": 9.443164,
-        "lng": -84.129772
+        "latitude": 9.443164,
+        "longitude": -84.129772
       },
       "links_count": 9,
       "objectID": "1889"
@@ -18245,8 +18245,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "SBZ",
       "_geoloc": {
-        "lat": 45.785597,
-        "lng": 24.091342
+        "latitude": 45.785597,
+        "longitude": 24.091342
       },
       "links_count": 9,
       "objectID": "1658"
@@ -18257,8 +18257,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "VNX",
       "_geoloc": {
-        "lat": -22.018431,
-        "lng": 35.313297
+        "latitude": -22.018431,
+        "longitude": 35.313297
       },
       "links_count": 8,
       "objectID": "990"
@@ -18269,8 +18269,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "WMN",
       "_geoloc": {
-        "lat": -15.436666,
-        "lng": 49.688332
+        "latitude": -15.436666,
+        "longitude": 49.688332
       },
       "links_count": 8,
       "objectID": "932"
@@ -18281,8 +18281,8 @@ const airports = [
       "country": "China",
       "iata_code": "DCY",
       "_geoloc": {
-        "lat": 29.3231,
-        "lng": 100.0533
+        "latitude": 29.3231,
+        "longitude": 100.0533
       },
       "links_count": 8,
       "objectID": "9310"
@@ -18293,8 +18293,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "NOS",
       "_geoloc": {
-        "lat": -13.312067,
-        "lng": 48.314822
+        "latitude": -13.312067,
+        "longitude": 48.314822
       },
       "links_count": 8,
       "objectID": "930"
@@ -18305,8 +18305,8 @@ const airports = [
       "country": "China",
       "iata_code": "JGD",
       "_geoloc": {
-        "lat": 50.375,
-        "lng": 124.117
+        "latitude": 50.375,
+        "longitude": 124.117
       },
       "links_count": 8,
       "objectID": "8979"
@@ -18317,8 +18317,8 @@ const airports = [
       "country": "Botswana",
       "iata_code": "BBK",
       "_geoloc": {
-        "lat": -17.832875,
-        "lng": 25.1624
+        "latitude": -17.832875,
+        "longitude": 25.1624
       },
       "links_count": 8,
       "objectID": "879"
@@ -18329,8 +18329,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "EYK",
       "_geoloc": {
-        "lat": 63.683056,
-        "lng": 66.683056
+        "latitude": 63.683056,
+        "longitude": 66.683056
       },
       "links_count": 8,
       "objectID": "8428"
@@ -18341,8 +18341,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "HLA",
       "_geoloc": {
-        "lat": -25.938514,
-        "lng": 27.926133
+        "latitude": -25.938514,
+        "longitude": 27.926133
       },
       "links_count": 8,
       "objectID": "820"
@@ -18353,8 +18353,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "BFN",
       "_geoloc": {
-        "lat": -29.092722,
-        "lng": 26.302444
+        "latitude": -29.092722,
+        "longitude": 26.302444
       },
       "links_count": 8,
       "objectID": "794"
@@ -18365,8 +18365,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CKS",
       "_geoloc": {
-        "lat": -6.11781,
-        "lng": -50.0035
+        "latitude": -6.11781,
+        "longitude": -50.0035
       },
       "links_count": 8,
       "objectID": "7532"
@@ -18377,8 +18377,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "AUX",
       "_geoloc": {
-        "lat": -7.228333,
-        "lng": -48.240833
+        "latitude": -7.228333,
+        "longitude": -48.240833
       },
       "links_count": 8,
       "objectID": "7376"
@@ -18389,8 +18389,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "VHM",
       "_geoloc": {
-        "lat": 64.579083,
-        "lng": 16.833575
+        "latitude": 64.579083,
+        "longitude": 16.833575
       },
       "links_count": 8,
       "objectID": "729"
@@ -18401,8 +18401,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSO",
       "_geoloc": {
-        "lat": 54.910278,
-        "lng": -59.785278
+        "latitude": 54.910278,
+        "longitude": -59.785278
       },
       "links_count": 8,
       "objectID": "7252"
@@ -18413,8 +18413,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SMK",
       "_geoloc": {
-        "lat": 63.49,
-        "lng": -162.110278
+        "latitude": 63.49,
+        "longitude": -162.110278
       },
       "links_count": 8,
       "objectID": "7191"
@@ -18425,8 +18425,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "LYC",
       "_geoloc": {
-        "lat": 64.548322,
-        "lng": 18.716219
+        "latitude": 64.548322,
+        "longitude": 18.716219
       },
       "links_count": 8,
       "objectID": "719"
@@ -18437,8 +18437,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WMO",
       "_geoloc": {
-        "lat": 64.689167,
-        "lng": -163.412778
+        "latitude": 64.689167,
+        "longitude": -163.412778
       },
       "links_count": 8,
       "objectID": "7188"
@@ -18449,8 +18449,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GLV",
       "_geoloc": {
-        "lat": 64.550556,
-        "lng": -163.007222
+        "latitude": 64.550556,
+        "longitude": -163.007222
       },
       "links_count": 8,
       "objectID": "7185"
@@ -18461,8 +18461,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KTS",
       "_geoloc": {
-        "lat": 65.331389,
-        "lng": -166.465833
+        "latitude": 65.331389,
+        "longitude": -166.465833
       },
       "links_count": 8,
       "objectID": "7183"
@@ -18473,8 +18473,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ORV",
       "_geoloc": {
-        "lat": 66.8175,
-        "lng": -161.022222
+        "latitude": 66.8175,
+        "longitude": -161.022222
       },
       "links_count": 8,
       "objectID": "7181"
@@ -18485,8 +18485,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "KRF",
       "_geoloc": {
-        "lat": 63.048597,
-        "lng": 17.768856
+        "latitude": 63.048597,
+        "longitude": 17.768856
       },
       "links_count": 8,
       "objectID": "718"
@@ -18497,8 +18497,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IAN",
       "_geoloc": {
-        "lat": 66.975833,
-        "lng": -160.436667
+        "latitude": 66.975833,
+        "longitude": -160.436667
       },
       "links_count": 8,
       "objectID": "7179"
@@ -18509,8 +18509,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BKC",
       "_geoloc": {
-        "lat": 65.981667,
-        "lng": -161.149167
+        "latitude": 65.981667,
+        "longitude": -161.149167
       },
       "links_count": 8,
       "objectID": "7178"
@@ -18521,8 +18521,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABL",
       "_geoloc": {
-        "lat": 67.106389,
-        "lng": -157.8575
+        "latitude": 67.106389,
+        "longitude": -157.8575
       },
       "links_count": 8,
       "objectID": "7177"
@@ -18533,8 +18533,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KTB",
       "_geoloc": {
-        "lat": 55.688056,
-        "lng": -132.536667
+        "latitude": 55.688056,
+        "longitude": -132.536667
       },
       "links_count": 8,
       "objectID": "7147"
@@ -18545,8 +18545,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "TWB",
       "_geoloc": {
-        "lat": -27.542778,
-        "lng": 151.916389
+        "latitude": -27.542778,
+        "longitude": 151.916389
       },
       "links_count": 8,
       "objectID": "7128"
@@ -18557,8 +18557,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HSL",
       "_geoloc": {
-        "lat": 65.697778,
-        "lng": -156.351389
+        "latitude": 65.697778,
+        "longitude": -156.351389
       },
       "links_count": 8,
       "objectID": "7108"
@@ -18569,8 +18569,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHU",
       "_geoloc": {
-        "lat": 45.5175,
-        "lng": -73.416944
+        "latitude": 45.5175,
+        "longitude": -73.416944
       },
       "links_count": 8,
       "objectID": "71"
@@ -18581,8 +18581,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RSH",
       "_geoloc": {
-        "lat": 61.775,
-        "lng": -161.319444
+        "latitude": 61.775,
+        "longitude": -161.319444
       },
       "links_count": 8,
       "objectID": "7098"
@@ -18593,8 +18593,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HHH",
       "_geoloc": {
-        "lat": 32.216,
-        "lng": -80.752
+        "latitude": 32.216,
+        "longitude": -80.752
       },
       "links_count": 8,
       "objectID": "7002"
@@ -18605,8 +18605,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHM",
       "_geoloc": {
-        "lat": 43.173611,
-        "lng": -79.935
+        "latitude": 43.173611,
+        "longitude": -79.935
       },
       "links_count": 8,
       "objectID": "70"
@@ -18617,8 +18617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BKG",
       "_geoloc": {
-        "lat": 36.531994,
-        "lng": -93.200556
+        "latitude": 36.531994,
+        "longitude": -93.200556
       },
       "links_count": 8,
       "objectID": "6962"
@@ -18629,8 +18629,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "COQ",
       "_geoloc": {
-        "lat": 48.1357,
-        "lng": 114.646
+        "latitude": 48.1357,
+        "longitude": 114.646
       },
       "links_count": 8,
       "objectID": "6795"
@@ -18641,8 +18641,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YIF",
       "_geoloc": {
-        "lat": 51.2117,
-        "lng": -58.6583
+        "latitude": 51.2117,
+        "longitude": -58.6583
       },
       "links_count": 8,
       "objectID": "6789"
@@ -18653,8 +18653,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DRG",
       "_geoloc": {
-        "lat": 66.0696,
-        "lng": -162.766
+        "latitude": 66.0696,
+        "longitude": -162.766
       },
       "links_count": 8,
       "objectID": "6755"
@@ -18665,8 +18665,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPX",
       "_geoloc": {
-        "lat": 60.0506,
-        "lng": -77.2869
+        "latitude": 60.0506,
+        "longitude": -77.2869
       },
       "links_count": 8,
       "objectID": "6727"
@@ -18677,8 +18677,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SVA",
       "_geoloc": {
-        "lat": 63.6864,
-        "lng": -170.493
+        "latitude": 63.6864,
+        "longitude": -170.493
       },
       "links_count": 8,
       "objectID": "6724"
@@ -18689,8 +18689,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PHO",
       "_geoloc": {
-        "lat": 68.3488,
-        "lng": -166.799
+        "latitude": 68.3488,
+        "longitude": -166.799
       },
       "links_count": 8,
       "objectID": "6721"
@@ -18701,8 +18701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GAM",
       "_geoloc": {
-        "lat": 63.7668,
-        "lng": -171.733
+        "latitude": 63.7668,
+        "longitude": -171.733
       },
       "links_count": 8,
       "objectID": "6715"
@@ -18713,8 +18713,8 @@ const airports = [
       "country": "China",
       "iata_code": "PZI",
       "_geoloc": {
-        "lat": 26.54,
-        "lng": 101.799
+        "latitude": 26.54,
+        "longitude": 101.799
       },
       "links_count": 8,
       "objectID": "6435"
@@ -18725,8 +18725,8 @@ const airports = [
       "country": "China",
       "iata_code": "YIN",
       "_geoloc": {
-        "lat": 43.9558,
-        "lng": 81.3303
+        "latitude": 43.9558,
+        "longitude": 81.3303
       },
       "links_count": 8,
       "objectID": "6409"
@@ -18737,8 +18737,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BJF",
       "_geoloc": {
-        "lat": 70.600278,
-        "lng": 29.6925
+        "latitude": 70.600278,
+        "longitude": 29.6925
       },
       "links_count": 8,
       "objectID": "637"
@@ -18749,8 +18749,8 @@ const airports = [
       "country": "China",
       "iata_code": "ENH",
       "_geoloc": {
-        "lat": 30.3203,
-        "lng": 109.485
+        "latitude": 30.3203,
+        "longitude": 109.485
       },
       "links_count": 8,
       "objectID": "6358"
@@ -18761,8 +18761,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GTE",
       "_geoloc": {
-        "lat": -13.975,
-        "lng": 136.46
+        "latitude": -13.975,
+        "longitude": 136.46
       },
       "links_count": 8,
       "objectID": "6270"
@@ -18773,8 +18773,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GLT",
       "_geoloc": {
-        "lat": -23.8697,
-        "lng": 151.223
+        "latitude": -23.8697,
+        "longitude": 151.223
       },
       "links_count": 8,
       "objectID": "6269"
@@ -18785,8 +18785,8 @@ const airports = [
       "country": "Faroe Islands",
       "iata_code": "FAE",
       "_geoloc": {
-        "lat": 62.063628,
-        "lng": -7.277219
+        "latitude": 62.063628,
+        "longitude": -7.277219
       },
       "links_count": 8,
       "objectID": "625"
@@ -18797,8 +18797,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BHQ",
       "_geoloc": {
-        "lat": -32.0014,
-        "lng": 141.472
+        "latitude": -32.0014,
+        "longitude": 141.472
       },
       "links_count": 8,
       "objectID": "6241"
@@ -18809,8 +18809,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "HPH",
       "_geoloc": {
-        "lat": 20.819386,
-        "lng": 106.724989
+        "latitude": 20.819386,
+        "longitude": 106.724989
       },
       "links_count": 8,
       "objectID": "6188"
@@ -18821,8 +18821,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UUA",
       "_geoloc": {
-        "lat": 54.64,
-        "lng": 52.8017
+        "latitude": 54.64,
+        "longitude": 52.8017
       },
       "links_count": 8,
       "objectID": "6160"
@@ -18833,8 +18833,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "NCU",
       "_geoloc": {
-        "lat": 42.4884,
-        "lng": 59.6233
+        "latitude": 42.4884,
+        "longitude": 59.6233
       },
       "links_count": 8,
       "objectID": "6151"
@@ -18845,8 +18845,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "IJK",
       "_geoloc": {
-        "lat": 56.8281,
-        "lng": 53.4575
+        "latitude": 56.8281,
+        "longitude": 53.4575
       },
       "links_count": 8,
       "objectID": "6141"
@@ -18857,8 +18857,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NYA",
       "_geoloc": {
-        "lat": 62.11,
-        "lng": 65.615
+        "latitude": 62.11,
+        "longitude": 65.615
       },
       "links_count": 8,
       "objectID": "6139"
@@ -18869,8 +18869,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IGM",
       "_geoloc": {
-        "lat": 35.2595,
-        "lng": -113.938
+        "latitude": 35.2595,
+        "longitude": -113.938
       },
       "links_count": 8,
       "objectID": "6132"
@@ -18881,8 +18881,8 @@ const airports = [
       "country": "British Virgin Islands",
       "iata_code": "VIJ",
       "_geoloc": {
-        "lat": 18.4464,
-        "lng": -64.4275
+        "latitude": 18.4464,
+        "longitude": -64.4275
       },
       "links_count": 8,
       "objectID": "6080"
@@ -18893,8 +18893,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "SCY",
       "_geoloc": {
-        "lat": -0.910206,
-        "lng": -89.61745
+        "latitude": -0.910206,
+        "longitude": -89.61745
       },
       "links_count": 8,
       "objectID": "6045"
@@ -18905,8 +18905,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RIA",
       "_geoloc": {
-        "lat": -29.711358,
-        "lng": -53.688153
+        "latitude": -29.711358,
+        "longitude": -53.688153
       },
       "links_count": 8,
       "objectID": "6040"
@@ -18917,8 +18917,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MEA",
       "_geoloc": {
-        "lat": -22.343,
-        "lng": -41.766
+        "latitude": -22.343,
+        "longitude": -41.766
       },
       "links_count": 8,
       "objectID": "6037"
@@ -18929,8 +18929,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "FKS",
       "_geoloc": {
-        "lat": 37.2274,
-        "lng": 140.431
+        "latitude": 37.2274,
+        "longitude": 140.431
       },
       "links_count": 8,
       "objectID": "5999"
@@ -18941,8 +18941,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "LNV",
       "_geoloc": {
-        "lat": -3.04361,
-        "lng": 152.629
+        "latitude": -3.04361,
+        "longitude": 152.629
       },
       "links_count": 8,
       "objectID": "5979"
@@ -18953,8 +18953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KLG",
       "_geoloc": {
-        "lat": 61.5363,
-        "lng": -160.341
+        "latitude": 61.5363,
+        "longitude": -160.341
       },
       "links_count": 8,
       "objectID": "5964"
@@ -18965,8 +18965,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "AUQ",
       "_geoloc": {
-        "lat": -9.768794,
-        "lng": -139.011256
+        "latitude": -9.768794,
+        "longitude": -139.011256
       },
       "links_count": 8,
       "objectID": "5890"
@@ -18977,8 +18977,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "PJM",
       "_geoloc": {
-        "lat": 8.53333,
-        "lng": -83.3
+        "latitude": 8.53333,
+        "longitude": -83.3
       },
       "links_count": 8,
       "objectID": "5847"
@@ -18989,8 +18989,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "TNO",
       "_geoloc": {
-        "lat": 10.3557,
-        "lng": -85.852892
+        "latitude": 10.3557,
+        "longitude": -85.852892
       },
       "links_count": 8,
       "objectID": "5844"
@@ -19001,8 +19001,8 @@ const airports = [
       "country": "Turks and Caicos Islands",
       "iata_code": "GDT",
       "_geoloc": {
-        "lat": 21.4445,
-        "lng": -71.1423
+        "latitude": 21.4445,
+        "longitude": -71.1423
       },
       "links_count": 8,
       "objectID": "5807"
@@ -19013,8 +19013,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SBP",
       "_geoloc": {
-        "lat": 35.2368,
-        "lng": -120.642
+        "latitude": 35.2368,
+        "longitude": -120.642
       },
       "links_count": 8,
       "objectID": "5768"
@@ -19025,8 +19025,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GRI",
       "_geoloc": {
-        "lat": 40.9675,
-        "lng": -98.3096
+        "latitude": 40.9675,
+        "longitude": -98.3096
       },
       "links_count": 8,
       "objectID": "5740"
@@ -19037,8 +19037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABY",
       "_geoloc": {
-        "lat": 31.5355,
-        "lng": -84.1945
+        "latitude": 31.5355,
+        "longitude": -84.1945
       },
       "links_count": 8,
       "objectID": "5715"
@@ -19049,8 +19049,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "NYK",
       "_geoloc": {
-        "lat": -0.067,
-        "lng": 37.033
+        "latitude": -0.067,
+        "longitude": 37.033
       },
       "links_count": 8,
       "objectID": "5695"
@@ -19061,8 +19061,8 @@ const airports = [
       "country": "Somalia",
       "iata_code": "GLK",
       "_geoloc": {
-        "lat": 6.78083,
-        "lng": 47.4547
+        "latitude": 6.78083,
+        "longitude": 47.4547
       },
       "links_count": 8,
       "objectID": "5688"
@@ -19073,8 +19073,8 @@ const airports = [
       "country": "Somalia",
       "iata_code": "BSA",
       "_geoloc": {
-        "lat": 11.2753,
-        "lng": 49.1494
+        "latitude": 11.2753,
+        "longitude": 49.1494
       },
       "links_count": 8,
       "objectID": "5686"
@@ -19085,8 +19085,8 @@ const airports = [
       "country": "Western Sahara",
       "iata_code": "EUN",
       "_geoloc": {
-        "lat": 27.1517,
-        "lng": -13.2192
+        "latitude": 27.1517,
+        "longitude": -13.2192
       },
       "links_count": 8,
       "objectID": "5672"
@@ -19097,8 +19097,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "MQP",
       "_geoloc": {
-        "lat": -25.3832,
-        "lng": 31.1056
+        "latitude": -25.3832,
+        "longitude": 31.1056
       },
       "links_count": 8,
       "objectID": "5604"
@@ -19109,8 +19109,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFC",
       "_geoloc": {
-        "lat": 45.868889,
-        "lng": -66.537222
+        "latitude": 45.868889,
+        "longitude": -66.537222
       },
       "links_count": 8,
       "objectID": "56"
@@ -19121,8 +19121,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SOG",
       "_geoloc": {
-        "lat": 61.1561,
-        "lng": 7.13778
+        "latitude": 61.1561,
+        "longitude": 7.13778
       },
       "links_count": 8,
       "objectID": "5586"
@@ -19133,8 +19133,8 @@ const airports = [
       "country": "Ghana",
       "iata_code": "KMS",
       "_geoloc": {
-        "lat": 6.71456,
-        "lng": -1.59082
+        "latitude": 6.71456,
+        "longitude": -1.59082
       },
       "links_count": 8,
       "objectID": "5556"
@@ -19145,8 +19145,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "BLJ",
       "_geoloc": {
-        "lat": 35.752106,
-        "lng": 6.308589
+        "latitude": 35.752106,
+        "longitude": 6.308589
       },
       "links_count": 8,
       "objectID": "5552"
@@ -19157,8 +19157,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "MSA",
       "_geoloc": {
-        "lat": 53.4414,
-        "lng": -91.7628
+        "latitude": 53.4414,
+        "longitude": -91.7628
       },
       "links_count": 8,
       "objectID": "5544"
@@ -19169,8 +19169,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHR",
       "_geoloc": {
-        "lat": 50.4689,
-        "lng": -59.6367
+        "latitude": 50.4689,
+        "longitude": -59.6367
       },
       "links_count": 8,
       "objectID": "5503"
@@ -19181,8 +19181,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHO",
       "_geoloc": {
-        "lat": 55.4483,
-        "lng": -60.2286
+        "latitude": 55.4483,
+        "longitude": -60.2286
       },
       "links_count": 8,
       "objectID": "5502"
@@ -19193,8 +19193,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YMN",
       "_geoloc": {
-        "lat": 55.0769,
-        "lng": -59.1864
+        "latitude": 55.0769,
+        "longitude": -59.1864
       },
       "links_count": 8,
       "objectID": "5492"
@@ -19205,8 +19205,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YDP",
       "_geoloc": {
-        "lat": 56.5492,
-        "lng": -61.6803
+        "latitude": 56.5492,
+        "longitude": -61.6803
       },
       "links_count": 8,
       "objectID": "5488"
@@ -19217,8 +19217,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "APO",
       "_geoloc": {
-        "lat": 7.033,
-        "lng": -77.2
+        "latitude": 7.033,
+        "longitude": -77.2
       },
       "links_count": 8,
       "objectID": "5476"
@@ -19229,8 +19229,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKU",
       "_geoloc": {
-        "lat": 53.8056,
-        "lng": -78.9169
+        "latitude": 53.8056,
+        "longitude": -78.9169
       },
       "links_count": 8,
       "objectID": "5472"
@@ -19241,8 +19241,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "XBE",
       "_geoloc": {
-        "lat": 53.9656,
-        "lng": -91.0272
+        "latitude": 53.9656,
+        "longitude": -91.0272
       },
       "links_count": 8,
       "objectID": "5468"
@@ -19253,8 +19253,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JNN",
       "_geoloc": {
-        "lat": 60.14,
-        "lng": -45.2317
+        "latitude": 60.14,
+        "longitude": -45.2317
       },
       "links_count": 8,
       "objectID": "5444"
@@ -19265,8 +19265,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "TBG",
       "_geoloc": {
-        "lat": -5.27861,
-        "lng": 141.226
+        "latitude": -5.27861,
+        "longitude": 141.226
       },
       "links_count": 8,
       "objectID": "5434"
@@ -19277,8 +19277,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "KVG",
       "_geoloc": {
-        "lat": -2.5794,
-        "lng": 150.808
+        "latitude": -2.5794,
+        "longitude": 150.808
       },
       "links_count": 8,
       "objectID": "5428"
@@ -19289,8 +19289,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "DAU",
       "_geoloc": {
-        "lat": -9.08676,
-        "lng": 143.208
+        "latitude": -9.08676,
+        "longitude": 143.208
       },
       "links_count": 8,
       "objectID": "5421"
@@ -19301,8 +19301,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "BUA",
       "_geoloc": {
-        "lat": -5.42232,
-        "lng": 154.673
+        "latitude": -5.42232,
+        "longitude": 154.673
       },
       "links_count": 8,
       "objectID": "5419"
@@ -19313,8 +19313,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "MUA",
       "_geoloc": {
-        "lat": -8.32797,
-        "lng": 157.263
+        "latitude": -8.32797,
+        "longitude": 157.263
       },
       "links_count": 8,
       "objectID": "5411"
@@ -19325,8 +19325,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "OUL",
       "_geoloc": {
-        "lat": 64.930061,
-        "lng": 25.354564
+        "latitude": 64.930061,
+        "longitude": 25.354564
       },
       "links_count": 8,
       "objectID": "446"
@@ -19337,8 +19337,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "MHQ",
       "_geoloc": {
-        "lat": 60.122203,
-        "lng": 19.898156
+        "latitude": 60.122203,
+        "longitude": 19.898156
       },
       "links_count": 8,
       "objectID": "442"
@@ -19349,8 +19349,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NNM",
       "_geoloc": {
-        "lat": 67.380537,
-        "lng": 53.051016
+        "latitude": 67.380537,
+        "longitude": 53.051016
       },
       "links_count": 8,
       "objectID": "4371"
@@ -19361,8 +19361,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UCT",
       "_geoloc": {
-        "lat": 63.340297,
-        "lng": 53.482592
+        "latitude": 63.340297,
+        "longitude": 53.482592
       },
       "links_count": 8,
       "objectID": "4368"
@@ -19373,8 +19373,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "KZO",
       "_geoloc": {
-        "lat": 44.709,
-        "lng": 65.591
+        "latitude": 44.709,
+        "longitude": 65.591
       },
       "links_count": 8,
       "objectID": "4358"
@@ -19385,8 +19385,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BVG",
       "_geoloc": {
-        "lat": 70.866667,
-        "lng": 29.0
+        "latitude": 70.866667,
+        "longitude": 29.0
       },
       "links_count": 8,
       "objectID": "4350"
@@ -19397,8 +19397,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "HOV",
       "_geoloc": {
-        "lat": 62.18,
-        "lng": 6.0742
+        "latitude": 62.18,
+        "longitude": 6.0742
       },
       "links_count": 8,
       "objectID": "4345"
@@ -19409,8 +19409,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "CPO",
       "_geoloc": {
-        "lat": -27.0,
-        "lng": -70.0
+        "latitude": -27.0,
+        "longitude": -70.0
       },
       "links_count": 8,
       "objectID": "4312"
@@ -19421,8 +19421,8 @@ const airports = [
       "country": "Paraguay",
       "iata_code": "AGT",
       "_geoloc": {
-        "lat": -25.4555,
-        "lng": -54.843592
+        "latitude": -25.4555,
+        "longitude": -54.843592
       },
       "links_count": 8,
       "objectID": "4305"
@@ -19433,8 +19433,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ERI",
       "_geoloc": {
-        "lat": 42.082022,
-        "lng": -80.176217
+        "latitude": 42.082022,
+        "longitude": -80.176217
       },
       "links_count": 8,
       "objectID": "4276"
@@ -19445,8 +19445,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MVY",
       "_geoloc": {
-        "lat": 41.391667,
-        "lng": -70.615278
+        "latitude": 41.391667,
+        "longitude": -70.615278
       },
       "links_count": 8,
       "objectID": "4265"
@@ -19457,8 +19457,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "OZC",
       "_geoloc": {
-        "lat": 8.178508,
-        "lng": 123.841731
+        "latitude": 8.178508,
+        "longitude": 123.841731
       },
       "links_count": 8,
       "objectID": "4204"
@@ -19469,8 +19469,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "LGP",
       "_geoloc": {
-        "lat": 13.157064,
-        "lng": 123.746247
+        "latitude": 13.157064,
+        "longitude": 123.746247
       },
       "links_count": 8,
       "objectID": "4203"
@@ -19481,8 +19481,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "DPL",
       "_geoloc": {
-        "lat": 8.601261,
-        "lng": 123.334481
+        "latitude": 8.601261,
+        "longitude": 123.334481
       },
       "links_count": 8,
       "objectID": "4201"
@@ -19493,8 +19493,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "BXU",
       "_geoloc": {
-        "lat": 8.951322,
-        "lng": 125.477972
+        "latitude": 8.951322,
+        "longitude": 125.477972
       },
       "links_count": 8,
       "objectID": "4200"
@@ -19505,8 +19505,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JTY",
       "_geoloc": {
-        "lat": 36.579886,
-        "lng": 26.375822
+        "latitude": 36.579886,
+        "longitude": 26.375822
       },
       "links_count": 8,
       "objectID": "4190"
@@ -19517,8 +19517,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BGM",
       "_geoloc": {
-        "lat": 42.208689,
-        "lng": -75.979839
+        "latitude": 42.208689,
+        "longitude": -75.979839
       },
       "links_count": 8,
       "objectID": "4129"
@@ -19529,8 +19529,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IDA",
       "_geoloc": {
-        "lat": 43.514556,
-        "lng": -112.07075
+        "latitude": 43.514556,
+        "longitude": -112.07075
       },
       "links_count": 8,
       "objectID": "4100"
@@ -19541,8 +19541,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "HUI",
       "_geoloc": {
-        "lat": 16.401499,
-        "lng": 107.702614
+        "latitude": 16.401499,
+        "longitude": 107.702614
       },
       "links_count": 8,
       "objectID": "4082"
@@ -19553,8 +19553,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "FTE",
       "_geoloc": {
-        "lat": -50.280322,
-        "lng": -72.053103
+        "latitude": -50.280322,
+        "longitude": -72.053103
       },
       "links_count": 8,
       "objectID": "4061"
@@ -19565,8 +19565,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MHK",
       "_geoloc": {
-        "lat": 39.140972,
-        "lng": -96.670833
+        "latitude": 39.140972,
+        "longitude": -96.670833
       },
       "links_count": 8,
       "objectID": "4050"
@@ -19577,8 +19577,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CMI",
       "_geoloc": {
-        "lat": 40.03925,
-        "lng": -88.278056
+        "latitude": 40.03925,
+        "longitude": -88.278056
       },
       "links_count": 8,
       "objectID": "4049"
@@ -19589,8 +19589,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RST",
       "_geoloc": {
-        "lat": 43.908283,
-        "lng": -92.500014
+        "latitude": 43.908283,
+        "longitude": -92.500014
       },
       "links_count": 8,
       "objectID": "4048"
@@ -19601,8 +19601,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "AYQ",
       "_geoloc": {
-        "lat": -25.186111,
-        "lng": 130.975556
+        "latitude": -25.186111,
+        "longitude": 130.975556
       },
       "links_count": 8,
       "objectID": "4010"
@@ -19613,8 +19613,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "MPH",
       "_geoloc": {
-        "lat": 11.9214999,
-        "lng": 121.953
+        "latitude": 11.9214999,
+        "longitude": 121.953
       },
       "links_count": 8,
       "objectID": "4002"
@@ -19625,8 +19625,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "URT",
       "_geoloc": {
-        "lat": 9.1325,
-        "lng": 99.135556
+        "latitude": 9.1325,
+        "longitude": 99.135556
       },
       "links_count": 8,
       "objectID": "4000"
@@ -19637,8 +19637,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCY",
       "_geoloc": {
-        "lat": 70.486111,
-        "lng": -68.516667
+        "latitude": 70.486111,
+        "longitude": -68.516667
       },
       "links_count": 8,
       "objectID": "40"
@@ -19649,8 +19649,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ITH",
       "_geoloc": {
-        "lat": 42.491028,
-        "lng": -76.458444
+        "latitude": 42.491028,
+        "longitude": -76.458444
       },
       "links_count": 8,
       "objectID": "3947"
@@ -19661,8 +19661,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LWS",
       "_geoloc": {
-        "lat": 46.3745,
-        "lng": -117.015389
+        "latitude": 46.3745,
+        "longitude": -117.015389
       },
       "links_count": 8,
       "objectID": "3945"
@@ -19673,8 +19673,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "LBJ",
       "_geoloc": {
-        "lat": -8.486656,
-        "lng": 119.88905
+        "latitude": -8.486656,
+        "longitude": 119.88905
       },
       "links_count": 8,
       "objectID": "3917"
@@ -19685,8 +19685,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "ENE",
       "_geoloc": {
-        "lat": -8.849294,
-        "lng": 121.660644
+        "latitude": -8.849294,
+        "longitude": 121.660644
       },
       "links_count": 8,
       "objectID": "3914"
@@ -19697,8 +19697,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TJQ",
       "_geoloc": {
-        "lat": -2.745722,
-        "lng": 107.754917
+        "latitude": -2.745722,
+        "longitude": 107.754917
       },
       "links_count": 8,
       "objectID": "3904"
@@ -19709,8 +19709,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "KDI",
       "_geoloc": {
-        "lat": -4.081608,
-        "lng": 122.418231
+        "latitude": -4.081608,
+        "longitude": 122.418231
       },
       "links_count": 8,
       "objectID": "3890"
@@ -19721,8 +19721,8 @@ const airports = [
       "country": "United States",
       "iata_code": "YNG",
       "_geoloc": {
-        "lat": 41.260736,
-        "lng": -80.679097
+        "latitude": 41.260736,
+        "longitude": -80.679097
       },
       "links_count": 8,
       "objectID": "3881"
@@ -19733,8 +19733,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ART",
       "_geoloc": {
-        "lat": 43.991922,
-        "lng": -76.021739
+        "latitude": 43.991922,
+        "longitude": -76.021739
       },
       "links_count": 8,
       "objectID": "3838"
@@ -19745,8 +19745,8 @@ const airports = [
       "country": "United States",
       "iata_code": "COU",
       "_geoloc": {
-        "lat": 38.818094,
-        "lng": -92.219631
+        "latitude": 38.818094,
+        "longitude": -92.219631
       },
       "links_count": 8,
       "objectID": "3719"
@@ -19757,8 +19757,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LRD",
       "_geoloc": {
-        "lat": 27.54375,
-        "lng": -99.461556
+        "latitude": 27.54375,
+        "longitude": -99.461556
       },
       "links_count": 8,
       "objectID": "3691"
@@ -19769,8 +19769,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SBY",
       "_geoloc": {
-        "lat": 38.340525,
-        "lng": -75.510289
+        "latitude": 38.340525,
+        "longitude": -75.510289
       },
       "links_count": 8,
       "objectID": "3642"
@@ -19781,8 +19781,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "LBC",
       "_geoloc": {
-        "lat": 53.805367,
-        "lng": 10.719222
+        "latitude": 53.805367,
+        "longitude": 10.719222
       },
       "links_count": 8,
       "objectID": "364"
@@ -19793,8 +19793,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DLH",
       "_geoloc": {
-        "lat": 46.842091,
-        "lng": -92.193649
+        "latitude": 46.842091,
+        "longitude": -92.193649
       },
       "links_count": 8,
       "objectID": "3598"
@@ -19805,8 +19805,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ITO",
       "_geoloc": {
-        "lat": 19.721375,
-        "lng": -155.048469
+        "latitude": 19.721375,
+        "longitude": -155.048469
       },
       "links_count": 8,
       "objectID": "3415"
@@ -19817,8 +19817,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CFS",
       "_geoloc": {
-        "lat": -30.320556,
-        "lng": 153.116389
+        "latitude": -30.320556,
+        "longitude": 153.116389
       },
       "links_count": 8,
       "objectID": "3356"
@@ -19829,8 +19829,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ABX",
       "_geoloc": {
-        "lat": -36.067778,
-        "lng": 146.958056
+        "latitude": -36.067778,
+        "longitude": 146.958056
       },
       "links_count": 8,
       "objectID": "3333"
@@ -19841,8 +19841,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CTL",
       "_geoloc": {
-        "lat": -26.413334,
-        "lng": 146.2625
+        "latitude": -26.413334,
+        "longitude": 146.2625
       },
       "links_count": 8,
       "objectID": "3323"
@@ -19853,8 +19853,8 @@ const airports = [
       "country": "East Timor",
       "iata_code": "DIL",
       "_geoloc": {
-        "lat": -8.546553,
-        "lng": 125.524719
+        "latitude": -8.546553,
+        "longitude": 125.524719
       },
       "links_count": 8,
       "objectID": "3310"
@@ -19865,8 +19865,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LBU",
       "_geoloc": {
-        "lat": 5.300683,
-        "lng": 115.250181
+        "latitude": 5.300683,
+        "longitude": 115.250181
       },
       "links_count": 8,
       "objectID": "3270"
@@ -19877,8 +19877,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "GTO",
       "_geoloc": {
-        "lat": 0.637119,
-        "lng": 122.849858
+        "latitude": 0.637119,
+        "longitude": 122.849858
       },
       "links_count": 8,
       "objectID": "3247"
@@ -19889,8 +19889,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TIM",
       "_geoloc": {
-        "lat": -4.528275,
-        "lng": 136.887375
+        "latitude": -4.528275,
+        "longitude": 136.887375
       },
       "links_count": 8,
       "objectID": "3243"
@@ -19901,8 +19901,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BIK",
       "_geoloc": {
-        "lat": -1.190017,
-        "lng": 136.107997
+        "latitude": -1.190017,
+        "longitude": 136.107997
       },
       "links_count": 8,
       "objectID": "3241"
@@ -19913,8 +19913,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "MYT",
       "_geoloc": {
-        "lat": 25.383636,
-        "lng": 97.351919
+        "latitude": 25.383636,
+        "longitude": 97.351919
       },
       "links_count": 8,
       "objectID": "3224"
@@ -19925,8 +19925,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "STW",
       "_geoloc": {
-        "lat": 45.109165,
-        "lng": 42.112778
+        "latitude": 45.109165,
+        "longitude": 42.112778
       },
       "links_count": 8,
       "objectID": "2963"
@@ -19937,8 +19937,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "MCX",
       "_geoloc": {
-        "lat": 42.816822,
-        "lng": 47.652294
+        "latitude": 42.816822,
+        "longitude": 47.652294
       },
       "links_count": 8,
       "objectID": "2961"
@@ -19949,8 +19949,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ABA",
       "_geoloc": {
-        "lat": 53.74,
-        "lng": 91.385
+        "latitude": 53.74,
+        "longitude": 91.385
       },
       "links_count": 8,
       "objectID": "2955"
@@ -19961,8 +19961,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "BTK",
       "_geoloc": {
-        "lat": 56.370556,
-        "lng": 101.698331
+        "latitude": 56.370556,
+        "longitude": 101.698331
       },
       "links_count": 8,
       "objectID": "2936"
@@ -19973,8 +19973,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "BQN",
       "_geoloc": {
-        "lat": 18.494861,
-        "lng": -67.129444
+        "latitude": 18.494861,
+        "longitude": -67.129444
       },
       "links_count": 8,
       "objectID": "2885"
@@ -19985,8 +19985,8 @@ const airports = [
       "country": "Guadeloupe",
       "iata_code": "SFG",
       "_geoloc": {
-        "lat": 18.099914,
-        "lng": -63.047197
+        "latitude": 18.099914,
+        "longitude": -63.047197
       },
       "links_count": 8,
       "objectID": "2879"
@@ -19997,8 +19997,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "STD",
       "_geoloc": {
-        "lat": 7.565111,
-        "lng": -72.035125
+        "latitude": 7.565111,
+        "longitude": -72.035125
       },
       "links_count": 8,
       "objectID": "2861"
@@ -20009,8 +20009,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "MUN",
       "_geoloc": {
-        "lat": 9.749067,
-        "lng": -63.1534
+        "latitude": 9.749067,
+        "longitude": -63.1534
       },
       "links_count": 8,
       "objectID": "2852"
@@ -20021,8 +20021,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "LSP",
       "_geoloc": {
-        "lat": 11.780775,
-        "lng": -70.151497
+        "latitude": 11.780775,
+        "longitude": -70.151497
       },
       "links_count": 8,
       "objectID": "2844"
@@ -20033,8 +20033,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBG",
       "_geoloc": {
-        "lat": 48.330555,
-        "lng": -70.996391
+        "latitude": 48.330555,
+        "longitude": -70.996391
       },
       "links_count": 8,
       "objectID": "28"
@@ -20045,8 +20045,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "BYC",
       "_geoloc": {
-        "lat": -21.960925,
-        "lng": -63.651669
+        "latitude": -21.960925,
+        "longitude": -63.651669
       },
       "links_count": 8,
       "objectID": "2772"
@@ -20057,8 +20057,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "SMR",
       "_geoloc": {
-        "lat": 11.11965,
-        "lng": -74.230647
+        "latitude": 11.11965,
+        "longitude": -74.230647
       },
       "links_count": 8,
       "objectID": "2748"
@@ -20069,8 +20069,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "CUC",
       "_geoloc": {
-        "lat": 7.927567,
-        "lng": -72.511547
+        "latitude": 7.927567,
+        "longitude": -72.511547
       },
       "links_count": 8,
       "objectID": "2713"
@@ -20081,8 +20081,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PUU",
       "_geoloc": {
-        "lat": 0.505228,
-        "lng": -76.500836
+        "latitude": 0.505228,
+        "longitude": -76.500836
       },
       "links_count": 8,
       "objectID": "2706"
@@ -20093,8 +20093,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "BBA",
       "_geoloc": {
-        "lat": -45.916058,
-        "lng": -71.689475
+        "latitude": -45.916058,
+        "longitude": -71.689475
       },
       "links_count": 8,
       "objectID": "2642"
@@ -20105,8 +20105,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "UBA",
       "_geoloc": {
-        "lat": -19.765,
-        "lng": -47.964778
+        "latitude": -19.765,
+        "longitude": -47.964778
       },
       "links_count": 8,
       "objectID": "2635"
@@ -20117,8 +20117,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "BHI",
       "_geoloc": {
-        "lat": -38.724967,
-        "lng": -62.169317
+        "latitude": -38.724967,
+        "longitude": -62.169317
       },
       "links_count": 8,
       "objectID": "2501"
@@ -20129,8 +20129,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "IGR",
       "_geoloc": {
-        "lat": -25.737281,
-        "lng": -54.473444
+        "latitude": -25.737281,
+        "longitude": -54.473444
       },
       "links_count": 8,
       "objectID": "2471"
@@ -20141,8 +20141,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "DGT",
       "_geoloc": {
-        "lat": 9.333714,
-        "lng": 123.300472
+        "latitude": 9.333714,
+        "longitude": 123.300472
       },
       "links_count": 8,
       "objectID": "2425"
@@ -20153,8 +20153,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "GHA",
       "_geoloc": {
-        "lat": 32.384106,
-        "lng": 3.794114
+        "latitude": 32.384106,
+        "longitude": 3.794114
       },
       "links_count": 8,
       "objectID": "237"
@@ -20165,8 +20165,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "KWJ",
       "_geoloc": {
-        "lat": 35.126389,
-        "lng": 126.808889
+        "latitude": 35.126389,
+        "longitude": 126.808889
       },
       "links_count": 8,
       "objectID": "2361"
@@ -20177,8 +20177,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "BSK",
       "_geoloc": {
-        "lat": 34.793289,
-        "lng": 5.738231
+        "latitude": 34.793289,
+        "longitude": 5.738231
       },
       "links_count": 8,
       "objectID": "235"
@@ -20189,8 +20189,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HNA",
       "_geoloc": {
-        "lat": 39.428611,
-        "lng": 141.135278
+        "latitude": 39.428611,
+        "longitude": 141.135278
       },
       "links_count": 8,
       "objectID": "2344"
@@ -20201,8 +20201,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KCZ",
       "_geoloc": {
-        "lat": 33.546111,
-        "lng": 133.669444
+        "latitude": 33.546111,
+        "longitude": 133.669444
       },
       "links_count": 8,
       "objectID": "2332"
@@ -20213,8 +20213,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "FUJ",
       "_geoloc": {
-        "lat": 32.666269,
-        "lng": 128.832808
+        "latitude": 32.666269,
+        "longitude": 128.832808
       },
       "links_count": 8,
       "objectID": "2304"
@@ -20225,8 +20225,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "HUN",
       "_geoloc": {
-        "lat": 24.023725,
-        "lng": 121.616906
+        "latitude": 24.023725,
+        "longitude": 121.616906
       },
       "links_count": 8,
       "objectID": "2278"
@@ -20237,8 +20237,8 @@ const airports = [
       "country": "Kiribati",
       "iata_code": "CXI",
       "_geoloc": {
-        "lat": 1.986161,
-        "lng": -157.349778
+        "latitude": 1.986161,
+        "longitude": -157.349778
       },
       "links_count": 8,
       "objectID": "2252"
@@ -20249,8 +20249,8 @@ const airports = [
       "country": "Marshall Islands",
       "iata_code": "MAJ",
       "_geoloc": {
-        "lat": 7.064758,
-        "lng": 171.272022
+        "latitude": 7.064758,
+        "longitude": 171.272022
       },
       "links_count": 8,
       "objectID": "2249"
@@ -20261,8 +20261,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "AZI",
       "_geoloc": {
-        "lat": 24.428333,
-        "lng": 54.458084
+        "latitude": 24.428333,
+        "longitude": 54.458084
       },
       "links_count": 8,
       "objectID": "2180"
@@ -20273,8 +20273,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "TMR",
       "_geoloc": {
-        "lat": 22.811461,
-        "lng": 5.451075
+        "latitude": 22.811461,
+        "longitude": 5.451075
       },
       "links_count": 8,
       "objectID": "216"
@@ -20285,8 +20285,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "KER",
       "_geoloc": {
-        "lat": 30.274444,
-        "lng": 56.951111
+        "latitude": 30.274444,
+        "longitude": 56.951111
       },
       "links_count": 8,
       "objectID": "2136"
@@ -20297,8 +20297,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAM",
       "_geoloc": {
-        "lat": 46.485001,
-        "lng": -84.509445
+        "latitude": 46.485001,
+        "longitude": -84.509445
       },
       "links_count": 8,
       "objectID": "21"
@@ -20309,8 +20309,8 @@ const airports = [
       "country": "Afghanistan",
       "iata_code": "MZR",
       "_geoloc": {
-        "lat": 36.706914,
-        "lng": 67.209678
+        "latitude": 36.706914,
+        "longitude": 67.209678
       },
       "links_count": 8,
       "objectID": "2053"
@@ -20321,8 +20321,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "NSN",
       "_geoloc": {
-        "lat": -41.298333,
-        "lng": 173.221111
+        "latitude": -41.298333,
+        "longitude": 173.221111
       },
       "links_count": 8,
       "objectID": "2024"
@@ -20333,8 +20333,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "HLZ",
       "_geoloc": {
-        "lat": -37.866661,
-        "lng": 175.332056
+        "latitude": -37.866661,
+        "longitude": 175.332056
       },
       "links_count": 8,
       "objectID": "2015"
@@ -20345,8 +20345,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "HUH",
       "_geoloc": {
-        "lat": -16.687242,
-        "lng": -151.021667
+        "latitude": -16.687242,
+        "longitude": -151.021667
       },
       "links_count": 8,
       "objectID": "1991"
@@ -20357,8 +20357,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "NHV",
       "_geoloc": {
-        "lat": -8.795603,
-        "lng": -140.228789
+        "latitude": -8.795603,
+        "longitude": -140.228789
       },
       "links_count": 8,
       "objectID": "1987"
@@ -20369,8 +20369,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "ZSA",
       "_geoloc": {
-        "lat": 24.063275,
-        "lng": -74.523967
+        "latitude": 24.063275,
+        "longitude": -74.523967
       },
       "links_count": 8,
       "objectID": "1956"
@@ -20381,8 +20381,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYH",
       "_geoloc": {
-        "lat": 69.546667,
-        "lng": -93.576667
+        "latitude": 69.546667,
+        "longitude": -93.576667
       },
       "links_count": 8,
       "objectID": "183"
@@ -20393,8 +20393,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MXL",
       "_geoloc": {
-        "lat": 32.630634,
-        "lng": -115.241637
+        "latitude": 32.630634,
+        "longitude": -115.241637
       },
       "links_count": 8,
       "objectID": "1820"
@@ -20405,8 +20405,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYG",
       "_geoloc": {
-        "lat": 46.290001,
-        "lng": -63.121111
+        "latitude": 46.290001,
+        "longitude": -63.121111
       },
       "links_count": 8,
       "objectID": "182"
@@ -20417,8 +20417,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYD",
       "_geoloc": {
-        "lat": 54.824722,
-        "lng": -127.182778
+        "latitude": 54.824722,
+        "longitude": -127.182778
       },
       "links_count": 8,
       "objectID": "179"
@@ -20429,8 +20429,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXP",
       "_geoloc": {
-        "lat": 66.145,
-        "lng": -65.713611
+        "latitude": 66.145,
+        "longitude": -65.713611
       },
       "links_count": 8,
       "objectID": "170"
@@ -20441,8 +20441,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "MLX",
       "_geoloc": {
-        "lat": 38.435347,
-        "lng": 38.091006
+        "latitude": 38.435347,
+        "longitude": 38.091006
       },
       "links_count": 8,
       "objectID": "1695"
@@ -20453,8 +20453,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "VAS",
       "_geoloc": {
-        "lat": 39.813828,
-        "lng": 36.903497
+        "latitude": 39.813828,
+        "longitude": 36.903497
       },
       "links_count": 8,
       "objectID": "1694"
@@ -20465,8 +20465,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXC",
       "_geoloc": {
-        "lat": 49.612222,
-        "lng": -115.781944
+        "latitude": 49.612222,
+        "longitude": -115.781944
       },
       "links_count": 8,
       "objectID": "164"
@@ -20477,8 +20477,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "PIX",
       "_geoloc": {
-        "lat": 38.554333,
-        "lng": -28.441333
+        "latitude": 38.554333,
+        "longitude": -28.441333
       },
       "links_count": 8,
       "objectID": "1634"
@@ -20489,8 +20489,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "FLW",
       "_geoloc": {
-        "lat": 39.455272,
-        "lng": -31.131361
+        "latitude": 39.455272,
+        "longitude": -31.131361
       },
       "links_count": 8,
       "objectID": "1625"
@@ -20501,8 +20501,8 @@ const airports = [
       "country": "Czech Republic",
       "iata_code": "OSR",
       "_geoloc": {
-        "lat": 49.696292,
-        "lng": 18.111053
+        "latitude": 49.696292,
+        "longitude": 18.111053
       },
       "links_count": 8,
       "objectID": "1582"
@@ -20513,8 +20513,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PMF",
       "_geoloc": {
-        "lat": 44.824483,
-        "lng": 10.296367
+        "latitude": 44.824483,
+        "longitude": 10.296367
       },
       "links_count": 8,
       "objectID": "1531"
@@ -20525,8 +20525,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUX",
       "_geoloc": {
-        "lat": 68.776111,
-        "lng": -81.243611
+        "latitude": 68.776111,
+        "longitude": -81.243611
       },
       "links_count": 8,
       "objectID": "148"
@@ -20537,8 +20537,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUT",
       "_geoloc": {
-        "lat": 66.521389,
-        "lng": -86.224722
+        "latitude": 66.521389,
+        "longitude": -86.224722
       },
       "links_count": 8,
       "objectID": "147"
@@ -20549,8 +20549,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KSJ",
       "_geoloc": {
-        "lat": 35.421358,
-        "lng": 26.910047
+        "latitude": 35.421358,
+        "longitude": 26.910047
       },
       "links_count": 8,
       "objectID": "1461"
@@ -20561,8 +20561,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KIT",
       "_geoloc": {
-        "lat": 36.274258,
-        "lng": 23.016978
+        "latitude": 36.274258,
+        "longitude": 23.016978
       },
       "links_count": 8,
       "objectID": "1454"
@@ -20573,8 +20573,8 @@ const airports = [
       "country": "France",
       "iata_code": "FNI",
       "_geoloc": {
-        "lat": 43.757444,
-        "lng": 4.416347
+        "latitude": 43.757444,
+        "longitude": 4.416347
       },
       "links_count": 8,
       "objectID": "1439"
@@ -20585,8 +20585,8 @@ const airports = [
       "country": "France",
       "iata_code": "CFR",
       "_geoloc": {
-        "lat": 49.173333,
-        "lng": -0.45
+        "latitude": 49.173333,
+        "longitude": -0.45
       },
       "links_count": 8,
       "objectID": "1412"
@@ -20597,8 +20597,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSM",
       "_geoloc": {
-        "lat": 60.020278,
-        "lng": -111.961944
+        "latitude": 60.020278,
+        "longitude": -111.961944
       },
       "links_count": 8,
       "objectID": "136"
@@ -20609,8 +20609,8 @@ const airports = [
       "country": "France",
       "iata_code": "RDZ",
       "_geoloc": {
-        "lat": 44.407869,
-        "lng": 2.482672
+        "latitude": 44.407869,
+        "longitude": 2.482672
       },
       "links_count": 8,
       "objectID": "1289"
@@ -20621,8 +20621,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQZ",
       "_geoloc": {
-        "lat": 53.026112,
-        "lng": -122.510278
+        "latitude": 53.026112,
+        "longitude": -122.510278
       },
       "links_count": 8,
       "objectID": "127"
@@ -20633,8 +20633,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQU",
       "_geoloc": {
-        "lat": 55.179722,
-        "lng": -118.885
+        "latitude": 55.179722,
+        "longitude": -118.885
       },
       "links_count": 8,
       "objectID": "122"
@@ -20645,8 +20645,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "OSI",
       "_geoloc": {
-        "lat": 45.462667,
-        "lng": 18.810156
+        "latitude": 45.462667,
+        "longitude": 18.810156
       },
       "links_count": 8,
       "objectID": "1202"
@@ -20657,8 +20657,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "LAU",
       "_geoloc": {
-        "lat": -2.252417,
-        "lng": 40.913097
+        "latitude": -2.252417,
+        "longitude": 40.913097
       },
       "links_count": 8,
       "objectID": "1144"
@@ -20669,8 +20669,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "ASW",
       "_geoloc": {
-        "lat": 23.964356,
-        "lng": 32.819975
+        "latitude": 23.964356,
+        "longitude": 32.819975
       },
       "links_count": 8,
       "objectID": "1136"
@@ -20681,8 +20681,8 @@ const airports = [
       "country": "Mauritania",
       "iata_code": "NDB",
       "_geoloc": {
-        "lat": 20.933067,
-        "lng": -17.029956
+        "latitude": 20.933067,
+        "longitude": -17.029956
       },
       "links_count": 8,
       "objectID": "1097"
@@ -20693,8 +20693,8 @@ const airports = [
       "country": "Zimbabwe",
       "iata_code": "BUQ",
       "_geoloc": {
-        "lat": -20.017431,
-        "lng": 28.617869
+        "latitude": -20.017431,
+        "longitude": 28.617869
       },
       "links_count": 8,
       "objectID": "1001"
@@ -20705,8 +20705,8 @@ const airports = [
       "country": "Sao Tome and Principe",
       "iata_code": "TMS",
       "_geoloc": {
-        "lat": 0.378175,
-        "lng": 6.712153
+        "latitude": 0.378175,
+        "longitude": 6.712153
       },
       "links_count": 7,
       "objectID": "973"
@@ -20717,8 +20717,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "MRE",
       "_geoloc": {
-        "lat": -1.406111,
-        "lng": 35.008056
+        "latitude": -1.406111,
+        "longitude": 35.008056
       },
       "links_count": 7,
       "objectID": "7424"
@@ -20729,8 +20729,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KOT",
       "_geoloc": {
-        "lat": 63.030556,
-        "lng": -163.532778
+        "latitude": 63.030556,
+        "longitude": -163.532778
       },
       "links_count": 7,
       "objectID": "7207"
@@ -20741,8 +20741,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KWK",
       "_geoloc": {
-        "lat": 59.876389,
-        "lng": -163.168611
+        "latitude": 59.876389,
+        "longitude": -163.168611
       },
       "links_count": 7,
       "objectID": "7096"
@@ -20753,8 +20753,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EMK",
       "_geoloc": {
-        "lat": 62.786111,
-        "lng": -164.490833
+        "latitude": 62.786111,
+        "longitude": -164.490833
       },
       "links_count": 7,
       "objectID": "7087"
@@ -20765,8 +20765,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVB",
       "_geoloc": {
-        "lat": 48.0711,
-        "lng": -65.4603
+        "latitude": 48.0711,
+        "longitude": -65.4603
       },
       "links_count": 7,
       "objectID": "6775"
@@ -20777,8 +20777,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "UAS",
       "_geoloc": {
-        "lat": 0.530583,
-        "lng": 37.5342
+        "latitude": 0.530583,
+        "longitude": 37.5342
       },
       "links_count": 7,
       "objectID": "6773"
@@ -20789,8 +20789,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "EGM",
       "_geoloc": {
-        "lat": -8.57889,
-        "lng": 157.876
+        "latitude": -8.57889,
+        "longitude": 157.876
       },
       "links_count": 7,
       "objectID": "6758"
@@ -20801,8 +20801,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "TMU",
       "_geoloc": {
-        "lat": 9.73852,
-        "lng": -85.0138
+        "latitude": 9.73852,
+        "longitude": -85.0138
       },
       "links_count": 7,
       "objectID": "6732"
@@ -20813,8 +20813,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AKP",
       "_geoloc": {
-        "lat": 68.1336,
-        "lng": -151.743
+        "latitude": 68.1336,
+        "longitude": -151.743
       },
       "links_count": 7,
       "objectID": "6712"
@@ -20825,8 +20825,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHD",
       "_geoloc": {
-        "lat": 49.831667,
-        "lng": -92.744167
+        "latitude": 49.831667,
+        "longitude": -92.744167
       },
       "links_count": 7,
       "objectID": "67"
@@ -20837,8 +20837,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "ANX",
       "_geoloc": {
-        "lat": 69.2925,
-        "lng": 16.144167
+        "latitude": 69.2925,
+        "longitude": 16.144167
       },
       "links_count": 7,
       "objectID": "631"
@@ -20849,8 +20849,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "LRE",
       "_geoloc": {
-        "lat": -23.4342,
-        "lng": 144.28
+        "latitude": -23.4342,
+        "longitude": 144.28
       },
       "links_count": 7,
       "objectID": "6289"
@@ -20861,8 +20861,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HNS",
       "_geoloc": {
-        "lat": 59.2438,
-        "lng": -135.524
+        "latitude": 59.2438,
+        "longitude": -135.524
       },
       "links_count": 7,
       "objectID": "5963"
@@ -20873,8 +20873,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SGY",
       "_geoloc": {
-        "lat": 59.4601,
-        "lng": -135.316
+        "latitude": 59.4601,
+        "longitude": -135.316
       },
       "links_count": 7,
       "objectID": "5961"
@@ -20885,8 +20885,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "CCV",
       "_geoloc": {
-        "lat": -16.265,
-        "lng": 167.924
+        "latitude": -16.265,
+        "longitude": 167.924
       },
       "links_count": 7,
       "objectID": "5897"
@@ -20897,8 +20897,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPM",
       "_geoloc": {
-        "lat": 51.8197,
-        "lng": -93.9733
+        "latitude": 51.8197,
+        "longitude": -93.9733
       },
       "links_count": 7,
       "objectID": "5521"
@@ -20909,8 +20909,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPH",
       "_geoloc": {
-        "lat": 58.4719,
-        "lng": -78.0769
+        "latitude": 58.4719,
+        "longitude": -78.0769
       },
       "links_count": 7,
       "objectID": "5520"
@@ -20921,8 +20921,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SKN",
       "_geoloc": {
-        "lat": 68.580833,
-        "lng": 15.026111
+        "latitude": 68.580833,
+        "longitude": 15.026111
       },
       "links_count": 7,
       "objectID": "4252"
@@ -20933,8 +20933,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JIK",
       "_geoloc": {
-        "lat": 37.682717,
-        "lng": 26.347061
+        "latitude": 37.682717,
+        "longitude": 26.347061
       },
       "links_count": 7,
       "objectID": "4191"
@@ -20945,8 +20945,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LNY",
       "_geoloc": {
-        "lat": 20.785611,
-        "lng": -156.951419
+        "latitude": 20.785611,
+        "longitude": -156.951419
       },
       "links_count": 7,
       "objectID": "3851"
@@ -20957,8 +20957,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MKK",
       "_geoloc": {
-        "lat": 21.152886,
-        "lng": -157.096256
+        "latitude": 21.152886,
+        "longitude": -157.096256
       },
       "links_count": 7,
       "objectID": "3705"
@@ -20969,8 +20969,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "FKQ",
       "_geoloc": {
-        "lat": -2.920192,
-        "lng": 132.267031
+        "latitude": -2.920192,
+        "longitude": 132.267031
       },
       "links_count": 7,
       "objectID": "3257"
@@ -20981,8 +20981,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "DMB",
       "_geoloc": {
-        "lat": 42.853611,
-        "lng": 71.303611
+        "latitude": 42.853611,
+        "longitude": 71.303611
       },
       "links_count": 7,
       "objectID": "2911"
@@ -20993,8 +20993,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PET",
       "_geoloc": {
-        "lat": -31.718353,
-        "lng": -52.327689
+        "latitude": -31.718353,
+        "longitude": -52.327689
       },
       "links_count": 7,
       "objectID": "2603"
@@ -21005,8 +21005,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ATM",
       "_geoloc": {
-        "lat": -3.253906,
-        "lng": -52.253978
+        "latitude": -3.253906,
+        "longitude": -52.253978
       },
       "links_count": 7,
       "objectID": "2566"
@@ -21017,8 +21017,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CAW",
       "_geoloc": {
-        "lat": -21.698333,
-        "lng": -41.301669
+        "latitude": -21.698333,
+        "longitude": -41.301669
       },
       "links_count": 7,
       "objectID": "2543"
@@ -21029,8 +21029,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "MOZ",
       "_geoloc": {
-        "lat": -17.489972,
-        "lng": -149.761869
+        "latitude": -17.489972,
+        "longitude": -149.761869
       },
       "links_count": 7,
       "objectID": "1992"
@@ -21041,8 +21041,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "GLF",
       "_geoloc": {
-        "lat": 8.653775,
-        "lng": -83.180544
+        "latitude": 8.653775,
+        "longitude": -83.180544
       },
       "links_count": 7,
       "objectID": "1879"
@@ -21053,8 +21053,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "KYA",
       "_geoloc": {
-        "lat": 37.979,
-        "lng": 32.561861
+        "latitude": 37.979,
+        "longitude": 32.561861
       },
       "links_count": 7,
       "objectID": "1691"
@@ -21065,8 +21065,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "TGM",
       "_geoloc": {
-        "lat": 46.467714,
-        "lng": 24.412525
+        "latitude": 46.467714,
+        "longitude": 24.412525
       },
       "links_count": 7,
       "objectID": "1662"
@@ -21077,8 +21077,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "VLL",
       "_geoloc": {
-        "lat": 41.706111,
-        "lng": -4.851944
+        "latitude": 41.706111,
+        "longitude": -4.851944
       },
       "links_count": 7,
       "objectID": "1247"
@@ -21089,8 +21089,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "EDL",
       "_geoloc": {
-        "lat": 0.404458,
-        "lng": 35.238928
+        "latitude": 0.404458,
+        "longitude": 35.238928
       },
       "links_count": 7,
       "objectID": "1138"
@@ -21101,8 +21101,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "UEL",
       "_geoloc": {
-        "lat": -17.8555,
-        "lng": 36.869106
+        "latitude": -17.8555,
+        "longitude": 36.869106
       },
       "links_count": 6,
       "objectID": "986"
@@ -21113,8 +21113,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "INH",
       "_geoloc": {
-        "lat": -23.876431,
-        "lng": 35.408544
+        "latitude": -23.876431,
+        "longitude": 35.408544
       },
       "links_count": 6,
       "objectID": "976"
@@ -21125,8 +21125,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "SDD",
       "_geoloc": {
-        "lat": -14.924733,
-        "lng": 13.575022
+        "latitude": -14.924733,
+        "longitude": 13.575022
       },
       "links_count": 6,
       "objectID": "959"
@@ -21137,8 +21137,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "SZA",
       "_geoloc": {
-        "lat": -6.141086,
-        "lng": 12.371764
+        "latitude": -6.141086,
+        "longitude": 12.371764
       },
       "links_count": 6,
       "objectID": "958"
@@ -21149,8 +21149,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "SPP",
       "_geoloc": {
-        "lat": -14.657583,
-        "lng": 17.719833
+        "latitude": -14.657583,
+        "longitude": 17.719833
       },
       "links_count": 6,
       "objectID": "953"
@@ -21161,8 +21161,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "NOV",
       "_geoloc": {
-        "lat": -12.808878,
-        "lng": 15.760547
+        "latitude": -12.808878,
+        "longitude": 15.760547
       },
       "links_count": 6,
       "objectID": "948"
@@ -21173,8 +21173,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "TLE",
       "_geoloc": {
-        "lat": -23.383369,
-        "lng": 43.728453
+        "latitude": -23.383369,
+        "longitude": 43.728453
       },
       "links_count": 6,
       "objectID": "943"
@@ -21185,8 +21185,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "SVB",
       "_geoloc": {
-        "lat": -14.278611,
-        "lng": 50.174721
+        "latitude": -14.278611,
+        "longitude": 50.174721
       },
       "links_count": 6,
       "objectID": "933"
@@ -21197,8 +21197,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "MJN",
       "_geoloc": {
-        "lat": -15.667144,
-        "lng": 46.351828
+        "latitude": -15.667144,
+        "longitude": 46.351828
       },
       "links_count": 6,
       "objectID": "929"
@@ -21209,8 +21209,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "ANM",
       "_geoloc": {
-        "lat": -14.999411,
-        "lng": 50.320233
+        "latitude": -14.999411,
+        "longitude": 50.320233
       },
       "links_count": 6,
       "objectID": "927"
@@ -21221,8 +21221,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "GIU",
       "_geoloc": {
-        "lat": 7.57212,
-        "lng": 80.43412
+        "latitude": 7.57212,
+        "longitude": 80.43412
       },
       "links_count": 6,
       "objectID": "9229"
@@ -21233,8 +21233,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "SMS",
       "_geoloc": {
-        "lat": -17.093889,
-        "lng": 49.815834
+        "latitude": -17.093889,
+        "longitude": 49.815834
       },
       "links_count": 6,
       "objectID": "920"
@@ -21245,8 +21245,8 @@ const airports = [
       "country": "Reunion",
       "iata_code": "ZSE",
       "_geoloc": {
-        "lat": -21.320039,
-        "lng": 55.423581
+        "latitude": -21.320039,
+        "longitude": 55.423581
       },
       "links_count": 6,
       "objectID": "917"
@@ -21257,8 +21257,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YMO",
       "_geoloc": {
-        "lat": 51.291111,
-        "lng": -80.607778
+        "latitude": 51.291111,
+        "longitude": -80.607778
       },
       "links_count": 6,
       "objectID": "91"
@@ -21269,8 +21269,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BQB",
       "_geoloc": {
-        "lat": -33.687222,
-        "lng": 115.400278
+        "latitude": -33.687222,
+        "longitude": 115.400278
       },
       "links_count": 6,
       "objectID": "9090"
@@ -21281,8 +21281,8 @@ const airports = [
       "country": "Central African Republic",
       "iata_code": "BGF",
       "_geoloc": {
-        "lat": 4.398475,
-        "lng": 18.518786
+        "latitude": 4.398475,
+        "longitude": 18.518786
       },
       "links_count": 6,
       "objectID": "888"
@@ -21293,8 +21293,8 @@ const airports = [
       "country": "China",
       "iata_code": "LLF",
       "_geoloc": {
-        "lat": 26.345556,
-        "lng": 111.612222
+        "latitude": 26.345556,
+        "longitude": 111.612222
       },
       "links_count": 6,
       "objectID": "8845"
@@ -21305,8 +21305,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JTC",
       "_geoloc": {
-        "lat": -22.157778,
-        "lng": -49.068333
+        "latitude": -22.157778,
+        "longitude": -49.068333
       },
       "links_count": 6,
       "objectID": "8238"
@@ -21317,8 +21317,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OOK",
       "_geoloc": {
-        "lat": 60.541389,
-        "lng": -165.087222
+        "latitude": 60.541389,
+        "longitude": -165.087222
       },
       "links_count": 6,
       "objectID": "8200"
@@ -21329,8 +21329,8 @@ const airports = [
       "country": "China",
       "iata_code": "AEB",
       "_geoloc": {
-        "lat": 23.72,
-        "lng": 106.96
+        "latitude": 23.72,
+        "longitude": 106.96
       },
       "links_count": 6,
       "objectID": "8082"
@@ -21341,8 +21341,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZY",
       "_geoloc": {
-        "lat": 55.29944,
-        "lng": -123.08333
+        "latitude": 55.29944,
+        "longitude": -123.08333
       },
       "links_count": 6,
       "objectID": "7987"
@@ -21353,8 +21353,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "UKA",
       "_geoloc": {
-        "lat": -4.29694,
-        "lng": 39.5714
+        "latitude": -4.29694,
+        "longitude": 39.5714
       },
       "links_count": 6,
       "objectID": "7976"
@@ -21365,8 +21365,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKF",
       "_geoloc": {
-        "lat": 43.460833,
-        "lng": -80.378611
+        "latitude": 43.460833,
+        "longitude": -80.378611
       },
       "links_count": 6,
       "objectID": "79"
@@ -21377,8 +21377,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PVU",
       "_geoloc": {
-        "lat": 40.21805555,
-        "lng": -111.72222222
+        "latitude": 40.21805555,
+        "longitude": -111.72222222
       },
       "links_count": 6,
       "objectID": "7579"
@@ -21389,8 +21389,8 @@ const airports = [
       "country": "China",
       "iata_code": "HJJ",
       "_geoloc": {
-        "lat": 27.441389,
-        "lng": 109.699722
+        "latitude": 27.441389,
+        "longitude": 109.699722
       },
       "links_count": 6,
       "objectID": "7519"
@@ -21401,8 +21401,8 @@ const airports = [
       "country": "China",
       "iata_code": "HZH",
       "_geoloc": {
-        "lat": 26.206,
-        "lng": 109.039
+        "latitude": 26.206,
+        "longitude": 109.039
       },
       "links_count": 6,
       "objectID": "7508"
@@ -21413,8 +21413,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YIO",
       "_geoloc": {
-        "lat": 72.683334,
-        "lng": -77.966667
+        "latitude": 72.683334,
+        "longitude": -77.966667
       },
       "links_count": 6,
       "objectID": "75"
@@ -21425,8 +21425,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "JIJ",
       "_geoloc": {
-        "lat": 9.359722,
-        "lng": 42.7875
+        "latitude": 9.359722,
+        "longitude": 42.7875
       },
       "links_count": 6,
       "objectID": "7417"
@@ -21437,8 +21437,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JCB",
       "_geoloc": {
-        "lat": -27.172778,
-        "lng": -51.500833
+        "latitude": -27.172778,
+        "longitude": -51.500833
       },
       "links_count": 6,
       "objectID": "7384"
@@ -21449,8 +21449,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "DOU",
       "_geoloc": {
-        "lat": -22.220833,
-        "lng": -54.805833
+        "latitude": -22.220833,
+        "longitude": -54.805833
       },
       "links_count": 6,
       "objectID": "7380"
@@ -21461,8 +21461,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "OPS",
       "_geoloc": {
-        "lat": -11.885,
-        "lng": -55.586
+        "latitude": -11.885,
+        "longitude": -55.586
       },
       "links_count": 6,
       "objectID": "7367"
@@ -21473,8 +21473,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CFB",
       "_geoloc": {
-        "lat": -22.921667,
-        "lng": -42.074167
+        "latitude": -22.921667,
+        "longitude": -42.074167
       },
       "links_count": 6,
       "objectID": "7364"
@@ -21485,8 +21485,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "VST",
       "_geoloc": {
-        "lat": 59.589444,
-        "lng": 16.633611
+        "latitude": 59.589444,
+        "longitude": 16.633611
       },
       "links_count": 6,
       "objectID": "733"
@@ -21497,8 +21497,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZEL",
       "_geoloc": {
-        "lat": 52.139722,
-        "lng": -128.063611
+        "latitude": 52.139722,
+        "longitude": -128.063611
       },
       "links_count": 6,
       "objectID": "7275"
@@ -21509,8 +21509,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "SFT",
       "_geoloc": {
-        "lat": 64.624772,
-        "lng": 21.076892
+        "latitude": 64.624772,
+        "longitude": 21.076892
       },
       "links_count": 6,
       "objectID": "726"
@@ -21521,8 +21521,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGV",
       "_geoloc": {
-        "lat": 50.281944,
-        "lng": -63.611389
+        "latitude": 50.281944,
+        "longitude": -63.611389
       },
       "links_count": 6,
       "objectID": "7255"
@@ -21533,8 +21533,8 @@ const airports = [
       "country": "United States",
       "iata_code": "STG",
       "_geoloc": {
-        "lat": 56.577222,
-        "lng": -169.663611
+        "latitude": 56.577222,
+        "longitude": -169.663611
       },
       "links_count": 6,
       "objectID": "7247"
@@ -21545,8 +21545,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "KRN",
       "_geoloc": {
-        "lat": 67.821986,
-        "lng": 20.336764
+        "latitude": 67.821986,
+        "longitude": 20.336764
       },
       "links_count": 6,
       "objectID": "724"
@@ -21557,8 +21557,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KGX",
       "_geoloc": {
-        "lat": 62.894444,
-        "lng": -160.065
+        "latitude": 62.894444,
+        "longitude": -160.065
       },
       "links_count": 6,
       "objectID": "7219"
@@ -21569,8 +21569,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TLT",
       "_geoloc": {
-        "lat": 61.096944,
-        "lng": -160.969444
+        "latitude": 61.096944,
+        "longitude": -160.969444
       },
       "links_count": 6,
       "objectID": "7218"
@@ -21581,8 +21581,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AKI",
       "_geoloc": {
-        "lat": 60.902778,
-        "lng": -161.230556
+        "latitude": 60.902778,
+        "longitude": -161.230556
       },
       "links_count": 6,
       "objectID": "7217"
@@ -21593,8 +21593,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PQS",
       "_geoloc": {
-        "lat": 61.934444,
-        "lng": -162.899444
+        "latitude": 61.934444,
+        "longitude": -162.899444
       },
       "links_count": 6,
       "objectID": "7216"
@@ -21605,8 +21605,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KKH",
       "_geoloc": {
-        "lat": 59.960833,
-        "lng": -162.881111
+        "latitude": 59.960833,
+        "longitude": -162.881111
       },
       "links_count": 6,
       "objectID": "7213"
@@ -21617,8 +21617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KLW",
       "_geoloc": {
-        "lat": 55.579167,
-        "lng": -133.076111
+        "latitude": 55.579167,
+        "longitude": -133.076111
       },
       "links_count": 6,
       "objectID": "7205"
@@ -21629,8 +21629,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KPN",
       "_geoloc": {
-        "lat": 59.933056,
-        "lng": -164.030556
+        "latitude": 59.933056,
+        "longitude": -164.030556
       },
       "links_count": 6,
       "objectID": "7201"
@@ -21641,8 +21641,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHY",
       "_geoloc": {
-        "lat": 60.839722,
-        "lng": -115.782778
+        "latitude": 60.839722,
+        "longitude": -115.782778
       },
       "links_count": 6,
       "objectID": "72"
@@ -21653,8 +21653,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TLA",
       "_geoloc": {
-        "lat": 65.240278,
-        "lng": -166.339444
+        "latitude": 65.240278,
+        "longitude": -166.339444
       },
       "links_count": 6,
       "objectID": "7186"
@@ -21665,8 +21665,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OBU",
       "_geoloc": {
-        "lat": 66.912222,
-        "lng": -156.897222
+        "latitude": 66.912222,
+        "longitude": -156.897222
       },
       "links_count": 6,
       "objectID": "7180"
@@ -21677,8 +21677,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MTM",
       "_geoloc": {
-        "lat": 55.131111,
-        "lng": -131.578056
+        "latitude": 55.131111,
+        "longitude": -131.578056
       },
       "links_count": 6,
       "objectID": "7146"
@@ -21689,8 +21689,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HNH",
       "_geoloc": {
-        "lat": 58.096111,
-        "lng": -135.409722
+        "latitude": 58.096111,
+        "longitude": -135.409722
       },
       "links_count": 6,
       "objectID": "7142"
@@ -21701,8 +21701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHG",
       "_geoloc": {
-        "lat": 66.888056,
-        "lng": -157.1625
+        "latitude": 66.888056,
+        "longitude": -157.1625
       },
       "links_count": 6,
       "objectID": "7117"
@@ -21713,8 +21713,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NUL",
       "_geoloc": {
-        "lat": 64.729444,
-        "lng": -158.074167
+        "latitude": 64.729444,
+        "longitude": -158.074167
       },
       "links_count": 6,
       "objectID": "7111"
@@ -21725,8 +21725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KWT",
       "_geoloc": {
-        "lat": 60.790278,
-        "lng": -161.443611
+        "latitude": 60.790278,
+        "longitude": -161.443611
       },
       "links_count": 6,
       "objectID": "7095"
@@ -21737,8 +21737,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EEK",
       "_geoloc": {
-        "lat": 60.213611,
-        "lng": -162.043889
+        "latitude": 60.213611,
+        "longitude": -162.043889
       },
       "links_count": 6,
       "objectID": "7093"
@@ -21749,8 +21749,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHX",
       "_geoloc": {
-        "lat": 62.692222,
-        "lng": -159.569167
+        "latitude": 62.692222,
+        "longitude": -159.569167
       },
       "links_count": 6,
       "objectID": "7090"
@@ -21761,8 +21761,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "KLR",
       "_geoloc": {
-        "lat": 56.685531,
-        "lng": 16.287578
+        "latitude": 56.685531,
+        "longitude": 16.287578
       },
       "links_count": 6,
       "objectID": "707"
@@ -21773,8 +21773,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AIA",
       "_geoloc": {
-        "lat": 42.053333,
-        "lng": -102.803889
+        "latitude": 42.053333,
+        "longitude": -102.803889
       },
       "links_count": 6,
       "objectID": "7067"
@@ -21785,8 +21785,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CDR",
       "_geoloc": {
-        "lat": 42.8375,
-        "lng": -103.095556
+        "latitude": 42.8375,
+        "longitude": -103.095556
       },
       "links_count": 6,
       "objectID": "7066"
@@ -21797,8 +21797,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "CZH",
       "_geoloc": {
-        "lat": 18.3822,
-        "lng": -88.4119
+        "latitude": 18.3822,
+        "longitude": -88.4119
       },
       "links_count": 6,
       "objectID": "7029"
@@ -21809,8 +21809,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CYF",
       "_geoloc": {
-        "lat": 60.149167,
-        "lng": -164.285556
+        "latitude": 60.149167,
+        "longitude": -164.285556
       },
       "links_count": 6,
       "objectID": "6960"
@@ -21821,8 +21821,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "DRK",
       "_geoloc": {
-        "lat": 8.71889,
-        "lng": -83.6417
+        "latitude": 8.71889,
+        "longitude": -83.6417
       },
       "links_count": 6,
       "objectID": "6945"
@@ -21833,8 +21833,8 @@ const airports = [
       "country": "China",
       "iata_code": "OHE",
       "_geoloc": {
-        "lat": 52.915,
-        "lng": 122.427
+        "latitude": 52.915,
+        "longitude": 122.427
       },
       "links_count": 6,
       "objectID": "6943"
@@ -21845,8 +21845,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "RNB",
       "_geoloc": {
-        "lat": 56.266667,
-        "lng": 15.265
+        "latitude": 56.266667,
+        "longitude": 15.265
       },
       "links_count": 6,
       "objectID": "685"
@@ -21857,8 +21857,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MQT",
       "_geoloc": {
-        "lat": 46.353611,
-        "lng": -87.395278
+        "latitude": 46.353611,
+        "longitude": -87.395278
       },
       "links_count": 6,
       "objectID": "6838"
@@ -21869,8 +21869,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHI",
       "_geoloc": {
-        "lat": 70.762778,
-        "lng": -117.806111
+        "latitude": 70.762778,
+        "longitude": -117.806111
       },
       "links_count": 6,
       "objectID": "68"
@@ -21881,8 +21881,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "MSR",
       "_geoloc": {
-        "lat": 38.747769,
-        "lng": 41.661236
+        "latitude": 38.747769,
+        "longitude": 41.661236
       },
       "links_count": 6,
       "objectID": "6782"
@@ -21893,8 +21893,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "WVB",
       "_geoloc": {
-        "lat": -22.9799,
-        "lng": 14.6453
+        "latitude": -22.9799,
+        "longitude": 14.6453
       },
       "links_count": 6,
       "objectID": "6778"
@@ -21905,8 +21905,8 @@ const airports = [
       "country": "Uruguay",
       "iata_code": "PDP",
       "_geoloc": {
-        "lat": -34.855139,
-        "lng": -55.094278
+        "latitude": -34.855139,
+        "longitude": -55.094278
       },
       "links_count": 6,
       "objectID": "6777"
@@ -21917,8 +21917,8 @@ const airports = [
       "country": "China",
       "iata_code": "CHG",
       "_geoloc": {
-        "lat": 41.5381,
-        "lng": 120.435
+        "latitude": 41.5381,
+        "longitude": 120.435
       },
       "links_count": 6,
       "objectID": "6772"
@@ -21929,8 +21929,8 @@ const airports = [
       "country": "China",
       "iata_code": "WUZ",
       "_geoloc": {
-        "lat": 23.4567,
-        "lng": 111.248
+        "latitude": 23.4567,
+        "longitude": 111.248
       },
       "links_count": 6,
       "objectID": "6744"
@@ -21941,8 +21941,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "FON",
       "_geoloc": {
-        "lat": 10.478,
-        "lng": -84.6345
+        "latitude": 10.478,
+        "longitude": -84.6345
       },
       "links_count": 6,
       "objectID": "6731"
@@ -21953,8 +21953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHH",
       "_geoloc": {
-        "lat": 66.2496,
-        "lng": -166.089
+        "latitude": 66.2496,
+        "longitude": -166.089
       },
       "links_count": 6,
       "objectID": "6723"
@@ -21965,8 +21965,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KVL",
       "_geoloc": {
-        "lat": 67.7362,
-        "lng": -164.563
+        "latitude": 67.7362,
+        "longitude": -164.563
       },
       "links_count": 6,
       "objectID": "6719"
@@ -21977,8 +21977,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KAL",
       "_geoloc": {
-        "lat": 64.3191,
-        "lng": -158.741
+        "latitude": 64.3191,
+        "longitude": -158.741
       },
       "links_count": 6,
       "objectID": "6717"
@@ -21989,8 +21989,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ANV",
       "_geoloc": {
-        "lat": 62.6467,
-        "lng": -160.191
+        "latitude": 62.6467,
+        "longitude": -160.191
       },
       "links_count": 6,
       "objectID": "6713"
@@ -22001,8 +22001,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SRP",
       "_geoloc": {
-        "lat": 59.791925,
-        "lng": 5.34085
+        "latitude": 59.791925,
+        "longitude": 5.34085
       },
       "links_count": 6,
       "objectID": "660"
@@ -22013,8 +22013,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "LYR",
       "_geoloc": {
-        "lat": 78.246111,
-        "lng": 15.465556
+        "latitude": 78.246111,
+        "longitude": 15.465556
       },
       "links_count": 6,
       "objectID": "658"
@@ -22025,8 +22025,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGR",
       "_geoloc": {
-        "lat": 47.424721,
-        "lng": -61.778056
+        "latitude": 47.424721,
+        "longitude": -61.778056
       },
       "links_count": 6,
       "objectID": "65"
@@ -22037,8 +22037,8 @@ const airports = [
       "country": "China",
       "iata_code": "HEK",
       "_geoloc": {
-        "lat": 50.25,
-        "lng": 127.3
+        "latitude": 50.25,
+        "longitude": 127.3
       },
       "links_count": 6,
       "objectID": "6410"
@@ -22049,8 +22049,8 @@ const airports = [
       "country": "China",
       "iata_code": "BPX",
       "_geoloc": {
-        "lat": 30.5536,
-        "lng": 97.1083
+        "latitude": 30.5536,
+        "longitude": 97.1083
       },
       "links_count": 6,
       "objectID": "6396"
@@ -22061,8 +22061,8 @@ const airports = [
       "country": "China",
       "iata_code": "ZAT",
       "_geoloc": {
-        "lat": 27.3256,
-        "lng": 103.755
+        "latitude": 27.3256,
+        "longitude": 103.755
       },
       "links_count": 6,
       "objectID": "6378"
@@ -22073,8 +22073,8 @@ const airports = [
       "country": "China",
       "iata_code": "SYM",
       "_geoloc": {
-        "lat": 22.7933,
-        "lng": 100.959
+        "latitude": 22.7933,
+        "longitude": 100.959
       },
       "links_count": 6,
       "objectID": "6377"
@@ -22085,8 +22085,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BWT",
       "_geoloc": {
-        "lat": -40.9989,
-        "lng": 145.731
+        "latitude": -40.9989,
+        "longitude": 145.731
       },
       "links_count": 6,
       "objectID": "6338"
@@ -22097,8 +22097,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "RMA",
       "_geoloc": {
-        "lat": -26.545,
-        "lng": 148.775
+        "latitude": -26.545,
+        "longitude": 148.775
       },
       "links_count": 6,
       "objectID": "6324"
@@ -22109,8 +22109,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PBO",
       "_geoloc": {
-        "lat": -23.1711,
-        "lng": 117.745
+        "latitude": -23.1711,
+        "longitude": 117.745
       },
       "links_count": 6,
       "objectID": "6314"
@@ -22121,8 +22121,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ONG",
       "_geoloc": {
-        "lat": -16.6625,
-        "lng": 139.178
+        "latitude": -16.6625,
+        "longitude": 139.178
       },
       "links_count": 6,
       "objectID": "6304"
@@ -22133,8 +22133,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MOV",
       "_geoloc": {
-        "lat": -22.0578,
-        "lng": 148.077
+        "latitude": -22.0578,
+        "longitude": 148.077
       },
       "links_count": 6,
       "objectID": "6301"
@@ -22145,8 +22145,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MNG",
       "_geoloc": {
-        "lat": -12.0561,
-        "lng": 134.234
+        "latitude": -12.0561,
+        "longitude": 134.234
       },
       "links_count": 6,
       "objectID": "6296"
@@ -22157,8 +22157,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MIM",
       "_geoloc": {
-        "lat": -36.9086,
-        "lng": 149.901
+        "latitude": -36.9086,
+        "longitude": 149.901
       },
       "links_count": 6,
       "objectID": "6294"
@@ -22169,8 +22169,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "LDH",
       "_geoloc": {
-        "lat": -31.5383,
-        "lng": 159.077
+        "latitude": -31.5383,
+        "longitude": 159.077
       },
       "links_count": 6,
       "objectID": "6285"
@@ -22181,8 +22181,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GET",
       "_geoloc": {
-        "lat": -28.7961,
-        "lng": 114.707
+        "latitude": -28.7961,
+        "longitude": 114.707
       },
       "links_count": 6,
       "objectID": "6268"
@@ -22193,8 +22193,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "DMD",
       "_geoloc": {
-        "lat": -17.9403,
-        "lng": 138.822
+        "latitude": -17.9403,
+        "longitude": 138.822
       },
       "links_count": 6,
       "objectID": "6262"
@@ -22205,8 +22205,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ALH",
       "_geoloc": {
-        "lat": -34.9433,
-        "lng": 117.809
+        "latitude": -34.9433,
+        "longitude": 117.809
       },
       "links_count": 6,
       "objectID": "6235"
@@ -22217,8 +22217,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LWY",
       "_geoloc": {
-        "lat": 4.84917,
-        "lng": 115.408
+        "latitude": 4.84917,
+        "longitude": 115.408
       },
       "links_count": 6,
       "objectID": "6219"
@@ -22229,8 +22229,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "LUV",
       "_geoloc": {
-        "lat": -5.661619,
-        "lng": 132.731431
+        "latitude": -5.661619,
+        "longitude": 132.731431
       },
       "links_count": 6,
       "objectID": "6212"
@@ -22241,8 +22241,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BEJ",
       "_geoloc": {
-        "lat": 2.155497,
-        "lng": 117.432256
+        "latitude": 2.155497,
+        "longitude": 117.432256
       },
       "links_count": 6,
       "objectID": "6209"
@@ -22253,8 +22253,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TMC",
       "_geoloc": {
-        "lat": -9.409717,
-        "lng": 119.244494
+        "latitude": -9.409717,
+        "longitude": 119.244494
       },
       "links_count": 6,
       "objectID": "6204"
@@ -22265,8 +22265,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGL",
       "_geoloc": {
-        "lat": 53.625278,
-        "lng": -77.704167
+        "latitude": 53.625278,
+        "longitude": -77.704167
       },
       "links_count": 6,
       "objectID": "62"
@@ -22277,8 +22277,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "PXU",
       "_geoloc": {
-        "lat": 14.004522,
-        "lng": 108.017158
+        "latitude": 14.004522,
+        "longitude": 108.017158
       },
       "links_count": 6,
       "objectID": "6194"
@@ -22289,8 +22289,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "UIH",
       "_geoloc": {
-        "lat": 13.954986,
-        "lng": 109.042267
+        "latitude": 13.954986,
+        "longitude": 109.042267
       },
       "links_count": 6,
       "objectID": "6193"
@@ -22301,8 +22301,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VCA",
       "_geoloc": {
-        "lat": 10.085119,
-        "lng": 105.711922
+        "latitude": 10.085119,
+        "longitude": 105.711922
       },
       "links_count": 6,
       "objectID": "6191"
@@ -22313,8 +22313,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "GAN",
       "_geoloc": {
-        "lat": -0.693342,
-        "lng": 73.1556
+        "latitude": -0.693342,
+        "longitude": 73.1556
       },
       "links_count": 6,
       "objectID": "6183"
@@ -22325,8 +22325,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "AZN",
       "_geoloc": {
-        "lat": 40.7277,
-        "lng": 72.294
+        "latitude": 40.7277,
+        "longitude": 72.294
       },
       "links_count": 6,
       "objectID": "6148"
@@ -22337,8 +22337,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KVX",
       "_geoloc": {
-        "lat": 58.5033,
-        "lng": 49.3483
+        "latitude": 58.5033,
+        "longitude": 49.3483
       },
       "links_count": 6,
       "objectID": "6142"
@@ -22349,8 +22349,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "KSN",
       "_geoloc": {
-        "lat": 53.206944,
-        "lng": 63.550278
+        "latitude": 53.206944,
+        "longitude": 63.550278
       },
       "links_count": 6,
       "objectID": "6088"
@@ -22361,8 +22361,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "VIG",
       "_geoloc": {
-        "lat": 8.6241,
-        "lng": -71.672819
+        "latitude": 8.6241,
+        "longitude": -71.672819
       },
       "links_count": 6,
       "objectID": "6072"
@@ -22373,8 +22373,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PDA",
       "_geoloc": {
-        "lat": 3.85,
-        "lng": -67.91
+        "latitude": 3.85,
+        "longitude": -67.91
       },
       "links_count": 6,
       "objectID": "6054"
@@ -22385,8 +22385,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "ESM",
       "_geoloc": {
-        "lat": 0.978519,
-        "lng": -79.6266
+        "latitude": 0.978519,
+        "longitude": -79.6266
       },
       "links_count": 6,
       "objectID": "6047"
@@ -22397,8 +22397,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "RXS",
       "_geoloc": {
-        "lat": 11.597669,
-        "lng": 122.751669
+        "latitude": 11.597669,
+        "longitude": 122.751669
       },
       "links_count": 6,
       "objectID": "6026"
@@ -22409,8 +22409,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "TUG",
       "_geoloc": {
-        "lat": 17.638311,
-        "lng": 121.730614
+        "latitude": 17.638311,
+        "longitude": 121.730614
       },
       "links_count": 6,
       "objectID": "6021"
@@ -22421,8 +22421,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "SUG",
       "_geoloc": {
-        "lat": 9.757567,
-        "lng": 125.479328
+        "latitude": 9.757567,
+        "longitude": 125.479328
       },
       "links_count": 6,
       "objectID": "6016"
@@ -22433,8 +22433,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "HIN",
       "_geoloc": {
-        "lat": 35.088543,
-        "lng": 128.07037
+        "latitude": 35.088543,
+        "longitude": 128.07037
       },
       "links_count": 6,
       "objectID": "6007"
@@ -22445,8 +22445,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HCR",
       "_geoloc": {
-        "lat": 62.1883,
-        "lng": -159.775
+        "latitude": 62.1883,
+        "longitude": -159.775
       },
       "links_count": 6,
       "objectID": "5962"
@@ -22457,8 +22457,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GST",
       "_geoloc": {
-        "lat": 58.4253,
-        "lng": -135.707
+        "latitude": 58.4253,
+        "longitude": -135.707
       },
       "links_count": 6,
       "objectID": "5960"
@@ -22469,8 +22469,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "OMH",
       "_geoloc": {
-        "lat": 37.6681,
-        "lng": 45.0687
+        "latitude": 37.6681,
+        "longitude": 45.0687
       },
       "links_count": 6,
       "objectID": "5936"
@@ -22481,8 +22481,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "ADU",
       "_geoloc": {
-        "lat": 38.325678,
-        "lng": 48.424356
+        "latitude": 38.325678,
+        "longitude": 48.424356
       },
       "links_count": 6,
       "objectID": "5935"
@@ -22493,8 +22493,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "IPA",
       "_geoloc": {
-        "lat": -18.8783,
-        "lng": 169.308
+        "latitude": -18.8783,
+        "longitude": 169.308
       },
       "links_count": 6,
       "objectID": "5918"
@@ -22505,8 +22505,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "ZGU",
       "_geoloc": {
-        "lat": -14.2181,
-        "lng": 167.587
+        "latitude": -14.2181,
+        "longitude": 167.587
       },
       "links_count": 6,
       "objectID": "5906"
@@ -22517,8 +22517,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "LNE",
       "_geoloc": {
-        "lat": -15.8656,
-        "lng": 168.172
+        "latitude": -15.8656,
+        "longitude": 168.172
       },
       "links_count": 6,
       "objectID": "5904"
@@ -22529,8 +22529,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "TOH",
       "_geoloc": {
-        "lat": -13.328,
-        "lng": 166.638
+        "latitude": -13.328,
+        "longitude": 166.638
       },
       "links_count": 6,
       "objectID": "5895"
@@ -22541,8 +22541,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "SLH",
       "_geoloc": {
-        "lat": -13.8517,
-        "lng": 167.537
+        "latitude": -13.8517,
+        "longitude": 167.537
       },
       "links_count": 6,
       "objectID": "5894"
@@ -22553,8 +22553,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "MTV",
       "_geoloc": {
-        "lat": -13.666,
-        "lng": 167.712
+        "latitude": -13.666,
+        "longitude": 167.712
       },
       "links_count": 6,
       "objectID": "5893"
@@ -22565,8 +22565,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "UAH",
       "_geoloc": {
-        "lat": -8.93611,
-        "lng": -139.552
+        "latitude": -8.93611,
+        "longitude": -139.552
       },
       "links_count": 6,
       "objectID": "5892"
@@ -22577,8 +22577,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "UAP",
       "_geoloc": {
-        "lat": -9.35167,
-        "lng": -140.078
+        "latitude": -9.35167,
+        "longitude": -140.078
       },
       "links_count": 6,
       "objectID": "5891"
@@ -22589,8 +22589,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "SVU",
       "_geoloc": {
-        "lat": -16.8028,
-        "lng": 179.341
+        "latitude": -16.8028,
+        "longitude": 179.341
       },
       "links_count": 6,
       "objectID": "5878"
@@ -22601,8 +22601,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "TVU",
       "_geoloc": {
-        "lat": -16.6906,
-        "lng": -179.877
+        "latitude": -16.6906,
+        "longitude": -179.877
       },
       "links_count": 6,
       "objectID": "5875"
@@ -22613,8 +22613,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "ATC",
       "_geoloc": {
-        "lat": 24.629417,
-        "lng": -75.673775
+        "latitude": 24.629417,
+        "longitude": -75.673775
       },
       "links_count": 6,
       "objectID": "5857"
@@ -22625,8 +22625,8 @@ const airports = [
       "country": "Dominican Republic",
       "iata_code": "JBQ",
       "_geoloc": {
-        "lat": 18.5725,
-        "lng": -69.9856
+        "latitude": 18.5725,
+        "longitude": -69.9856
       },
       "links_count": 6,
       "objectID": "5811"
@@ -22637,8 +22637,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "KCM",
       "_geoloc": {
-        "lat": 37.539,
-        "lng": 36.9534
+        "latitude": 37.539,
+        "longitude": 36.9534
       },
       "links_count": 6,
       "objectID": "5798"
@@ -22649,8 +22649,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "KSY",
       "_geoloc": {
-        "lat": 40.562222,
-        "lng": 43.115002
+        "latitude": 40.562222,
+        "longitude": 43.115002
       },
       "links_count": 6,
       "objectID": "5796"
@@ -22661,8 +22661,8 @@ const airports = [
       "country": "Bosnia and Herzegovina",
       "iata_code": "BNX",
       "_geoloc": {
-        "lat": 44.941444,
-        "lng": 17.297501
+        "latitude": 44.941444,
+        "longitude": 17.297501
       },
       "links_count": 6,
       "objectID": "5794"
@@ -22673,8 +22673,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WRL",
       "_geoloc": {
-        "lat": 43.9657,
-        "lng": -107.951
+        "latitude": 43.9657,
+        "longitude": -107.951
       },
       "links_count": 6,
       "objectID": "5777"
@@ -22685,8 +22685,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VLD",
       "_geoloc": {
-        "lat": 30.7825,
-        "lng": -83.2767
+        "latitude": 30.7825,
+        "longitude": -83.2767
       },
       "links_count": 6,
       "objectID": "5776"
@@ -22697,8 +22697,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RKS",
       "_geoloc": {
-        "lat": 41.5942,
-        "lng": -109.065
+        "latitude": 41.5942,
+        "longitude": -109.065
       },
       "links_count": 6,
       "objectID": "5766"
@@ -22709,8 +22709,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LBE",
       "_geoloc": {
-        "lat": 40.2759,
-        "lng": -79.4048
+        "latitude": 40.2759,
+        "longitude": -79.4048
       },
       "links_count": 6,
       "objectID": "5747"
@@ -22721,8 +22721,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BQK",
       "_geoloc": {
-        "lat": 31.2588,
-        "lng": -81.4665
+        "latitude": 31.2588,
+        "longitude": -81.4665
       },
       "links_count": 6,
       "objectID": "5725"
@@ -22733,8 +22733,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ATY",
       "_geoloc": {
-        "lat": 44.914,
-        "lng": -97.1547
+        "latitude": 44.914,
+        "longitude": -97.1547
       },
       "links_count": 6,
       "objectID": "5721"
@@ -22745,8 +22745,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "LAQ",
       "_geoloc": {
-        "lat": 32.788673,
-        "lng": 21.964333
+        "latitude": 32.788673,
+        "longitude": 21.964333
       },
       "links_count": 6,
       "objectID": "5699"
@@ -22757,8 +22757,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "ESU",
       "_geoloc": {
-        "lat": 31.3975,
-        "lng": -9.681667
+        "latitude": 31.3975,
+        "longitude": -9.681667
       },
       "links_count": 6,
       "objectID": "5671"
@@ -22769,8 +22769,8 @@ const airports = [
       "country": "Western Sahara",
       "iata_code": "VIL",
       "_geoloc": {
-        "lat": 23.7183,
-        "lng": -15.932
+        "latitude": 23.7183,
+        "longitude": -15.932
       },
       "links_count": 6,
       "objectID": "5670"
@@ -22781,8 +22781,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "ERS",
       "_geoloc": {
-        "lat": -22.6122,
-        "lng": 17.0804
+        "latitude": -22.6122,
+        "longitude": 17.0804
       },
       "links_count": 6,
       "objectID": "5645"
@@ -22793,8 +22793,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "AGH",
       "_geoloc": {
-        "lat": 56.2961,
-        "lng": 12.8471
+        "latitude": 56.2961,
+        "longitude": 12.8471
       },
       "links_count": 6,
       "objectID": "5597"
@@ -22805,8 +22805,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "OSD",
       "_geoloc": {
-        "lat": 63.1944,
-        "lng": 14.5003
+        "latitude": 63.1944,
+        "longitude": 14.5003
       },
       "links_count": 6,
       "objectID": "5593"
@@ -22817,8 +22817,8 @@ const airports = [
       "country": "Poland",
       "iata_code": "BZG",
       "_geoloc": {
-        "lat": 53.0968,
-        "lng": 17.9777
+        "latitude": 53.0968,
+        "longitude": 17.9777
       },
       "links_count": 6,
       "objectID": "5591"
@@ -22829,8 +22829,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "VAW",
       "_geoloc": {
-        "lat": 70.355392,
-        "lng": 31.044889
+        "latitude": 70.355392,
+        "longitude": 31.044889
       },
       "links_count": 6,
       "objectID": "5589"
@@ -22841,8 +22841,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SVJ",
       "_geoloc": {
-        "lat": 68.2433,
-        "lng": 14.6692
+        "latitude": 68.2433,
+        "longitude": 14.6692
       },
       "links_count": 6,
       "objectID": "5587"
@@ -22853,8 +22853,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "RVK",
       "_geoloc": {
-        "lat": 64.8383,
-        "lng": 11.1461
+        "latitude": 64.8383,
+        "longitude": 11.1461
       },
       "links_count": 6,
       "objectID": "5583"
@@ -22865,8 +22865,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "OSY",
       "_geoloc": {
-        "lat": 64.4722,
-        "lng": 11.5786
+        "latitude": 64.4722,
+        "longitude": 11.5786
       },
       "links_count": 6,
       "objectID": "5581"
@@ -22877,8 +22877,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "LKN",
       "_geoloc": {
-        "lat": 68.1525,
-        "lng": 13.6094
+        "latitude": 68.1525,
+        "longitude": 13.6094
       },
       "links_count": 6,
       "objectID": "5580"
@@ -22889,8 +22889,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "PPW",
       "_geoloc": {
-        "lat": 59.3517,
-        "lng": -2.90028
+        "latitude": 59.3517,
+        "longitude": -2.90028
       },
       "links_count": 6,
       "objectID": "5567"
@@ -22901,8 +22901,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "NRL",
       "_geoloc": {
-        "lat": 59.3675,
-        "lng": -2.43444
+        "latitude": 59.3675,
+        "longitude": -2.43444
       },
       "links_count": 6,
       "objectID": "5566"
@@ -22913,8 +22913,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZSJ",
       "_geoloc": {
-        "lat": 53.0642,
-        "lng": -93.3444
+        "latitude": 53.0642,
+        "longitude": -93.3444
       },
       "links_count": 6,
       "objectID": "5548"
@@ -22925,8 +22925,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSK",
       "_geoloc": {
-        "lat": 56.5378,
-        "lng": -79.2467
+        "latitude": 56.5378,
+        "longitude": -79.2467
       },
       "links_count": 6,
       "objectID": "5529"
@@ -22937,8 +22937,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUD",
       "_geoloc": {
-        "lat": 56.5361,
-        "lng": -76.5183
+        "latitude": 56.5361,
+        "longitude": -76.5183
       },
       "links_count": 6,
       "objectID": "5515"
@@ -22949,8 +22949,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YMT",
       "_geoloc": {
-        "lat": 49.7719,
-        "lng": -74.5281
+        "latitude": 49.7719,
+        "longitude": -74.5281
       },
       "links_count": 6,
       "objectID": "5514"
@@ -22961,8 +22961,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPJ",
       "_geoloc": {
-        "lat": 59.2967,
-        "lng": -69.5997
+        "latitude": 59.2967,
+        "longitude": -69.5997
       },
       "links_count": 6,
       "objectID": "5508"
@@ -22973,8 +22973,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFH",
       "_geoloc": {
-        "lat": 51.5619,
-        "lng": -87.9078
+        "latitude": 51.5619,
+        "longitude": -87.9078
       },
       "links_count": 6,
       "objectID": "5491"
@@ -22985,8 +22985,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBX",
       "_geoloc": {
-        "lat": 51.4436,
-        "lng": -57.1853
+        "latitude": 51.4436,
+        "longitude": -57.1853
       },
       "links_count": 6,
       "objectID": "5485"
@@ -22997,8 +22997,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YKG",
       "_geoloc": {
-        "lat": 60.0272,
-        "lng": -69.9992
+        "latitude": 60.0272,
+        "longitude": -69.9992
       },
       "links_count": 6,
       "objectID": "5481"
@@ -23009,8 +23009,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JHS",
       "_geoloc": {
-        "lat": 66.9513,
-        "lng": -53.7293
+        "latitude": 66.9513,
+        "longitude": -53.7293
       },
       "links_count": 6,
       "objectID": "5447"
@@ -23021,8 +23021,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "NAQ",
       "_geoloc": {
-        "lat": 77.4886,
-        "lng": -69.3887
+        "latitude": 77.4886,
+        "longitude": -69.3887
       },
       "links_count": 6,
       "objectID": "5446"
@@ -23033,8 +23033,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "VAI",
       "_geoloc": {
-        "lat": -2.69717,
-        "lng": 141.302
+        "latitude": -2.69717,
+        "longitude": 141.302
       },
       "links_count": 6,
       "objectID": "5436"
@@ -23045,8 +23045,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "TIZ",
       "_geoloc": {
-        "lat": -5.845,
-        "lng": 142.948
+        "latitude": -5.845,
+        "longitude": 142.948
       },
       "links_count": 6,
       "objectID": "5433"
@@ -23057,8 +23057,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "MXH",
       "_geoloc": {
-        "lat": -6.36333,
-        "lng": 143.238
+        "latitude": -6.36333,
+        "longitude": 143.238
       },
       "links_count": 6,
       "objectID": "5431"
@@ -23069,8 +23069,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "IRA",
       "_geoloc": {
-        "lat": -10.4497,
-        "lng": 161.898
+        "latitude": -10.4497,
+        "longitude": 161.898
       },
       "links_count": 6,
       "objectID": "5409"
@@ -23081,8 +23081,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "MME",
       "_geoloc": {
-        "lat": 54.509189,
-        "lng": -1.429406
+        "latitude": 54.509189,
+        "longitude": -1.429406
       },
       "links_count": 6,
       "objectID": "522"
@@ -23093,8 +23093,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "POR",
       "_geoloc": {
-        "lat": 61.461686,
-        "lng": 21.799983
+        "latitude": 61.461686,
+        "longitude": 21.799983
       },
       "links_count": 6,
       "objectID": "448"
@@ -23105,8 +23105,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "LPP",
       "_geoloc": {
-        "lat": 61.044553,
-        "lng": 28.144397
+        "latitude": 61.044553,
+        "longitude": 28.144397
       },
       "links_count": 6,
       "objectID": "441"
@@ -23117,8 +23117,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ACV",
       "_geoloc": {
-        "lat": 40.978111,
-        "lng": -124.108611
+        "latitude": 40.978111,
+        "longitude": -124.108611
       },
       "links_count": 6,
       "objectID": "4384"
@@ -23129,8 +23129,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "URJ",
       "_geoloc": {
-        "lat": 60.1,
-        "lng": 64.83
+        "latitude": 60.1,
+        "longitude": 64.83
       },
       "links_count": 6,
       "objectID": "4377"
@@ -23141,8 +23141,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "AAQ",
       "_geoloc": {
-        "lat": 45.002097,
-        "lng": 37.347272
+        "latitude": 45.002097,
+        "longitude": 37.347272
       },
       "links_count": 6,
       "objectID": "4353"
@@ -23153,8 +23153,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KOK",
       "_geoloc": {
-        "lat": 63.721172,
-        "lng": 23.143131
+        "latitude": 63.721172,
+        "longitude": 23.143131
       },
       "links_count": 6,
       "objectID": "435"
@@ -23165,8 +23165,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "ISC",
       "_geoloc": {
-        "lat": 49.919,
-        "lng": -6.3075
+        "latitude": 49.919,
+        "longitude": -6.3075
       },
       "links_count": 6,
       "objectID": "4347"
@@ -23177,8 +23177,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GCC",
       "_geoloc": {
-        "lat": 44.3489167,
-        "lng": -105.5393611
+        "latitude": 44.3489167,
+        "longitude": -105.5393611
       },
       "links_count": 6,
       "objectID": "4296"
@@ -23189,8 +23189,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GTR",
       "_geoloc": {
-        "lat": 33.450333,
-        "lng": -88.591361
+        "latitude": 33.450333,
+        "longitude": -88.591361
       },
       "links_count": 6,
       "objectID": "4273"
@@ -23201,8 +23201,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CSG",
       "_geoloc": {
-        "lat": 32.5163333,
-        "lng": -84.9388611
+        "latitude": 32.5163333,
+        "longitude": -84.9388611
       },
       "links_count": 6,
       "objectID": "4255"
@@ -23213,8 +23213,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "USU",
       "_geoloc": {
-        "lat": 12.121458,
-        "lng": 120.100031
+        "latitude": 12.121458,
+        "longitude": 120.100031
       },
       "links_count": 6,
       "objectID": "4199"
@@ -23225,8 +23225,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "NPE",
       "_geoloc": {
-        "lat": -39.465833,
-        "lng": 176.87
+        "latitude": -39.465833,
+        "longitude": 176.87
       },
       "links_count": 6,
       "objectID": "4095"
@@ -23237,8 +23237,8 @@ const airports = [
       "country": "Nauru",
       "iata_code": "INU",
       "_geoloc": {
-        "lat": -0.547458,
-        "lng": 166.9191
+        "latitude": -0.547458,
+        "longitude": 166.9191
       },
       "links_count": 6,
       "objectID": "4076"
@@ -23249,8 +23249,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LSE",
       "_geoloc": {
-        "lat": 43.878986,
-        "lng": -91.256711
+        "latitude": 43.878986,
+        "longitude": -91.256711
       },
       "links_count": 6,
       "objectID": "4044"
@@ -23261,8 +23261,8 @@ const airports = [
       "country": "Guatemala",
       "iata_code": "FRS",
       "_geoloc": {
-        "lat": 16.913819,
-        "lng": -89.866383
+        "latitude": 16.913819,
+        "longitude": -89.866383
       },
       "links_count": 6,
       "objectID": "4024"
@@ -23273,8 +23273,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JEG",
       "_geoloc": {
-        "lat": 68.7,
-        "lng": -52.75
+        "latitude": 68.7,
+        "longitude": -52.75
       },
       "links_count": 6,
       "objectID": "3997"
@@ -23285,8 +23285,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "TAG",
       "_geoloc": {
-        "lat": 9.66408056,
-        "lng": 123.853247
+        "latitude": 9.66408056,
+        "longitude": 123.853247
       },
       "links_count": 6,
       "objectID": "3994"
@@ -23297,8 +23297,8 @@ const airports = [
       "country": "Lithuania",
       "iata_code": "PLQ",
       "_geoloc": {
-        "lat": 55.973228,
-        "lng": 21.093856
+        "latitude": 55.973228,
+        "longitude": 21.093856
       },
       "links_count": 6,
       "objectID": "3958"
@@ -23309,8 +23309,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "UBP",
       "_geoloc": {
-        "lat": 15.251278,
-        "lng": 104.870231
+        "latitude": 15.251278,
+        "longitude": 104.870231
       },
       "links_count": 6,
       "objectID": "3937"
@@ -23321,8 +23321,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BMU",
       "_geoloc": {
-        "lat": -8.539647,
-        "lng": 118.687322
+        "latitude": -8.539647,
+        "longitude": 118.687322
       },
       "links_count": 6,
       "objectID": "3924"
@@ -23333,8 +23333,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PKY",
       "_geoloc": {
-        "lat": -2.225128,
-        "lng": 113.942661
+        "latitude": -2.225128,
+        "longitude": 113.942661
       },
       "links_count": 6,
       "objectID": "3911"
@@ -23345,8 +23345,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "TNJ",
       "_geoloc": {
-        "lat": 0.922683,
-        "lng": 104.532311
+        "latitude": 0.922683,
+        "longitude": 104.532311
       },
       "links_count": 6,
       "objectID": "3906"
@@ -23357,8 +23357,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MLG",
       "_geoloc": {
-        "lat": -7.926556,
-        "lng": 112.714514
+        "latitude": -7.926556,
+        "longitude": 112.714514
       },
       "links_count": 6,
       "objectID": "3894"
@@ -23369,8 +23369,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CPR",
       "_geoloc": {
-        "lat": 42.908,
-        "lng": -106.464417
+        "latitude": 42.908,
+        "longitude": -106.464417
       },
       "links_count": 6,
       "objectID": "3872"
@@ -23381,8 +23381,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DUT",
       "_geoloc": {
-        "lat": 53.900139,
-        "lng": -166.5435
+        "latitude": 53.900139,
+        "longitude": -166.5435
       },
       "links_count": 6,
       "objectID": "3860"
@@ -23393,8 +23393,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SIT",
       "_geoloc": {
-        "lat": 57.047138,
-        "lng": -135.361611
+        "latitude": 57.047138,
+        "longitude": -135.361611
       },
       "links_count": 6,
       "objectID": "3856"
@@ -23405,8 +23405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TYR",
       "_geoloc": {
-        "lat": 32.354139,
-        "lng": -95.402386
+        "latitude": 32.354139,
+        "longitude": -95.402386
       },
       "links_count": 6,
       "objectID": "3848"
@@ -23417,8 +23417,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DHN",
       "_geoloc": {
-        "lat": 31.321339,
-        "lng": -85.449628
+        "latitude": 31.321339,
+        "longitude": -85.449628
       },
       "links_count": 6,
       "objectID": "3739"
@@ -23429,8 +23429,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BRO",
       "_geoloc": {
-        "lat": 25.906833,
-        "lng": -97.425861
+        "latitude": 25.906833,
+        "longitude": -97.425861
       },
       "links_count": 6,
       "objectID": "3738"
@@ -23441,8 +23441,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CLL",
       "_geoloc": {
-        "lat": 30.588583,
-        "lng": -96.363833
+        "latitude": 30.588583,
+        "longitude": -96.363833
       },
       "links_count": 6,
       "objectID": "3715"
@@ -23453,8 +23453,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LUK",
       "_geoloc": {
-        "lat": 39.103333,
-        "lng": -84.418611
+        "latitude": 39.103333,
+        "longitude": -84.418611
       },
       "links_count": 6,
       "objectID": "3681"
@@ -23465,8 +23465,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ENA",
       "_geoloc": {
-        "lat": 60.573111,
-        "lng": -151.245
+        "latitude": 60.573111,
+        "longitude": -151.245
       },
       "links_count": 6,
       "objectID": "3628"
@@ -23477,8 +23477,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CDV",
       "_geoloc": {
-        "lat": 60.491778,
-        "lng": -145.477556
+        "latitude": 60.491778,
+        "longitude": -145.477556
       },
       "links_count": 6,
       "objectID": "3610"
@@ -23489,8 +23489,8 @@ const airports = [
       "country": "United States",
       "iata_code": "YUM",
       "_geoloc": {
-        "lat": 32.656578,
-        "lng": -114.60598
+        "latitude": 32.656578,
+        "longitude": -114.60598
       },
       "links_count": 6,
       "objectID": "3596"
@@ -23501,8 +23501,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LNK",
       "_geoloc": {
-        "lat": 40.850971,
-        "lng": -96.75925
+        "latitude": 40.850971,
+        "longitude": -96.75925
       },
       "links_count": 6,
       "objectID": "3543"
@@ -23513,8 +23513,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LCH",
       "_geoloc": {
-        "lat": 30.126112,
-        "lng": -93.223335
+        "latitude": 30.126112,
+        "longitude": -93.223335
       },
       "links_count": 6,
       "objectID": "3513"
@@ -23525,8 +23525,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HON",
       "_geoloc": {
-        "lat": 44.3852,
-        "lng": -98.228542
+        "latitude": 44.3852,
+        "longitude": -98.228542
       },
       "links_count": 6,
       "objectID": "3491"
@@ -23537,8 +23537,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DLG",
       "_geoloc": {
-        "lat": 59.044667,
-        "lng": -158.5055
+        "latitude": 59.044667,
+        "longitude": -158.5055
       },
       "links_count": 6,
       "objectID": "3460"
@@ -23549,8 +23549,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SNP",
       "_geoloc": {
-        "lat": 57.167333,
-        "lng": -170.220444
+        "latitude": 57.167333,
+        "longitude": -170.220444
       },
       "links_count": 6,
       "objectID": "3426"
@@ -23561,8 +23561,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "WGA",
       "_geoloc": {
-        "lat": -35.165278,
-        "lng": 147.466389
+        "latitude": -35.165278,
+        "longitude": 147.466389
       },
       "links_count": 6,
       "objectID": "3363"
@@ -23573,8 +23573,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "DBO",
       "_geoloc": {
-        "lat": -32.216667,
-        "lng": 148.574722
+        "latitude": -32.216667,
+        "longitude": 148.574722
       },
       "links_count": 6,
       "objectID": "3358"
@@ -23585,8 +23585,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "LEA",
       "_geoloc": {
-        "lat": -22.235556,
-        "lng": 114.088611
+        "latitude": -22.235556,
+        "longitude": 114.088611
       },
       "links_count": 6,
       "objectID": "3348"
@@ -23597,8 +23597,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PPP",
       "_geoloc": {
-        "lat": -20.495,
-        "lng": 148.552222
+        "latitude": -20.495,
+        "longitude": 148.552222
       },
       "links_count": 6,
       "objectID": "3328"
@@ -23609,8 +23609,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MKQ",
       "_geoloc": {
-        "lat": -8.520294,
-        "lng": 140.418453
+        "latitude": -8.520294,
+        "longitude": 140.418453
       },
       "links_count": 6,
       "objectID": "3246"
@@ -23621,8 +23621,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "NBX",
       "_geoloc": {
-        "lat": -3.368183,
-        "lng": 135.496406
+        "latitude": -3.368183,
+        "longitude": 135.496406
       },
       "links_count": 6,
       "objectID": "3242"
@@ -23633,8 +23633,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "AKY",
       "_geoloc": {
-        "lat": 20.132708,
-        "lng": 92.872628
+        "latitude": 20.132708,
+        "longitude": 92.872628
       },
       "links_count": 6,
       "objectID": "3235"
@@ -23645,8 +23645,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "PHS",
       "_geoloc": {
-        "lat": 16.782939,
-        "lng": 100.279122
+        "latitude": 16.782939,
+        "longitude": 100.279122
       },
       "links_count": 6,
       "objectID": "3170"
@@ -23657,8 +23657,8 @@ const airports = [
       "country": "India",
       "iata_code": "RJA",
       "_geoloc": {
-        "lat": 17.110361,
-        "lng": 81.818208
+        "latitude": 17.110361,
+        "longitude": 81.818208
       },
       "links_count": 6,
       "objectID": "3148"
@@ -23669,8 +23669,8 @@ const airports = [
       "country": "India",
       "iata_code": "VGA",
       "_geoloc": {
-        "lat": 16.530433,
-        "lng": 80.796847
+        "latitude": 16.530433,
+        "longitude": 80.796847
       },
       "links_count": 6,
       "objectID": "3134"
@@ -23681,8 +23681,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "ZVK",
       "_geoloc": {
-        "lat": 16.556594,
-        "lng": 104.759531
+        "latitude": 16.556594,
+        "longitude": 104.759531
       },
       "links_count": 6,
       "objectID": "3118"
@@ -23693,8 +23693,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "JSR",
       "_geoloc": {
-        "lat": 23.1838,
-        "lng": 89.160833
+        "latitude": 23.1838,
+        "longitude": 89.160833
       },
       "links_count": 6,
       "objectID": "3071"
@@ -23705,8 +23705,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "CXB",
       "_geoloc": {
-        "lat": 21.452194,
-        "lng": 91.963889
+        "latitude": 21.452194,
+        "longitude": 91.963889
       },
       "links_count": 6,
       "objectID": "3068"
@@ -23717,8 +23717,8 @@ const airports = [
       "country": "India",
       "iata_code": "STV",
       "_geoloc": {
-        "lat": 21.114061,
-        "lng": 72.741792
+        "latitude": 21.114061,
+        "longitude": 72.741792
       },
       "links_count": 6,
       "objectID": "3022"
@@ -23729,8 +23729,8 @@ const airports = [
       "country": "India",
       "iata_code": "RAJ",
       "_geoloc": {
-        "lat": 22.309183,
-        "lng": 70.779525
+        "latitude": 22.309183,
+        "longitude": 70.779525
       },
       "links_count": 6,
       "objectID": "3019"
@@ -23741,8 +23741,8 @@ const airports = [
       "country": "India",
       "iata_code": "JLR",
       "_geoloc": {
-        "lat": 23.177817,
-        "lng": 80.052047
+        "latitude": 23.177817,
+        "longitude": 80.052047
       },
       "links_count": 6,
       "objectID": "3009"
@@ -23753,8 +23753,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "TOE",
       "_geoloc": {
-        "lat": 33.939722,
-        "lng": 8.110556
+        "latitude": 33.939722,
+        "longitude": 8.110556
       },
       "links_count": 6,
       "objectID": "296"
@@ -23765,8 +23765,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KEJ",
       "_geoloc": {
-        "lat": 55.270094,
-        "lng": 86.107208
+        "latitude": 55.270094,
+        "longitude": 86.107208
       },
       "links_count": 6,
       "objectID": "2957"
@@ -23777,8 +23777,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "BAX",
       "_geoloc": {
-        "lat": 53.363775,
-        "lng": 83.538533
+        "latitude": 53.363775,
+        "longitude": 83.538533
       },
       "links_count": 6,
       "objectID": "2956"
@@ -23789,8 +23789,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "PLX",
       "_geoloc": {
-        "lat": 50.3513,
-        "lng": 80.2344
+        "latitude": 50.3513,
+        "longitude": 80.2344
       },
       "links_count": 6,
       "objectID": "2918"
@@ -23801,8 +23801,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "PWQ",
       "_geoloc": {
-        "lat": 52.195,
-        "lng": 77.073889
+        "latitude": 52.195,
+        "longitude": 77.073889
       },
       "links_count": 6,
       "objectID": "2917"
@@ -23813,8 +23813,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "URA",
       "_geoloc": {
-        "lat": 51.150833,
-        "lng": 51.543056
+        "latitude": 51.150833,
+        "longitude": 51.543056
       },
       "links_count": 6,
       "objectID": "2916"
@@ -23825,8 +23825,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "PEM",
       "_geoloc": {
-        "lat": -12.613611,
-        "lng": -69.228611
+        "latitude": -12.613611,
+        "longitude": -69.228611
       },
       "links_count": 6,
       "objectID": "2808"
@@ -23837,8 +23837,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PSO",
       "_geoloc": {
-        "lat": 1.396247,
-        "lng": -77.291478
+        "latitude": 1.396247,
+        "longitude": -77.291478
       },
       "links_count": 6,
       "objectID": "2742"
@@ -23849,8 +23849,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PCR",
       "_geoloc": {
-        "lat": 6.184717,
-        "lng": -67.493164
+        "latitude": 6.184717,
+        "longitude": -67.493164
       },
       "links_count": 6,
       "objectID": "2738"
@@ -23861,8 +23861,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "MVP",
       "_geoloc": {
-        "lat": 1.253664,
-        "lng": -70.233878
+        "latitude": 1.253664,
+        "longitude": -70.233878
       },
       "links_count": 6,
       "objectID": "2732"
@@ -23873,8 +23873,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "MTR",
       "_geoloc": {
-        "lat": 8.823744,
-        "lng": -75.825831
+        "latitude": 8.823744,
+        "longitude": -75.825831
       },
       "links_count": 6,
       "objectID": "2731"
@@ -23885,8 +23885,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "IBE",
       "_geoloc": {
-        "lat": 4.421608,
-        "lng": -75.1333
+        "latitude": 4.421608,
+        "longitude": -75.1333
       },
       "links_count": 6,
       "objectID": "2724"
@@ -23897,8 +23897,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "CUE",
       "_geoloc": {
-        "lat": -2.889467,
-        "lng": -78.984397
+        "latitude": -2.889467,
+        "longitude": -78.984397
       },
       "links_count": 6,
       "objectID": "2671"
@@ -23909,8 +23909,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "OCC",
       "_geoloc": {
-        "lat": -0.462886,
-        "lng": -76.986842
+        "latitude": -0.462886,
+        "longitude": -76.986842
       },
       "links_count": 6,
       "objectID": "2670"
@@ -23921,8 +23921,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "ZCO",
       "_geoloc": {
-        "lat": -38.766819,
-        "lng": -72.637097
+        "latitude": -38.766819,
+        "longitude": -72.637097
       },
       "links_count": 6,
       "objectID": "2664"
@@ -23933,8 +23933,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "ENU",
       "_geoloc": {
-        "lat": 6.474272,
-        "lng": 7.561961
+        "latitude": 6.474272,
+        "longitude": 7.561961
       },
       "links_count": 6,
       "objectID": "264"
@@ -23945,8 +23945,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SJK",
       "_geoloc": {
-        "lat": -23.228172,
-        "lng": -45.862739
+        "latitude": -23.228172,
+        "longitude": -45.862739
       },
       "links_count": 6,
       "objectID": "2615"
@@ -23957,8 +23957,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MCP",
       "_geoloc": {
-        "lat": 0.050664,
-        "lng": -51.072178
+        "latitude": 0.050664,
+        "longitude": -51.072178
       },
       "links_count": 6,
       "objectID": "2591"
@@ -23969,8 +23969,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MOC",
       "_geoloc": {
-        "lat": -16.706925,
-        "lng": -43.8189
+        "latitude": -16.706925,
+        "longitude": -43.8189
       },
       "links_count": 6,
       "objectID": "2587"
@@ -23981,8 +23981,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IPN",
       "_geoloc": {
-        "lat": -19.470722,
-        "lng": -42.487583
+        "latitude": -19.470722,
+        "longitude": -42.487583
       },
       "links_count": 6,
       "objectID": "2570"
@@ -23993,8 +23993,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "FEN",
       "_geoloc": {
-        "lat": -3.854928,
-        "lng": -32.423336
+        "latitude": -3.854928,
+        "longitude": -32.423336
       },
       "links_count": 6,
       "objectID": "2556"
@@ -24005,8 +24005,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CXJ",
       "_geoloc": {
-        "lat": -29.197064,
-        "lng": -51.187536
+        "latitude": -29.197064,
+        "longitude": -51.187536
       },
       "links_count": 6,
       "objectID": "2547"
@@ -24017,8 +24017,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CAC",
       "_geoloc": {
-        "lat": -25.000339,
-        "lng": -53.500764
+        "latitude": -25.000339,
+        "longitude": -53.500764
       },
       "links_count": 6,
       "objectID": "2535"
@@ -24029,8 +24029,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BVB",
       "_geoloc": {
-        "lat": 2.846311,
-        "lng": -60.690069
+        "latitude": 2.846311,
+        "longitude": -60.690069
       },
       "links_count": 6,
       "objectID": "2533"
@@ -24041,8 +24041,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "MDQ",
       "_geoloc": {
-        "lat": -37.934167,
-        "lng": -57.573333
+        "latitude": -37.934167,
+        "longitude": -57.573333
       },
       "links_count": 6,
       "objectID": "2508"
@@ -24053,8 +24053,8 @@ const airports = [
       "country": "Ghana",
       "iata_code": "TML",
       "_geoloc": {
-        "lat": 9.557192,
-        "lng": -0.863214
+        "latitude": 9.557192,
+        "longitude": -0.863214
       },
       "links_count": 6,
       "objectID": "249"
@@ -24065,8 +24065,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "EQS",
       "_geoloc": {
-        "lat": -42.90795,
-        "lng": -71.139472
+        "latitude": -42.90795,
+        "longitude": -71.139472
       },
       "links_count": 6,
       "objectID": "2488"
@@ -24077,8 +24077,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAY",
       "_geoloc": {
-        "lat": 51.391944,
-        "lng": -56.083056
+        "latitude": 51.391944,
+        "longitude": -56.083056
       },
       "links_count": 6,
       "objectID": "24"
@@ -24089,8 +24089,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CBO",
       "_geoloc": {
-        "lat": 7.165242,
-        "lng": 124.209619
+        "latitude": 7.165242,
+        "longitude": 124.209619
       },
       "links_count": 6,
       "objectID": "2399"
@@ -24101,8 +24101,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "KPO",
       "_geoloc": {
-        "lat": 35.987858,
-        "lng": 129.420486
+        "latitude": 35.987858,
+        "longitude": 129.420486
       },
       "links_count": 6,
       "objectID": "2380"
@@ -24113,8 +24113,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "USN",
       "_geoloc": {
-        "lat": 35.593494,
-        "lng": 129.351722
+        "latitude": 35.593494,
+        "longitude": 129.351722
       },
       "links_count": 6,
       "objectID": "2374"
@@ -24125,8 +24125,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "RSU",
       "_geoloc": {
-        "lat": 34.842328,
-        "lng": 127.61685
+        "latitude": 34.842328,
+        "longitude": 127.61685
       },
       "links_count": 6,
       "objectID": "2365"
@@ -24137,8 +24137,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "GAJ",
       "_geoloc": {
-        "lat": 38.411894,
-        "lng": 140.371331
+        "latitude": 38.411894,
+        "longitude": 140.371331
       },
       "links_count": 6,
       "objectID": "2341"
@@ -24149,8 +24149,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "KKJ",
       "_geoloc": {
-        "lat": 33.845942,
-        "lng": 131.034689
+        "latitude": 33.845942,
+        "longitude": 131.034689
       },
       "links_count": 6,
       "objectID": "2311"
@@ -24161,8 +24161,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "TSJ",
       "_geoloc": {
-        "lat": 34.284889,
-        "lng": 129.33055
+        "latitude": 34.284889,
+        "longitude": 129.33055
       },
       "links_count": 6,
       "objectID": "2297"
@@ -24173,8 +24173,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "UBJ",
       "_geoloc": {
-        "lat": 33.93,
-        "lng": 131.278611
+        "latitude": 33.93,
+        "longitude": 131.278611
       },
       "links_count": 6,
       "objectID": "2296"
@@ -24185,8 +24185,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "OBO",
       "_geoloc": {
-        "lat": 42.733333,
-        "lng": 143.217222
+        "latitude": 42.733333,
+        "longitude": 143.217222
       },
       "links_count": 6,
       "objectID": "2286"
@@ -24197,8 +24197,8 @@ const airports = [
       "country": "Micronesia",
       "iata_code": "PNI",
       "_geoloc": {
-        "lat": 6.9851,
-        "lng": 158.208989
+        "latitude": 6.9851,
+        "longitude": 158.208989
       },
       "links_count": 6,
       "objectID": "2255"
@@ -24209,8 +24209,8 @@ const airports = [
       "country": "Marshall Islands",
       "iata_code": "KWA",
       "_geoloc": {
-        "lat": 8.720122,
-        "lng": 167.731661
+        "latitude": 8.720122,
+        "longitude": 167.731661
       },
       "links_count": 6,
       "objectID": "2251"
@@ -24221,8 +24221,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "RYK",
       "_geoloc": {
-        "lat": 28.3839,
-        "lng": 70.279572
+        "latitude": 28.3839,
+        "longitude": 70.279572
       },
       "links_count": 6,
       "objectID": "2222"
@@ -24233,8 +24233,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "GWD",
       "_geoloc": {
-        "lat": 25.233308,
-        "lng": 62.329494
+        "latitude": 25.233308,
+        "longitude": 62.329494
       },
       "links_count": 6,
       "objectID": "2203"
@@ -24245,8 +24245,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "EAM",
       "_geoloc": {
-        "lat": 17.611436,
-        "lng": 44.419169
+        "latitude": 17.611436,
+        "longitude": 44.419169
       },
       "links_count": 6,
       "objectID": "2075"
@@ -24257,8 +24257,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "BHH",
       "_geoloc": {
-        "lat": 19.98435,
-        "lng": 42.620881
+        "latitude": 19.98435,
+        "longitude": 42.620881
       },
       "links_count": 6,
       "objectID": "2062"
@@ -24269,8 +24269,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "ABT",
       "_geoloc": {
-        "lat": 20.296139,
-        "lng": 41.634277
+        "latitude": 20.296139,
+        "longitude": 41.634277
       },
       "links_count": 6,
       "objectID": "2061"
@@ -24281,8 +24281,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "HOF",
       "_geoloc": {
-        "lat": 25.285306,
-        "lng": 49.485189
+        "latitude": 25.285306,
+        "longitude": 49.485189
       },
       "links_count": 6,
       "objectID": "2060"
@@ -24293,8 +24293,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "BHE",
       "_geoloc": {
-        "lat": -41.518333,
-        "lng": 173.870278
+        "latitude": -41.518333,
+        "longitude": 173.870278
       },
       "links_count": 6,
       "objectID": "2037"
@@ -24305,8 +24305,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "TRG",
       "_geoloc": {
-        "lat": -37.671944,
-        "lng": 176.19611
+        "latitude": -37.671944,
+        "longitude": 176.19611
       },
       "links_count": 6,
       "objectID": "2034"
@@ -24317,8 +24317,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "ROT",
       "_geoloc": {
-        "lat": -38.109167,
-        "lng": 176.317222
+        "latitude": -38.109167,
+        "longitude": 176.317222
       },
       "links_count": 6,
       "objectID": "2031"
@@ -24329,8 +24329,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "NPL",
       "_geoloc": {
-        "lat": -39.008611,
-        "lng": 174.179167
+        "latitude": -39.008611,
+        "longitude": 174.179167
       },
       "links_count": 6,
       "objectID": "2023"
@@ -24341,8 +24341,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "LIF",
       "_geoloc": {
-        "lat": -20.7748,
-        "lng": 167.239864
+        "latitude": -20.7748,
+        "longitude": 167.239864
       },
       "links_count": 6,
       "objectID": "2000"
@@ -24353,8 +24353,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "MAU",
       "_geoloc": {
-        "lat": -16.426486,
-        "lng": -152.243669
+        "latitude": -16.426486,
+        "longitude": -152.243669
       },
       "links_count": 6,
       "objectID": "1994"
@@ -24365,8 +24365,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "XMH",
       "_geoloc": {
-        "lat": -14.436764,
-        "lng": -146.070056
+        "latitude": -14.436764,
+        "longitude": -146.070056
       },
       "links_count": 6,
       "objectID": "1978"
@@ -24377,8 +24377,8 @@ const airports = [
       "country": "Wallis and Futuna",
       "iata_code": "WLS",
       "_geoloc": {
-        "lat": -13.238281,
-        "lng": -176.199228
+        "latitude": -13.238281,
+        "longitude": -176.199228
       },
       "links_count": 6,
       "objectID": "1968"
@@ -24389,8 +24389,8 @@ const airports = [
       "country": "Kiribati",
       "iata_code": "TRW",
       "_geoloc": {
-        "lat": 1.381636,
-        "lng": 173.147036
+        "latitude": 1.381636,
+        "longitude": 173.147036
       },
       "links_count": 6,
       "objectID": "1965"
@@ -24401,8 +24401,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "CMW",
       "_geoloc": {
-        "lat": 21.420428,
-        "lng": -77.847433
+        "latitude": 21.420428,
+        "longitude": -77.847433
       },
       "links_count": 6,
       "objectID": "1904"
@@ -24413,8 +24413,8 @@ const airports = [
       "country": "Haiti",
       "iata_code": "CAP",
       "_geoloc": {
-        "lat": 19.732989,
-        "lng": -72.194739
+        "latitude": 19.732989,
+        "longitude": -72.194739
       },
       "links_count": 6,
       "objectID": "1895"
@@ -24425,8 +24425,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "PMZ",
       "_geoloc": {
-        "lat": 8.951025,
-        "lng": -83.468583
+        "latitude": 8.951025,
+        "longitude": -83.468583
       },
       "links_count": 6,
       "objectID": "1887"
@@ -24437,8 +24437,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "PXM",
       "_geoloc": {
-        "lat": 15.876861,
-        "lng": -97.089117
+        "latitude": 15.876861,
+        "longitude": -97.089117
       },
       "links_count": 6,
       "objectID": "1837"
@@ -24449,8 +24449,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CLQ",
       "_geoloc": {
-        "lat": 19.277011,
-        "lng": -103.577397
+        "latitude": 19.277011,
+        "longitude": -103.577397
       },
       "links_count": 6,
       "objectID": "1808"
@@ -24461,8 +24461,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TPQ",
       "_geoloc": {
-        "lat": 21.419453,
-        "lng": -104.842581
+        "latitude": 21.419453,
+        "longitude": -104.842581
       },
       "links_count": 6,
       "objectID": "1802"
@@ -24473,8 +24473,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYE",
       "_geoloc": {
-        "lat": 58.836389,
-        "lng": -122.596944
+        "latitude": 58.836389,
+        "longitude": -122.596944
       },
       "links_count": 6,
       "objectID": "180"
@@ -24485,8 +24485,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CME",
       "_geoloc": {
-        "lat": 18.653739,
-        "lng": -91.799017
+        "latitude": 18.653739,
+        "longitude": -91.799017
       },
       "links_count": 6,
       "objectID": "1789"
@@ -24497,8 +24497,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "HUX",
       "_geoloc": {
-        "lat": 15.775317,
-        "lng": -96.262572
+        "latitude": 15.775317,
+        "longitude": -96.262572
       },
       "links_count": 6,
       "objectID": "1786"
@@ -24509,8 +24509,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "BAL",
       "_geoloc": {
-        "lat": 37.928969,
-        "lng": 41.116583
+        "latitude": 37.928969,
+        "longitude": 41.116583
       },
       "links_count": 6,
       "objectID": "1729"
@@ -24521,8 +24521,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ERC",
       "_geoloc": {
-        "lat": 39.710203,
-        "lng": 39.527003
+        "latitude": 39.710203,
+        "longitude": 39.527003
       },
       "links_count": 6,
       "objectID": "1723"
@@ -24533,8 +24533,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "PXO",
       "_geoloc": {
-        "lat": 33.073386,
-        "lng": -16.349975
+        "latitude": 33.073386,
+        "longitude": -16.349975
       },
       "links_count": 6,
       "objectID": "1637"
@@ -24545,8 +24545,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "SMA",
       "_geoloc": {
-        "lat": 36.97139,
-        "lng": -25.170639
+        "latitude": 36.97139,
+        "longitude": -25.170639
       },
       "links_count": 6,
       "objectID": "1617"
@@ -24557,8 +24557,8 @@ const airports = [
       "country": "Israel",
       "iata_code": "SDV",
       "_geoloc": {
-        "lat": 32.114661,
-        "lng": 34.782239
+        "latitude": 32.114661,
+        "longitude": 34.782239
       },
       "links_count": 6,
       "objectID": "1605"
@@ -24569,8 +24569,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "RMI",
       "_geoloc": {
-        "lat": 44.020292,
-        "lng": 12.611747
+        "latitude": 44.020292,
+        "longitude": 12.611747
       },
       "links_count": 6,
       "objectID": "1546"
@@ -24581,8 +24581,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "PNL",
       "_geoloc": {
-        "lat": 36.816519,
-        "lng": 11.968864
+        "latitude": 36.816519,
+        "longitude": 11.968864
       },
       "links_count": 6,
       "objectID": "1511"
@@ -24593,8 +24593,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "LMP",
       "_geoloc": {
-        "lat": 35.497914,
-        "lng": 12.618083
+        "latitude": 35.497914,
+        "longitude": 12.618083
       },
       "links_count": 6,
       "objectID": "1510"
@@ -24605,8 +24605,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "SKU",
       "_geoloc": {
-        "lat": 38.967553,
-        "lng": 24.487228
+        "latitude": 38.967553,
+        "longitude": 24.487228
       },
       "links_count": 6,
       "objectID": "1482"
@@ -24617,8 +24617,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "GPA",
       "_geoloc": {
-        "lat": 38.151111,
-        "lng": 21.425556
+        "latitude": 38.151111,
+        "longitude": 21.425556
       },
       "links_count": 6,
       "objectID": "1473"
@@ -24629,8 +24629,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "AXD",
       "_geoloc": {
-        "lat": 40.855869,
-        "lng": 25.956264
+        "latitude": 40.855869,
+        "longitude": 25.956264
       },
       "links_count": 6,
       "objectID": "1446"
@@ -24641,8 +24641,8 @@ const airports = [
       "country": "Saint Pierre and Miquelon",
       "iata_code": "FSP",
       "_geoloc": {
-        "lat": 46.762904,
-        "lng": -56.173088
+        "latitude": 46.762904,
+        "longitude": -56.173088
       },
       "links_count": 6,
       "objectID": "1441"
@@ -24653,8 +24653,8 @@ const airports = [
       "country": "France",
       "iata_code": "TLN",
       "_geoloc": {
-        "lat": 43.0973,
-        "lng": 6.14603
+        "latitude": 43.0973,
+        "longitude": 6.14603
       },
       "links_count": 6,
       "objectID": "1438"
@@ -24665,8 +24665,8 @@ const airports = [
       "country": "France",
       "iata_code": "DNR",
       "_geoloc": {
-        "lat": 48.587683,
-        "lng": -2.079958
+        "latitude": 48.587683,
+        "longitude": -2.079958
       },
       "links_count": 6,
       "objectID": "1405"
@@ -24677,8 +24677,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTE",
       "_geoloc": {
-        "lat": 64.23,
-        "lng": -76.526667
+        "latitude": 64.23,
+        "longitude": -76.526667
       },
       "links_count": 6,
       "objectID": "140"
@@ -24689,8 +24689,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSJ",
       "_geoloc": {
-        "lat": 45.316111,
-        "lng": -65.890278
+        "latitude": 45.316111,
+        "longitude": -65.890278
       },
       "links_count": 6,
       "objectID": "135"
@@ -24701,8 +24701,8 @@ const airports = [
       "country": "France",
       "iata_code": "DLE",
       "_geoloc": {
-        "lat": 47.039014,
-        "lng": 5.42725
+        "latitude": 47.039014,
+        "longitude": 5.42725
       },
       "links_count": 6,
       "objectID": "1309"
@@ -24713,8 +24713,8 @@ const airports = [
       "country": "France",
       "iata_code": "DCM",
       "_geoloc": {
-        "lat": 43.55625,
-        "lng": 2.289183
+        "latitude": 43.55625,
+        "longitude": 2.289183
       },
       "links_count": 6,
       "objectID": "1285"
@@ -24725,8 +24725,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQX",
       "_geoloc": {
-        "lat": 48.936944,
-        "lng": -54.568056
+        "latitude": 48.936944,
+        "longitude": -54.568056
       },
       "links_count": 6,
       "objectID": "125"
@@ -24737,8 +24737,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "EAS",
       "_geoloc": {
-        "lat": 43.356519,
-        "lng": -1.790611
+        "latitude": 43.356519,
+        "longitude": -1.790611
       },
       "links_count": 6,
       "objectID": "1242"
@@ -24749,8 +24749,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "AKF",
       "_geoloc": {
-        "lat": 24.178728,
-        "lng": 23.313958
+        "latitude": 24.178728,
+        "longitude": 23.313958
       },
       "links_count": 6,
       "objectID": "1153"
@@ -24761,8 +24761,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQK",
       "_geoloc": {
-        "lat": 49.788334,
-        "lng": -94.363056
+        "latitude": 49.788334,
+        "longitude": -94.363056
       },
       "links_count": 6,
       "objectID": "115"
@@ -24773,8 +24773,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQG",
       "_geoloc": {
-        "lat": 42.275556,
-        "lng": -82.955556
+        "latitude": 42.275556,
+        "longitude": -82.955556
       },
       "links_count": 6,
       "objectID": "113"
@@ -24785,8 +24785,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQF",
       "_geoloc": {
-        "lat": 52.182222,
-        "lng": -113.894444
+        "latitude": 52.182222,
+        "longitude": -113.894444
       },
       "links_count": 6,
       "objectID": "112"
@@ -24797,8 +24797,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "MQX",
       "_geoloc": {
-        "lat": 13.467367,
-        "lng": 39.533464
+        "latitude": 13.467367,
+        "longitude": 39.533464
       },
       "links_count": 6,
       "objectID": "1118"
@@ -24809,8 +24809,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "LLI",
       "_geoloc": {
-        "lat": 11.975014,
-        "lng": 38.979969
+        "latitude": 11.975014,
+        "longitude": 38.979969
       },
       "links_count": 6,
       "objectID": "1117"
@@ -24821,8 +24821,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "DIR",
       "_geoloc": {
-        "lat": 9.6247,
-        "lng": 41.854203
+        "latitude": 9.6247,
+        "longitude": 41.854203
       },
       "links_count": 6,
       "objectID": "1112"
@@ -24833,8 +24833,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "VDE",
       "_geoloc": {
-        "lat": 27.814847,
-        "lng": -17.887056
+        "latitude": 27.814847,
+        "longitude": -17.887056
       },
       "links_count": 6,
       "objectID": "1052"
@@ -24845,8 +24845,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "KGA",
       "_geoloc": {
-        "lat": -5.900055,
-        "lng": 22.469166
+        "latitude": -5.900055,
+        "longitude": 22.469166
       },
       "links_count": 6,
       "objectID": "1042"
@@ -24857,8 +24857,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "GOM",
       "_geoloc": {
-        "lat": -1.670814,
-        "lng": 29.238464
+        "latitude": -1.670814,
+        "longitude": 29.238464
       },
       "links_count": 6,
       "objectID": "1036"
@@ -24869,8 +24869,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "CAB",
       "_geoloc": {
-        "lat": -5.596992,
-        "lng": 12.188353
+        "latitude": -5.596992,
+        "longitude": 12.188353
       },
       "links_count": 5,
       "objectID": "946"
@@ -24881,8 +24881,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TNK",
       "_geoloc": {
-        "lat": 60.575556,
-        "lng": -165.271667
+        "latitude": 60.575556,
+        "longitude": -165.271667
       },
       "links_count": 5,
       "objectID": "8201"
@@ -24893,8 +24893,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NME",
       "_geoloc": {
-        "lat": 60.471111,
-        "lng": -164.700833
+        "latitude": 60.471111,
+        "longitude": -164.700833
       },
       "links_count": 5,
       "objectID": "8199"
@@ -24905,8 +24905,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "RVT",
       "_geoloc": {
-        "lat": -33.797222,
-        "lng": 120.208056
+        "latitude": -33.797222,
+        "longitude": 120.208056
       },
       "links_count": 5,
       "objectID": "7577"
@@ -24917,8 +24917,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AET",
       "_geoloc": {
-        "lat": 66.5519,
-        "lng": -152.6222
+        "latitude": 66.5519,
+        "longitude": -152.6222
       },
       "links_count": 5,
       "objectID": "6839"
@@ -24929,8 +24929,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WTK",
       "_geoloc": {
-        "lat": 67.5661,
-        "lng": -162.975
+        "latitude": 67.5661,
+        "longitude": -162.975
       },
       "links_count": 5,
       "objectID": "6725"
@@ -24941,8 +24941,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ERM",
       "_geoloc": {
-        "lat": -27.6619,
-        "lng": -52.2683
+        "latitude": -27.6619,
+        "longitude": -52.2683
       },
       "links_count": 5,
       "objectID": "6477"
@@ -24953,8 +24953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LKE",
       "_geoloc": {
-        "lat": 47.629,
-        "lng": -122.339
+        "latitude": 47.629,
+        "longitude": -122.339
       },
       "links_count": 5,
       "objectID": "6457"
@@ -24965,8 +24965,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "EPR",
       "_geoloc": {
-        "lat": -33.6844,
-        "lng": 121.823
+        "latitude": -33.6844,
+        "longitude": 121.823
       },
       "links_count": 5,
       "objectID": "6266"
@@ -24977,8 +24977,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HSG",
       "_geoloc": {
-        "lat": 33.1497,
-        "lng": 130.302
+        "latitude": 33.1497,
+        "longitude": 130.302
       },
       "links_count": 5,
       "objectID": "5996"
@@ -24989,8 +24989,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "DEA",
       "_geoloc": {
-        "lat": 29.961011,
-        "lng": 70.485925
+        "latitude": 29.961011,
+        "longitude": 70.485925
       },
       "links_count": 5,
       "objectID": "5942"
@@ -25001,8 +25001,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "ULB",
       "_geoloc": {
-        "lat": -16.333,
-        "lng": 168.283
+        "latitude": -16.333,
+        "longitude": 168.283
       },
       "links_count": 5,
       "objectID": "5910"
@@ -25013,8 +25013,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "AHE",
       "_geoloc": {
-        "lat": -14.4281,
-        "lng": -146.257
+        "latitude": -14.4281,
+        "longitude": -146.257
       },
       "links_count": 5,
       "objectID": "5889"
@@ -25025,8 +25025,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EWB",
       "_geoloc": {
-        "lat": 41.6761,
-        "lng": -70.9569
+        "latitude": 41.6761,
+        "longitude": -70.9569
       },
       "links_count": 5,
       "objectID": "5737"
@@ -25037,8 +25037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CKB",
       "_geoloc": {
-        "lat": 39.2966,
-        "lng": -80.2281
+        "latitude": 39.2966,
+        "longitude": -80.2281
       },
       "links_count": 5,
       "objectID": "5730"
@@ -25049,8 +25049,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SOJ",
       "_geoloc": {
-        "lat": 69.7868,
-        "lng": 20.9594
+        "latitude": 69.7868,
+        "longitude": 20.9594
       },
       "links_count": 5,
       "objectID": "5588"
@@ -25061,8 +25061,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "NDY",
       "_geoloc": {
-        "lat": 59.2503,
-        "lng": -2.57667
+        "latitude": 59.2503,
+        "longitude": -2.57667
       },
       "links_count": 5,
       "objectID": "5569"
@@ -25073,8 +25073,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZRJ",
       "_geoloc": {
-        "lat": 52.9436,
-        "lng": -91.3128
+        "latitude": 52.9436,
+        "longitude": -91.3128
       },
       "links_count": 5,
       "objectID": "5547"
@@ -25085,8 +25085,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YER",
       "_geoloc": {
-        "lat": 56.0189,
-        "lng": -87.6761
+        "latitude": 56.0189,
+        "longitude": -87.6761
       },
       "links_count": 5,
       "objectID": "5489"
@@ -25097,8 +25097,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAG",
       "_geoloc": {
-        "lat": 48.6542,
-        "lng": -93.4397
+        "latitude": 48.6542,
+        "longitude": -93.4397
       },
       "links_count": 5,
       "objectID": "5479"
@@ -25109,8 +25109,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "WNN",
       "_geoloc": {
-        "lat": 52.8939,
-        "lng": -89.2892
+        "latitude": 52.8939,
+        "longitude": -89.2892
       },
       "links_count": 5,
       "objectID": "5466"
@@ -25121,8 +25121,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAX",
       "_geoloc": {
-        "lat": 53.8492,
-        "lng": -89.5794
+        "latitude": 53.8492,
+        "longitude": -89.5794
       },
       "links_count": 5,
       "objectID": "5465"
@@ -25133,8 +25133,8 @@ const airports = [
       "country": "Belize",
       "iata_code": "PND",
       "_geoloc": {
-        "lat": 16.1024,
-        "lng": -88.8083
+        "latitude": 16.1024,
+        "longitude": -88.8083
       },
       "links_count": 5,
       "objectID": "5455"
@@ -25145,8 +25145,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JNS",
       "_geoloc": {
-        "lat": 60.9167,
-        "lng": -46.0586
+        "latitude": 60.9167,
+        "longitude": -46.0586
       },
       "links_count": 5,
       "objectID": "5445"
@@ -25157,8 +25157,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "FDE",
       "_geoloc": {
-        "lat": 61.392,
-        "lng": 5.763
+        "latitude": 61.392,
+        "longitude": 5.763
       },
       "links_count": 5,
       "objectID": "4389"
@@ -25169,8 +25169,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SPI",
       "_geoloc": {
-        "lat": 39.8441,
-        "lng": -89.677889
+        "latitude": 39.8441,
+        "longitude": -89.677889
       },
       "links_count": 5,
       "objectID": "4336"
@@ -25181,8 +25181,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "HVG",
       "_geoloc": {
-        "lat": 70.99,
-        "lng": 25.83
+        "latitude": 70.99,
+        "longitude": 25.83
       },
       "links_count": 5,
       "objectID": "4326"
@@ -25193,8 +25193,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KEM",
       "_geoloc": {
-        "lat": 65.781889,
-        "lng": 24.5991
+        "latitude": 65.781889,
+        "longitude": 24.5991
       },
       "links_count": 5,
       "objectID": "432"
@@ -25205,8 +25205,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "JYV",
       "_geoloc": {
-        "lat": 62.399453,
-        "lng": 25.678253
+        "latitude": 62.399453,
+        "longitude": 25.678253
       },
       "links_count": 5,
       "objectID": "430"
@@ -25217,8 +25217,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HYA",
       "_geoloc": {
-        "lat": 41.669336,
-        "lng": -70.280356
+        "latitude": 41.669336,
+        "longitude": -70.280356
       },
       "links_count": 5,
       "objectID": "4278"
@@ -25229,8 +25229,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MOF",
       "_geoloc": {
-        "lat": -8.640647,
-        "lng": 122.236889
+        "latitude": -8.640647,
+        "longitude": 122.236889
       },
       "links_count": 5,
       "objectID": "3913"
@@ -25241,8 +25241,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ELD",
       "_geoloc": {
-        "lat": 33.220972,
-        "lng": -92.813278
+        "latitude": 33.220972,
+        "longitude": -92.813278
       },
       "links_count": 5,
       "objectID": "3696"
@@ -25253,8 +25253,8 @@ const airports = [
       "country": "Norfolk Island",
       "iata_code": "NLK",
       "_geoloc": {
-        "lat": -29.041625,
-        "lng": 167.938742
+        "latitude": -29.041625,
+        "longitude": 167.938742
       },
       "links_count": 5,
       "objectID": "3359"
@@ -25265,8 +25265,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "KNG",
       "_geoloc": {
-        "lat": -3.644517,
-        "lng": 133.695553
+        "latitude": -3.644517,
+        "longitude": 133.695553
       },
       "links_count": 5,
       "objectID": "3258"
@@ -25277,8 +25277,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "CIJ",
       "_geoloc": {
-        "lat": -11.040436,
-        "lng": -68.782972
+        "latitude": -11.040436,
+        "longitude": -68.782972
       },
       "links_count": 5,
       "objectID": "2761"
@@ -25289,8 +25289,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "INZ",
       "_geoloc": {
-        "lat": 27.251022,
-        "lng": 2.512017
+        "latitude": 27.251022,
+        "longitude": 2.512017
       },
       "links_count": 5,
       "objectID": "239"
@@ -25301,8 +25301,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "TKX",
       "_geoloc": {
-        "lat": -14.455781,
-        "lng": -145.024542
+        "latitude": -14.455781,
+        "longitude": -145.024542
       },
       "links_count": 5,
       "objectID": "1986"
@@ -25313,8 +25313,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "TIH",
       "_geoloc": {
-        "lat": -15.119617,
-        "lng": -148.230697
+        "latitude": -15.119617,
+        "longitude": -148.230697
       },
       "links_count": 5,
       "objectID": "1975"
@@ -25325,8 +25325,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "TUB",
       "_geoloc": {
-        "lat": -23.365353,
-        "lng": -149.524072
+        "latitude": -23.365353,
+        "longitude": -149.524072
       },
       "links_count": 5,
       "objectID": "1972"
@@ -25337,8 +25337,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "RUR",
       "_geoloc": {
-        "lat": -22.434069,
-        "lng": -151.360614
+        "latitude": -22.434069,
+        "longitude": -151.360614
       },
       "links_count": 5,
       "objectID": "1971"
@@ -25349,8 +25349,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "AIT",
       "_geoloc": {
-        "lat": -18.830922,
-        "lng": -159.764233
+        "latitude": -18.830922,
+        "longitude": -159.764233
       },
       "links_count": 5,
       "objectID": "1958"
@@ -25361,8 +25361,8 @@ const airports = [
       "country": "Cayman Islands",
       "iata_code": "CYB",
       "_geoloc": {
-        "lat": 19.686981,
-        "lng": -79.882789
+        "latitude": 19.686981,
+        "longitude": -79.882789
       },
       "links_count": 5,
       "objectID": "1925"
@@ -25373,8 +25373,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "CYO",
       "_geoloc": {
-        "lat": 21.616453,
-        "lng": -81.545989
+        "latitude": 21.616453,
+        "longitude": -81.545989
       },
       "links_count": 5,
       "objectID": "1903"
@@ -25385,8 +25385,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "BOC",
       "_geoloc": {
-        "lat": 9.340853,
-        "lng": -82.250842
+        "latitude": 9.340853,
+        "longitude": -82.250842
       },
       "links_count": 5,
       "objectID": "1865"
@@ -25397,8 +25397,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "KIS",
       "_geoloc": {
-        "lat": -0.086139,
-        "lng": 34.728892
+        "latitude": -0.086139,
+        "longitude": 34.728892
       },
       "links_count": 5,
       "objectID": "1140"
@@ -25409,8 +25409,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "FKI",
       "_geoloc": {
-        "lat": 0.5175,
-        "lng": 25.155014
+        "latitude": 0.5175,
+        "longitude": 25.155014
       },
       "links_count": 5,
       "objectID": "1031"
@@ -25421,8 +25421,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "MDK",
       "_geoloc": {
-        "lat": 0.0226,
-        "lng": 18.288744
+        "latitude": 0.0226,
+        "longitude": 18.288744
       },
       "links_count": 5,
       "objectID": "1026"
@@ -25433,8 +25433,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YOJ",
       "_geoloc": {
-        "lat": 58.621389,
-        "lng": -117.164722
+        "latitude": 58.621389,
+        "longitude": -117.164722
       },
       "links_count": 4,
       "objectID": "99"
@@ -25445,8 +25445,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "VXC",
       "_geoloc": {
-        "lat": -13.273986,
-        "lng": 35.266262
+        "latitude": -13.273986,
+        "longitude": 35.266262
       },
       "links_count": 4,
       "objectID": "977"
@@ -25457,8 +25457,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "VHC",
       "_geoloc": {
-        "lat": -9.689067,
-        "lng": 20.431875
+        "latitude": -9.689067,
+        "longitude": 20.431875
       },
       "links_count": 4,
       "objectID": "957"
@@ -25469,8 +25469,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "MEG",
       "_geoloc": {
-        "lat": -9.525086,
-        "lng": 16.312406
+        "latitude": -9.525086,
+        "longitude": 16.312406
       },
       "links_count": 4,
       "objectID": "952"
@@ -25481,8 +25481,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "SVP",
       "_geoloc": {
-        "lat": -12.404633,
-        "lng": 16.947414
+        "latitude": -12.404633,
+        "longitude": 16.947414
       },
       "links_count": 4,
       "objectID": "949"
@@ -25493,8 +25493,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "FTU",
       "_geoloc": {
-        "lat": -25.038056,
-        "lng": 46.956111
+        "latitude": -25.038056,
+        "longitude": 46.956111
       },
       "links_count": 4,
       "objectID": "937"
@@ -25505,8 +25505,8 @@ const airports = [
       "country": "China",
       "iata_code": "GXH",
       "_geoloc": {
-        "lat": 34.4909,
-        "lng": 102.3719
+        "latitude": 34.4909,
+        "longitude": 102.3719
       },
       "links_count": 4,
       "objectID": "9311"
@@ -25517,8 +25517,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "BGG",
       "_geoloc": {
-        "lat": 38.86111,
-        "lng": 40.5925
+        "latitude": 38.86111,
+        "longitude": 40.5925
       },
       "links_count": 4,
       "objectID": "9272"
@@ -25529,8 +25529,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "MOQ",
       "_geoloc": {
-        "lat": -20.28475,
-        "lng": 44.317614
+        "latitude": -20.28475,
+        "longitude": 44.317614
       },
       "links_count": 4,
       "objectID": "922"
@@ -25541,8 +25541,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "IGD",
       "_geoloc": {
-        "lat": 39.983056,
-        "lng": 43.866389
+        "latitude": 39.983056,
+        "longitude": 43.866389
       },
       "links_count": 4,
       "objectID": "9043"
@@ -25553,8 +25553,8 @@ const airports = [
       "country": "Cameroon",
       "iata_code": "GOU",
       "_geoloc": {
-        "lat": 9.335892,
-        "lng": 13.370103
+        "latitude": 9.335892,
+        "longitude": 13.370103
       },
       "links_count": 4,
       "objectID": "901"
@@ -25565,8 +25565,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "XSB",
       "_geoloc": {
-        "lat": 24.2856083,
-        "lng": 52.5783472
+        "latitude": 24.2856083,
+        "longitude": 52.5783472
       },
       "links_count": 4,
       "objectID": "8961"
@@ -25577,8 +25577,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ODO",
       "_geoloc": {
-        "lat": 57.5137,
-        "lng": 114.1348
+        "latitude": 57.5137,
+        "longitude": 114.1348
       },
       "links_count": 4,
       "objectID": "8944"
@@ -25589,8 +25589,8 @@ const airports = [
       "country": "Equatorial Guinea",
       "iata_code": "BSG",
       "_geoloc": {
-        "lat": 1.905469,
-        "lng": 9.805681
+        "latitude": 1.905469,
+        "longitude": 9.805681
       },
       "links_count": 4,
       "objectID": "890"
@@ -25601,8 +25601,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "GKK",
       "_geoloc": {
-        "lat": 0.7308,
-        "lng": 73.433
+        "latitude": 0.7308,
+        "longitude": 73.433
       },
       "links_count": 4,
       "objectID": "8892"
@@ -25613,8 +25613,8 @@ const airports = [
       "country": "Azerbaijan",
       "iata_code": "LLK",
       "_geoloc": {
-        "lat": 38.746389,
-        "lng": 48.817778
+        "latitude": 38.746389,
+        "longitude": 48.817778
       },
       "links_count": 4,
       "objectID": "8774"
@@ -25625,8 +25625,8 @@ const airports = [
       "country": "Botswana",
       "iata_code": "FRW",
       "_geoloc": {
-        "lat": -21.159597,
-        "lng": 27.474525
+        "latitude": -21.159597,
+        "longitude": 27.474525
       },
       "links_count": 4,
       "objectID": "877"
@@ -25637,8 +25637,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "UTN",
       "_geoloc": {
-        "lat": -28.399097,
-        "lng": 21.260239
+        "latitude": -28.399097,
+        "longitude": 21.260239
       },
       "links_count": 4,
       "objectID": "865"
@@ -25649,8 +25649,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "ULH",
       "_geoloc": {
-        "lat": 26.636718,
-        "lng": 37.908018
+        "latitude": 26.636718,
+        "longitude": 37.908018
       },
       "links_count": 4,
       "objectID": "8381"
@@ -25661,8 +25661,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CFC",
       "_geoloc": {
-        "lat": -26.788333,
-        "lng": -50.939722
+        "latitude": -26.788333,
+        "longitude": -50.939722
       },
       "links_count": 4,
       "objectID": "8244"
@@ -25673,8 +25673,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAB",
       "_geoloc": {
-        "lat": 73.006389,
-        "lng": -85.047222
+        "latitude": 73.006389,
+        "longitude": -85.047222
       },
       "links_count": 4,
       "objectID": "8225"
@@ -25685,8 +25685,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZKG",
       "_geoloc": {
-        "lat": 50.195833,
-        "lng": -61.265833
+        "latitude": 50.195833,
+        "longitude": -61.265833
       },
       "links_count": 4,
       "objectID": "8217"
@@ -25697,8 +25697,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WWT",
       "_geoloc": {
-        "lat": 60.939167,
-        "lng": -164.641111
+        "latitude": 60.939167,
+        "longitude": -164.641111
       },
       "links_count": 4,
       "objectID": "8203"
@@ -25709,8 +25709,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IZA",
       "_geoloc": {
-        "lat": -21.5130558014,
-        "lng": -43.1730575562
+        "latitude": -21.5130558014,
+        "longitude": -43.1730575562
       },
       "links_count": 4,
       "objectID": "8180"
@@ -25721,8 +25721,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FBS",
       "_geoloc": {
-        "lat": 48.537222,
-        "lng": -123.009722
+        "latitude": 48.537222,
+        "longitude": -123.009722
       },
       "links_count": 4,
       "objectID": "8174"
@@ -25733,8 +25733,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WSX",
       "_geoloc": {
-        "lat": 48.617778,
-        "lng": -122.952778
+        "latitude": 48.617778,
+        "longitude": -122.952778
       },
       "links_count": 4,
       "objectID": "8173"
@@ -25745,8 +25745,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RCE",
       "_geoloc": {
-        "lat": 48.608056,
-        "lng": -123.159722
+        "latitude": 48.608056,
+        "longitude": -123.159722
       },
       "links_count": 4,
       "objectID": "8170"
@@ -25757,8 +25757,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "KIM",
       "_geoloc": {
-        "lat": -28.802834,
-        "lng": 24.765167
+        "latitude": -28.802834,
+        "longitude": 24.765167
       },
       "links_count": 4,
       "objectID": "815"
@@ -25769,8 +25769,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "NYT",
       "_geoloc": {
-        "lat": 19.374,
-        "lng": 96.121
+        "latitude": 19.374,
+        "longitude": 96.121
       },
       "links_count": 4,
       "objectID": "8130"
@@ -25781,8 +25781,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "HDS",
       "_geoloc": {
-        "lat": -24.368642,
-        "lng": 31.048744
+        "latitude": -24.368642,
+        "longitude": 31.048744
       },
       "links_count": 4,
       "objectID": "811"
@@ -25793,8 +25793,8 @@ const airports = [
       "country": "China",
       "iata_code": "ZHY",
       "_geoloc": {
-        "lat": 37.5728,
-        "lng": 105.1544
+        "latitude": 37.5728,
+        "longitude": 105.1544
       },
       "links_count": 4,
       "objectID": "8043"
@@ -25805,8 +25805,8 @@ const airports = [
       "country": "China",
       "iata_code": "NGQ",
       "_geoloc": {
-        "lat": 32.10027,
-        "lng": 80.052778
+        "latitude": 32.10027,
+        "longitude": 80.052778
       },
       "links_count": 4,
       "objectID": "7932"
@@ -25817,8 +25817,8 @@ const airports = [
       "country": "China",
       "iata_code": "YUS",
       "_geoloc": {
-        "lat": 32.825,
-        "lng": 97.125
+        "latitude": 32.825,
+        "longitude": 97.125
       },
       "links_count": 4,
       "objectID": "7894"
@@ -25829,8 +25829,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "UKS",
       "_geoloc": {
-        "lat": 44.691431,
-        "lng": 33.57567
+        "latitude": 44.691431,
+        "longitude": 33.57567
       },
       "links_count": 4,
       "objectID": "7863"
@@ -25841,8 +25841,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ONQ",
       "_geoloc": {
-        "lat": 41.506111,
-        "lng": 32.088611
+        "latitude": 41.506111,
+        "longitude": 32.088611
       },
       "links_count": 4,
       "objectID": "7821"
@@ -25853,8 +25853,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "LTX",
       "_geoloc": {
-        "lat": -0.5425,
-        "lng": -78.3657
+        "latitude": -0.5425,
+        "longitude": -78.3657
       },
       "links_count": 4,
       "objectID": "7695"
@@ -25865,8 +25865,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MMU",
       "_geoloc": {
-        "lat": 40.79935,
-        "lng": -74.4148747
+        "latitude": 40.79935,
+        "longitude": -74.4148747
       },
       "links_count": 4,
       "objectID": "7657"
@@ -25877,8 +25877,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "NDU",
       "_geoloc": {
-        "lat": -17.956461,
-        "lng": 19.719439
+        "latitude": -17.956461,
+        "longitude": 19.719439
       },
       "links_count": 4,
       "objectID": "7634"
@@ -25889,8 +25889,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "NNB",
       "_geoloc": {
-        "lat": -10.848056,
-        "lng": 162.454167
+        "latitude": -10.848056,
+        "longitude": 162.454167
       },
       "links_count": 4,
       "objectID": "7618"
@@ -25901,8 +25901,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "RNA",
       "_geoloc": {
-        "lat": -9.854722,
-        "lng": 161.979167
+        "latitude": -9.854722,
+        "longitude": 161.979167
       },
       "links_count": 4,
       "objectID": "7616"
@@ -25913,8 +25913,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ITB",
       "_geoloc": {
-        "lat": -4.2446,
-        "lng": -56.00384
+        "latitude": -4.2446,
+        "longitude": -56.00384
       },
       "links_count": 4,
       "objectID": "7534"
@@ -25925,8 +25925,8 @@ const airports = [
       "country": "China",
       "iata_code": "WNH",
       "_geoloc": {
-        "lat": 23.375833,
-        "lng": 104.243056
+        "latitude": 23.375833,
+        "longitude": 104.243056
       },
       "links_count": 4,
       "objectID": "7528"
@@ -25937,8 +25937,8 @@ const airports = [
       "country": "China",
       "iata_code": "LNJ",
       "_geoloc": {
-        "lat": 23.738333,
-        "lng": 100.025
+        "latitude": 23.738333,
+        "longitude": 100.025
       },
       "links_count": 4,
       "objectID": "7527"
@@ -25949,8 +25949,8 @@ const airports = [
       "country": "China",
       "iata_code": "BSD",
       "_geoloc": {
-        "lat": 25.053333,
-        "lng": 99.168333
+        "latitude": 25.053333,
+        "longitude": 99.168333
       },
       "links_count": 4,
       "objectID": "7505"
@@ -25961,8 +25961,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OHH",
       "_geoloc": {
-        "lat": 53.583333,
-        "lng": 142.933333
+        "latitude": 53.583333,
+        "longitude": 142.933333
       },
       "links_count": 4,
       "objectID": "7479"
@@ -25973,8 +25973,8 @@ const airports = [
       "country": "China",
       "iata_code": "FUO",
       "_geoloc": {
-        "lat": 23.133333,
-        "lng": 113.28333
+        "latitude": 23.133333,
+        "longitude": 113.28333
       },
       "links_count": 4,
       "objectID": "7457"
@@ -25985,8 +25985,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "RVV",
       "_geoloc": {
-        "lat": -23.87,
-        "lng": -147.67
+        "latitude": -23.87,
+        "longitude": -147.67
       },
       "links_count": 4,
       "objectID": "7456"
@@ -25997,8 +25997,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "NRK",
       "_geoloc": {
-        "lat": 58.586253,
-        "lng": 16.250622
+        "latitude": 58.586253,
+        "longitude": 16.250622
       },
       "links_count": 4,
       "objectID": "743"
@@ -26009,8 +26009,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "LPI",
       "_geoloc": {
-        "lat": 58.40615,
-        "lng": 15.680508
+        "latitude": 58.40615,
+        "longitude": 15.680508
       },
       "links_count": 4,
       "objectID": "742"
@@ -26021,8 +26021,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "BLE",
       "_geoloc": {
-        "lat": 60.422017,
-        "lng": 15.515211
+        "latitude": 60.422017,
+        "longitude": 15.515211
       },
       "links_count": 4,
       "objectID": "739"
@@ -26033,8 +26033,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "LCR",
       "_geoloc": {
-        "lat": -0.733333,
-        "lng": -73.016667
+        "latitude": -0.733333,
+        "longitude": -73.016667
       },
       "links_count": 4,
       "objectID": "7356"
@@ -26045,8 +26045,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "RVE",
       "_geoloc": {
-        "lat": 6.916667,
-        "lng": -71.9
+        "latitude": 6.916667,
+        "longitude": -71.9
       },
       "links_count": 4,
       "objectID": "7355"
@@ -26057,8 +26057,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "RBQ",
       "_geoloc": {
-        "lat": -14.4275,
-        "lng": -67.498056
+        "latitude": -14.4275,
+        "longitude": -67.498056
       },
       "links_count": 4,
       "objectID": "7317"
@@ -26069,8 +26069,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "ORB",
       "_geoloc": {
-        "lat": 59.223733,
-        "lng": 15.037956
+        "latitude": 59.223733,
+        "longitude": 15.037956
       },
       "links_count": 4,
       "objectID": "731"
@@ -26081,8 +26081,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "AJR",
       "_geoloc": {
-        "lat": 65.590278,
-        "lng": 19.281944
+        "latitude": 65.590278,
+        "longitude": 19.281944
       },
       "links_count": 4,
       "objectID": "730"
@@ -26093,8 +26093,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YOP",
       "_geoloc": {
-        "lat": 58.491389,
-        "lng": -119.407778
+        "latitude": 58.491389,
+        "longitude": -119.407778
       },
       "links_count": 4,
       "objectID": "7266"
@@ -26105,8 +26105,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWB",
       "_geoloc": {
-        "lat": 61.588611,
-        "lng": -71.929444
+        "latitude": 61.588611,
+        "longitude": -71.929444
       },
       "links_count": 4,
       "objectID": "7253"
@@ -26117,8 +26117,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SLQ",
       "_geoloc": {
-        "lat": 61.700566,
-        "lng": -157.165833
+        "latitude": 61.700566,
+        "longitude": -157.165833
       },
       "links_count": 4,
       "objectID": "7240"
@@ -26129,8 +26129,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AIN",
       "_geoloc": {
-        "lat": 70.638056,
-        "lng": -159.994722
+        "latitude": 70.638056,
+        "longitude": -159.994722
       },
       "links_count": 4,
       "objectID": "7220"
@@ -26141,8 +26141,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NUP",
       "_geoloc": {
-        "lat": 60.905833,
-        "lng": -162.439167
+        "latitude": 60.905833,
+        "longitude": -162.439167
       },
       "links_count": 4,
       "objectID": "7212"
@@ -26153,8 +26153,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KYU",
       "_geoloc": {
-        "lat": 64.875833,
-        "lng": -157.730556
+        "latitude": 64.875833,
+        "longitude": -157.730556
       },
       "links_count": 4,
       "objectID": "7208"
@@ -26165,8 +26165,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SXP",
       "_geoloc": {
-        "lat": 62.520556,
-        "lng": -164.847778
+        "latitude": 62.520556,
+        "longitude": -164.847778
       },
       "links_count": 4,
       "objectID": "7200"
@@ -26177,8 +26177,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AUK",
       "_geoloc": {
-        "lat": 62.68,
-        "lng": -164.66
+        "latitude": 62.68,
+        "longitude": -164.66
       },
       "links_count": 4,
       "objectID": "7199"
@@ -26189,8 +26189,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WLK",
       "_geoloc": {
-        "lat": 66.6,
-        "lng": -159.985833
+        "latitude": 66.6,
+        "longitude": -159.985833
       },
       "links_count": 4,
       "objectID": "7182"
@@ -26201,8 +26201,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KOZ",
       "_geoloc": {
-        "lat": 57.922876,
-        "lng": -152.500511
+        "latitude": 57.922876,
+        "longitude": -152.500511
       },
       "links_count": 4,
       "objectID": "7164"
@@ -26213,8 +26213,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "EVG",
       "_geoloc": {
-        "lat": 62.047811,
-        "lng": 14.42295
+        "latitude": 62.047811,
+        "longitude": 14.42295
       },
       "links_count": 4,
       "objectID": "714"
@@ -26225,8 +26225,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WBQ",
       "_geoloc": {
-        "lat": 66.362222,
-        "lng": -147.406667
+        "latitude": 66.362222,
+        "longitude": -147.406667
       },
       "links_count": 4,
       "objectID": "7115"
@@ -26237,8 +26237,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VEE",
       "_geoloc": {
-        "lat": 67.008611,
-        "lng": -146.366389
+        "latitude": 67.008611,
+        "longitude": -146.366389
       },
       "links_count": 4,
       "objectID": "7114"
@@ -26249,8 +26249,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HUS",
       "_geoloc": {
-        "lat": 66.039167,
-        "lng": -154.264722
+        "latitude": 66.039167,
+        "longitude": -154.264722
       },
       "links_count": 4,
       "objectID": "7107"
@@ -26261,8 +26261,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CIK",
       "_geoloc": {
-        "lat": 66.645,
-        "lng": -143.74
+        "latitude": 66.645,
+        "longitude": -143.74
       },
       "links_count": 4,
       "objectID": "7105"
@@ -26273,8 +26273,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WTL",
       "_geoloc": {
-        "lat": 60.335278,
-        "lng": -162.666944
+        "latitude": 60.335278,
+        "longitude": -162.666944
       },
       "links_count": 4,
       "objectID": "7099"
@@ -26285,8 +26285,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MLL",
       "_geoloc": {
-        "lat": 61.8646418,
-        "lng": -162.026111
+        "latitude": 61.8646418,
+        "longitude": -162.026111
       },
       "links_count": 4,
       "objectID": "7097"
@@ -26297,8 +26297,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KUK",
       "_geoloc": {
-        "lat": 60.873333,
-        "lng": -162.524444
+        "latitude": 60.873333,
+        "longitude": -162.524444
       },
       "links_count": 4,
       "objectID": "7094"
@@ -26309,8 +26309,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NUI",
       "_geoloc": {
-        "lat": 70.21,
-        "lng": -151.005556
+        "latitude": 70.21,
+        "longitude": -151.005556
       },
       "links_count": 4,
       "objectID": "7092"
@@ -26321,8 +26321,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MMH",
       "_geoloc": {
-        "lat": 37.624049,
-        "lng": -118.837772
+        "latitude": 37.624049,
+        "longitude": -118.837772
       },
       "links_count": 4,
       "objectID": "7081"
@@ -26333,8 +26333,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DIK",
       "_geoloc": {
-        "lat": 46.7975,
-        "lng": -102.801944
+        "latitude": 46.7975,
+        "longitude": -102.801944
       },
       "links_count": 4,
       "objectID": "7064"
@@ -26345,8 +26345,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JHW",
       "_geoloc": {
-        "lat": 42.153333,
-        "lng": -79.258056
+        "latitude": 42.153333,
+        "longitude": -79.258056
       },
       "links_count": 4,
       "objectID": "7059"
@@ -26357,8 +26357,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ULV",
       "_geoloc": {
-        "lat": 54.268299,
-        "lng": 48.2267
+        "latitude": 54.268299,
+        "longitude": 48.2267
       },
       "links_count": 4,
       "objectID": "7003"
@@ -26369,8 +26369,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ASE",
       "_geoloc": {
-        "lat": 39.2232,
-        "lng": -106.869
+        "latitude": 39.2232,
+        "longitude": -106.869
       },
       "links_count": 4,
       "objectID": "7001"
@@ -26381,8 +26381,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "MXX",
       "_geoloc": {
-        "lat": 60.957908,
-        "lng": 14.511383
+        "latitude": 60.957908,
+        "longitude": 14.511383
       },
       "links_count": 4,
       "objectID": "698"
@@ -26393,8 +26393,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "QRW",
       "_geoloc": {
-        "lat": 5.31,
-        "lng": 5.45
+        "latitude": 5.31,
+        "longitude": 5.45
       },
       "links_count": 4,
       "objectID": "6972"
@@ -26405,8 +26405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PGV",
       "_geoloc": {
-        "lat": 35.635278,
-        "lng": -77.385278
+        "latitude": 35.635278,
+        "longitude": -77.385278
       },
       "links_count": 4,
       "objectID": "6959"
@@ -26417,8 +26417,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LWB",
       "_geoloc": {
-        "lat": 37.858333,
-        "lng": -80.399444
+        "latitude": 37.858333,
+        "longitude": -80.399444
       },
       "links_count": 4,
       "objectID": "6958"
@@ -26429,8 +26429,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BRD",
       "_geoloc": {
-        "lat": 46.398308,
-        "lng": -94.138078
+        "latitude": 46.398308,
+        "longitude": -94.138078
       },
       "links_count": 4,
       "objectID": "6957"
@@ -26441,8 +26441,8 @@ const airports = [
       "country": "China",
       "iata_code": "AAT",
       "_geoloc": {
-        "lat": 47.866667,
-        "lng": 88.116667
+        "latitude": 47.866667,
+        "longitude": 88.116667
       },
       "links_count": 4,
       "objectID": "6946"
@@ -26453,8 +26453,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "RMT",
       "_geoloc": {
-        "lat": -22.637253,
-        "lng": -152.805192
+        "latitude": -22.637253,
+        "longitude": -152.805192
       },
       "links_count": 4,
       "objectID": "6926"
@@ -26465,8 +26465,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "UKX",
       "_geoloc": {
-        "lat": 56.85,
-        "lng": 105.7167
+        "latitude": 56.85,
+        "longitude": 105.7167
       },
       "links_count": 4,
       "objectID": "6924"
@@ -26477,8 +26477,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "BNY",
       "_geoloc": {
-        "lat": -11.302,
-        "lng": 159.8
+        "latitude": -11.302,
+        "longitude": 159.8
       },
       "links_count": 4,
       "objectID": "6919"
@@ -26489,8 +26489,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "JKG",
       "_geoloc": {
-        "lat": 57.757594,
-        "lng": 14.068731
+        "latitude": 57.757594,
+        "longitude": 14.068731
       },
       "links_count": 4,
       "objectID": "688"
@@ -26501,8 +26501,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IMT",
       "_geoloc": {
-        "lat": 45.8183611,
-        "lng": -88.1145556
+        "latitude": 45.8183611,
+        "longitude": -88.1145556
       },
       "links_count": 4,
       "objectID": "6837"
@@ -26513,8 +26513,8 @@ const airports = [
       "country": "United States",
       "iata_code": "YAK",
       "_geoloc": {
-        "lat": 59.3012,
-        "lng": -139.3937
+        "latitude": 59.3012,
+        "longitude": -139.3937
       },
       "links_count": 4,
       "objectID": "6803"
@@ -26525,8 +26525,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "TRO",
       "_geoloc": {
-        "lat": -31.8886,
-        "lng": 152.514
+        "latitude": -31.8886,
+        "longitude": 152.514
       },
       "links_count": 4,
       "objectID": "6794"
@@ -26537,8 +26537,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "MPA",
       "_geoloc": {
-        "lat": -17.6344,
-        "lng": 24.1767
+        "latitude": -17.6344,
+        "longitude": 24.1767
       },
       "links_count": 4,
       "objectID": "6779"
@@ -26549,8 +26549,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LKH",
       "_geoloc": {
-        "lat": 3.3,
-        "lng": 114.783
+        "latitude": 3.3,
+        "longitude": 114.783
       },
       "links_count": 4,
       "objectID": "6769"
@@ -26561,8 +26561,8 @@ const airports = [
       "country": "Sudan",
       "iata_code": "EGN",
       "_geoloc": {
-        "lat": 13.4817,
-        "lng": 22.4672
+        "latitude": 13.4817,
+        "longitude": 22.4672
       },
       "links_count": 4,
       "objectID": "6768"
@@ -26573,8 +26573,8 @@ const airports = [
       "country": "India",
       "iata_code": "DHM",
       "_geoloc": {
-        "lat": 32.1651,
-        "lng": 76.2634
+        "latitude": 32.1651,
+        "longitude": 76.2634
       },
       "links_count": 4,
       "objectID": "6760"
@@ -26585,8 +26585,8 @@ const airports = [
       "country": "China",
       "iata_code": "TCG",
       "_geoloc": {
-        "lat": 46.6725,
-        "lng": 83.3408
+        "latitude": 46.6725,
+        "longitude": 83.3408
       },
       "links_count": 4,
       "objectID": "6752"
@@ -26597,8 +26597,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SDP",
       "_geoloc": {
-        "lat": 55.315,
-        "lng": -160.523
+        "latitude": 55.315,
+        "longitude": -160.523
       },
       "links_count": 4,
       "objectID": "6742"
@@ -26609,8 +26609,8 @@ const airports = [
       "country": "India",
       "iata_code": "GOP",
       "_geoloc": {
-        "lat": 26.739708,
-        "lng": 83.449708
+        "latitude": 26.739708,
+        "longitude": 83.449708
       },
       "links_count": 4,
       "objectID": "6741"
@@ -26621,8 +26621,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "ACR",
       "_geoloc": {
-        "lat": -0.58,
-        "lng": -72.41
+        "latitude": -0.58,
+        "longitude": -72.41
       },
       "links_count": 4,
       "objectID": "6740"
@@ -26633,8 +26633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HGR",
       "_geoloc": {
-        "lat": 39.7079,
-        "lng": -77.7295
+        "latitude": 39.7079,
+        "longitude": -77.7295
       },
       "links_count": 4,
       "objectID": "6739"
@@ -26645,8 +26645,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "PJA",
       "_geoloc": {
-        "lat": 67.2456,
-        "lng": 23.0689
+        "latitude": 67.2456,
+        "longitude": 23.0689
       },
       "links_count": 4,
       "objectID": "6737"
@@ -26657,8 +26657,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "QOW",
       "_geoloc": {
-        "lat": 5.42706,
-        "lng": 7.20603
+        "latitude": 5.42706,
+        "longitude": 7.20603
       },
       "links_count": 4,
       "objectID": "6730"
@@ -26669,8 +26669,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YTQ",
       "_geoloc": {
-        "lat": 58.6678,
-        "lng": -69.9558
+        "latitude": 58.6678,
+        "longitude": -69.9558
       },
       "links_count": 4,
       "objectID": "6728"
@@ -26681,8 +26681,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HPB",
       "_geoloc": {
-        "lat": 61.5239,
-        "lng": -166.147
+        "latitude": 61.5239,
+        "longitude": -166.147
       },
       "links_count": 4,
       "objectID": "6716"
@@ -26693,8 +26693,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ATK",
       "_geoloc": {
-        "lat": 70.4673,
-        "lng": -157.436
+        "latitude": 70.4673,
+        "longitude": -157.436
       },
       "links_count": 4,
       "objectID": "6714"
@@ -26705,8 +26705,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "LKL",
       "_geoloc": {
-        "lat": 70.068814,
-        "lng": 24.973489
+        "latitude": 70.068814,
+        "longitude": 24.973489
       },
       "links_count": 4,
       "objectID": "653"
@@ -26717,8 +26717,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "HAA",
       "_geoloc": {
-        "lat": 70.486675,
-        "lng": 22.139744
+        "latitude": 70.486675,
+        "longitude": 22.139744
       },
       "links_count": 4,
       "objectID": "646"
@@ -26729,8 +26729,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ORH",
       "_geoloc": {
-        "lat": 42.2673,
-        "lng": -71.8757
+        "latitude": 42.2673,
+        "longitude": -71.8757
       },
       "links_count": 4,
       "objectID": "6426"
@@ -26741,8 +26741,8 @@ const airports = [
       "country": "China",
       "iata_code": "KRY",
       "_geoloc": {
-        "lat": 45.617,
-        "lng": 84.883
+        "latitude": 45.617,
+        "longitude": 84.883
       },
       "links_count": 4,
       "objectID": "6408"
@@ -26753,8 +26753,8 @@ const airports = [
       "country": "China",
       "iata_code": "KCA",
       "_geoloc": {
-        "lat": 41.7181,
-        "lng": 82.9869
+        "latitude": 41.7181,
+        "longitude": 82.9869
       },
       "links_count": 4,
       "objectID": "6406"
@@ -26765,8 +26765,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "MXV",
       "_geoloc": {
-        "lat": 49.6633,
-        "lng": 100.099
+        "latitude": 49.6633,
+        "longitude": 100.099
       },
       "links_count": 4,
       "objectID": "6374"
@@ -26777,8 +26777,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "BYN",
       "_geoloc": {
-        "lat": 46.1633,
-        "lng": 100.704
+        "latitude": 46.1633,
+        "longitude": 100.704
       },
       "links_count": 4,
       "objectID": "6371"
@@ -26789,8 +26789,8 @@ const airports = [
       "country": "China",
       "iata_code": "GOQ",
       "_geoloc": {
-        "lat": 34.633,
-        "lng": 98.867
+        "latitude": 34.633,
+        "longitude": 98.867
       },
       "links_count": 4,
       "objectID": "6363"
@@ -26801,8 +26801,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "WIN",
       "_geoloc": {
-        "lat": -22.3636,
-        "lng": 143.086
+        "latitude": -22.3636,
+        "longitude": 143.086
       },
       "links_count": 4,
       "objectID": "6337"
@@ -26813,8 +26813,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "WNR",
       "_geoloc": {
-        "lat": -25.4131,
-        "lng": 142.667
+        "latitude": -25.4131,
+        "longitude": 142.667
       },
       "links_count": 4,
       "objectID": "6333"
@@ -26825,8 +26825,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "SGO",
       "_geoloc": {
-        "lat": -28.0497,
-        "lng": 148.595
+        "latitude": -28.0497,
+        "longitude": 148.595
       },
       "links_count": 4,
       "objectID": "6325"
@@ -26837,8 +26837,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ULP",
       "_geoloc": {
-        "lat": -26.6122,
-        "lng": 144.253
+        "latitude": -26.6122,
+        "longitude": 144.253
       },
       "links_count": 4,
       "objectID": "6322"
@@ -26849,8 +26849,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "EDR",
       "_geoloc": {
-        "lat": -14.8967,
-        "lng": 141.609
+        "latitude": -14.8967,
+        "longitude": 141.609
       },
       "links_count": 4,
       "objectID": "6319"
@@ -26861,8 +26861,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PLO",
       "_geoloc": {
-        "lat": -34.6053,
-        "lng": 135.88
+        "latitude": -34.6053,
+        "longitude": 135.88
       },
       "links_count": 4,
       "objectID": "6318"
@@ -26873,8 +26873,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PKE",
       "_geoloc": {
-        "lat": -33.1314,
-        "lng": 148.239
+        "latitude": -33.1314,
+        "longitude": 148.239
       },
       "links_count": 4,
       "objectID": "6317"
@@ -26885,8 +26885,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ZNE",
       "_geoloc": {
-        "lat": -23.4178,
-        "lng": 119.803
+        "latitude": -23.4178,
+        "longitude": 119.803
       },
       "links_count": 4,
       "objectID": "6310"
@@ -26897,8 +26897,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "NTN",
       "_geoloc": {
-        "lat": -17.6836,
-        "lng": 141.07
+        "latitude": -17.6836,
+        "longitude": 141.07
       },
       "links_count": 4,
       "objectID": "6309"
@@ -26909,8 +26909,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "NRA",
       "_geoloc": {
-        "lat": -34.7022,
-        "lng": 146.512
+        "latitude": -34.7022,
+        "longitude": 146.512
       },
       "links_count": 4,
       "objectID": "6307"
@@ -26921,8 +26921,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MGB",
       "_geoloc": {
-        "lat": -37.7456,
-        "lng": 140.785
+        "latitude": -37.7456,
+        "longitude": 140.785
       },
       "links_count": 4,
       "objectID": "6303"
@@ -26933,8 +26933,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MYA",
       "_geoloc": {
-        "lat": -35.8978,
-        "lng": 150.144
+        "latitude": -35.8978,
+        "longitude": 150.144
       },
       "links_count": 4,
       "objectID": "6302"
@@ -26945,8 +26945,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGP",
       "_geoloc": {
-        "lat": 48.775278,
-        "lng": -64.478611
+        "latitude": 48.775278,
+        "longitude": -64.478611
       },
       "links_count": 4,
       "objectID": "63"
@@ -26957,8 +26957,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "IRG",
       "_geoloc": {
-        "lat": -12.7869,
-        "lng": 143.305
+        "latitude": -12.7869,
+        "longitude": 143.305
       },
       "links_count": 4,
       "objectID": "6286"
@@ -26969,8 +26969,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KWM",
       "_geoloc": {
-        "lat": -15.4856,
-        "lng": 141.751
+        "latitude": -15.4856,
+        "longitude": 141.751
       },
       "links_count": 4,
       "objectID": "6281"
@@ -26981,8 +26981,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KNS",
       "_geoloc": {
-        "lat": -39.8775,
-        "lng": 143.878
+        "latitude": -39.8775,
+        "longitude": 143.878
       },
       "links_count": 4,
       "objectID": "6278"
@@ -26993,8 +26993,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "JCK",
       "_geoloc": {
-        "lat": -20.6683,
-        "lng": 141.723
+        "latitude": -20.6683,
+        "longitude": 141.723
       },
       "links_count": 4,
       "objectID": "6276"
@@ -27005,8 +27005,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GFF",
       "_geoloc": {
-        "lat": -34.2508,
-        "lng": 146.067
+        "latitude": -34.2508,
+        "longitude": 146.067
       },
       "links_count": 4,
       "objectID": "6271"
@@ -27017,8 +27017,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CMA",
       "_geoloc": {
-        "lat": -28.03,
-        "lng": 145.622
+        "latitude": -28.03,
+        "longitude": 145.622
       },
       "links_count": 4,
       "objectID": "6258"
@@ -27029,8 +27029,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BHS",
       "_geoloc": {
-        "lat": -33.4094,
-        "lng": 149.652
+        "latitude": -33.4094,
+        "longitude": 149.652
       },
       "links_count": 4,
       "objectID": "6249"
@@ -27041,8 +27041,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BQL",
       "_geoloc": {
-        "lat": -22.9133,
-        "lng": 139.9
+        "latitude": -22.9133,
+        "longitude": 139.9
       },
       "links_count": 4,
       "objectID": "6248"
@@ -27053,8 +27053,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BUC",
       "_geoloc": {
-        "lat": -17.7486,
-        "lng": 139.534
+        "latitude": -17.7486,
+        "longitude": 139.534
       },
       "links_count": 4,
       "objectID": "6245"
@@ -27065,8 +27065,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BEU",
       "_geoloc": {
-        "lat": -24.3461,
-        "lng": 139.46
+        "latitude": -24.3461,
+        "longitude": 139.46
       },
       "links_count": 4,
       "objectID": "6243"
@@ -27077,8 +27077,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BVI",
       "_geoloc": {
-        "lat": -25.8975,
-        "lng": 139.348
+        "latitude": -25.8975,
+        "longitude": 139.348
       },
       "links_count": 4,
       "objectID": "6240"
@@ -27089,8 +27089,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "AUU",
       "_geoloc": {
-        "lat": -13.3539,
-        "lng": 141.721
+        "latitude": -13.3539,
+        "longitude": 141.721
       },
       "links_count": 4,
       "objectID": "6237"
@@ -27101,8 +27101,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "KBU",
       "_geoloc": {
-        "lat": -3.29472,
-        "lng": 116.165
+        "latitude": -3.29472,
+        "longitude": 116.165
       },
       "links_count": 4,
       "objectID": "6231"
@@ -27113,8 +27113,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KUD",
       "_geoloc": {
-        "lat": 6.9225,
-        "lng": 116.836
+        "latitude": 6.9225,
+        "longitude": 116.836
       },
       "links_count": 4,
       "objectID": "6222"
@@ -27125,8 +27125,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "BBN",
       "_geoloc": {
-        "lat": 3.73389,
-        "lng": 115.479
+        "latitude": 3.73389,
+        "longitude": 115.479
       },
       "links_count": 4,
       "objectID": "6220"
@@ -27137,8 +27137,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "MKM",
       "_geoloc": {
-        "lat": 2.90639,
-        "lng": 112.08
+        "latitude": 2.90639,
+        "longitude": 112.08
       },
       "links_count": 4,
       "objectID": "6217"
@@ -27149,8 +27149,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "ODN",
       "_geoloc": {
-        "lat": 3.967,
-        "lng": 115.05
+        "latitude": 3.967,
+        "longitude": 115.05
       },
       "links_count": 4,
       "objectID": "6216"
@@ -27161,8 +27161,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LGL",
       "_geoloc": {
-        "lat": 3.421,
-        "lng": 115.154
+        "latitude": 3.421,
+        "longitude": 115.154
       },
       "links_count": 4,
       "objectID": "6215"
@@ -27173,8 +27173,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "TVY",
       "_geoloc": {
-        "lat": 14.103886,
-        "lng": 98.203636
+        "latitude": 14.103886,
+        "longitude": 98.203636
       },
       "links_count": 4,
       "objectID": "6197"
@@ -27185,8 +27185,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VCS",
       "_geoloc": {
-        "lat": 8.731831,
-        "lng": 106.632589
+        "latitude": 8.731831,
+        "longitude": 106.632589
       },
       "links_count": 4,
       "objectID": "6190"
@@ -27197,8 +27197,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "KDO",
       "_geoloc": {
-        "lat": 1.85917,
-        "lng": 73.5219
+        "latitude": 1.85917,
+        "longitude": 73.5219
       },
       "links_count": 4,
       "objectID": "6185"
@@ -27209,8 +27209,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "HAQ",
       "_geoloc": {
-        "lat": 6.74423,
-        "lng": 73.1705
+        "latitude": 6.74423,
+        "longitude": 73.1705
       },
       "links_count": 4,
       "objectID": "6184"
@@ -27221,8 +27221,8 @@ const airports = [
       "country": "India",
       "iata_code": "DMU",
       "_geoloc": {
-        "lat": 25.8839,
-        "lng": 93.7711
+        "latitude": 25.8839,
+        "longitude": 93.7711
       },
       "links_count": 4,
       "objectID": "6174"
@@ -27233,8 +27233,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "KCT",
       "_geoloc": {
-        "lat": 5.99368,
-        "lng": 80.3203
+        "latitude": 5.99368,
+        "longitude": 80.3203
       },
       "links_count": 4,
       "objectID": "6169"
@@ -27245,8 +27245,8 @@ const airports = [
       "country": "India",
       "iata_code": "HBX",
       "_geoloc": {
-        "lat": 15.3617,
-        "lng": 75.0849
+        "latitude": 15.3617,
+        "longitude": 75.0849
       },
       "links_count": 4,
       "objectID": "6168"
@@ -27257,8 +27257,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "SKX",
       "_geoloc": {
-        "lat": 54.1251,
-        "lng": 45.2123
+        "latitude": 54.1251,
+        "longitude": 45.2123
       },
       "links_count": 4,
       "objectID": "6166"
@@ -27269,8 +27269,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CSY",
       "_geoloc": {
-        "lat": 56.0903,
-        "lng": 47.3473
+        "latitude": 56.0903,
+        "longitude": 47.3473
       },
       "links_count": 4,
       "objectID": "6162"
@@ -27281,8 +27281,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VKT",
       "_geoloc": {
-        "lat": 67.4886,
-        "lng": 63.9931
+        "latitude": 67.4886,
+        "longitude": 63.9931
       },
       "links_count": 4,
       "objectID": "6159"
@@ -27293,8 +27293,8 @@ const airports = [
       "country": "Uzbekistan",
       "iata_code": "TMJ",
       "_geoloc": {
-        "lat": 37.286667,
-        "lng": 67.31
+        "latitude": 37.286667,
+        "longitude": 67.31
       },
       "links_count": 4,
       "objectID": "6154"
@@ -27305,8 +27305,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KRO",
       "_geoloc": {
-        "lat": 55.4753,
-        "lng": 65.4156
+        "latitude": 55.4753,
+        "longitude": 65.4156
       },
       "links_count": 4,
       "objectID": "6146"
@@ -27317,8 +27317,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "NOZ",
       "_geoloc": {
-        "lat": 53.8114,
-        "lng": 86.8772
+        "latitude": 53.8114,
+        "longitude": 86.8772
       },
       "links_count": 4,
       "objectID": "6119"
@@ -27329,8 +27329,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "IFO",
       "_geoloc": {
-        "lat": 48.884167,
-        "lng": 24.686111
+        "latitude": 48.884167,
+        "longitude": 24.686111
       },
       "links_count": 4,
       "objectID": "6106"
@@ -27341,8 +27341,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "OZH",
       "_geoloc": {
-        "lat": 47.867,
-        "lng": 35.3157
+        "latitude": 47.867,
+        "longitude": 35.3157
       },
       "links_count": 4,
       "objectID": "6103"
@@ -27353,8 +27353,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "EBJ",
       "_geoloc": {
-        "lat": 55.525942,
-        "lng": 8.553403
+        "latitude": 55.525942,
+        "longitude": 8.553403
       },
       "links_count": 4,
       "objectID": "610"
@@ -27365,8 +27365,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "DYR",
       "_geoloc": {
-        "lat": 64.73495,
-        "lng": 177.741483
+        "latitude": 64.73495,
+        "longitude": 177.741483
       },
       "links_count": 4,
       "objectID": "6098"
@@ -27377,8 +27377,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "IKS",
       "_geoloc": {
-        "lat": 71.6977,
-        "lng": 128.903
+        "latitude": 71.6977,
+        "longitude": 128.903
       },
       "links_count": 4,
       "objectID": "6095"
@@ -27389,8 +27389,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CYX",
       "_geoloc": {
-        "lat": 68.7406,
-        "lng": 161.338
+        "latitude": 68.7406,
+        "longitude": 161.338
       },
       "links_count": 4,
       "objectID": "6094"
@@ -27401,8 +27401,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CKH",
       "_geoloc": {
-        "lat": 70.6231,
-        "lng": 147.902
+        "latitude": 70.6231,
+        "longitude": 147.902
       },
       "links_count": 4,
       "objectID": "6093"
@@ -27413,8 +27413,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "DZN",
       "_geoloc": {
-        "lat": 47.708333,
-        "lng": 67.733333
+        "latitude": 47.708333,
+        "longitude": 67.733333
       },
       "links_count": 4,
       "objectID": "6085"
@@ -27425,8 +27425,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "PPK",
       "_geoloc": {
-        "lat": 54.7747,
-        "lng": 69.1839
+        "latitude": 54.7747,
+        "longitude": 69.1839
       },
       "links_count": 4,
       "objectID": "6084"
@@ -27437,8 +27437,8 @@ const airports = [
       "country": "Kazakhstan",
       "iata_code": "KOV",
       "_geoloc": {
-        "lat": 53.3291,
-        "lng": 69.5946
+        "latitude": 53.3291,
+        "longitude": 69.5946
       },
       "links_count": 4,
       "objectID": "6083"
@@ -27449,8 +27449,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "JPR",
       "_geoloc": {
-        "lat": -10.8708,
-        "lng": -61.8465
+        "latitude": -10.8708,
+        "longitude": -61.8465
       },
       "links_count": 4,
       "objectID": "6073"
@@ -27461,8 +27461,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "HUU",
       "_geoloc": {
-        "lat": -9.878811,
-        "lng": -76.204797
+        "latitude": -9.878811,
+        "longitude": -76.204797
       },
       "links_count": 4,
       "objectID": "6067"
@@ -27473,8 +27473,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "CJA",
       "_geoloc": {
-        "lat": -7.139183,
-        "lng": -78.4894
+        "latitude": -7.139183,
+        "longitude": -78.4894
       },
       "links_count": 4,
       "objectID": "6066"
@@ -27485,8 +27485,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "EYP",
       "_geoloc": {
-        "lat": 5.319114,
-        "lng": -72.383975
+        "latitude": 5.319114,
+        "longitude": -72.383975
       },
       "links_count": 4,
       "objectID": "6055"
@@ -27497,8 +27497,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "WAT",
       "_geoloc": {
-        "lat": 52.1872,
-        "lng": -7.086964
+        "latitude": 52.1872,
+        "longitude": -7.086964
       },
       "links_count": 4,
       "objectID": "605"
@@ -27509,8 +27509,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "LOH",
       "_geoloc": {
-        "lat": -3.99589,
-        "lng": -79.3719
+        "latitude": -3.99589,
+        "longitude": -79.3719
       },
       "links_count": 4,
       "objectID": "6046"
@@ -27521,8 +27521,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MII",
       "_geoloc": {
-        "lat": -22.196892,
-        "lng": -49.9264
+        "latitude": -22.196892,
+        "longitude": -49.9264
       },
       "links_count": 4,
       "objectID": "6038"
@@ -27533,8 +27533,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CRM",
       "_geoloc": {
-        "lat": 12.502417,
-        "lng": 124.635778
+        "latitude": 12.502417,
+        "longitude": 124.635778
       },
       "links_count": 4,
       "objectID": "6024"
@@ -27545,8 +27545,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "BSO",
       "_geoloc": {
-        "lat": 20.451322,
-        "lng": 121.979883
+        "latitude": 20.451322,
+        "longitude": 121.979883
       },
       "links_count": 4,
       "objectID": "6019"
@@ -27557,8 +27557,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "WNP",
       "_geoloc": {
-        "lat": 13.584886,
-        "lng": 123.270239
+        "latitude": 13.584886,
+        "longitude": 123.270239
       },
       "links_count": 4,
       "objectID": "6018"
@@ -27569,8 +27569,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "KUV",
       "_geoloc": {
-        "lat": 35.903756,
-        "lng": 126.615906
+        "latitude": 35.903756,
+        "longitude": 126.615906
       },
       "links_count": 4,
       "objectID": "6003"
@@ -27581,8 +27581,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFS",
       "_geoloc": {
-        "lat": 61.760153,
-        "lng": -121.236525
+        "latitude": 61.760153,
+        "longitude": -121.236525
       },
       "links_count": 4,
       "objectID": "60"
@@ -27593,8 +27593,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WRG",
       "_geoloc": {
-        "lat": 56.4843,
-        "lng": -132.37
+        "latitude": 56.4843,
+        "longitude": -132.37
       },
       "links_count": 4,
       "objectID": "5969"
@@ -27605,8 +27605,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VAK",
       "_geoloc": {
-        "lat": 61.5338,
-        "lng": -165.584
+        "latitude": 61.5338,
+        "longitude": -165.584
       },
       "links_count": 4,
       "objectID": "5968"
@@ -27617,8 +27617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MOU",
       "_geoloc": {
-        "lat": 62.0954,
-        "lng": -163.682
+        "latitude": 62.0954,
+        "longitude": -163.682
       },
       "links_count": 4,
       "objectID": "5966"
@@ -27629,8 +27629,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "DSK",
       "_geoloc": {
-        "lat": 31.909422,
-        "lng": 70.896639
+        "latitude": 31.909422,
+        "longitude": 70.896639
       },
       "links_count": 4,
       "objectID": "5943"
@@ -27641,8 +27641,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "CJL",
       "_geoloc": {
-        "lat": 35.886592,
-        "lng": 71.800578
+        "latitude": 35.886592,
+        "longitude": 71.800578
       },
       "links_count": 4,
       "objectID": "5940"
@@ -27653,8 +27653,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "AAN",
       "_geoloc": {
-        "lat": 24.261667,
-        "lng": 55.609167
+        "latitude": 24.261667,
+        "longitude": 55.609167
       },
       "links_count": 4,
       "objectID": "5937"
@@ -27665,8 +27665,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "NSH",
       "_geoloc": {
-        "lat": 36.663333,
-        "lng": 51.464722
+        "latitude": 36.663333,
+        "longitude": 51.464722
       },
       "links_count": 4,
       "objectID": "5932"
@@ -27677,8 +27677,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "AJF",
       "_geoloc": {
-        "lat": 29.785133,
-        "lng": 40.100006
+        "latitude": 29.785133,
+        "longitude": 40.100006
       },
       "links_count": 4,
       "objectID": "5925"
@@ -27689,8 +27689,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "DWD",
       "_geoloc": {
-        "lat": 24.5,
-        "lng": 44.4
+        "latitude": 24.5,
+        "longitude": 44.4
       },
       "links_count": 4,
       "objectID": "5924"
@@ -27701,8 +27701,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "TGJ",
       "_geoloc": {
-        "lat": -21.0961,
-        "lng": 167.804
+        "latitude": -21.0961,
+        "longitude": 167.804
       },
       "links_count": 4,
       "objectID": "5919"
@@ -27713,8 +27713,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "FTA",
       "_geoloc": {
-        "lat": -19.5164,
-        "lng": 170.232
+        "latitude": -19.5164,
+        "longitude": 170.232
       },
       "links_count": 4,
       "objectID": "5917"
@@ -27725,8 +27725,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "DLY",
       "_geoloc": {
-        "lat": -18.7694,
-        "lng": 169.001
+        "latitude": -18.7694,
+        "longitude": 169.001
       },
       "links_count": 4,
       "objectID": "5916"
@@ -27737,8 +27737,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "AWD",
       "_geoloc": {
-        "lat": -19.24,
-        "lng": 169.605
+        "latitude": -19.24,
+        "longitude": 169.605
       },
       "links_count": 4,
       "objectID": "5915"
@@ -27749,8 +27749,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "SWJ",
       "_geoloc": {
-        "lat": -16.495,
-        "lng": 167.438
+        "latitude": -16.495,
+        "longitude": 167.438
       },
       "links_count": 4,
       "objectID": "5912"
@@ -27761,8 +27761,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "LNB",
       "_geoloc": {
-        "lat": -16.5842,
-        "lng": 168.159
+        "latitude": -16.5842,
+        "longitude": 168.159
       },
       "links_count": 4,
       "objectID": "5902"
@@ -27773,8 +27773,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "LPM",
       "_geoloc": {
-        "lat": -16.454,
-        "lng": 167.823
+        "latitude": -16.454,
+        "longitude": 167.823
       },
       "links_count": 4,
       "objectID": "5901"
@@ -27785,8 +27785,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "PBJ",
       "_geoloc": {
-        "lat": -16.439,
-        "lng": 168.257
+        "latitude": -16.439,
+        "longitude": 168.257
       },
       "links_count": 4,
       "objectID": "5900"
@@ -27797,8 +27797,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "LOD",
       "_geoloc": {
-        "lat": -15.3067,
-        "lng": 167.967
+        "latitude": -15.3067,
+        "longitude": 167.967
       },
       "links_count": 4,
       "objectID": "5898"
@@ -27809,8 +27809,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "LBS",
       "_geoloc": {
-        "lat": -16.466749,
-        "lng": 179.33986
+        "latitude": -16.466749,
+        "longitude": 179.33986
       },
       "links_count": 4,
       "objectID": "5874"
@@ -27821,8 +27821,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "KDV",
       "_geoloc": {
-        "lat": -19.0581,
-        "lng": 178.157
+        "latitude": -19.0581,
+        "longitude": 178.157
       },
       "links_count": 4,
       "objectID": "5869"
@@ -27833,8 +27833,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "CRI",
       "_geoloc": {
-        "lat": 22.745561,
-        "lng": -74.182353
+        "latitude": 22.745561,
+        "longitude": -74.182353
       },
       "links_count": 4,
       "objectID": "5859"
@@ -27845,8 +27845,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "JAL",
       "_geoloc": {
-        "lat": 19.475083,
-        "lng": -96.797506
+        "latitude": 19.475083,
+        "longitude": -96.797506
       },
       "links_count": 4,
       "objectID": "5837"
@@ -27857,8 +27857,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "PEU",
       "_geoloc": {
-        "lat": 15.2622,
-        "lng": -83.7812
+        "latitude": 15.2622,
+        "longitude": -83.7812
       },
       "links_count": 4,
       "objectID": "5832"
@@ -27869,8 +27869,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ADF",
       "_geoloc": {
-        "lat": 37.7314,
-        "lng": 38.4689
+        "latitude": 37.7314,
+        "longitude": 38.4689
       },
       "links_count": 4,
       "objectID": "5800"
@@ -27881,8 +27881,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "AJI",
       "_geoloc": {
-        "lat": 39.6546,
-        "lng": 43.0271
+        "latitude": 39.6546,
+        "longitude": 43.0271
       },
       "links_count": 4,
       "objectID": "5799"
@@ -27893,8 +27893,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "CVU",
       "_geoloc": {
-        "lat": 39.6715,
-        "lng": -31.1136
+        "latitude": 39.6715,
+        "longitude": -31.1136
       },
       "links_count": 4,
       "objectID": "5793"
@@ -27905,8 +27905,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JSY",
       "_geoloc": {
-        "lat": 37.422792,
-        "lng": 24.950936
+        "latitude": 37.422792,
+        "longitude": 24.950936
       },
       "links_count": 4,
       "objectID": "5787"
@@ -27917,8 +27917,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TUP",
       "_geoloc": {
-        "lat": 34.2681,
-        "lng": -88.7699
+        "latitude": 34.2681,
+        "longitude": -88.7699
       },
       "links_count": 4,
       "objectID": "5773"
@@ -27929,8 +27929,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SMX",
       "_geoloc": {
-        "lat": 34.8989,
-        "lng": -120.457
+        "latitude": 34.8989,
+        "longitude": -120.457
       },
       "links_count": 4,
       "objectID": "5772"
@@ -27941,8 +27941,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RHI",
       "_geoloc": {
-        "lat": 45.6312,
-        "lng": -89.4675
+        "latitude": 45.6312,
+        "longitude": -89.4675
       },
       "links_count": 4,
       "objectID": "5765"
@@ -27953,8 +27953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OWB",
       "_geoloc": {
-        "lat": 37.7401,
-        "lng": -87.1668
+        "latitude": 37.7401,
+        "longitude": -87.1668
       },
       "links_count": 4,
       "objectID": "5758"
@@ -27965,8 +27965,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OTH",
       "_geoloc": {
-        "lat": 43.4171,
-        "lng": -124.246
+        "latitude": 43.4171,
+        "longitude": -124.246
       },
       "links_count": 4,
       "objectID": "5757"
@@ -27977,8 +27977,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LYH",
       "_geoloc": {
-        "lat": 37.3267,
-        "lng": -79.2004
+        "latitude": 37.3267,
+        "longitude": -79.2004
       },
       "links_count": 4,
       "objectID": "5753"
@@ -27989,8 +27989,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LMT",
       "_geoloc": {
-        "lat": 42.1561,
-        "lng": -121.733
+        "latitude": 42.1561,
+        "longitude": -121.733
       },
       "links_count": 4,
       "objectID": "5750"
@@ -28001,8 +28001,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LEB",
       "_geoloc": {
-        "lat": 43.6261,
-        "lng": -72.3042
+        "latitude": 43.6261,
+        "longitude": -72.3042
       },
       "links_count": 4,
       "objectID": "5749"
@@ -28013,8 +28013,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HOT",
       "_geoloc": {
-        "lat": 34.478,
-        "lng": -93.0962
+        "latitude": 34.478,
+        "longitude": -93.0962
       },
       "links_count": 4,
       "objectID": "5741"
@@ -28025,8 +28025,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DUJ",
       "_geoloc": {
-        "lat": 41.1783,
-        "lng": -78.8987
+        "latitude": 41.1783,
+        "longitude": -78.8987
       },
       "links_count": 4,
       "objectID": "5734"
@@ -28037,8 +28037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CEC",
       "_geoloc": {
-        "lat": 41.7802,
-        "lng": -124.237
+        "latitude": 41.7802,
+        "longitude": -124.237
       },
       "links_count": 4,
       "objectID": "5727"
@@ -28049,8 +28049,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BRL",
       "_geoloc": {
-        "lat": 40.7832,
-        "lng": -91.1255
+        "latitude": 40.7832,
+        "longitude": -91.1255
       },
       "links_count": 4,
       "objectID": "5726"
@@ -28061,8 +28061,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BFD",
       "_geoloc": {
-        "lat": 41.8031,
-        "lng": -78.6401
+        "latitude": 41.8031,
+        "longitude": -78.6401
       },
       "links_count": 4,
       "objectID": "5722"
@@ -28073,8 +28073,8 @@ const airports = [
       "country": "United States",
       "iata_code": "APN",
       "_geoloc": {
-        "lat": 45.0781,
-        "lng": -83.5603
+        "latitude": 45.0781,
+        "longitude": -83.5603
       },
       "links_count": 4,
       "objectID": "5720"
@@ -28085,8 +28085,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ALO",
       "_geoloc": {
-        "lat": 42.5571,
-        "lng": -92.4003
+        "latitude": 42.5571,
+        "longitude": -92.4003
       },
       "links_count": 4,
       "objectID": "5718"
@@ -28097,8 +28097,8 @@ const airports = [
       "country": "India",
       "iata_code": "DIU",
       "_geoloc": {
-        "lat": 20.7131,
-        "lng": 70.9211
+        "latitude": 20.7131,
+        "longitude": 70.9211
       },
       "links_count": 4,
       "objectID": "5711"
@@ -28109,8 +28109,8 @@ const airports = [
       "country": "Sudan",
       "iata_code": "UYL",
       "_geoloc": {
-        "lat": 12.0535,
-        "lng": 24.9562
+        "latitude": 12.0535,
+        "longitude": 24.9562
       },
       "links_count": 4,
       "objectID": "5701"
@@ -28121,8 +28121,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "SRX",
       "_geoloc": {
-        "lat": 31.0635,
-        "lng": 16.595
+        "latitude": 31.0635,
+        "longitude": 16.595
       },
       "links_count": 4,
       "objectID": "5696"
@@ -28133,8 +28133,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "TSH",
       "_geoloc": {
-        "lat": -6.43833,
-        "lng": 20.7947
+        "latitude": -6.43833,
+        "longitude": 20.7947
       },
       "links_count": 4,
       "objectID": "5652"
@@ -28145,8 +28145,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "CBT",
       "_geoloc": {
-        "lat": -12.4792,
-        "lng": 13.4869
+        "latitude": -12.4792,
+        "longitude": 13.4869
       },
       "links_count": 4,
       "objectID": "5630"
@@ -28157,8 +28157,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "SLI",
       "_geoloc": {
-        "lat": -12.1737,
-        "lng": 26.3651
+        "latitude": -12.1737,
+        "longitude": 26.3651
       },
       "links_count": 4,
       "objectID": "5613"
@@ -28169,8 +28169,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "HMV",
       "_geoloc": {
-        "lat": 65.806111,
-        "lng": 15.082778
+        "latitude": 65.806111,
+        "longitude": 15.082778
       },
       "links_count": 4,
       "objectID": "5599"
@@ -28181,8 +28181,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "TYF",
       "_geoloc": {
-        "lat": 60.157622,
-        "lng": 12.991269
+        "latitude": 60.157622,
+        "longitude": 12.991269
       },
       "links_count": 4,
       "objectID": "5596"
@@ -28193,8 +28193,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "KSD",
       "_geoloc": {
-        "lat": 59.4447,
-        "lng": 13.3374
+        "latitude": 59.4447,
+        "longitude": 13.3374
       },
       "links_count": 4,
       "objectID": "5595"
@@ -28205,8 +28205,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "HFS",
       "_geoloc": {
-        "lat": 60.020064,
-        "lng": 13.578908
+        "latitude": 60.020064,
+        "longitude": 13.578908
       },
       "links_count": 4,
       "objectID": "5594"
@@ -28217,8 +28217,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SDN",
       "_geoloc": {
-        "lat": 61.83,
-        "lng": 6.10583
+        "latitude": 61.83,
+        "longitude": 6.10583
       },
       "links_count": 4,
       "objectID": "5585"
@@ -28229,8 +28229,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "RET",
       "_geoloc": {
-        "lat": 67.5278,
-        "lng": 12.1033
+        "latitude": 67.5278,
+        "longitude": 12.1033
       },
       "links_count": 4,
       "objectID": "5584"
@@ -28241,8 +28241,8 @@ const airports = [
       "country": "Ireland",
       "iata_code": "CFN",
       "_geoloc": {
-        "lat": 55.044192,
-        "lng": -8.341
+        "latitude": 55.044192,
+        "longitude": -8.341
       },
       "links_count": 4,
       "objectID": "5577"
@@ -28253,8 +28253,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "WRY",
       "_geoloc": {
-        "lat": 59.3503,
-        "lng": -2.95
+        "latitude": 59.3503,
+        "longitude": -2.95
       },
       "links_count": 4,
       "objectID": "5571"
@@ -28265,8 +28265,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "SOY",
       "_geoloc": {
-        "lat": 59.1553,
-        "lng": -2.64139
+        "latitude": 59.1553,
+        "longitude": -2.64139
       },
       "links_count": 4,
       "objectID": "5568"
@@ -28277,8 +28277,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZUM",
       "_geoloc": {
-        "lat": 53.5619,
-        "lng": -64.1064
+        "latitude": 53.5619,
+        "longitude": -64.1064
       },
       "links_count": 4,
       "objectID": "5550"
@@ -28289,8 +28289,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZPB",
       "_geoloc": {
-        "lat": 53.8911,
-        "lng": -92.1964
+        "latitude": 53.8911,
+        "longitude": -92.1964
       },
       "links_count": 4,
       "objectID": "5546"
@@ -28301,8 +28301,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZKE",
       "_geoloc": {
-        "lat": 52.2825,
-        "lng": -81.6778
+        "latitude": 52.2825,
+        "longitude": -81.6778
       },
       "links_count": 4,
       "objectID": "5543"
@@ -28313,8 +28313,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZEM",
       "_geoloc": {
-        "lat": 52.2264,
-        "lng": -78.5225
+        "latitude": 52.2264,
+        "longitude": -78.5225
       },
       "links_count": 4,
       "objectID": "5539"
@@ -28325,8 +28325,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZG",
       "_geoloc": {
-        "lat": 62.1794,
-        "lng": -75.6672
+        "latitude": 62.1794,
+        "longitude": -75.6672
       },
       "links_count": 4,
       "objectID": "5535"
@@ -28337,8 +28337,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWP",
       "_geoloc": {
-        "lat": 52.9597,
-        "lng": -87.3689
+        "latitude": 52.9597,
+        "longitude": -87.3689
       },
       "links_count": 4,
       "objectID": "5533"
@@ -28349,8 +28349,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YNC",
       "_geoloc": {
-        "lat": 53.0106,
-        "lng": -78.8311
+        "latitude": 53.0106,
+        "longitude": -78.8311
       },
       "links_count": 4,
       "objectID": "5516"
@@ -28361,8 +28361,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YLH",
       "_geoloc": {
-        "lat": 52.1956,
-        "lng": -87.9342
+        "latitude": 52.1956,
+        "longitude": -87.9342
       },
       "links_count": 4,
       "objectID": "5510"
@@ -28373,8 +28373,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "AKV",
       "_geoloc": {
-        "lat": 60.8186,
-        "lng": -78.1486
+        "latitude": 60.8186,
+        "longitude": -78.1486
       },
       "links_count": 4,
       "objectID": "5506"
@@ -28385,8 +28385,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YIK",
       "_geoloc": {
-        "lat": 62.4173,
-        "lng": -77.9253
+        "latitude": 62.4173,
+        "longitude": -77.9253
       },
       "links_count": 4,
       "objectID": "5504"
@@ -28397,8 +28397,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YNS",
       "_geoloc": {
-        "lat": 51.6911,
-        "lng": -76.1356
+        "latitude": 51.6911,
+        "longitude": -76.1356
       },
       "links_count": 4,
       "objectID": "5501"
@@ -28409,8 +28409,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQC",
       "_geoloc": {
-        "lat": 61.0464,
-        "lng": -69.6178
+        "latitude": 61.0464,
+        "longitude": -69.6178
       },
       "links_count": 4,
       "objectID": "5499"
@@ -28421,8 +28421,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGX",
       "_geoloc": {
-        "lat": 56.3575,
-        "lng": -94.7106
+        "latitude": 56.3575,
+        "longitude": -94.7106
       },
       "links_count": 4,
       "objectID": "5497"
@@ -28433,8 +28433,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YFA",
       "_geoloc": {
-        "lat": 52.2014,
-        "lng": -81.6969
+        "latitude": 52.2014,
+        "longitude": -81.6969
       },
       "links_count": 4,
       "objectID": "5490"
@@ -28445,8 +28445,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAT",
       "_geoloc": {
-        "lat": 52.9275,
-        "lng": -82.4319
+        "latitude": 52.9275,
+        "longitude": -82.4319
       },
       "links_count": 4,
       "objectID": "5482"
@@ -28457,8 +28457,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "XKS",
       "_geoloc": {
-        "lat": 53.5247,
-        "lng": -88.6428
+        "latitude": 53.5247,
+        "longitude": -88.6428
       },
       "links_count": 4,
       "objectID": "5480"
@@ -28469,8 +28469,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAC",
       "_geoloc": {
-        "lat": 51.7272,
-        "lng": -91.8244
+        "latitude": 51.7272,
+        "longitude": -91.8244
       },
       "links_count": 4,
       "objectID": "5478"
@@ -28481,8 +28481,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZLT",
       "_geoloc": {
-        "lat": 50.8308,
-        "lng": -58.9756
+        "latitude": 50.8308,
+        "longitude": -58.9756
       },
       "links_count": 4,
       "objectID": "5474"
@@ -28493,8 +28493,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZTB",
       "_geoloc": {
-        "lat": 50.6744,
-        "lng": -59.3836
+        "latitude": 50.6744,
+        "longitude": -59.3836
       },
       "links_count": 4,
       "objectID": "5473"
@@ -28505,8 +28505,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YHP",
       "_geoloc": {
-        "lat": 52.1133,
-        "lng": -94.2556
+        "latitude": 52.1133,
+        "longitude": -94.2556
       },
       "links_count": 4,
       "objectID": "5471"
@@ -28517,8 +28517,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "KIF",
       "_geoloc": {
-        "lat": 53.0125,
-        "lng": -89.8553
+        "latitude": 53.0125,
+        "longitude": -89.8553
       },
       "links_count": 4,
       "objectID": "5469"
@@ -28529,8 +28529,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YNO",
       "_geoloc": {
-        "lat": 52.49,
-        "lng": -92.9711
+        "latitude": 52.49,
+        "longitude": -92.9711
       },
       "links_count": 4,
       "objectID": "5467"
@@ -28541,8 +28541,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YRG",
       "_geoloc": {
-        "lat": 54.1797,
-        "lng": -58.4575
+        "latitude": 54.1797,
+        "longitude": -58.4575
       },
       "links_count": 4,
       "objectID": "5461"
@@ -28553,8 +28553,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JQA",
       "_geoloc": {
-        "lat": 70.7342,
-        "lng": -52.6962
+        "latitude": 70.7342,
+        "longitude": -52.6962
       },
       "links_count": 4,
       "objectID": "5449"
@@ -28565,8 +28565,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JSU",
       "_geoloc": {
-        "lat": 65.4125,
-        "lng": -52.9394
+        "latitude": 65.4125,
+        "longitude": -52.9394
       },
       "links_count": 4,
       "objectID": "5443"
@@ -28577,8 +28577,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "JFR",
       "_geoloc": {
-        "lat": 61.9922,
-        "lng": -49.6625
+        "latitude": 61.9922,
+        "longitude": -49.6625
       },
       "links_count": 4,
       "objectID": "5440"
@@ -28589,8 +28589,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "CNP",
       "_geoloc": {
-        "lat": 70.7433,
-        "lng": -22.6606
+        "latitude": 70.7433,
+        "longitude": -22.6606
       },
       "links_count": 4,
       "objectID": "5439"
@@ -28601,8 +28601,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "LLU",
       "_geoloc": {
-        "lat": 60.4644,
-        "lng": -45.5778
+        "latitude": 60.4644,
+        "longitude": -45.5778
       },
       "links_count": 4,
       "objectID": "5438"
@@ -28613,8 +28613,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "MIS",
       "_geoloc": {
-        "lat": -10.6892,
-        "lng": 152.838
+        "latitude": -10.6892,
+        "longitude": 152.838
       },
       "links_count": 4,
       "objectID": "5432"
@@ -28625,8 +28625,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "RBV",
       "_geoloc": {
-        "lat": -8.16806,
-        "lng": 157.643
+        "latitude": -8.16806,
+        "longitude": 157.643
       },
       "links_count": 4,
       "objectID": "5418"
@@ -28637,8 +28637,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "KGE",
       "_geoloc": {
-        "lat": -7.333,
-        "lng": 157.583
+        "latitude": -7.333,
+        "longitude": 157.583
       },
       "links_count": 4,
       "objectID": "5417"
@@ -28649,8 +28649,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "VAO",
       "_geoloc": {
-        "lat": -7.58556,
-        "lng": 158.731
+        "latitude": -7.58556,
+        "longitude": 158.731
       },
       "links_count": 4,
       "objectID": "5416"
@@ -28661,8 +28661,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "RNL",
       "_geoloc": {
-        "lat": -11.5339,
-        "lng": 160.063
+        "latitude": -11.5339,
+        "longitude": 160.063
       },
       "links_count": 4,
       "objectID": "5414"
@@ -28673,8 +28673,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BEB",
       "_geoloc": {
-        "lat": 57.481111,
-        "lng": -7.362778
+        "latitude": 57.481111,
+        "longitude": -7.362778
       },
       "links_count": 4,
       "objectID": "538"
@@ -28685,8 +28685,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "WIC",
       "_geoloc": {
-        "lat": 58.458889,
-        "lng": -3.093056
+        "latitude": 58.458889,
+        "longitude": -3.093056
       },
       "links_count": 4,
       "objectID": "531"
@@ -28697,8 +28697,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "CEG",
       "_geoloc": {
-        "lat": 53.178056,
-        "lng": -2.977778
+        "latitude": 53.178056,
+        "longitude": -2.977778
       },
       "links_count": 4,
       "objectID": "519"
@@ -28709,8 +28709,8 @@ const airports = [
       "country": "Guernsey",
       "iata_code": "ACI",
       "_geoloc": {
-        "lat": 49.706111,
-        "lng": -2.214722
+        "latitude": 49.706111,
+        "longitude": -2.214722
       },
       "links_count": 4,
       "objectID": "497"
@@ -28721,8 +28721,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YDQ",
       "_geoloc": {
-        "lat": 55.742333,
-        "lng": -120.183
+        "latitude": 55.742333,
+        "longitude": -120.183
       },
       "links_count": 4,
       "objectID": "48"
@@ -28733,8 +28733,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "SVL",
       "_geoloc": {
-        "lat": 61.943064,
-        "lng": 28.945136
+        "latitude": 61.943064,
+        "longitude": 28.945136
       },
       "links_count": 4,
       "objectID": "455"
@@ -28745,8 +28745,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "RVN",
       "_geoloc": {
-        "lat": 66.564822,
-        "lng": 25.830411
+        "latitude": 66.564822,
+        "longitude": 25.830411
       },
       "links_count": 4,
       "objectID": "453"
@@ -28757,8 +28757,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DBQ",
       "_geoloc": {
-        "lat": 42.402,
-        "lng": -90.709472
+        "latitude": 42.402,
+        "longitude": -90.709472
       },
       "links_count": 4,
       "objectID": "4388"
@@ -28769,8 +28769,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ATT",
       "_geoloc": {
-        "lat": 30.31666,
-        "lng": -97.7666
+        "latitude": 30.31666,
+        "longitude": -97.7666
       },
       "links_count": 4,
       "objectID": "4385"
@@ -28781,8 +28781,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KTT",
       "_geoloc": {
-        "lat": 67.701022,
-        "lng": 24.84685
+        "latitude": 67.701022,
+        "longitude": 24.84685
       },
       "links_count": 4,
       "objectID": "438"
@@ -28793,8 +28793,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "USK",
       "_geoloc": {
-        "lat": 66.00077,
-        "lng": 57.221113
+        "latitude": 66.00077,
+        "longitude": 57.221113
       },
       "links_count": 4,
       "objectID": "4369"
@@ -28805,8 +28805,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JLN",
       "_geoloc": {
-        "lat": 37.151814,
-        "lng": -94.498269
+        "latitude": 37.151814,
+        "longitude": -94.498269
       },
       "links_count": 4,
       "objectID": "4354"
@@ -28817,8 +28817,8 @@ const airports = [
       "country": "United States",
       "iata_code": "COD",
       "_geoloc": {
-        "lat": 44.520194,
-        "lng": -109.023806
+        "latitude": 44.520194,
+        "longitude": -109.023806
       },
       "links_count": 4,
       "objectID": "4344"
@@ -28829,8 +28829,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KAJ",
       "_geoloc": {
-        "lat": 64.285472,
-        "lng": 27.692414
+        "latitude": 64.285472,
+        "longitude": 27.692414
       },
       "links_count": 4,
       "objectID": "433"
@@ -28841,8 +28841,8 @@ const airports = [
       "country": "Cayman Islands",
       "iata_code": "LYB",
       "_geoloc": {
-        "lat": 19.6591666667,
-        "lng": -80.09083333
+        "latitude": 19.6591666667,
+        "longitude": -80.09083333
       },
       "links_count": 4,
       "objectID": "4314"
@@ -28853,8 +28853,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MGW",
       "_geoloc": {
-        "lat": 39.642908,
-        "lng": -79.916314
+        "latitude": 39.642908,
+        "longitude": -79.916314
       },
       "links_count": 4,
       "objectID": "4284"
@@ -28865,8 +28865,8 @@ const airports = [
       "country": "United States",
       "iata_code": "STC",
       "_geoloc": {
-        "lat": 45.546556,
-        "lng": -94.059889
+        "latitude": 45.546556,
+        "longitude": -94.059889
       },
       "links_count": 4,
       "objectID": "4271"
@@ -28877,8 +28877,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FLG",
       "_geoloc": {
-        "lat": 35.140318,
-        "lng": -111.6692392
+        "latitude": 35.140318,
+        "longitude": -111.6692392
       },
       "links_count": 4,
       "objectID": "4261"
@@ -28889,8 +28889,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAW",
       "_geoloc": {
-        "lat": 34.5677144,
-        "lng": -98.4166367
+        "latitude": 34.5677144,
+        "longitude": -98.4166367
       },
       "links_count": 4,
       "objectID": "4256"
@@ -28901,8 +28901,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGH",
       "_geoloc": {
-        "lat": 66.26666667,
-        "lng": -128.65
+        "latitude": 66.26666667,
+        "longitude": -128.65
       },
       "links_count": 4,
       "objectID": "4239"
@@ -28913,8 +28913,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZFN",
       "_geoloc": {
-        "lat": 64.0833333,
-        "lng": -125.5833333
+        "latitude": 64.0833333,
+        "longitude": -125.5833333
       },
       "links_count": 4,
       "objectID": "4238"
@@ -28925,8 +28925,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWJ",
       "_geoloc": {
-        "lat": 65.1833333,
-        "lng": -125.41666667
+        "latitude": 65.1833333,
+        "longitude": -125.41666667
       },
       "links_count": 4,
       "objectID": "4237"
@@ -28937,8 +28937,8 @@ const airports = [
       "country": "Maldives",
       "iata_code": "KDM",
       "_geoloc": {
-        "lat": 0.4880555,
-        "lng": 72.995556
+        "latitude": 0.4880555,
+        "longitude": 72.995556
       },
       "links_count": 4,
       "objectID": "4235"
@@ -28949,8 +28949,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BDB",
       "_geoloc": {
-        "lat": -24.903889,
-        "lng": 152.318611
+        "latitude": -24.903889,
+        "longitude": 152.318611
       },
       "links_count": 4,
       "objectID": "4218"
@@ -28961,8 +28961,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CLV",
       "_geoloc": {
-        "lat": -17.7267,
-        "lng": -48.6114
+        "latitude": -17.7267,
+        "longitude": -48.6114
       },
       "links_count": 4,
       "objectID": "4215"
@@ -28973,8 +28973,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "LAO",
       "_geoloc": {
-        "lat": 18.178092,
-        "lng": 120.531522
+        "latitude": 18.178092,
+        "longitude": 120.531522
       },
       "links_count": 4,
       "objectID": "4202"
@@ -28985,8 +28985,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KZS",
       "_geoloc": {
-        "lat": 36.127777,
-        "lng": 29.566656
+        "latitude": 36.127777,
+        "longitude": 29.566656
       },
       "links_count": 4,
       "objectID": "4196"
@@ -28997,8 +28997,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "PAS",
       "_geoloc": {
-        "lat": 37.010278,
-        "lng": 25.127778
+        "latitude": 37.010278,
+        "longitude": 25.127778
       },
       "links_count": 4,
       "objectID": "4195"
@@ -29009,8 +29009,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JNX",
       "_geoloc": {
-        "lat": 37.080556,
-        "lng": 25.368056
+        "latitude": 37.080556,
+        "longitude": 25.368056
       },
       "links_count": 4,
       "objectID": "4194"
@@ -29021,8 +29021,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "MLO",
       "_geoloc": {
-        "lat": 36.696111,
-        "lng": 24.4775
+        "latitude": 36.696111,
+        "longitude": 24.4775
       },
       "links_count": 4,
       "objectID": "4193"
@@ -29033,8 +29033,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JST",
       "_geoloc": {
-        "lat": 40.316111,
-        "lng": -78.833889
+        "latitude": 40.316111,
+        "longitude": -78.833889
       },
       "links_count": 4,
       "objectID": "4169"
@@ -29045,8 +29045,8 @@ const airports = [
       "country": "Estonia",
       "iata_code": "TAY",
       "_geoloc": {
-        "lat": 58.307461,
-        "lng": 26.690428
+        "latitude": 58.307461,
+        "longitude": 26.690428
       },
       "links_count": 4,
       "objectID": "416"
@@ -29057,8 +29057,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "TBB",
       "_geoloc": {
-        "lat": 13.04955,
-        "lng": 109.333706
+        "latitude": 13.04955,
+        "longitude": 109.333706
       },
       "links_count": 4,
       "objectID": "4158"
@@ -29069,8 +29069,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VCL",
       "_geoloc": {
-        "lat": 15.405944,
-        "lng": 108.705889
+        "latitude": 15.405944,
+        "longitude": 108.705889
       },
       "links_count": 4,
       "objectID": "4157"
@@ -29081,8 +29081,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VDH",
       "_geoloc": {
-        "lat": 17.515,
-        "lng": 106.590556
+        "latitude": 17.515,
+        "longitude": 106.590556
       },
       "links_count": 4,
       "objectID": "4154"
@@ -29093,8 +29093,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PSG",
       "_geoloc": {
-        "lat": 56.801667,
-        "lng": -132.945278
+        "latitude": 56.801667,
+        "longitude": -132.945278
       },
       "links_count": 4,
       "objectID": "4147"
@@ -29105,8 +29105,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "NNT",
       "_geoloc": {
-        "lat": 18.807914,
-        "lng": 100.783419
+        "latitude": 18.807914,
+        "longitude": 100.783419
       },
       "links_count": 4,
       "objectID": "4131"
@@ -29117,8 +29117,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YWH",
       "_geoloc": {
-        "lat": 48.422778,
-        "lng": -123.3875
+        "latitude": 48.422778,
+        "longitude": -123.3875
       },
       "links_count": 4,
       "objectID": "4106"
@@ -29129,8 +29129,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SGU",
       "_geoloc": {
-        "lat": 37.090583,
-        "lng": -113.593056
+        "latitude": 37.090583,
+        "longitude": -113.593056
       },
       "links_count": 4,
       "objectID": "4064"
@@ -29141,8 +29141,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ARM",
       "_geoloc": {
-        "lat": -30.528056,
-        "lng": 151.617222
+        "latitude": -30.528056,
+        "longitude": 151.617222
       },
       "links_count": 4,
       "objectID": "4062"
@@ -29153,8 +29153,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FKL",
       "_geoloc": {
-        "lat": 41.377874,
-        "lng": -79.860362
+        "latitude": 41.377874,
+        "longitude": -79.860362
       },
       "links_count": 4,
       "objectID": "4058"
@@ -29165,8 +29165,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "HVB",
       "_geoloc": {
-        "lat": -25.318889,
-        "lng": 152.880278
+        "latitude": -25.318889,
+        "longitude": 152.880278
       },
       "links_count": 4,
       "objectID": "4052"
@@ -29177,8 +29177,8 @@ const airports = [
       "country": "United States",
       "iata_code": "DEC",
       "_geoloc": {
-        "lat": 39.834564,
-        "lng": -88.865689
+        "latitude": 39.834564,
+        "longitude": -88.865689
       },
       "links_count": 4,
       "objectID": "4042"
@@ -29189,8 +29189,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JAC",
       "_geoloc": {
-        "lat": 43.607333333,
-        "lng": -110.73775
+        "latitude": 43.607333333,
+        "longitude": -110.73775
       },
       "links_count": 4,
       "objectID": "4027"
@@ -29201,8 +29201,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "RDN",
       "_geoloc": {
-        "lat": 5.76528,
-        "lng": 103.007
+        "latitude": 5.76528,
+        "longitude": 103.007
       },
       "links_count": 4,
       "objectID": "4013"
@@ -29213,8 +29213,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HVN",
       "_geoloc": {
-        "lat": 41.26375,
-        "lng": -72.886806
+        "latitude": 41.26375,
+        "longitude": -72.886806
       },
       "links_count": 4,
       "objectID": "4006"
@@ -29225,8 +29225,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "KSF",
       "_geoloc": {
-        "lat": 51.408394,
-        "lng": 9.377631
+        "latitude": 51.408394,
+        "longitude": 9.377631
       },
       "links_count": 4,
       "objectID": "400"
@@ -29237,8 +29237,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "EMD",
       "_geoloc": {
-        "lat": -23.5675,
-        "lng": 148.179167
+        "latitude": -23.5675,
+        "longitude": 148.179167
       },
       "links_count": 4,
       "objectID": "3990"
@@ -29249,8 +29249,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "NAV",
       "_geoloc": {
-        "lat": 38.771867,
-        "lng": 34.53455
+        "latitude": 38.771867,
+        "longitude": 34.53455
       },
       "links_count": 4,
       "objectID": "3987"
@@ -29261,8 +29261,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "SCT",
       "_geoloc": {
-        "lat": 12.630672,
-        "lng": 53.905778
+        "latitude": 12.630672,
+        "longitude": 53.905778
       },
       "links_count": 4,
       "objectID": "3984"
@@ -29273,8 +29273,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PUW",
       "_geoloc": {
-        "lat": 46.743861,
-        "lng": -117.109583
+        "latitude": 46.743861,
+        "longitude": -117.109583
       },
       "links_count": 4,
       "objectID": "3944"
@@ -29285,8 +29285,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "KKC",
       "_geoloc": {
-        "lat": 16.466628,
-        "lng": 102.783661
+        "latitude": 16.466628,
+        "longitude": 102.783661
       },
       "links_count": 4,
       "objectID": "3938"
@@ -29297,8 +29297,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "KOP",
       "_geoloc": {
-        "lat": 17.383794,
-        "lng": 104.643022
+        "latitude": 17.383794,
+        "longitude": 104.643022
       },
       "links_count": 4,
       "objectID": "3936"
@@ -29309,8 +29309,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "NST",
       "_geoloc": {
-        "lat": 8.539617,
-        "lng": 99.944725
+        "latitude": 8.539617,
+        "longitude": 99.944725
       },
       "links_count": 4,
       "objectID": "3933"
@@ -29321,8 +29321,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FLO",
       "_geoloc": {
-        "lat": 34.185361,
-        "lng": -79.723889
+        "latitude": 34.185361,
+        "longitude": -79.723889
       },
       "links_count": 4,
       "objectID": "3879"
@@ -29333,8 +29333,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VDZ",
       "_geoloc": {
-        "lat": 61.133949,
-        "lng": -146.248342
+        "latitude": 61.133949,
+        "longitude": -146.248342
       },
       "links_count": 4,
       "objectID": "3865"
@@ -29345,8 +29345,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JHM",
       "_geoloc": {
-        "lat": 20.962936,
-        "lng": -156.673031
+        "latitude": 20.962936,
+        "longitude": -156.673031
       },
       "links_count": 4,
       "objectID": "3796"
@@ -29357,8 +29357,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TXK",
       "_geoloc": {
-        "lat": 33.453722,
-        "lng": -93.991028
+        "latitude": 33.453722,
+        "longitude": -93.991028
       },
       "links_count": 4,
       "objectID": "3770"
@@ -29369,8 +29369,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCN",
       "_geoloc": {
-        "lat": 32.69285,
-        "lng": -83.649211
+        "latitude": 32.69285,
+        "longitude": -83.649211
       },
       "links_count": 4,
       "objectID": "3754"
@@ -29381,8 +29381,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SUX",
       "_geoloc": {
-        "lat": 42.402603,
-        "lng": -96.384367
+        "latitude": 42.402603,
+        "longitude": -96.384367
       },
       "links_count": 4,
       "objectID": "3753"
@@ -29393,8 +29393,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ROW",
       "_geoloc": {
-        "lat": 33.301556,
-        "lng": -104.530556
+        "latitude": 33.301556,
+        "longitude": -104.530556
       },
       "links_count": 4,
       "objectID": "3736"
@@ -29405,8 +29405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BFI",
       "_geoloc": {
-        "lat": 47.53,
-        "lng": -122.301947
+        "latitude": 47.53,
+        "longitude": -122.301947
       },
       "links_count": 4,
       "objectID": "3726"
@@ -29417,8 +29417,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABI",
       "_geoloc": {
-        "lat": 32.411319,
-        "lng": -99.681897
+        "latitude": 32.411319,
+        "longitude": -99.681897
       },
       "links_count": 4,
       "objectID": "3718"
@@ -29429,8 +29429,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SJT",
       "_geoloc": {
-        "lat": 31.35775,
-        "lng": -100.496306
+        "latitude": 31.35775,
+        "longitude": -100.496306
       },
       "links_count": 4,
       "objectID": "3708"
@@ -29441,8 +29441,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MKL",
       "_geoloc": {
-        "lat": 35.599889,
-        "lng": -88.915611
+        "latitude": 35.599889,
+        "longitude": -88.915611
       },
       "links_count": 4,
       "objectID": "3704"
@@ -29453,8 +29453,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ACT",
       "_geoloc": {
-        "lat": 31.611289,
-        "lng": -97.230519
+        "latitude": 31.611289,
+        "longitude": -97.230519
       },
       "links_count": 4,
       "objectID": "3700"
@@ -29465,8 +29465,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AOO",
       "_geoloc": {
-        "lat": 40.296372,
-        "lng": -78.320022
+        "latitude": 40.296372,
+        "longitude": -78.320022
       },
       "links_count": 4,
       "objectID": "3694"
@@ -29477,8 +29477,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IPL",
       "_geoloc": {
-        "lat": 32.834219,
-        "lng": -115.578744
+        "latitude": 32.834219,
+        "longitude": -115.578744
       },
       "links_count": 4,
       "objectID": "3689"
@@ -29489,8 +29489,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SPS",
       "_geoloc": {
-        "lat": 33.988797,
-        "lng": -98.491894
+        "latitude": 33.988797,
+        "longitude": -98.491894
       },
       "links_count": 4,
       "objectID": "3680"
@@ -29501,8 +29501,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LCK",
       "_geoloc": {
-        "lat": 39.813786,
-        "lng": -82.927822
+        "latitude": 39.813786,
+        "longitude": -82.927822
       },
       "links_count": 4,
       "objectID": "3674"
@@ -29513,8 +29513,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HOM",
       "_geoloc": {
-        "lat": 59.645556,
-        "lng": -151.476583
+        "latitude": 59.645556,
+        "longitude": -151.476583
       },
       "links_count": 4,
       "objectID": "3664"
@@ -29525,8 +29525,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ISN",
       "_geoloc": {
-        "lat": 48.177939,
-        "lng": -103.642347
+        "latitude": 48.177939,
+        "longitude": -103.642347
       },
       "links_count": 4,
       "objectID": "3659"
@@ -29537,8 +29537,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BPT",
       "_geoloc": {
-        "lat": 29.950833,
-        "lng": -94.020694
+        "latitude": 29.950833,
+        "longitude": -94.020694
       },
       "links_count": 4,
       "objectID": "3612"
@@ -29549,8 +29549,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCL",
       "_geoloc": {
-        "lat": 47.990833,
-        "lng": -66.330278
+        "latitude": 47.990833,
+        "longitude": -66.330278
       },
       "links_count": 4,
       "objectID": "36"
@@ -29561,8 +29561,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IPT",
       "_geoloc": {
-        "lat": 41.241836,
-        "lng": -76.921094
+        "latitude": 41.241836,
+        "longitude": -76.921094
       },
       "links_count": 4,
       "objectID": "3584"
@@ -29573,8 +29573,8 @@ const airports = [
       "country": "United States",
       "iata_code": "INL",
       "_geoloc": {
-        "lat": 48.566186,
-        "lng": -93.403067
+        "latitude": 48.566186,
+        "longitude": -93.403067
       },
       "links_count": 4,
       "objectID": "3535"
@@ -29585,8 +29585,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PQI",
       "_geoloc": {
-        "lat": 46.688958,
-        "lng": -68.044797
+        "latitude": 46.688958,
+        "longitude": -68.044797
       },
       "links_count": 4,
       "objectID": "3528"
@@ -29597,8 +29597,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GCK",
       "_geoloc": {
-        "lat": 37.927528,
-        "lng": -100.724417
+        "latitude": 37.927528,
+        "longitude": -100.724417
       },
       "links_count": 4,
       "objectID": "3497"
@@ -29609,8 +29609,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GGG",
       "_geoloc": {
-        "lat": 32.384014,
-        "lng": -94.711486
+        "latitude": 32.384014,
+        "longitude": -94.711486
       },
       "links_count": 4,
       "objectID": "3465"
@@ -29621,8 +29621,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HRO",
       "_geoloc": {
-        "lat": 36.261519,
-        "lng": -93.154728
+        "latitude": 36.261519,
+        "longitude": -93.154728
       },
       "links_count": 4,
       "objectID": "3461"
@@ -29633,8 +29633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIZ",
       "_geoloc": {
-        "lat": 69.732875,
-        "lng": -163.005342
+        "latitude": 69.732875,
+        "longitude": -163.005342
       },
       "links_count": 4,
       "objectID": "3414"
@@ -29645,8 +29645,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BTI",
       "_geoloc": {
-        "lat": 70.133989,
-        "lng": -143.581867
+        "latitude": 70.133989,
+        "longitude": -143.581867
       },
       "links_count": 4,
       "objectID": "3411"
@@ -29657,8 +29657,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCG",
       "_geoloc": {
-        "lat": 49.296389,
-        "lng": -117.6325
+        "latitude": 49.296389,
+        "longitude": -117.6325
       },
       "links_count": 4,
       "objectID": "34"
@@ -29669,8 +29669,8 @@ const airports = [
       "country": "Christmas Island",
       "iata_code": "XCH",
       "_geoloc": {
-        "lat": -10.450556,
-        "lng": 105.690278
+        "latitude": -10.450556,
+        "longitude": 105.690278
       },
       "links_count": 4,
       "objectID": "3353"
@@ -29681,8 +29681,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "WEI",
       "_geoloc": {
-        "lat": -12.678611,
-        "lng": 141.925278
+        "latitude": -12.678611,
+        "longitude": 141.925278
       },
       "links_count": 4,
       "objectID": "3331"
@@ -29693,8 +29693,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "IPH",
       "_geoloc": {
-        "lat": 4.567972,
-        "lng": 101.092194
+        "latitude": 4.567972,
+        "longitude": 101.092194
       },
       "links_count": 4,
       "objectID": "3302"
@@ -29705,8 +29705,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "KTE",
       "_geoloc": {
-        "lat": 4.537222,
-        "lng": 103.426756
+        "latitude": 4.537222,
+        "longitude": 103.426756
       },
       "links_count": 4,
       "objectID": "3300"
@@ -29717,8 +29717,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YCD",
       "_geoloc": {
-        "lat": 49.052333,
-        "lng": -123.870167
+        "latitude": 49.052333,
+        "longitude": -123.870167
       },
       "links_count": 4,
       "objectID": "33"
@@ -29729,8 +29729,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "KTG",
       "_geoloc": {
-        "lat": -1.816639,
-        "lng": 109.963483
+        "latitude": -1.816639,
+        "longitude": 109.963483
       },
       "links_count": 4,
       "objectID": "3282"
@@ -29741,8 +29741,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "LUW",
       "_geoloc": {
-        "lat": -1.038919,
-        "lng": 122.771906
+        "latitude": -1.038919,
+        "longitude": 122.771906
       },
       "links_count": 4,
       "objectID": "3254"
@@ -29753,8 +29753,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "SNW",
       "_geoloc": {
-        "lat": 18.460731,
-        "lng": 94.300119
+        "latitude": 18.460731,
+        "longitude": 94.300119
       },
       "links_count": 4,
       "objectID": "3236"
@@ -29765,8 +29765,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "MGZ",
       "_geoloc": {
-        "lat": 12.439797,
-        "lng": 98.621478
+        "latitude": 12.439797,
+        "longitude": 98.621478
       },
       "links_count": 4,
       "objectID": "3223"
@@ -29777,8 +29777,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "TST",
       "_geoloc": {
-        "lat": 7.508744,
-        "lng": 99.616578
+        "latitude": 7.508744,
+        "longitude": 99.616578
       },
       "links_count": 4,
       "objectID": "3182"
@@ -29789,8 +29789,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "UTP",
       "_geoloc": {
-        "lat": 12.679944,
-        "lng": 101.005028
+        "latitude": 12.679944,
+        "longitude": 101.005028
       },
       "links_count": 4,
       "objectID": "3161"
@@ -29801,8 +29801,8 @@ const airports = [
       "country": "India",
       "iata_code": "TIR",
       "_geoloc": {
-        "lat": 13.632492,
-        "lng": 79.543256
+        "latitude": 13.632492,
+        "longitude": 79.543256
       },
       "links_count": 4,
       "objectID": "3151"
@@ -29813,8 +29813,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXD",
       "_geoloc": {
-        "lat": 25.440064,
-        "lng": 81.733872
+        "latitude": 25.440064,
+        "longitude": 81.733872
       },
       "links_count": 4,
       "objectID": "3080"
@@ -29825,8 +29825,8 @@ const airports = [
       "country": "India",
       "iata_code": "AGR",
       "_geoloc": {
-        "lat": 27.155831,
-        "lng": 77.960892
+        "latitude": 27.155831,
+        "longitude": 77.960892
       },
       "links_count": 4,
       "objectID": "3079"
@@ -29837,8 +29837,8 @@ const airports = [
       "country": "India",
       "iata_code": "PBD",
       "_geoloc": {
-        "lat": 21.648675,
-        "lng": 69.657219
+        "latitude": 21.648675,
+        "longitude": 69.657219
       },
       "links_count": 4,
       "objectID": "3018"
@@ -29849,8 +29849,8 @@ const airports = [
       "country": "India",
       "iata_code": "BHU",
       "_geoloc": {
-        "lat": 21.752206,
-        "lng": 72.185181
+        "latitude": 21.752206,
+        "longitude": 72.185181
       },
       "links_count": 4,
       "objectID": "3003"
@@ -29861,8 +29861,8 @@ const airports = [
       "country": "India",
       "iata_code": "BHJ",
       "_geoloc": {
-        "lat": 23.287828,
-        "lng": 69.670147
+        "latitude": 23.287828,
+        "longitude": 69.670147
       },
       "links_count": 4,
       "objectID": "2999"
@@ -29873,8 +29873,8 @@ const airports = [
       "country": "Belgium",
       "iata_code": "ANR",
       "_geoloc": {
-        "lat": 51.189444,
-        "lng": 4.460278
+        "latitude": 51.189444,
+        "longitude": 4.460278
       },
       "links_count": 4,
       "objectID": "299"
@@ -29885,8 +29885,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "MQF",
       "_geoloc": {
-        "lat": 53.393131,
-        "lng": 58.755661
+        "latitude": 53.393131,
+        "longitude": 58.755661
       },
       "links_count": 4,
       "objectID": "2969"
@@ -29897,8 +29897,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "GAE",
       "_geoloc": {
-        "lat": 33.876919,
-        "lng": 10.103333
+        "latitude": 33.876919,
+        "longitude": 10.103333
       },
       "links_count": 4,
       "objectID": "291"
@@ -29909,8 +29909,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "PSE",
       "_geoloc": {
-        "lat": 18.008306,
-        "lng": -66.563028
+        "latitude": 18.008306,
+        "longitude": -66.563028
       },
       "links_count": 4,
       "objectID": "2889"
@@ -29921,8 +29921,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "VLV",
       "_geoloc": {
-        "lat": 9.340797,
-        "lng": -70.584089
+        "latitude": 9.340797,
+        "longitude": -70.584089
       },
       "links_count": 4,
       "objectID": "2870"
@@ -29933,8 +29933,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "PBL",
       "_geoloc": {
-        "lat": 10.4805,
-        "lng": -68.073025
+        "latitude": 10.4805,
+        "longitude": -68.073025
       },
       "links_count": 4,
       "objectID": "2854"
@@ -29945,8 +29945,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "MRD",
       "_geoloc": {
-        "lat": 8.582294,
-        "lng": -71.161186
+        "latitude": 8.582294,
+        "longitude": -71.161186
       },
       "links_count": 4,
       "objectID": "2849"
@@ -29957,8 +29957,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "BNS",
       "_geoloc": {
-        "lat": 8.619575,
-        "lng": -70.220825
+        "latitude": 8.619575,
+        "longitude": -70.220825
       },
       "links_count": 4,
       "objectID": "2822"
@@ -29969,8 +29969,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "PIU",
       "_geoloc": {
-        "lat": -5.20575,
-        "lng": -80.616444
+        "latitude": -5.20575,
+        "longitude": -80.616444
       },
       "links_count": 4,
       "objectID": "2809"
@@ -29981,8 +29981,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "TCQ",
       "_geoloc": {
-        "lat": -18.053333,
-        "lng": -70.275833
+        "latitude": -18.053333,
+        "longitude": -70.275833
       },
       "links_count": 4,
       "objectID": "2807"
@@ -29993,8 +29993,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "AYP",
       "_geoloc": {
-        "lat": -13.154819,
-        "lng": -74.204417
+        "latitude": -13.154819,
+        "longitude": -74.204417
       },
       "links_count": 4,
       "objectID": "2786"
@@ -30005,8 +30005,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "POI",
       "_geoloc": {
-        "lat": -19.543069,
-        "lng": -65.723706
+        "latitude": -19.543069,
+        "longitude": -65.723706
       },
       "links_count": 4,
       "objectID": "2764"
@@ -30017,8 +30017,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "VUP",
       "_geoloc": {
-        "lat": 10.435042,
-        "lng": -73.249506
+        "latitude": 10.435042,
+        "longitude": -73.249506
       },
       "links_count": 4,
       "objectID": "2755"
@@ -30029,8 +30029,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "AUC",
       "_geoloc": {
-        "lat": 7.068881,
-        "lng": -70.736925
+        "latitude": 7.068881,
+        "longitude": -70.736925
       },
       "links_count": 4,
       "objectID": "2752"
@@ -30041,8 +30041,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "TME",
       "_geoloc": {
-        "lat": 6.451081,
-        "lng": -71.760261
+        "latitude": 6.451081,
+        "longitude": -71.760261
       },
       "links_count": 4,
       "objectID": "2751"
@@ -30053,8 +30053,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "SVI",
       "_geoloc": {
-        "lat": 2.152175,
-        "lng": -74.76635
+        "latitude": 2.152175,
+        "longitude": -74.76635
       },
       "links_count": 4,
       "objectID": "2750"
@@ -30065,8 +30065,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "SJE",
       "_geoloc": {
-        "lat": 2.579694,
-        "lng": -72.639358
+        "latitude": 2.579694,
+        "longitude": -72.639358
       },
       "links_count": 4,
       "objectID": "2747"
@@ -30077,8 +30077,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "NVA",
       "_geoloc": {
-        "lat": 2.95015,
-        "lng": -75.294
+        "latitude": 2.95015,
+        "longitude": -75.294
       },
       "links_count": 4,
       "objectID": "2734"
@@ -30089,8 +30089,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "GPI",
       "_geoloc": {
-        "lat": 2.570133,
-        "lng": -77.8986
+        "latitude": 2.570133,
+        "longitude": -77.8986
       },
       "links_count": 4,
       "objectID": "2722"
@@ -30101,8 +30101,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "FLA",
       "_geoloc": {
-        "lat": 1.589189,
-        "lng": -75.564372
+        "latitude": 1.589189,
+        "longitude": -75.564372
       },
       "links_count": 4,
       "objectID": "2719"
@@ -30113,8 +30113,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "CZU",
       "_geoloc": {
-        "lat": 9.332742,
-        "lng": -75.285594
+        "latitude": 9.332742,
+        "longitude": -75.285594
       },
       "links_count": 4,
       "objectID": "2717"
@@ -30125,8 +30125,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "BUN",
       "_geoloc": {
-        "lat": 3.819628,
-        "lng": -76.989767
+        "latitude": 3.819628,
+        "longitude": -76.989767
       },
       "links_count": 4,
       "objectID": "2712"
@@ -30137,8 +30137,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "AXM",
       "_geoloc": {
-        "lat": 4.452775,
-        "lng": -75.766447
+        "latitude": 4.452775,
+        "longitude": -75.766447
       },
       "links_count": 4,
       "objectID": "2705"
@@ -30149,8 +30149,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "GPS",
       "_geoloc": {
-        "lat": -0.453758,
-        "lng": -90.265914
+        "latitude": -0.453758,
+        "longitude": -90.265914
       },
       "links_count": 4,
       "objectID": "2672"
@@ -30161,8 +30161,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "ZAL",
       "_geoloc": {
-        "lat": -39.649956,
-        "lng": -73.086111
+        "latitude": -39.649956,
+        "longitude": -73.086111
       },
       "links_count": 4,
       "objectID": "2667"
@@ -30173,8 +30173,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "IPC",
       "_geoloc": {
-        "lat": -27.164792,
-        "lng": -109.421831
+        "latitude": -27.164792,
+        "longitude": -109.421831
       },
       "links_count": 4,
       "objectID": "2657"
@@ -30185,8 +30185,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "CBQ",
       "_geoloc": {
-        "lat": 4.976019,
-        "lng": 8.347197
+        "latitude": 4.976019,
+        "longitude": 8.347197
       },
       "links_count": 4,
       "objectID": "263"
@@ -30197,8 +30197,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "BNI",
       "_geoloc": {
-        "lat": 6.316981,
-        "lng": 5.599503
+        "latitude": 6.316981,
+        "longitude": 5.599503
       },
       "links_count": 4,
       "objectID": "262"
@@ -30209,8 +30209,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RIG",
       "_geoloc": {
-        "lat": -32.082617,
-        "lng": -52.166542
+        "latitude": -32.082617,
+        "longitude": -52.166542
       },
       "links_count": 4,
       "objectID": "2611"
@@ -30221,8 +30221,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GEL",
       "_geoloc": {
-        "lat": -28.281683,
-        "lng": -54.169139
+        "latitude": -28.281683,
+        "longitude": -54.169139
       },
       "links_count": 4,
       "objectID": "2596"
@@ -30233,8 +30233,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CPV",
       "_geoloc": {
-        "lat": -7.269917,
-        "lng": -35.896364
+        "latitude": -7.269917,
+        "longitude": -35.896364
       },
       "links_count": 4,
       "objectID": "2577"
@@ -30245,8 +30245,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PPB",
       "_geoloc": {
-        "lat": -22.175056,
-        "lng": -51.424639
+        "latitude": -22.175056,
+        "longitude": -51.424639
       },
       "links_count": 4,
       "objectID": "2550"
@@ -30257,8 +30257,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CCM",
       "_geoloc": {
-        "lat": -28.725817,
-        "lng": -49.424739
+        "latitude": -28.725817,
+        "longitude": -49.424739
       },
       "links_count": 4,
       "objectID": "2541"
@@ -30269,8 +30269,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ARU",
       "_geoloc": {
-        "lat": -21.141342,
-        "lng": -50.424722
+        "latitude": -21.141342,
+        "longitude": -50.424722
       },
       "links_count": 4,
       "objectID": "2525"
@@ -30281,8 +30281,8 @@ const airports = [
       "country": "Ghana",
       "iata_code": "TKD",
       "_geoloc": {
-        "lat": 4.896056,
-        "lng": -1.774756
+        "latitude": 4.896056,
+        "longitude": -1.774756
       },
       "links_count": 4,
       "objectID": "252"
@@ -30293,8 +30293,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "RGA",
       "_geoloc": {
-        "lat": -53.777667,
-        "lng": -67.749389
+        "latitude": -53.777667,
+        "longitude": -67.749389
       },
       "links_count": 4,
       "objectID": "2495"
@@ -30305,8 +30305,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "JUJ",
       "_geoloc": {
-        "lat": -24.392778,
-        "lng": -65.097778
+        "latitude": -24.392778,
+        "longitude": -65.097778
       },
       "links_count": 4,
       "objectID": "2477"
@@ -30317,8 +30317,8 @@ const airports = [
       "country": "Burkina Faso",
       "iata_code": "BOY",
       "_geoloc": {
-        "lat": 11.160056,
-        "lng": -4.330969
+        "latitude": 11.160056,
+        "longitude": -4.330969
       },
       "links_count": 4,
       "objectID": "247"
@@ -30329,8 +30329,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "UAQ",
       "_geoloc": {
-        "lat": -31.571472,
-        "lng": -68.418194
+        "latitude": -31.571472,
+        "longitude": -68.418194
       },
       "links_count": 4,
       "objectID": "2461"
@@ -30341,8 +30341,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "TUC",
       "_geoloc": {
-        "lat": -26.840861,
-        "lng": -65.104944
+        "latitude": -26.840861,
+        "longitude": -65.104944
       },
       "links_count": 4,
       "objectID": "2460"
@@ -30353,8 +30353,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "AFA",
       "_geoloc": {
-        "lat": -34.588314,
-        "lng": -68.403854
+        "latitude": -34.588314,
+        "longitude": -68.403854
       },
       "links_count": 4,
       "objectID": "2454"
@@ -30365,8 +30365,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "SFN",
       "_geoloc": {
-        "lat": -31.711666,
-        "lng": -60.811668
+        "latitude": -31.711666,
+        "longitude": -60.811668
       },
       "links_count": 4,
       "objectID": "2441"
@@ -30377,8 +30377,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "IAM",
       "_geoloc": {
-        "lat": 28.05155,
-        "lng": 9.642911
+        "latitude": 28.05155,
+        "longitude": 9.642911
       },
       "links_count": 4,
       "objectID": "244"
@@ -30389,8 +30389,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "PRA",
       "_geoloc": {
-        "lat": -31.794778,
-        "lng": -60.480361
+        "latitude": -31.794778,
+        "longitude": -60.480361
       },
       "links_count": 4,
       "objectID": "2439"
@@ -30401,8 +30401,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "PAG",
       "_geoloc": {
-        "lat": 7.827197,
-        "lng": 123.458294
+        "latitude": 7.827197,
+        "longitude": 123.458294
       },
       "links_count": 4,
       "objectID": "2401"
@@ -30413,8 +30413,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "ELG",
       "_geoloc": {
-        "lat": 30.571294,
-        "lng": 2.859586
+        "latitude": 30.571294,
+        "longitude": 2.859586
       },
       "links_count": 4,
       "objectID": "236"
@@ -30425,8 +30425,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MSJ",
       "_geoloc": {
-        "lat": 40.703222,
-        "lng": 141.368364
+        "latitude": 40.703222,
+        "longitude": 141.368364
       },
       "links_count": 4,
       "objectID": "2346"
@@ -30437,8 +30437,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "TKS",
       "_geoloc": {
-        "lat": 34.132808,
-        "lng": 134.606639
+        "latitude": 34.132808,
+        "longitude": 134.606639
       },
       "links_count": 4,
       "objectID": "2336"
@@ -30449,8 +30449,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "ASJ",
       "_geoloc": {
-        "lat": 28.430633,
-        "lng": 129.712542
+        "latitude": 28.430633,
+        "longitude": 129.712542
       },
       "links_count": 4,
       "objectID": "2316"
@@ -30461,8 +30461,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "IKI",
       "_geoloc": {
-        "lat": 33.749027,
-        "lng": 129.785417
+        "latitude": 33.749027,
+        "longitude": 129.785417
       },
       "links_count": 4,
       "objectID": "2295"
@@ -30473,8 +30473,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "WKJ",
       "_geoloc": {
-        "lat": 45.404167,
-        "lng": 141.800833
+        "latitude": 45.404167,
+        "longitude": 141.800833
       },
       "links_count": 4,
       "objectID": "2294"
@@ -30485,8 +30485,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "SHB",
       "_geoloc": {
-        "lat": 43.5775,
-        "lng": 144.96
+        "latitude": 43.5775,
+        "longitude": 144.96
       },
       "links_count": 4,
       "objectID": "2291"
@@ -30497,8 +30497,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MMJ",
       "_geoloc": {
-        "lat": 36.166758,
-        "lng": 137.922669
+        "latitude": 36.166758,
+        "longitude": 137.922669
       },
       "links_count": 4,
       "objectID": "2280"
@@ -30509,8 +30509,8 @@ const airports = [
       "country": "Micronesia",
       "iata_code": "YAP",
       "_geoloc": {
-        "lat": 9.498911,
-        "lng": 138.082497
+        "latitude": 9.498911,
+        "longitude": 138.082497
       },
       "links_count": 4,
       "objectID": "2258"
@@ -30521,8 +30521,8 @@ const airports = [
       "country": "Micronesia",
       "iata_code": "KSA",
       "_geoloc": {
-        "lat": 5.356975,
-        "lng": 162.958386
+        "latitude": 5.356975,
+        "longitude": 162.958386
       },
       "links_count": 4,
       "objectID": "2257"
@@ -30533,8 +30533,8 @@ const airports = [
       "country": "Micronesia",
       "iata_code": "TKK",
       "_geoloc": {
-        "lat": 7.461869,
-        "lng": 151.843006
+        "latitude": 7.461869,
+        "longitude": 151.843006
       },
       "links_count": 4,
       "objectID": "2254"
@@ -30545,8 +30545,8 @@ const airports = [
       "country": "Northern Mariana Islands",
       "iata_code": "ROP",
       "_geoloc": {
-        "lat": 14.174308,
-        "lng": 145.242536
+        "latitude": 14.174308,
+        "longitude": 145.242536
       },
       "links_count": 4,
       "objectID": "2243"
@@ -30557,8 +30557,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "HRM",
       "_geoloc": {
-        "lat": 32.930431,
-        "lng": 3.311542
+        "latitude": 32.930431,
+        "longitude": 3.311542
       },
       "links_count": 4,
       "objectID": "224"
@@ -30569,8 +30569,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "PZH",
       "_geoloc": {
-        "lat": 31.358381,
-        "lng": 69.463606
+        "latitude": 31.358381,
+        "longitude": 69.463606
       },
       "links_count": 4,
       "objectID": "2233"
@@ -30581,8 +30581,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "MJD",
       "_geoloc": {
-        "lat": 27.335156,
-        "lng": 68.143053
+        "latitude": 27.335156,
+        "longitude": 68.143053
       },
       "links_count": 4,
       "objectID": "2212"
@@ -30593,8 +30593,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "LYP",
       "_geoloc": {
-        "lat": 31.365014,
-        "lng": 72.994842
+        "latitude": 31.365014,
+        "longitude": 72.994842
       },
       "links_count": 4,
       "objectID": "2202"
@@ -30605,8 +30605,8 @@ const airports = [
       "country": "Jordan",
       "iata_code": "AQJ",
       "_geoloc": {
-        "lat": 29.611619,
-        "lng": 35.018067
+        "latitude": 29.611619,
+        "longitude": 35.018067
       },
       "links_count": 4,
       "objectID": "2172"
@@ -30617,8 +30617,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "RZR",
       "_geoloc": {
-        "lat": 36.909908,
-        "lng": 50.679589
+        "latitude": 36.909908,
+        "longitude": 50.679589
       },
       "links_count": 4,
       "objectID": "2151"
@@ -30629,8 +30629,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "XBJ",
       "_geoloc": {
-        "lat": 32.898056,
-        "lng": 59.266111
+        "latitude": 32.898056,
+        "longitude": 59.266111
       },
       "links_count": 4,
       "objectID": "2142"
@@ -30641,8 +30641,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "BDH",
       "_geoloc": {
-        "lat": 26.532,
-        "lng": 54.824847
+        "latitude": 26.532,
+        "longitude": 54.824847
       },
       "links_count": 4,
       "objectID": "2110"
@@ -30653,8 +30653,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "MRX",
       "_geoloc": {
-        "lat": 30.556192,
-        "lng": 49.151879
+        "latitude": 30.556192,
+        "longitude": 49.151879
       },
       "links_count": 4,
       "objectID": "2103"
@@ -30665,8 +30665,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "SHW",
       "_geoloc": {
-        "lat": 17.466875,
-        "lng": 47.121431
+        "latitude": 17.466875,
+        "longitude": 47.121431
       },
       "links_count": 4,
       "objectID": "2086"
@@ -30677,8 +30677,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "RAE",
       "_geoloc": {
-        "lat": 30.906589,
-        "lng": 41.138217
+        "latitude": 30.906589,
+        "longitude": 41.138217
       },
       "links_count": 4,
       "objectID": "2084"
@@ -30689,8 +30689,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "AQI",
       "_geoloc": {
-        "lat": 28.335192,
-        "lng": 46.125069
+        "latitude": 28.335192,
+        "longitude": 46.125069
       },
       "links_count": 4,
       "objectID": "2076"
@@ -30701,8 +30701,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "URY",
       "_geoloc": {
-        "lat": 31.411942,
-        "lng": 37.279469
+        "latitude": 31.411942,
+        "longitude": 37.279469
       },
       "links_count": 4,
       "objectID": "2068"
@@ -30713,8 +30713,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "WRE",
       "_geoloc": {
-        "lat": -35.768333,
-        "lng": 174.365
+        "latitude": -35.768333,
+        "longitude": 174.365
       },
       "links_count": 4,
       "objectID": "2045"
@@ -30725,8 +30725,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "PPQ",
       "_geoloc": {
-        "lat": -40.904722,
-        "lng": 174.989167
+        "latitude": -40.904722,
+        "longitude": 174.989167
       },
       "links_count": 4,
       "objectID": "2029"
@@ -30737,8 +30737,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "IVC",
       "_geoloc": {
-        "lat": -46.412408,
-        "lng": 168.312992
+        "latitude": -46.412408,
+        "longitude": 168.312992
       },
       "links_count": 4,
       "objectID": "2025"
@@ -30749,8 +30749,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "GIS",
       "_geoloc": {
-        "lat": -38.663333,
-        "lng": 177.978333
+        "latitude": -38.663333,
+        "longitude": 177.978333
       },
       "links_count": 4,
       "objectID": "2012"
@@ -30761,8 +30761,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "TUO",
       "_geoloc": {
-        "lat": -38.739723,
-        "lng": 176.084444
+        "latitude": -38.739723,
+        "longitude": 176.084444
       },
       "links_count": 4,
       "objectID": "2007"
@@ -30773,8 +30773,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "UVE",
       "_geoloc": {
-        "lat": -20.640556,
-        "lng": 166.572778
+        "latitude": -20.640556,
+        "longitude": 166.572778
       },
       "links_count": 4,
       "objectID": "2004"
@@ -30785,8 +30785,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZT",
       "_geoloc": {
-        "lat": 50.680556,
-        "lng": -127.366667
+        "latitude": 50.680556,
+        "longitude": -127.366667
       },
       "links_count": 4,
       "objectID": "200"
@@ -30797,8 +30797,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "KOC",
       "_geoloc": {
-        "lat": -20.546314,
-        "lng": 164.255625
+        "latitude": -20.546314,
+        "longitude": 164.255625
       },
       "links_count": 4,
       "objectID": "1999"
@@ -30809,8 +30809,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "MVT",
       "_geoloc": {
-        "lat": -14.868055,
-        "lng": -148.717225
+        "latitude": -14.868055,
+        "longitude": -148.717225
       },
       "links_count": 4,
       "objectID": "1985"
@@ -30821,8 +30821,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "FAV",
       "_geoloc": {
-        "lat": -16.05415,
-        "lng": -145.656994
+        "latitude": -16.05415,
+        "longitude": -145.656994
       },
       "links_count": 4,
       "objectID": "1977"
@@ -30833,8 +30833,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "MYG",
       "_geoloc": {
-        "lat": 22.379528,
-        "lng": -73.0135
+        "latitude": 22.379528,
+        "longitude": -73.0135
       },
       "links_count": 4,
       "objectID": "1952"
@@ -30845,8 +30845,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "SML",
       "_geoloc": {
-        "lat": 23.581444,
-        "lng": -75.270475
+        "latitude": 23.581444,
+        "longitude": -75.270475
       },
       "links_count": 4,
       "objectID": "1951"
@@ -30857,8 +30857,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "LGI",
       "_geoloc": {
-        "lat": 23.179014,
-        "lng": -75.093597
+        "latitude": 23.179014,
+        "longitude": -75.093597
       },
       "links_count": 4,
       "objectID": "1950"
@@ -30869,8 +30869,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "IGA",
       "_geoloc": {
-        "lat": 20.975,
-        "lng": -73.666862
+        "latitude": 20.975,
+        "longitude": -73.666862
       },
       "links_count": 4,
       "objectID": "1949"
@@ -30881,8 +30881,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "RSD",
       "_geoloc": {
-        "lat": 24.8917,
-        "lng": -76.177739
+        "latitude": 24.8917,
+        "longitude": -76.177739
       },
       "links_count": 4,
       "objectID": "1946"
@@ -30893,8 +30893,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "BIM",
       "_geoloc": {
-        "lat": 25.699881,
-        "lng": -79.264656
+        "latitude": 25.699881,
+        "longitude": -79.264656
       },
       "links_count": 4,
       "objectID": "1937"
@@ -30905,8 +30905,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "TCB",
       "_geoloc": {
-        "lat": 26.745336,
-        "lng": -77.391269
+        "latitude": 26.745336,
+        "longitude": -77.391269
       },
       "links_count": 4,
       "objectID": "1934"
@@ -30917,8 +30917,8 @@ const airports = [
       "country": "Bahamas",
       "iata_code": "AXP",
       "_geoloc": {
-        "lat": 22.441828,
-        "lng": -73.970858
+        "latitude": 22.441828,
+        "longitude": -73.970858
       },
       "links_count": 4,
       "objectID": "1932"
@@ -30929,8 +30929,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "DAV",
       "_geoloc": {
-        "lat": 8.391003,
-        "lng": -82.434992
+        "latitude": 8.391003,
+        "longitude": -82.434992
       },
       "links_count": 4,
       "objectID": "1867"
@@ -30941,8 +30941,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "TAP",
       "_geoloc": {
-        "lat": 14.794339,
-        "lng": -92.370025
+        "latitude": 14.794339,
+        "longitude": -92.370025
       },
       "links_count": 4,
       "objectID": "1851"
@@ -30953,8 +30953,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "UPN",
       "_geoloc": {
-        "lat": 19.396692,
-        "lng": -102.039056
+        "latitude": 19.396692,
+        "longitude": -102.039056
       },
       "links_count": 4,
       "objectID": "1835"
@@ -30965,8 +30965,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "PDS",
       "_geoloc": {
-        "lat": 28.627394,
-        "lng": -100.535211
+        "latitude": 28.627394,
+        "longitude": -100.535211
       },
       "links_count": 4,
       "objectID": "1834"
@@ -30977,8 +30977,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MTT",
       "_geoloc": {
-        "lat": 18.103419,
-        "lng": -94.580681
+        "latitude": 18.103419,
+        "longitude": -94.580681
       },
       "links_count": 4,
       "objectID": "1822"
@@ -30989,8 +30989,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "MAM",
       "_geoloc": {
-        "lat": 25.769894,
-        "lng": -97.525311
+        "latitude": 25.769894,
+        "longitude": -97.525311
       },
       "links_count": 4,
       "objectID": "1818"
@@ -31001,8 +31001,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "LZC",
       "_geoloc": {
-        "lat": 18.001731,
-        "lng": -102.220525
+        "latitude": 18.001731,
+        "longitude": -102.220525
       },
       "links_count": 4,
       "objectID": "1813"
@@ -31013,8 +31013,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "SLW",
       "_geoloc": {
-        "lat": 25.549497,
-        "lng": -100.928669
+        "latitude": 25.549497,
+        "longitude": -100.928669
       },
       "links_count": 4,
       "objectID": "1810"
@@ -31025,8 +31025,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CVM",
       "_geoloc": {
-        "lat": 23.703336,
-        "lng": -98.956486
+        "latitude": 23.703336,
+        "longitude": -98.956486
       },
       "links_count": 4,
       "objectID": "1798"
@@ -31037,8 +31037,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CPE",
       "_geoloc": {
-        "lat": 19.816794,
-        "lng": -90.500314
+        "latitude": 19.816794,
+        "longitude": -90.500314
       },
       "links_count": 4,
       "objectID": "1795"
@@ -31049,8 +31049,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYB",
       "_geoloc": {
-        "lat": 46.363611,
-        "lng": -79.422778
+        "latitude": 46.363611,
+        "longitude": -79.422778
       },
       "links_count": 4,
       "objectID": "177"
@@ -31061,8 +31061,8 @@ const airports = [
       "country": "Turks and Caicos Islands",
       "iata_code": "XSC",
       "_geoloc": {
-        "lat": 21.515739,
-        "lng": -71.528528
+        "latitude": 21.515739,
+        "longitude": -71.528528
       },
       "links_count": 4,
       "objectID": "1755"
@@ -31073,8 +31073,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXX",
       "_geoloc": {
-        "lat": 49.025278,
-        "lng": -122.360556
+        "latitude": 49.025278,
+        "longitude": -122.360556
       },
       "links_count": 4,
       "objectID": "175"
@@ -31085,8 +31085,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "DNZ",
       "_geoloc": {
-        "lat": 37.785567,
-        "lng": 29.701297
+        "latitude": 37.785567,
+        "longitude": 29.701297
       },
       "links_count": 4,
       "objectID": "1699"
@@ -31097,8 +31097,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "MZH",
       "_geoloc": {
-        "lat": 40.829375,
-        "lng": 35.521992
+        "latitude": 40.829375,
+        "longitude": 35.521992
       },
       "links_count": 4,
       "objectID": "1693"
@@ -31109,8 +31109,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "ACH",
       "_geoloc": {
-        "lat": 47.485033,
-        "lng": 9.560775
+        "latitude": 47.485033,
+        "longitude": 9.560775
       },
       "links_count": 4,
       "objectID": "1679"
@@ -31121,8 +31121,8 @@ const airports = [
       "country": "Switzerland",
       "iata_code": "LUG",
       "_geoloc": {
-        "lat": 46.004275,
-        "lng": 8.910578
+        "latitude": 46.004275,
+        "longitude": 8.910578
       },
       "links_count": 4,
       "objectID": "1675"
@@ -31133,8 +31133,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "SUJ",
       "_geoloc": {
-        "lat": 47.703275,
-        "lng": 22.8857
+        "latitude": 47.703275,
+        "longitude": 22.8857
       },
       "links_count": 4,
       "objectID": "1659"
@@ -31145,8 +31145,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "OMR",
       "_geoloc": {
-        "lat": 47.025278,
-        "lng": 21.9025
+        "latitude": 47.025278,
+        "longitude": 21.9025
       },
       "links_count": 4,
       "objectID": "1656"
@@ -31157,8 +31157,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "CRA",
       "_geoloc": {
-        "lat": 44.318139,
-        "lng": 23.888611
+        "latitude": 44.318139,
+        "longitude": 23.888611
       },
       "links_count": 4,
       "objectID": "1654"
@@ -31169,8 +31169,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "BAY",
       "_geoloc": {
-        "lat": 47.658389,
-        "lng": 23.470022
+        "latitude": 47.658389,
+        "longitude": 23.470022
       },
       "links_count": 4,
       "objectID": "1649"
@@ -31181,8 +31181,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "SJZ",
       "_geoloc": {
-        "lat": 38.6655,
-        "lng": -28.175817
+        "latitude": 38.6655,
+        "longitude": -28.175817
       },
       "links_count": 4,
       "objectID": "1639"
@@ -31193,8 +31193,8 @@ const airports = [
       "country": "Israel",
       "iata_code": "HFA",
       "_geoloc": {
-        "lat": 32.809444,
-        "lng": 35.043056
+        "latitude": 32.809444,
+        "longitude": 35.043056
       },
       "links_count": 4,
       "objectID": "1596"
@@ -31205,8 +31205,8 @@ const airports = [
       "country": "Czech Republic",
       "iata_code": "PED",
       "_geoloc": {
-        "lat": 50.013419,
-        "lng": 15.738647
+        "latitude": 50.013419,
+        "longitude": 15.738647
       },
       "links_count": 4,
       "objectID": "1584"
@@ -31217,8 +31217,8 @@ const airports = [
       "country": "Italy",
       "iata_code": "BZO",
       "_geoloc": {
-        "lat": 46.460194,
-        "lng": 11.326383
+        "latitude": 46.460194,
+        "longitude": 11.326383
       },
       "links_count": 4,
       "objectID": "1536"
@@ -31229,8 +31229,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVM",
       "_geoloc": {
-        "lat": 67.545833,
-        "lng": -64.031389
+        "latitude": 67.545833,
+        "longitude": -64.031389
       },
       "links_count": 4,
       "objectID": "152"
@@ -31241,8 +31241,8 @@ const airports = [
       "country": "Hungary",
       "iata_code": "DEB",
       "_geoloc": {
-        "lat": 47.488917,
-        "lng": 21.615333
+        "latitude": 47.488917,
+        "longitude": 21.615333
       },
       "links_count": 4,
       "objectID": "1490"
@@ -31253,8 +31253,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "JSI",
       "_geoloc": {
-        "lat": 39.1771,
-        "lng": 23.503675
+        "latitude": 39.1771,
+        "longitude": 23.503675
       },
       "links_count": 4,
       "objectID": "1475"
@@ -31265,8 +31265,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "IOA",
       "_geoloc": {
-        "lat": 39.696388,
-        "lng": 20.8225
+        "latitude": 39.696388,
+        "longitude": 20.8225
       },
       "links_count": 4,
       "objectID": "1451"
@@ -31277,8 +31277,8 @@ const airports = [
       "country": "France",
       "iata_code": "LRT",
       "_geoloc": {
-        "lat": 47.760555,
-        "lng": -3.44
+        "latitude": 47.760555,
+        "longitude": -3.44
       },
       "links_count": 4,
       "objectID": "1409"
@@ -31289,8 +31289,8 @@ const airports = [
       "country": "France",
       "iata_code": "DOL",
       "_geoloc": {
-        "lat": 49.365339,
-        "lng": 0.154306
+        "latitude": 49.365339,
+        "longitude": 0.154306
       },
       "links_count": 4,
       "objectID": "1408"
@@ -31301,8 +31301,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSY",
       "_geoloc": {
-        "lat": 71.993889,
-        "lng": -125.2425
+        "latitude": 71.993889,
+        "longitude": -125.2425
       },
       "links_count": 4,
       "objectID": "139"
@@ -31313,8 +31313,8 @@ const airports = [
       "country": "France",
       "iata_code": "XCR",
       "_geoloc": {
-        "lat": 48.776072,
-        "lng": 4.184492
+        "latitude": 48.776072,
+        "longitude": 4.184492
       },
       "links_count": 4,
       "objectID": "1374"
@@ -31325,8 +31325,8 @@ const airports = [
       "country": "France",
       "iata_code": "AVN",
       "_geoloc": {
-        "lat": 43.9073,
-        "lng": 4.901831
+        "latitude": 43.9073,
+        "longitude": 4.901831
       },
       "links_count": 4,
       "objectID": "1361"
@@ -31337,8 +31337,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YRB",
       "_geoloc": {
-        "lat": 74.716944,
-        "lng": -94.969444
+        "latitude": 74.716944,
+        "longitude": -94.969444
       },
       "links_count": 4,
       "objectID": "128"
@@ -31349,8 +31349,8 @@ const airports = [
       "country": "France",
       "iata_code": "PGX",
       "_geoloc": {
-        "lat": 45.198055,
-        "lng": 0.815556
+        "latitude": 45.198055,
+        "longitude": 0.815556
       },
       "links_count": 4,
       "objectID": "1279"
@@ -31361,8 +31361,8 @@ const airports = [
       "country": "France",
       "iata_code": "AGF",
       "_geoloc": {
-        "lat": 44.174721,
-        "lng": 0.590556
+        "latitude": 44.174721,
+        "longitude": 0.590556
       },
       "links_count": 4,
       "objectID": "1262"
@@ -31373,8 +31373,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQY",
       "_geoloc": {
-        "lat": 46.161388,
-        "lng": -60.047779
+        "latitude": 46.161388,
+        "longitude": -60.047779
       },
       "links_count": 4,
       "objectID": "126"
@@ -31385,8 +31385,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "BJZ",
       "_geoloc": {
-        "lat": 38.89125,
-        "lng": -6.821333
+        "latitude": 38.89125,
+        "longitude": -6.821333
       },
       "links_count": 4,
       "objectID": "1219"
@@ -31397,8 +31397,8 @@ const airports = [
       "country": "Bulgaria",
       "iata_code": "PDV",
       "_geoloc": {
-        "lat": 42.067806,
-        "lng": 24.850833
+        "latitude": 42.067806,
+        "longitude": 24.850833
       },
       "links_count": 4,
       "objectID": "1193"
@@ -31409,8 +31409,8 @@ const airports = [
       "country": "Sudan",
       "iata_code": "ELF",
       "_geoloc": {
-        "lat": 13.614892,
-        "lng": 25.32465
+        "latitude": 13.614892,
+        "longitude": 25.32465
       },
       "links_count": 4,
       "objectID": "1169"
@@ -31421,8 +31421,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "GDQ",
       "_geoloc": {
-        "lat": 12.5199,
-        "lng": 37.434047
+        "latitude": 12.5199,
+        "longitude": 37.434047
       },
       "links_count": 4,
       "objectID": "1114"
@@ -31433,8 +31433,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "AXU",
       "_geoloc": {
-        "lat": 14.14675,
-        "lng": 38.772833
+        "latitude": 14.14675,
+        "longitude": 38.772833
       },
       "links_count": 4,
       "objectID": "1110"
@@ -31445,8 +31445,8 @@ const airports = [
       "country": "Cape Verde",
       "iata_code": "SNE",
       "_geoloc": {
-        "lat": 16.588356,
-        "lng": -24.284656
+        "latitude": 16.588356,
+        "longitude": -24.284656
       },
       "links_count": 4,
       "objectID": "1105"
@@ -31457,8 +31457,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPY",
       "_geoloc": {
-        "lat": 58.767223,
-        "lng": -111.117222
+        "latitude": 58.767223,
+        "longitude": -111.117222
       },
       "links_count": 4,
       "objectID": "109"
@@ -31469,8 +31469,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPR",
       "_geoloc": {
-        "lat": 54.28611,
-        "lng": -130.444722
+        "latitude": 54.28611,
+        "longitude": -130.444722
       },
       "links_count": 4,
       "objectID": "108"
@@ -31481,8 +31481,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "OZZ",
       "_geoloc": {
-        "lat": 30.939053,
-        "lng": -6.909431
+        "latitude": 30.939053,
+        "longitude": -6.909431
       },
       "links_count": 4,
       "objectID": "1077"
@@ -31493,8 +31493,8 @@ const airports = [
       "country": "Liberia",
       "iata_code": "MLW",
       "_geoloc": {
-        "lat": 6.289061,
-        "lng": -10.758722
+        "latitude": 6.289061,
+        "longitude": -10.758722
       },
       "links_count": 4,
       "objectID": "1062"
@@ -31505,8 +31505,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPN",
       "_geoloc": {
-        "lat": 49.836389,
-        "lng": -64.288611
+        "latitude": 49.836389,
+        "longitude": -64.288611
       },
       "links_count": 4,
       "objectID": "106"
@@ -31517,8 +31517,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "MJM",
       "_geoloc": {
-        "lat": -6.121236,
-        "lng": 23.569008
+        "latitude": -6.121236,
+        "longitude": 23.569008
       },
       "links_count": 4,
       "objectID": "1043"
@@ -31529,8 +31529,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "KND",
       "_geoloc": {
-        "lat": -2.919178,
-        "lng": 25.915361
+        "latitude": -2.919178,
+        "longitude": 25.915361
       },
       "links_count": 4,
       "objectID": "1037"
@@ -31541,8 +31541,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "BKY",
       "_geoloc": {
-        "lat": -2.308978,
-        "lng": 28.808803
+        "latitude": -2.308978,
+        "longitude": 28.808803
       },
       "links_count": 4,
       "objectID": "1035"
@@ -31553,8 +31553,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "BUX",
       "_geoloc": {
-        "lat": 1.565719,
-        "lng": 30.220833
+        "latitude": 1.565719,
+        "longitude": 30.220833
       },
       "links_count": 4,
       "objectID": "1033"
@@ -31565,8 +31565,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "THU",
       "_geoloc": {
-        "lat": 76.531203,
-        "lng": -68.703161
+        "latitude": 76.531203,
+        "longitude": -68.703161
       },
       "links_count": 4,
       "objectID": "10"
@@ -31577,8 +31577,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ORX",
       "_geoloc": {
-        "lat": -1.714167,
-        "lng": -55.836111
+        "latitude": -1.714167,
+        "longitude": -55.836111
       },
       "links_count": 3,
       "objectID": "8259"
@@ -31589,8 +31589,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "OIA",
       "_geoloc": {
-        "lat": -6.763056,
-        "lng": -51.05
+        "latitude": -6.763056,
+        "longitude": -51.05
       },
       "links_count": 3,
       "objectID": "8239"
@@ -31601,8 +31601,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "POJ",
       "_geoloc": {
-        "lat": -18.672778,
-        "lng": -46.491111
+        "latitude": -18.672778,
+        "longitude": -46.491111
       },
       "links_count": 3,
       "objectID": "8237"
@@ -31613,8 +31613,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "CHY",
       "_geoloc": {
-        "lat": -6.711944,
-        "lng": 156.396111
+        "latitude": -6.711944,
+        "longitude": 156.396111
       },
       "links_count": 3,
       "objectID": "7617"
@@ -31625,8 +31625,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CKD",
       "_geoloc": {
-        "lat": 61.867778,
-        "lng": -158.135
+        "latitude": 61.867778,
+        "longitude": -158.135
       },
       "links_count": 3,
       "objectID": "7238"
@@ -31637,8 +31637,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KCC",
       "_geoloc": {
-        "lat": 56.014722,
-        "lng": -132.833889
+        "latitude": 56.014722,
+        "longitude": -132.833889
       },
       "links_count": 3,
       "objectID": "7237"
@@ -31649,8 +31649,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SCM",
       "_geoloc": {
-        "lat": 61.845278,
-        "lng": -165.571389
+        "latitude": 61.845278,
+        "longitude": -165.571389
       },
       "links_count": 3,
       "objectID": "7209"
@@ -31661,8 +31661,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ORI",
       "_geoloc": {
-        "lat": 57.885278,
-        "lng": -152.846111
+        "latitude": 57.885278,
+        "longitude": -152.846111
       },
       "links_count": 3,
       "objectID": "7165"
@@ -31673,8 +31673,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OLH",
       "_geoloc": {
-        "lat": 57.218056,
-        "lng": -153.269722
+        "latitude": 57.218056,
+        "longitude": -153.269722
       },
       "links_count": 3,
       "objectID": "7163"
@@ -31685,8 +31685,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHD",
       "_geoloc": {
-        "lat": 38.263889,
-        "lng": -78.896389
+        "latitude": 38.263889,
+        "longitude": -78.896389
       },
       "links_count": 3,
       "objectID": "7062"
@@ -31697,8 +31697,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "QBC",
       "_geoloc": {
-        "lat": 52.3875,
-        "lng": -126.596
+        "latitude": 52.3875,
+        "longitude": -126.596
       },
       "links_count": 3,
       "objectID": "6738"
@@ -31709,8 +31709,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "FLS",
       "_geoloc": {
-        "lat": -40.0917,
-        "lng": 147.993
+        "latitude": -40.0917,
+        "longitude": 147.993
       },
       "links_count": 3,
       "objectID": "6267"
@@ -31721,8 +31721,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CUQ",
       "_geoloc": {
-        "lat": -13.7608,
-        "lng": 143.114
+        "latitude": -13.7608,
+        "longitude": 143.114
       },
       "links_count": 3,
       "objectID": "6260"
@@ -31733,8 +31733,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "TFI",
       "_geoloc": {
-        "lat": -9.07595,
-        "lng": 149.32
+        "latitude": -9.07595,
+        "longitude": 149.32
       },
       "links_count": 3,
       "objectID": "5984"
@@ -31745,8 +31745,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "BMY",
       "_geoloc": {
-        "lat": -19.7206,
-        "lng": 163.661
+        "latitude": -19.7206,
+        "longitude": 163.661
       },
       "links_count": 3,
       "objectID": "5920"
@@ -31757,8 +31757,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "AIU",
       "_geoloc": {
-        "lat": -19.9678,
-        "lng": -158.119
+        "latitude": -19.9678,
+        "longitude": -158.119
       },
       "links_count": 3,
       "objectID": "5861"
@@ -31769,8 +31769,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BKW",
       "_geoloc": {
-        "lat": 37.7873,
-        "lng": -81.1242
+        "latitude": 37.7873,
+        "longitude": -81.1242
       },
       "links_count": 3,
       "objectID": "5724"
@@ -31781,8 +31781,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "ASV",
       "_geoloc": {
-        "lat": -2.64505,
-        "lng": 37.2531
+        "latitude": -2.64505,
+        "longitude": 37.2531
       },
       "links_count": 3,
       "objectID": "5692"
@@ -31793,8 +31793,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "EOI",
       "_geoloc": {
-        "lat": 59.1906,
-        "lng": -2.77222
+        "latitude": 59.1906,
+        "longitude": -2.77222
       },
       "links_count": 3,
       "objectID": "5564"
@@ -31805,8 +31805,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZBF",
       "_geoloc": {
-        "lat": 47.6297,
-        "lng": -65.7389
+        "latitude": 47.6297,
+        "longitude": -65.7389
       },
       "links_count": 3,
       "objectID": "5538"
@@ -31817,8 +31817,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YVZ",
       "_geoloc": {
-        "lat": 52.6558,
-        "lng": -94.0614
+        "latitude": 52.6558,
+        "longitude": -94.0614
       },
       "links_count": 3,
       "objectID": "5532"
@@ -31829,8 +31829,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "FRE",
       "_geoloc": {
-        "lat": -8.1075,
-        "lng": 159.577
+        "latitude": -8.1075,
+        "longitude": 159.577
       },
       "links_count": 3,
       "objectID": "5407"
@@ -31841,8 +31841,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "IVL",
       "_geoloc": {
-        "lat": 68.607269,
-        "lng": 27.405328
+        "latitude": 68.607269,
+        "longitude": 27.405328
       },
       "links_count": 3,
       "objectID": "428"
@@ -31853,8 +31853,8 @@ const airports = [
       "country": "Netherlands Antilles",
       "iata_code": "SAB",
       "_geoloc": {
-        "lat": 17.645278,
-        "lng": -63.220556
+        "latitude": 17.645278,
+        "longitude": -63.220556
       },
       "links_count": 3,
       "objectID": "4249"
@@ -31865,8 +31865,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BKQ",
       "_geoloc": {
-        "lat": -24.427778,
-        "lng": 145.428611
+        "latitude": -24.427778,
+        "longitude": 145.428611
       },
       "links_count": 3,
       "objectID": "4217"
@@ -31877,8 +31877,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "AAY",
       "_geoloc": {
-        "lat": 16.191667,
-        "lng": 52.175
+        "latitude": 16.191667,
+        "longitude": 52.175
       },
       "links_count": 3,
       "objectID": "3979"
@@ -31889,8 +31889,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "SPD",
       "_geoloc": {
-        "lat": 25.759228,
-        "lng": 88.908869
+        "latitude": 25.759228,
+        "longitude": 88.908869
       },
       "links_count": 3,
       "objectID": "3073"
@@ -31901,8 +31901,8 @@ const airports = [
       "country": "Tunisia",
       "iata_code": "GAF",
       "_geoloc": {
-        "lat": 34.422022,
-        "lng": 8.822503
+        "latitude": 34.422022,
+        "longitude": 8.822503
       },
       "links_count": 3,
       "objectID": "290"
@@ -31913,8 +31913,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "LUQ",
       "_geoloc": {
-        "lat": -33.273192,
-        "lng": -66.356422
+        "latitude": -33.273192,
+        "longitude": -66.356422
       },
       "links_count": 3,
       "objectID": "2467"
@@ -31925,8 +31925,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "MUW",
       "_geoloc": {
-        "lat": 35.207725,
-        "lng": 0.147142
+        "latitude": 35.207725,
+        "longitude": 0.147142
       },
       "links_count": 3,
       "objectID": "233"
@@ -31937,8 +31937,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "TID",
       "_geoloc": {
-        "lat": 35.341136,
-        "lng": 1.463147
+        "latitude": 35.341136,
+        "longitude": 1.463147
       },
       "links_count": 3,
       "objectID": "225"
@@ -31949,8 +31949,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "DJG",
       "_geoloc": {
-        "lat": 24.292767,
-        "lng": 9.452444
+        "latitude": 24.292767,
+        "longitude": 9.452444
       },
       "links_count": 3,
       "objectID": "211"
@@ -31961,8 +31961,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "HOI",
       "_geoloc": {
-        "lat": -18.074814,
-        "lng": -140.945886
+        "latitude": -18.074814,
+        "longitude": -140.945886
       },
       "links_count": 3,
       "objectID": "1993"
@@ -31973,8 +31973,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYU",
       "_geoloc": {
-        "lat": 49.413889,
-        "lng": -82.4675
+        "latitude": 49.413889,
+        "longitude": -82.4675
       },
       "links_count": 3,
       "objectID": "190"
@@ -31985,8 +31985,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "PNA",
       "_geoloc": {
-        "lat": 42.770039,
-        "lng": -1.646331
+        "latitude": 42.770039,
+        "longitude": -1.646331
       },
       "links_count": 3,
       "objectID": "1234"
@@ -31997,8 +31997,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "LOK",
       "_geoloc": {
-        "lat": 3.121967,
-        "lng": 35.608692
+        "latitude": 3.121967,
+        "longitude": 35.608692
       },
       "links_count": 3,
       "objectID": "1143"
@@ -32009,8 +32009,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "ASO",
       "_geoloc": {
-        "lat": 10.01855,
-        "lng": 34.586253
+        "latitude": 10.01855,
+        "longitude": 34.586253
       },
       "links_count": 3,
       "objectID": "1119"
@@ -32021,8 +32021,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "JIM",
       "_geoloc": {
-        "lat": 7.666094,
-        "lng": 36.816639
+        "latitude": 7.666094,
+        "longitude": 36.816639
       },
       "links_count": 3,
       "objectID": "1116"
@@ -32033,8 +32033,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "GMB",
       "_geoloc": {
-        "lat": 8.128764,
-        "lng": 34.563131
+        "latitude": 8.128764,
+        "longitude": 34.563131
       },
       "links_count": 3,
       "objectID": "1113"
@@ -32045,8 +32045,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "BJR",
       "_geoloc": {
-        "lat": 11.608075,
-        "lng": 37.321644
+        "latitude": 11.608075,
+        "longitude": 37.321644
       },
       "links_count": 3,
       "objectID": "1111"
@@ -32057,8 +32057,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "AMH",
       "_geoloc": {
-        "lat": 6.039389,
-        "lng": 37.590453
+        "latitude": 6.039389,
+        "longitude": 37.590453
       },
       "links_count": 3,
       "objectID": "1109"
@@ -32069,8 +32069,8 @@ const airports = [
       "country": "Senegal",
       "iata_code": "ZIG",
       "_geoloc": {
-        "lat": 12.555617,
-        "lng": -16.281783
+        "latitude": 12.555617,
+        "longitude": -16.281783
       },
       "links_count": 3,
       "objectID": "1081"
@@ -32081,8 +32081,8 @@ const airports = [
       "country": "Seychelles",
       "iata_code": "PRI",
       "_geoloc": {
-        "lat": -4.319292,
-        "lng": 55.691417
+        "latitude": -4.319292,
+        "longitude": 55.691417
       },
       "links_count": 2,
       "objectID": "995"
@@ -32093,8 +32093,8 @@ const airports = [
       "country": "Gabon",
       "iata_code": "POG",
       "_geoloc": {
-        "lat": -0.711739,
-        "lng": 8.754383
+        "latitude": -0.711739,
+        "longitude": 8.754383
       },
       "links_count": 2,
       "objectID": "967"
@@ -32105,8 +32105,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "LUO",
       "_geoloc": {
-        "lat": -11.768086,
-        "lng": 19.897672
+        "latitude": -11.768086,
+        "longitude": 19.897672
       },
       "links_count": 2,
       "objectID": "960"
@@ -32117,8 +32117,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "SSY",
       "_geoloc": {
-        "lat": -6.269897,
-        "lng": 14.247025
+        "latitude": -6.269897,
+        "longitude": 14.247025
       },
       "links_count": 2,
       "objectID": "944"
@@ -32129,8 +32129,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "KFS",
       "_geoloc": {
-        "lat": 41.316944,
-        "lng": 33.796111
+        "latitude": 41.316944,
+        "longitude": 33.796111
       },
       "links_count": 2,
       "objectID": "9273"
@@ -32141,8 +32141,8 @@ const airports = [
       "country": "Madagascar",
       "iata_code": "WMR",
       "_geoloc": {
-        "lat": -16.1639,
-        "lng": 49.773753
+        "latitude": -16.1639,
+        "longitude": 49.773753
       },
       "links_count": 2,
       "objectID": "924"
@@ -32153,8 +32153,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "MJU",
       "_geoloc": {
-        "lat": -2.583333,
-        "lng": 119.033333
+        "latitude": -2.583333,
+        "longitude": 119.033333
       },
       "links_count": 2,
       "objectID": "9181"
@@ -32165,8 +32165,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "THD",
       "_geoloc": {
-        "lat": 19.90167,
-        "lng": 105.46778
+        "latitude": 19.90167,
+        "longitude": 105.46778
       },
       "links_count": 2,
       "objectID": "9135"
@@ -32177,8 +32177,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "MFU",
       "_geoloc": {
-        "lat": -13.258878,
-        "lng": 31.936581
+        "latitude": -13.258878,
+        "longitude": 31.936581
       },
       "links_count": 2,
       "objectID": "908"
@@ -32189,8 +32189,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "KZR",
       "_geoloc": {
-        "lat": 39.111389,
-        "lng": 30.13
+        "latitude": 39.111389,
+        "longitude": 30.13
       },
       "links_count": 2,
       "objectID": "9045"
@@ -32201,8 +32201,8 @@ const airports = [
       "country": "Cameroon",
       "iata_code": "NGE",
       "_geoloc": {
-        "lat": 7.357011,
-        "lng": 13.559242
+        "latitude": 7.357011,
+        "longitude": 13.559242
       },
       "links_count": 2,
       "objectID": "900"
@@ -32213,8 +32213,8 @@ const airports = [
       "country": "Cameroon",
       "iata_code": "MVR",
       "_geoloc": {
-        "lat": 10.451392,
-        "lng": 14.257361
+        "latitude": 10.451392,
+        "longitude": 14.257361
       },
       "links_count": 2,
       "objectID": "898"
@@ -32225,8 +32225,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "ZDY",
       "_geoloc": {
-        "lat": 24.5033833,
-        "lng": 52.3360528
+        "latitude": 24.5033833,
+        "longitude": 52.3360528
       },
       "links_count": 2,
       "objectID": "8962"
@@ -32237,8 +32237,8 @@ const airports = [
       "country": "Mauritius",
       "iata_code": "RRG",
       "_geoloc": {
-        "lat": -19.757658,
-        "lng": 63.360983
+        "latitude": -19.757658,
+        "longitude": 63.360983
       },
       "links_count": 2,
       "objectID": "894"
@@ -32249,8 +32249,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "VUS",
       "_geoloc": {
-        "lat": 60.788333,
-        "lng": 46.26
+        "latitude": 60.788333,
+        "longitude": 46.26
       },
       "links_count": 2,
       "objectID": "8924"
@@ -32261,8 +32261,8 @@ const airports = [
       "country": "China",
       "iata_code": "KGT",
       "_geoloc": {
-        "lat": 30.1575,
-        "lng": 101.734722
+        "latitude": 30.1575,
+        "longitude": 101.734722
       },
       "links_count": 2,
       "objectID": "8921"
@@ -32273,8 +32273,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "RHD",
       "_geoloc": {
-        "lat": -27.509946,
-        "lng": -64.936666
+        "latitude": -27.509946,
+        "longitude": -64.936666
       },
       "links_count": 2,
       "objectID": "8914"
@@ -32285,8 +32285,8 @@ const airports = [
       "country": "Swaziland",
       "iata_code": "MTS",
       "_geoloc": {
-        "lat": -26.529022,
-        "lng": 31.307519
+        "latitude": -26.529022,
+        "longitude": 31.307519
       },
       "links_count": 2,
       "objectID": "887"
@@ -32297,8 +32297,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "DEE",
       "_geoloc": {
-        "lat": 43.5739,
-        "lng": 145.4107
+        "latitude": 43.5739,
+        "longitude": 145.4107
       },
       "links_count": 2,
       "objectID": "8782"
@@ -32309,8 +32309,8 @@ const airports = [
       "country": "Azerbaijan",
       "iata_code": "GBB",
       "_geoloc": {
-        "lat": 40.826667,
-        "lng": 47.7125
+        "latitude": 40.826667,
+        "longitude": 47.7125
       },
       "links_count": 2,
       "objectID": "8775"
@@ -32321,8 +32321,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "RGK",
       "_geoloc": {
-        "lat": 51.966667,
-        "lng": 85.833333
+        "latitude": 51.966667,
+        "longitude": 85.833333
       },
       "links_count": 2,
       "objectID": "8740"
@@ -32333,8 +32333,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PUM",
       "_geoloc": {
-        "lat": -4.183333,
-        "lng": 121.61667
+        "latitude": -4.183333,
+        "longitude": 121.61667
       },
       "links_count": 2,
       "objectID": "8735"
@@ -32345,8 +32345,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "UTT",
       "_geoloc": {
-        "lat": -31.547903,
-        "lng": 28.674289
+        "latitude": -31.547903,
+        "longitude": 28.674289
       },
       "links_count": 2,
       "objectID": "866"
@@ -32357,8 +32357,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YLL",
       "_geoloc": {
-        "lat": 53.309166,
-        "lng": -110.0725
+        "latitude": 53.309166,
+        "longitude": -110.0725
       },
       "links_count": 2,
       "objectID": "85"
@@ -32369,8 +32369,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "ELL",
       "_geoloc": {
-        "lat": -23.666667,
-        "lng": 27.75
+        "latitude": -23.666667,
+        "longitude": 27.75
       },
       "links_count": 2,
       "objectID": "8492"
@@ -32381,8 +32381,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "RCB",
       "_geoloc": {
-        "lat": -28.741039,
-        "lng": 32.092111
+        "latitude": -28.741039,
+        "longitude": 32.092111
       },
       "links_count": 2,
       "objectID": "849"
@@ -32393,8 +32393,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "PZB",
       "_geoloc": {
-        "lat": -29.648975,
-        "lng": 30.398667
+        "latitude": -29.648975,
+        "longitude": 30.398667
       },
       "links_count": 2,
       "objectID": "843"
@@ -32405,8 +32405,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "PTG",
       "_geoloc": {
-        "lat": -23.926089,
-        "lng": 29.484422
+        "latitude": -23.926089,
+        "longitude": 29.484422
       },
       "links_count": 2,
       "objectID": "841"
@@ -32417,8 +32417,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "PHW",
       "_geoloc": {
-        "lat": -23.937166,
-        "lng": 31.15539
+        "latitude": -23.937166,
+        "longitude": 31.15539
       },
       "links_count": 2,
       "objectID": "840"
@@ -32429,8 +32429,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "KEW",
       "_geoloc": {
-        "lat": 52.991111,
-        "lng": -92.836389
+        "latitude": 52.991111,
+        "longitude": -92.836389
       },
       "links_count": 2,
       "objectID": "8355"
@@ -32441,8 +32441,8 @@ const airports = [
       "country": "South Africa",
       "iata_code": "MGH",
       "_geoloc": {
-        "lat": -30.857408,
-        "lng": 30.343019
+        "latitude": -30.857408,
+        "longitude": 30.343019
       },
       "links_count": 2,
       "objectID": "827"
@@ -32453,8 +32453,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "IRZ",
       "_geoloc": {
-        "lat": -0.416944,
-        "lng": -65.033889
+        "latitude": -0.416944,
+        "longitude": -65.033889
       },
       "links_count": 2,
       "objectID": "8258"
@@ -32465,8 +32465,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "OLC",
       "_geoloc": {
-        "lat": -3.465556,
-        "lng": -68.918889
+        "latitude": -3.465556,
+        "longitude": -68.918889
       },
       "links_count": 2,
       "objectID": "8256"
@@ -32477,8 +32477,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ERN",
       "_geoloc": {
-        "lat": -6.639444,
-        "lng": -69.879722
+        "latitude": -6.639444,
+        "longitude": -69.879722
       },
       "links_count": 2,
       "objectID": "8247"
@@ -32489,8 +32489,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SXO",
       "_geoloc": {
-        "lat": -11.6325,
-        "lng": -50.689444
+        "latitude": -11.6325,
+        "longitude": -50.689444
       },
       "links_count": 2,
       "objectID": "8243"
@@ -32501,8 +32501,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BYO",
       "_geoloc": {
-        "lat": -21.247222,
-        "lng": -56.4525
+        "latitude": -21.247222,
+        "longitude": -56.4525
       },
       "links_count": 2,
       "objectID": "8242"
@@ -32513,8 +32513,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RDC",
       "_geoloc": {
-        "lat": -8.033333,
-        "lng": -49.98
+        "latitude": -8.033333,
+        "longitude": -49.98
       },
       "links_count": 2,
       "objectID": "8240"
@@ -32525,8 +32525,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZZ",
       "_geoloc": {
-        "lat": 49.055556,
-        "lng": -117.609167
+        "latitude": 49.055556,
+        "longitude": -117.609167
       },
       "links_count": 2,
       "objectID": "8223"
@@ -32537,8 +32537,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "VIN",
       "_geoloc": {
-        "lat": 49.2433,
-        "lng": 28.6063
+        "latitude": 49.2433,
+        "longitude": 28.6063
       },
       "links_count": 2,
       "objectID": "8209"
@@ -32549,8 +32549,8 @@ const airports = [
       "country": "Greenland",
       "iata_code": "OBY",
       "_geoloc": {
-        "lat": 70.485278,
-        "lng": -21.966667
+        "latitude": 70.485278,
+        "longitude": -21.966667
       },
       "links_count": 2,
       "objectID": "8208"
@@ -32561,8 +32561,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "MPP",
       "_geoloc": {
-        "lat": 8.95,
-        "lng": -77.75
+        "latitude": 8.95,
+        "longitude": -77.75
       },
       "links_count": 2,
       "objectID": "8207"
@@ -32573,8 +32573,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "GHE",
       "_geoloc": {
-        "lat": 8.06,
-        "lng": -78.36
+        "latitude": 8.06,
+        "longitude": -78.36
       },
       "links_count": 2,
       "objectID": "8206"
@@ -32585,8 +32585,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "ACU",
       "_geoloc": {
-        "lat": 9.2,
-        "lng": -77.98
+        "latitude": 9.2,
+        "longitude": -77.98
       },
       "links_count": 2,
       "objectID": "8204"
@@ -32597,8 +32597,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GNU",
       "_geoloc": {
-        "lat": 59.1175,
-        "lng": -161.5775
+        "latitude": 59.1175,
+        "longitude": -161.5775
       },
       "links_count": 2,
       "objectID": "8202"
@@ -32609,8 +32609,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "PUE",
       "_geoloc": {
-        "lat": 8.68333,
-        "lng": -77.5333
+        "latitude": 8.68333,
+        "longitude": -77.5333
       },
       "links_count": 2,
       "objectID": "7962"
@@ -32621,8 +32621,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "PVE",
       "_geoloc": {
-        "lat": 9.559167,
-        "lng": -78.971111
+        "latitude": 9.559167,
+        "longitude": -78.971111
       },
       "links_count": 2,
       "objectID": "7901"
@@ -32633,8 +32633,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "PYC",
       "_geoloc": {
-        "lat": 9.303333,
-        "lng": -78.236111
+        "latitude": 9.303333,
+        "longitude": -78.236111
       },
       "links_count": 2,
       "objectID": "7895"
@@ -32645,8 +32645,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "OAL",
       "_geoloc": {
-        "lat": 47.78,
-        "lng": 10.627
+        "latitude": 47.78,
+        "longitude": 10.627
       },
       "links_count": 2,
       "objectID": "7798"
@@ -32657,8 +32657,8 @@ const airports = [
       "country": "India",
       "iata_code": "MYQ",
       "_geoloc": {
-        "lat": 12.3072,
-        "lng": 76.6497
+        "latitude": 12.3072,
+        "longitude": 76.6497
       },
       "links_count": 2,
       "objectID": "7774"
@@ -32669,8 +32669,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YJT",
       "_geoloc": {
-        "lat": 48.544167,
-        "lng": -58.549999
+        "latitude": 48.544167,
+        "longitude": -58.549999
       },
       "links_count": 2,
       "objectID": "77"
@@ -32681,8 +32681,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAM",
       "_geoloc": {
-        "lat": 35.8798019,
-        "lng": -106.2694153
+        "latitude": 35.8798019,
+        "longitude": -106.2694153
       },
       "links_count": 2,
       "objectID": "7584"
@@ -32693,8 +32693,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "DIW",
       "_geoloc": {
-        "lat": 5.966667,
-        "lng": 80.683333
+        "latitude": 5.966667,
+        "longitude": 80.683333
       },
       "links_count": 2,
       "objectID": "7562"
@@ -32705,8 +32705,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "ULO",
       "_geoloc": {
-        "lat": 49.973333,
-        "lng": 92.079722
+        "latitude": 49.973333,
+        "longitude": 92.079722
       },
       "links_count": 2,
       "objectID": "7558"
@@ -32717,8 +32717,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "YES",
       "_geoloc": {
-        "lat": 30.700556,
-        "lng": 51.545
+        "latitude": 30.700556,
+        "longitude": 51.545
       },
       "links_count": 2,
       "objectID": "7547"
@@ -32729,8 +32729,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SJL",
       "_geoloc": {
-        "lat": -0.148056,
-        "lng": -66.9858
+        "latitude": -0.148056,
+        "longitude": -66.9858
       },
       "links_count": 2,
       "objectID": "7530"
@@ -32741,8 +32741,8 @@ const airports = [
       "country": "China",
       "iata_code": "LCX",
       "_geoloc": {
-        "lat": 25.674167,
-        "lng": 116.746389
+        "latitude": 25.674167,
+        "longitude": 116.746389
       },
       "links_count": 2,
       "objectID": "7504"
@@ -32753,8 +32753,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "BVV",
       "_geoloc": {
-        "lat": 44.92,
-        "lng": 147.621667
+        "latitude": 44.92,
+        "longitude": 147.621667
       },
       "links_count": 2,
       "objectID": "7478"
@@ -32765,8 +32765,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "ULG",
       "_geoloc": {
-        "lat": 48.991667,
-        "lng": 89.919722
+        "latitude": 48.991667,
+        "longitude": 89.919722
       },
       "links_count": 2,
       "objectID": "7470"
@@ -32777,8 +32777,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "ILD",
       "_geoloc": {
-        "lat": 41.727778,
-        "lng": 0.535833
+        "latitude": 41.727778,
+        "longitude": 0.535833
       },
       "links_count": 2,
       "objectID": "7459"
@@ -32789,8 +32789,8 @@ const airports = [
       "country": "Uganda",
       "iata_code": "PAF",
       "_geoloc": {
-        "lat": 2.3275,
-        "lng": 31.5
+        "latitude": 2.3275,
+        "longitude": 31.5
       },
       "links_count": 2,
       "objectID": "7450"
@@ -32801,8 +32801,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GNM",
       "_geoloc": {
-        "lat": -14.216667,
-        "lng": -42.783333
+        "latitude": -14.216667,
+        "longitude": -42.783333
       },
       "links_count": 2,
       "objectID": "7407"
@@ -32813,8 +32813,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BAZ",
       "_geoloc": {
-        "lat": -0.975,
-        "lng": -62.923889
+        "latitude": -0.975,
+        "longitude": -62.923889
       },
       "links_count": 2,
       "objectID": "7399"
@@ -32825,8 +32825,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CIZ",
       "_geoloc": {
-        "lat": -4.085,
-        "lng": -63.140833
+        "latitude": -4.085,
+        "longitude": -63.140833
       },
       "links_count": 2,
       "objectID": "7398"
@@ -32837,8 +32837,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "AAX",
       "_geoloc": {
-        "lat": -19.563056,
-        "lng": -46.960278
+        "latitude": -19.563056,
+        "longitude": -46.960278
       },
       "links_count": 2,
       "objectID": "7395"
@@ -32849,8 +32849,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "RVD",
       "_geoloc": {
-        "lat": -17.790278,
-        "lng": -50.918333
+        "latitude": -17.790278,
+        "longitude": -50.918333
       },
       "links_count": 2,
       "objectID": "7394"
@@ -32861,8 +32861,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GPB",
       "_geoloc": {
-        "lat": -25.383333,
-        "lng": -51.45
+        "latitude": -25.383333,
+        "longitude": -51.45
       },
       "links_count": 2,
       "objectID": "7383"
@@ -32873,8 +32873,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "ROO",
       "_geoloc": {
-        "lat": -16.466667,
-        "lng": -54.633333
+        "latitude": -16.466667,
+        "longitude": -54.633333
       },
       "links_count": 2,
       "objectID": "7382"
@@ -32885,8 +32885,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "MQH",
       "_geoloc": {
-        "lat": -13.526944,
-        "lng": -48.220556
+        "latitude": -13.526944,
+        "longitude": -48.220556
       },
       "links_count": 2,
       "objectID": "7375"
@@ -32897,8 +32897,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PIN",
       "_geoloc": {
-        "lat": -2.627778,
-        "lng": -56.735833
+        "latitude": -2.627778,
+        "longitude": -56.735833
       },
       "links_count": 2,
       "objectID": "7372"
@@ -32909,8 +32909,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GRP",
       "_geoloc": {
-        "lat": -11.728889,
-        "lng": -49.068889
+        "latitude": -11.728889,
+        "longitude": -49.068889
       },
       "links_count": 2,
       "objectID": "7368"
@@ -32921,8 +32921,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "VGZ",
       "_geoloc": {
-        "lat": 0.978889,
-        "lng": -76.605556
+        "latitude": 0.978889,
+        "longitude": -76.605556
       },
       "links_count": 2,
       "objectID": "7359"
@@ -32933,8 +32933,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "LMC",
       "_geoloc": {
-        "lat": 2.179167,
-        "lng": -73.7875
+        "latitude": 2.179167,
+        "longitude": -73.7875
       },
       "links_count": 2,
       "objectID": "7358"
@@ -32945,8 +32945,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "UYU",
       "_geoloc": {
-        "lat": -20.466667,
-        "lng": -66.833333
+        "latitude": -20.466667,
+        "longitude": -66.833333
       },
       "links_count": 2,
       "objectID": "7313"
@@ -32957,8 +32957,8 @@ const airports = [
       "country": "Virgin Islands",
       "iata_code": "SSB",
       "_geoloc": {
-        "lat": 17.747222,
-        "lng": -64.705
+        "latitude": 17.747222,
+        "longitude": -64.705
       },
       "links_count": 2,
       "objectID": "7310"
@@ -32969,8 +32969,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MLY",
       "_geoloc": {
-        "lat": 64.9975,
-        "lng": -150.644167
+        "latitude": 64.9975,
+        "longitude": -150.644167
       },
       "links_count": 2,
       "objectID": "7246"
@@ -32981,8 +32981,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KAE",
       "_geoloc": {
-        "lat": 56.973056,
-        "lng": -133.945556
+        "latitude": 56.973056,
+        "longitude": -133.945556
       },
       "links_count": 2,
       "objectID": "7243"
@@ -32993,8 +32993,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HKB",
       "_geoloc": {
-        "lat": 63.8675,
-        "lng": -148.968889
+        "latitude": 63.8675,
+        "longitude": -148.968889
       },
       "links_count": 2,
       "objectID": "7242"
@@ -33005,8 +33005,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SRV",
       "_geoloc": {
-        "lat": 61.7875,
-        "lng": -156.591111
+        "latitude": 61.7875,
+        "longitude": -156.591111
       },
       "links_count": 2,
       "objectID": "7241"
@@ -33017,8 +33017,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RDV",
       "_geoloc": {
-        "lat": 61.788056,
-        "lng": -157.350278
+        "latitude": 61.788056,
+        "longitude": -157.350278
       },
       "links_count": 2,
       "objectID": "7239"
@@ -33029,8 +33029,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IRC",
       "_geoloc": {
-        "lat": 65.827778,
-        "lng": -144.076111
+        "latitude": 65.827778,
+        "longitude": -144.076111
       },
       "links_count": 2,
       "objectID": "7236"
@@ -33041,8 +33041,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "OER",
       "_geoloc": {
-        "lat": 63.408339,
-        "lng": 18.990039
+        "latitude": 63.408339,
+        "longitude": 18.990039
       },
       "links_count": 2,
       "objectID": "722"
@@ -33053,8 +33053,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TCT",
       "_geoloc": {
-        "lat": 62.971944,
-        "lng": -156.082778
+        "latitude": 62.971944,
+        "longitude": -156.082778
       },
       "links_count": 2,
       "objectID": "7215"
@@ -33065,8 +33065,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NIB",
       "_geoloc": {
-        "lat": 63.010833,
-        "lng": -154.383889
+        "latitude": 63.010833,
+        "longitude": -154.383889
       },
       "links_count": 2,
       "objectID": "7214"
@@ -33077,8 +33077,8 @@ const airports = [
       "country": "United States",
       "iata_code": "NLG",
       "_geoloc": {
-        "lat": 56.0075,
-        "lng": -161.160278
+        "latitude": 56.0075,
+        "longitude": -161.160278
       },
       "links_count": 2,
       "objectID": "7203"
@@ -33089,8 +33089,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KFP",
       "_geoloc": {
-        "lat": 54.8475,
-        "lng": -163.410278
+        "latitude": 54.8475,
+        "longitude": -163.410278
       },
       "links_count": 2,
       "objectID": "7202"
@@ -33101,8 +33101,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IKO",
       "_geoloc": {
-        "lat": 52.941667,
-        "lng": -168.848889
+        "latitude": 52.941667,
+        "longitude": -168.848889
       },
       "links_count": 2,
       "objectID": "7196"
@@ -33113,8 +33113,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AKB",
       "_geoloc": {
-        "lat": 52.220278,
-        "lng": -174.206389
+        "latitude": 52.220278,
+        "longitude": -174.206389
       },
       "links_count": 2,
       "objectID": "7195"
@@ -33125,8 +33125,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TNC",
       "_geoloc": {
-        "lat": 65.563056,
-        "lng": -167.921667
+        "latitude": 65.563056,
+        "longitude": -167.921667
       },
       "links_count": 2,
       "objectID": "7194"
@@ -33137,8 +33137,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SYB",
       "_geoloc": {
-        "lat": 58.166667,
-        "lng": -152.5
+        "latitude": 58.166667,
+        "longitude": -152.5
       },
       "links_count": 2,
       "objectID": "7173"
@@ -33149,8 +33149,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KKB",
       "_geoloc": {
-        "lat": 58.190833,
-        "lng": -152.370556
+        "latitude": 58.190833,
+        "longitude": -152.370556
       },
       "links_count": 2,
       "objectID": "7168"
@@ -33161,8 +33161,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AOS",
       "_geoloc": {
-        "lat": 57.471389,
-        "lng": -153.815278
+        "latitude": 57.471389,
+        "longitude": -153.815278
       },
       "links_count": 2,
       "objectID": "7167"
@@ -33173,8 +33173,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KLN",
       "_geoloc": {
-        "lat": 57.535,
-        "lng": -153.976667
+        "latitude": 57.535,
+        "longitude": -153.976667
       },
       "links_count": 2,
       "objectID": "7162"
@@ -33185,8 +33185,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AKK",
       "_geoloc": {
-        "lat": 56.938611,
-        "lng": -154.1825
+        "latitude": 56.938611,
+        "longitude": -154.1825
       },
       "links_count": 2,
       "objectID": "7160"
@@ -33197,8 +33197,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WSN",
       "_geoloc": {
-        "lat": 58.702222,
-        "lng": -157.0025
+        "latitude": 58.702222,
+        "longitude": -157.0025
       },
       "links_count": 2,
       "objectID": "7159"
@@ -33209,8 +33209,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIP",
       "_geoloc": {
-        "lat": 57.585393,
-        "lng": -157.571944
+        "latitude": 57.585393,
+        "longitude": -157.571944
       },
       "links_count": 2,
       "objectID": "7158"
@@ -33221,8 +33221,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KPV",
       "_geoloc": {
-        "lat": 55.906667,
-        "lng": -159.160833
+        "latitude": 55.906667,
+        "longitude": -159.160833
       },
       "links_count": 2,
       "objectID": "7157"
@@ -33233,8 +33233,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KCL",
       "_geoloc": {
-        "lat": 56.311111,
-        "lng": -158.534167
+        "latitude": 56.311111,
+        "longitude": -158.534167
       },
       "links_count": 2,
       "objectID": "7155"
@@ -33245,8 +33245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EGX",
       "_geoloc": {
-        "lat": 58.185556,
-        "lng": -157.375556
+        "latitude": 58.185556,
+        "longitude": -157.375556
       },
       "links_count": 2,
       "objectID": "7154"
@@ -33257,8 +33257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KCQ",
       "_geoloc": {
-        "lat": 56.255,
-        "lng": -158.775278
+        "latitude": 56.255,
+        "longitude": -158.775278
       },
       "links_count": 2,
       "objectID": "7153"
@@ -33269,8 +33269,8 @@ const airports = [
       "country": "United States",
       "iata_code": "WWP",
       "_geoloc": {
-        "lat": 56.116389,
-        "lng": -133.121667
+        "latitude": 56.116389,
+        "longitude": -133.121667
       },
       "links_count": 2,
       "objectID": "7152"
@@ -33281,8 +33281,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PPV",
       "_geoloc": {
-        "lat": 56.328889,
-        "lng": -133.61
+        "latitude": 56.328889,
+        "longitude": -133.61
       },
       "links_count": 2,
       "objectID": "7151"
@@ -33293,8 +33293,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KPB",
       "_geoloc": {
-        "lat": 56.351944,
-        "lng": -133.6225
+        "latitude": 56.351944,
+        "longitude": -133.6225
       },
       "links_count": 2,
       "objectID": "7150"
@@ -33305,8 +33305,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HYG",
       "_geoloc": {
-        "lat": 55.206389,
-        "lng": -132.828333
+        "latitude": 55.206389,
+        "longitude": -132.828333
       },
       "links_count": 2,
       "objectID": "7148"
@@ -33317,8 +33317,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EXI",
       "_geoloc": {
-        "lat": 58.420556,
-        "lng": -135.449167
+        "latitude": 58.420556,
+        "longitude": -135.449167
       },
       "links_count": 2,
       "objectID": "7141"
@@ -33329,8 +33329,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PEC",
       "_geoloc": {
-        "lat": 57.955278,
-        "lng": -136.236389
+        "latitude": 57.955278,
+        "longitude": -136.236389
       },
       "links_count": 2,
       "objectID": "7138"
@@ -33341,8 +33341,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TKE",
       "_geoloc": {
-        "lat": 57.779722,
-        "lng": -135.218333
+        "latitude": 57.779722,
+        "longitude": -135.218333
       },
       "links_count": 2,
       "objectID": "7137"
@@ -33353,8 +33353,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ELV",
       "_geoloc": {
-        "lat": 58.195278,
-        "lng": -136.3475
+        "latitude": 58.195278,
+        "longitude": -136.3475
       },
       "links_count": 2,
       "objectID": "7136"
@@ -33365,8 +33365,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AGN",
       "_geoloc": {
-        "lat": 57.503611,
-        "lng": -134.585
+        "latitude": 57.503611,
+        "longitude": -134.585
       },
       "links_count": 2,
       "objectID": "7135"
@@ -33377,8 +33377,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCE",
       "_geoloc": {
-        "lat": 37.284722,
-        "lng": -120.513889
+        "latitude": 37.284722,
+        "longitude": -120.513889
       },
       "links_count": 2,
       "objectID": "7122"
@@ -33389,8 +33389,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VIS",
       "_geoloc": {
-        "lat": 36.318611,
-        "lng": -119.392778
+        "latitude": 36.318611,
+        "longitude": -119.392778
       },
       "links_count": 2,
       "objectID": "7121"
@@ -33401,8 +33401,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CXF",
       "_geoloc": {
-        "lat": 67.251389,
-        "lng": -150.176111
+        "latitude": 67.251389,
+        "longitude": -150.176111
       },
       "links_count": 2,
       "objectID": "7119"
@@ -33413,8 +33413,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KBC",
       "_geoloc": {
-        "lat": 66.256708,
-        "lng": -145.815319
+        "latitude": 66.256708,
+        "longitude": -145.815319
       },
       "links_count": 2,
       "objectID": "7118"
@@ -33425,8 +33425,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CEM",
       "_geoloc": {
-        "lat": 65.573889,
-        "lng": -144.780833
+        "latitude": 65.573889,
+        "longitude": -144.780833
       },
       "links_count": 2,
       "objectID": "7116"
@@ -33437,8 +33437,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RMP",
       "_geoloc": {
-        "lat": 65.507778,
-        "lng": -150.140833
+        "latitude": 65.507778,
+        "longitude": -150.140833
       },
       "links_count": 2,
       "objectID": "7112"
@@ -33449,8 +33449,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MNT",
       "_geoloc": {
-        "lat": 65.143611,
-        "lng": -149.37
+        "latitude": 65.143611,
+        "longitude": -149.37
       },
       "links_count": 2,
       "objectID": "7110"
@@ -33461,8 +33461,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KLL",
       "_geoloc": {
-        "lat": 59.128056,
-        "lng": -156.858611
+        "latitude": 59.128056,
+        "longitude": -156.858611
       },
       "links_count": 2,
       "objectID": "7102"
@@ -33473,8 +33473,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CHU",
       "_geoloc": {
-        "lat": 61.579167,
-        "lng": -159.215556
+        "latitude": 61.579167,
+        "longitude": -159.215556
       },
       "links_count": 2,
       "objectID": "7091"
@@ -33485,8 +33485,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ESD",
       "_geoloc": {
-        "lat": 48.708056,
-        "lng": -122.910556
+        "latitude": 48.708056,
+        "longitude": -122.910556
       },
       "links_count": 2,
       "objectID": "7083"
@@ -33497,8 +33497,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FRD",
       "_geoloc": {
-        "lat": 48.521944,
-        "lng": -123.024444
+        "latitude": 48.521944,
+        "longitude": -123.024444
       },
       "links_count": 2,
       "objectID": "7082"
@@ -33509,8 +33509,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VEL",
       "_geoloc": {
-        "lat": 40.440833,
-        "lng": -109.51
+        "latitude": 40.440833,
+        "longitude": -109.51
       },
       "links_count": 2,
       "objectID": "7076"
@@ -33521,8 +33521,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CNY",
       "_geoloc": {
-        "lat": 38.755,
-        "lng": -109.754722
+        "latitude": 38.755,
+        "longitude": -109.754722
       },
       "links_count": 2,
       "objectID": "7074"
@@ -33533,8 +33533,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OLF",
       "_geoloc": {
-        "lat": 48.094444,
-        "lng": -105.575
+        "latitude": 48.094444,
+        "longitude": -105.575
       },
       "links_count": 2,
       "objectID": "7071"
@@ -33545,8 +33545,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GDV",
       "_geoloc": {
-        "lat": 47.138611,
-        "lng": -104.807222
+        "latitude": 47.138611,
+        "longitude": -104.807222
       },
       "links_count": 2,
       "objectID": "7070"
@@ -33557,8 +33557,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MCK",
       "_geoloc": {
-        "lat": 40.206389,
-        "lng": -100.592222
+        "latitude": 40.206389,
+        "longitude": -100.592222
       },
       "links_count": 2,
       "objectID": "7068"
@@ -33569,8 +33569,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SDY",
       "_geoloc": {
-        "lat": 47.706944,
-        "lng": -104.1925
+        "latitude": 47.706944,
+        "longitude": -104.1925
       },
       "links_count": 2,
       "objectID": "7065"
@@ -33581,8 +33581,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MBL",
       "_geoloc": {
-        "lat": 44.2725,
-        "lng": -86.246944
+        "latitude": 44.2725,
+        "longitude": -86.246944
       },
       "links_count": 2,
       "objectID": "7054"
@@ -33593,8 +33593,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GUC",
       "_geoloc": {
-        "lat": 38.533889,
-        "lng": -106.933056
+        "latitude": 38.533889,
+        "longitude": -106.933056
       },
       "links_count": 2,
       "objectID": "7051"
@@ -33605,8 +33605,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "GDZ",
       "_geoloc": {
-        "lat": 44.566666666667,
-        "lng": 38.016666666667
+        "latitude": 44.566666666667,
+        "longitude": 38.016666666667
       },
       "links_count": 2,
       "objectID": "7041"
@@ -33617,8 +33617,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "KID",
       "_geoloc": {
-        "lat": 55.921686,
-        "lng": 14.085536
+        "latitude": 55.921686,
+        "longitude": 14.085536
       },
       "links_count": 2,
       "objectID": "703"
@@ -33629,8 +33629,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TVF",
       "_geoloc": {
-        "lat": 48.065556,
-        "lng": -96.185
+        "latitude": 48.065556,
+        "longitude": -96.185
       },
       "links_count": 2,
       "objectID": "7018"
@@ -33641,8 +33641,8 @@ const airports = [
       "country": "United States",
       "iata_code": "UST",
       "_geoloc": {
-        "lat": 29.959167,
-        "lng": -81.339722
+        "latitude": 29.959167,
+        "longitude": -81.339722
       },
       "links_count": 2,
       "objectID": "6989"
@@ -33653,8 +33653,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "IAR",
       "_geoloc": {
-        "lat": 57.560666676667,
-        "lng": 40.157369454444
+        "latitude": 57.560666676667,
+        "longitude": 40.157369454444
       },
       "links_count": 2,
       "objectID": "6940"
@@ -33665,8 +33665,8 @@ const airports = [
       "country": "Sweden",
       "iata_code": "THN",
       "_geoloc": {
-        "lat": 58.318056,
-        "lng": 12.345
+        "latitude": 58.318056,
+        "longitude": 12.345
       },
       "links_count": 2,
       "objectID": "693"
@@ -33677,8 +33677,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EAT",
       "_geoloc": {
-        "lat": 47.398,
-        "lng": -120.206
+        "latitude": 47.398,
+        "longitude": -120.206
       },
       "links_count": 2,
       "objectID": "6916"
@@ -33689,8 +33689,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PDT",
       "_geoloc": {
-        "lat": 45.695,
-        "lng": -118.841389
+        "latitude": 45.695,
+        "longitude": -118.841389
       },
       "links_count": 2,
       "objectID": "6883"
@@ -33701,8 +33701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RIW",
       "_geoloc": {
-        "lat": 43.064167,
-        "lng": -108.459722
+        "latitude": 43.064167,
+        "longitude": -108.459722
       },
       "links_count": 2,
       "objectID": "6881"
@@ -33713,8 +33713,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MTJ",
       "_geoloc": {
-        "lat": 38.509794,
-        "lng": -107.894242
+        "latitude": 38.509794,
+        "longitude": -107.894242
       },
       "links_count": 2,
       "objectID": "6880"
@@ -33725,8 +33725,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MWA",
       "_geoloc": {
-        "lat": 37.7549569,
-        "lng": -89.0110936
+        "latitude": 37.7549569,
+        "longitude": -89.0110936
       },
       "links_count": 2,
       "objectID": "6825"
@@ -33737,8 +33737,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "CPX",
       "_geoloc": {
-        "lat": 18.3127,
-        "lng": -65.3034
+        "latitude": 18.3127,
+        "longitude": -65.3034
       },
       "links_count": 2,
       "objectID": "6814"
@@ -33749,8 +33749,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ESC",
       "_geoloc": {
-        "lat": 45.722778,
-        "lng": -87.093611
+        "latitude": 45.722778,
+        "longitude": -87.093611
       },
       "links_count": 2,
       "objectID": "6800"
@@ -33761,8 +33761,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "OAG",
       "_geoloc": {
-        "lat": -33.3817,
-        "lng": 149.133
+        "latitude": -33.3817,
+        "longitude": 149.133
       },
       "links_count": 2,
       "objectID": "6793"
@@ -33773,8 +33773,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "GFN",
       "_geoloc": {
-        "lat": -29.7594,
-        "lng": 153.03
+        "latitude": -29.7594,
+        "longitude": 153.03
       },
       "links_count": 2,
       "objectID": "6792"
@@ -33785,8 +33785,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "HDM",
       "_geoloc": {
-        "lat": 34.869167,
-        "lng": 48.5525
+        "latitude": 34.869167,
+        "longitude": 48.5525
       },
       "links_count": 2,
       "objectID": "6790"
@@ -33797,8 +33797,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "TEQ",
       "_geoloc": {
-        "lat": 41.13825,
-        "lng": 27.919094
+        "latitude": 41.13825,
+        "longitude": 27.919094
       },
       "links_count": 2,
       "objectID": "6784"
@@ -33809,8 +33809,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "SIC",
       "_geoloc": {
-        "lat": 42.0158,
-        "lng": 35.0664
+        "latitude": 42.0158,
+        "longitude": 35.0664
       },
       "links_count": 2,
       "objectID": "6783"
@@ -33821,8 +33821,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "CKZ",
       "_geoloc": {
-        "lat": 40.137722,
-        "lng": 26.426777
+        "latitude": 40.137722,
+        "longitude": 26.426777
       },
       "links_count": 2,
       "objectID": "6781"
@@ -33833,8 +33833,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "AOE",
       "_geoloc": {
-        "lat": 39.809858,
-        "lng": 30.519378
+        "latitude": 39.809858,
+        "longitude": 30.519378
       },
       "links_count": 2,
       "objectID": "6780"
@@ -33845,8 +33845,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "WLH",
       "_geoloc": {
-        "lat": -15.412,
-        "lng": 167.691
+        "latitude": -15.412,
+        "longitude": 167.691
       },
       "links_count": 2,
       "objectID": "6771"
@@ -33857,8 +33857,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "TGC",
       "_geoloc": {
-        "lat": 2.17784,
-        "lng": 111.202
+        "latitude": 2.17784,
+        "longitude": 111.202
       },
       "links_count": 2,
       "objectID": "6770"
@@ -33869,8 +33869,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TOG",
       "_geoloc": {
-        "lat": 59.0528,
-        "lng": -160.397
+        "latitude": 59.0528,
+        "longitude": -160.397
       },
       "links_count": 2,
       "objectID": "6767"
@@ -33881,8 +33881,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PTH",
       "_geoloc": {
-        "lat": 56.9591,
-        "lng": -158.633
+        "latitude": 56.9591,
+        "longitude": -158.633
       },
       "links_count": 2,
       "objectID": "6766"
@@ -33893,8 +33893,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KVC",
       "_geoloc": {
-        "lat": 55.1163,
-        "lng": -162.266
+        "latitude": 55.1163,
+        "longitude": -162.266
       },
       "links_count": 2,
       "objectID": "6765"
@@ -33905,8 +33905,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IGG",
       "_geoloc": {
-        "lat": 59.324,
-        "lng": -155.902
+        "latitude": 59.324,
+        "longitude": -155.902
       },
       "links_count": 2,
       "objectID": "6763"
@@ -33917,8 +33917,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "RGS",
       "_geoloc": {
-        "lat": 42.357628,
-        "lng": -3.620764
+        "latitude": 42.357628,
+        "longitude": -3.620764
       },
       "links_count": 2,
       "objectID": "6757"
@@ -33929,8 +33929,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "LEN",
       "_geoloc": {
-        "lat": 42.589,
-        "lng": -5.655556
+        "latitude": 42.589,
+        "longitude": -5.655556
       },
       "links_count": 2,
       "objectID": "6756"
@@ -33941,8 +33941,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "LGQ",
       "_geoloc": {
-        "lat": 0.093056,
-        "lng": -76.8675
+        "latitude": 0.093056,
+        "longitude": -76.8675
       },
       "links_count": 2,
       "objectID": "6750"
@@ -33953,8 +33953,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "PFQ",
       "_geoloc": {
-        "lat": 39.603606,
-        "lng": 47.8815
+        "latitude": 39.603606,
+        "longitude": 47.8815
       },
       "links_count": 2,
       "objectID": "6749"
@@ -33965,8 +33965,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "IIL",
       "_geoloc": {
-        "lat": 33.586606,
-        "lng": 46.404842
+        "latitude": 33.586606,
+        "longitude": 46.404842
       },
       "links_count": 2,
       "objectID": "6748"
@@ -33977,8 +33977,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "GVR",
       "_geoloc": {
-        "lat": -18.8952,
-        "lng": -41.9822
+        "latitude": -18.8952,
+        "longitude": -41.9822
       },
       "links_count": 2,
       "objectID": "6735"
@@ -33989,8 +33989,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KVK",
       "_geoloc": {
-        "lat": 67.4633,
-        "lng": 33.5883
+        "latitude": 67.4633,
+        "longitude": 33.5883
       },
       "links_count": 2,
       "objectID": "6734"
@@ -34001,8 +34001,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CYZ",
       "_geoloc": {
-        "lat": 16.929861,
-        "lng": 121.753036
+        "latitude": 16.929861,
+        "longitude": 121.753036
       },
       "links_count": 2,
       "objectID": "6733"
@@ -34013,8 +34013,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ARC",
       "_geoloc": {
-        "lat": 68.1147,
-        "lng": -145.579
+        "latitude": 68.1147,
+        "longitude": -145.579
       },
       "links_count": 2,
       "objectID": "6729"
@@ -34025,8 +34025,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MYU",
       "_geoloc": {
-        "lat": 60.3714,
-        "lng": -166.271
+        "latitude": 60.3714,
+        "longitude": -166.271
       },
       "links_count": 2,
       "objectID": "6720"
@@ -34037,8 +34037,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "SKE",
       "_geoloc": {
-        "lat": 59.185,
-        "lng": 9.566944
+        "latitude": 59.185,
+        "longitude": 9.566944
       },
       "links_count": 2,
       "objectID": "659"
@@ -34049,8 +34049,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "RRS",
       "_geoloc": {
-        "lat": 62.578411,
-        "lng": 11.342347
+        "latitude": 62.578411,
+        "longitude": 11.342347
       },
       "links_count": 2,
       "objectID": "656"
@@ -34061,8 +34061,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "OLA",
       "_geoloc": {
-        "lat": 63.698908,
-        "lng": 9.604003
+        "latitude": 63.698908,
+        "longitude": 9.604003
       },
       "links_count": 2,
       "objectID": "655"
@@ -34073,8 +34073,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "TBW",
       "_geoloc": {
-        "lat": 52.81,
-        "lng": 41.48
+        "latitude": 52.81,
+        "longitude": 41.48
       },
       "links_count": 2,
       "objectID": "6466"
@@ -34085,8 +34085,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PVC",
       "_geoloc": {
-        "lat": 42.071945,
-        "lng": -70.22139
+        "latitude": 42.071945,
+        "longitude": -70.22139
       },
       "links_count": 2,
       "objectID": "6456"
@@ -34097,8 +34097,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BLD",
       "_geoloc": {
-        "lat": 35.5651,
-        "lng": -114.514
+        "latitude": 35.5651,
+        "longitude": -114.514
       },
       "links_count": 2,
       "objectID": "6449"
@@ -34109,8 +34109,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GCW",
       "_geoloc": {
-        "lat": 35.5925,
-        "lng": -113.4859
+        "latitude": 35.5925,
+        "longitude": -113.4859
       },
       "links_count": 2,
       "objectID": "6448"
@@ -34121,8 +34121,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "VDB",
       "_geoloc": {
-        "lat": 61.015556,
-        "lng": 9.288056
+        "latitude": 61.015556,
+        "longitude": 9.288056
       },
       "links_count": 2,
       "objectID": "642"
@@ -34133,8 +34133,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "BDU",
       "_geoloc": {
-        "lat": 69.055758,
-        "lng": 18.540356
+        "latitude": 69.055758,
+        "longitude": 18.540356
       },
       "links_count": 2,
       "objectID": "640"
@@ -34145,8 +34145,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "HVD",
       "_geoloc": {
-        "lat": 47.9541,
-        "lng": 91.6282
+        "latitude": 47.9541,
+        "longitude": 91.6282
       },
       "links_count": 2,
       "objectID": "6373"
@@ -34157,8 +34157,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "LTI",
       "_geoloc": {
-        "lat": 46.3764,
-        "lng": 96.2211
+        "latitude": 46.3764,
+        "longitude": 96.2211
       },
       "links_count": 2,
       "objectID": "6370"
@@ -34169,8 +34169,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "WYA",
       "_geoloc": {
-        "lat": -33.0589,
-        "lng": 137.514
+        "latitude": -33.0589,
+        "longitude": 137.514
       },
       "links_count": 2,
       "objectID": "6334"
@@ -34181,8 +34181,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "XTG",
       "_geoloc": {
-        "lat": -27.9864,
-        "lng": 143.811
+        "latitude": -27.9864,
+        "longitude": 143.811
       },
       "links_count": 2,
       "objectID": "6329"
@@ -34193,8 +34193,8 @@ const airports = [
       "country": "Cocos (Keeling) Islands",
       "iata_code": "CCK",
       "_geoloc": {
-        "lat": -12.1883,
-        "lng": 96.8339
+        "latitude": -12.1883,
+        "longitude": 96.8339
       },
       "links_count": 2,
       "objectID": "6315"
@@ -34205,8 +34205,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PUG",
       "_geoloc": {
-        "lat": -32.506944,
-        "lng": 137.716667
+        "latitude": -32.506944,
+        "longitude": 137.716667
       },
       "links_count": 2,
       "objectID": "6312"
@@ -34217,8 +34217,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "OLP",
       "_geoloc": {
-        "lat": -30.485,
-        "lng": 136.877
+        "latitude": -30.485,
+        "longitude": 136.877
       },
       "links_count": 2,
       "objectID": "6311"
@@ -34229,8 +34229,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MRZ",
       "_geoloc": {
-        "lat": -29.4989,
-        "lng": 149.845
+        "latitude": -29.4989,
+        "longitude": 149.845
       },
       "links_count": 2,
       "objectID": "6300"
@@ -34241,8 +34241,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MCV",
       "_geoloc": {
-        "lat": -16.4425,
-        "lng": 136.084
+        "latitude": -16.4425,
+        "longitude": 136.084
       },
       "links_count": 2,
       "objectID": "6297"
@@ -34253,8 +34253,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MGT",
       "_geoloc": {
-        "lat": -12.0944,
-        "lng": 134.894
+        "latitude": -12.0944,
+        "longitude": 134.894
       },
       "links_count": 2,
       "objectID": "6295"
@@ -34265,8 +34265,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "LSY",
       "_geoloc": {
-        "lat": -28.8303,
-        "lng": 153.26
+        "latitude": -28.8303,
+        "longitude": 153.26
       },
       "links_count": 2,
       "objectID": "6287"
@@ -34277,8 +34277,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "HID",
       "_geoloc": {
-        "lat": -10.5864,
-        "lng": 142.29
+        "latitude": -10.5864,
+        "longitude": 142.29
       },
       "links_count": 2,
       "objectID": "6272"
@@ -34289,8 +34289,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ELC",
       "_geoloc": {
-        "lat": -12.0194,
-        "lng": 135.571
+        "latitude": -12.0194,
+        "longitude": 135.571
       },
       "links_count": 2,
       "objectID": "6265"
@@ -34301,8 +34301,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "DPO",
       "_geoloc": {
-        "lat": -41.1697,
-        "lng": 146.43
+        "latitude": -41.1697,
+        "longitude": 146.43
       },
       "links_count": 2,
       "objectID": "6264"
@@ -34313,8 +34313,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CED",
       "_geoloc": {
-        "lat": -32.1306,
-        "lng": 133.71
+        "latitude": -32.1306,
+        "longitude": 133.71
       },
       "links_count": 2,
       "objectID": "6256"
@@ -34325,8 +34325,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "CPD",
       "_geoloc": {
-        "lat": -29.04,
-        "lng": 134.721
+        "latitude": -29.04,
+        "longitude": 134.721
       },
       "links_count": 2,
       "objectID": "6253"
@@ -34337,8 +34337,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "BCI",
       "_geoloc": {
-        "lat": -23.5653,
-        "lng": 145.307
+        "latitude": -23.5653,
+        "longitude": 145.307
       },
       "links_count": 2,
       "objectID": "6238"
@@ -34349,8 +34349,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "NTX",
       "_geoloc": {
-        "lat": 3.908714,
-        "lng": 108.387897
+        "latitude": 3.908714,
+        "longitude": 108.387897
       },
       "links_count": 2,
       "objectID": "6225"
@@ -34361,8 +34361,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "BKM",
       "_geoloc": {
-        "lat": 3.974,
-        "lng": 115.618
+        "latitude": 3.974,
+        "longitude": 115.618
       },
       "links_count": 2,
       "objectID": "6218"
@@ -34373,8 +34373,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "KAW",
       "_geoloc": {
-        "lat": 10.049258,
-        "lng": 98.538006
+        "latitude": 10.049258,
+        "longitude": 98.538006
       },
       "links_count": 2,
       "objectID": "6198"
@@ -34385,8 +34385,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "DIN",
       "_geoloc": {
-        "lat": 21.397481,
-        "lng": 103.007831
+        "latitude": 21.397481,
+        "longitude": 103.007831
       },
       "links_count": 2,
       "objectID": "6192"
@@ -34397,8 +34397,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "SGD",
       "_geoloc": {
-        "lat": 54.964367,
-        "lng": 9.791731
+        "latitude": 54.964367,
+        "longitude": 9.791731
       },
       "links_count": 2,
       "objectID": "619"
@@ -34409,8 +34409,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "MAQ",
       "_geoloc": {
-        "lat": 16.699856,
-        "lng": 98.545056
+        "latitude": 16.699856,
+        "longitude": 98.545056
       },
       "links_count": 2,
       "objectID": "6186"
@@ -34421,8 +34421,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "KEP",
       "_geoloc": {
-        "lat": 28.103633,
-        "lng": 81.667006
+        "latitude": 28.103633,
+        "longitude": 81.667006
       },
       "links_count": 2,
       "objectID": "6182"
@@ -34433,8 +34433,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "BDP",
       "_geoloc": {
-        "lat": 26.570822,
-        "lng": 88.079578
+        "latitude": 26.570822,
+        "longitude": 88.079578
       },
       "links_count": 2,
       "objectID": "6180"
@@ -34445,8 +34445,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "RNN",
       "_geoloc": {
-        "lat": 55.063267,
-        "lng": 14.759558
+        "latitude": 55.063267,
+        "longitude": 14.759558
       },
       "links_count": 2,
       "objectID": "618"
@@ -34457,8 +34457,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "BHR",
       "_geoloc": {
-        "lat": 27.6781,
-        "lng": 84.4294
+        "latitude": 27.6781,
+        "longitude": 84.4294
       },
       "links_count": 2,
       "objectID": "6179"
@@ -34469,8 +34469,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "BZL",
       "_geoloc": {
-        "lat": 22.801,
-        "lng": 90.3012
+        "latitude": 22.801,
+        "longitude": 90.3012
       },
       "links_count": 2,
       "objectID": "6176"
@@ -34481,8 +34481,8 @@ const airports = [
       "country": "India",
       "iata_code": "SHL",
       "_geoloc": {
-        "lat": 25.7036,
-        "lng": 91.9787
+        "latitude": 25.7036,
+        "longitude": 91.9787
       },
       "links_count": 2,
       "objectID": "6172"
@@ -34493,8 +34493,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PEZ",
       "_geoloc": {
-        "lat": 53.1106,
-        "lng": 45.0211
+        "latitude": 53.1106,
+        "longitude": 45.0211
       },
       "links_count": 2,
       "objectID": "6165"
@@ -34505,8 +34505,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OSW",
       "_geoloc": {
-        "lat": 51.0725,
-        "lng": 58.5956
+        "latitude": 51.0725,
+        "longitude": 58.5956
       },
       "links_count": 2,
       "objectID": "6164"
@@ -34517,8 +34517,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "URS",
       "_geoloc": {
-        "lat": 51.7506,
-        "lng": 36.2956
+        "latitude": 51.7506,
+        "longitude": 36.2956
       },
       "links_count": 2,
       "objectID": "6157"
@@ -34529,8 +34529,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LPS",
       "_geoloc": {
-        "lat": 48.4839,
-        "lng": -122.938
+        "latitude": 48.4839,
+        "longitude": -122.938
       },
       "links_count": 2,
       "objectID": "6136"
@@ -34541,8 +34541,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SVC",
       "_geoloc": {
-        "lat": 32.6365,
-        "lng": -108.156
+        "latitude": 32.6365,
+        "longitude": -108.156
       },
       "links_count": 2,
       "objectID": "6135"
@@ -34553,8 +34553,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KQA",
       "_geoloc": {
-        "lat": 54.1325,
-        "lng": -165.785
+        "latitude": 54.1325,
+        "longitude": -165.785
       },
       "links_count": 2,
       "objectID": "6134"
@@ -34565,8 +34565,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GLH",
       "_geoloc": {
-        "lat": 33.4829,
-        "lng": -90.9856
+        "latitude": 33.4829,
+        "longitude": -90.9856
       },
       "links_count": 2,
       "objectID": "6130"
@@ -34577,8 +34577,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EAR",
       "_geoloc": {
-        "lat": 40.727,
-        "lng": -99.0068
+        "latitude": 40.727,
+        "longitude": -99.0068
       },
       "links_count": 2,
       "objectID": "6129"
@@ -34589,8 +34589,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "ESL",
       "_geoloc": {
-        "lat": 46.3739,
-        "lng": 44.3309
+        "latitude": 46.3739,
+        "longitude": 44.3309
       },
       "links_count": 2,
       "objectID": "6125"
@@ -34601,8 +34601,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "OGZ",
       "_geoloc": {
-        "lat": 43.2051,
-        "lng": 44.6066
+        "latitude": 43.2051,
+        "longitude": 44.6066
       },
       "links_count": 2,
       "objectID": "6124"
@@ -34613,8 +34613,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "GRV",
       "_geoloc": {
-        "lat": 43.2981,
-        "lng": 45.7841
+        "latitude": 43.2981,
+        "longitude": 45.7841
       },
       "links_count": 2,
       "objectID": "6122"
@@ -34625,8 +34625,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "IAA",
       "_geoloc": {
-        "lat": 67.4372,
-        "lng": 86.6219
+        "latitude": 67.4372,
+        "longitude": 86.6219
       },
       "links_count": 2,
       "objectID": "6121"
@@ -34637,8 +34637,8 @@ const airports = [
       "country": "Denmark",
       "iata_code": "KRP",
       "_geoloc": {
-        "lat": 56.297458,
-        "lng": 9.124628
+        "latitude": 56.297458,
+        "longitude": 9.124628
       },
       "links_count": 2,
       "objectID": "612"
@@ -34649,8 +34649,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KYZ",
       "_geoloc": {
-        "lat": 51.6694,
-        "lng": 94.4006
+        "latitude": 51.6694,
+        "longitude": 94.4006
       },
       "links_count": 2,
       "objectID": "6118"
@@ -34661,8 +34661,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PES",
       "_geoloc": {
-        "lat": 61.8852,
-        "lng": 34.1547
+        "latitude": 61.8852,
+        "longitude": 34.1547
       },
       "links_count": 2,
       "objectID": "6114"
@@ -34673,8 +34673,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "CSH",
       "_geoloc": {
-        "lat": 65.03,
-        "lng": 35.7333
+        "latitude": 65.03,
+        "longitude": 35.7333
       },
       "links_count": 2,
       "objectID": "6110"
@@ -34685,8 +34685,8 @@ const airports = [
       "country": "Ukraine",
       "iata_code": "UDJ",
       "_geoloc": {
-        "lat": 48.634278,
-        "lng": 22.263356
+        "latitude": 48.634278,
+        "longitude": 22.263356
       },
       "links_count": 2,
       "objectID": "6109"
@@ -34697,8 +34697,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGK",
       "_geoloc": {
-        "lat": 44.225277,
-        "lng": -76.596944
+        "latitude": 44.225277,
+        "longitude": -76.596944
       },
       "links_count": 2,
       "objectID": "61"
@@ -34709,8 +34709,8 @@ const airports = [
       "country": "Azerbaijan",
       "iata_code": "NAJ",
       "_geoloc": {
-        "lat": 39.1888,
-        "lng": 45.4584
+        "latitude": 39.1888,
+        "longitude": 45.4584
       },
       "links_count": 2,
       "objectID": "6090"
@@ -34721,8 +34721,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SRA",
       "_geoloc": {
-        "lat": -27.9067,
-        "lng": -54.5204
+        "latitude": -27.9067,
+        "longitude": -54.5204
       },
       "links_count": 2,
       "objectID": "6069"
@@ -34733,8 +34733,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "RIB",
       "_geoloc": {
-        "lat": -11.0,
-        "lng": -66.0
+        "latitude": -11.0,
+        "longitude": -66.0
       },
       "links_count": 2,
       "objectID": "6058"
@@ -34745,8 +34745,8 @@ const airports = [
       "country": "Bolivia",
       "iata_code": "GYA",
       "_geoloc": {
-        "lat": -10.8206,
-        "lng": -65.3456
+        "latitude": -10.8206,
+        "longitude": -65.3456
       },
       "links_count": 2,
       "objectID": "6056"
@@ -34757,8 +34757,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "NQU",
       "_geoloc": {
-        "lat": 5.7,
-        "lng": -77.28
+        "latitude": 5.7,
+        "longitude": -77.28
       },
       "links_count": 2,
       "objectID": "6053"
@@ -34769,8 +34769,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "LPD",
       "_geoloc": {
-        "lat": -1.33,
-        "lng": -69.58
+        "latitude": -1.33,
+        "longitude": -69.58
       },
       "links_count": 2,
       "objectID": "6052"
@@ -34781,8 +34781,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "LQM",
       "_geoloc": {
-        "lat": -0.18,
-        "lng": -74.77
+        "latitude": -0.18,
+        "longitude": -74.77
       },
       "links_count": 2,
       "objectID": "6051"
@@ -34793,8 +34793,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "LEC",
       "_geoloc": {
-        "lat": -12.4823,
-        "lng": -41.277
+        "latitude": -12.4823,
+        "longitude": -41.277
       },
       "links_count": 2,
       "objectID": "6036"
@@ -34805,8 +34805,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "MBT",
       "_geoloc": {
-        "lat": 12.3694,
-        "lng": 123.629
+        "latitude": 12.3694,
+        "longitude": 123.629
       },
       "links_count": 2,
       "objectID": "6025"
@@ -34817,8 +34817,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CYP",
       "_geoloc": {
-        "lat": 12.072706,
-        "lng": 124.545092
+        "latitude": 12.072706,
+        "longitude": 124.545092
       },
       "links_count": 2,
       "objectID": "6023"
@@ -34829,8 +34829,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "VRC",
       "_geoloc": {
-        "lat": 13.576439,
-        "lng": 124.205672
+        "latitude": 13.576439,
+        "longitude": 124.205672
       },
       "links_count": 2,
       "objectID": "6022"
@@ -34841,8 +34841,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "JOL",
       "_geoloc": {
-        "lat": 6.05367,
-        "lng": 121.011
+        "latitude": 6.05367,
+        "longitude": 121.011
       },
       "links_count": 2,
       "objectID": "6013"
@@ -34853,8 +34853,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "CGM",
       "_geoloc": {
-        "lat": 9.25352,
-        "lng": 124.707
+        "latitude": 9.25352,
+        "longitude": 124.707
       },
       "links_count": 2,
       "objectID": "6012"
@@ -34865,8 +34865,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "YNY",
       "_geoloc": {
-        "lat": 38.061311,
-        "lng": 128.669164
+        "latitude": 38.061311,
+        "longitude": 128.669164
       },
       "links_count": 2,
       "objectID": "6006"
@@ -34877,8 +34877,8 @@ const airports = [
       "country": "South Korea",
       "iata_code": "WJU",
       "_geoloc": {
-        "lat": 37.438081,
-        "lng": 127.960383
+        "latitude": 37.438081,
+        "longitude": 127.960383
       },
       "links_count": 2,
       "objectID": "6005"
@@ -34889,8 +34889,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "SYO",
       "_geoloc": {
-        "lat": 38.812222,
-        "lng": 139.787222
+        "latitude": 38.812222,
+        "longitude": 139.787222
       },
       "links_count": 2,
       "objectID": "6001"
@@ -34901,8 +34901,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "ONJ",
       "_geoloc": {
-        "lat": 40.1919,
-        "lng": 140.371
+        "latitude": 40.1919,
+        "longitude": 140.371
       },
       "links_count": 2,
       "objectID": "6000"
@@ -34913,8 +34913,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "IWJ",
       "_geoloc": {
-        "lat": 34.6764,
-        "lng": 131.79
+        "latitude": 34.6764,
+        "longitude": 131.79
       },
       "links_count": 2,
       "objectID": "5998"
@@ -34925,8 +34925,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "LSA",
       "_geoloc": {
-        "lat": -8.50582,
-        "lng": 151.081
+        "latitude": -8.50582,
+        "longitude": 151.081
       },
       "links_count": 2,
       "objectID": "5980"
@@ -34937,8 +34937,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ADK",
       "_geoloc": {
-        "lat": 51.878,
-        "lng": -176.646
+        "latitude": 51.878,
+        "longitude": -176.646
       },
       "links_count": 2,
       "objectID": "5959"
@@ -34949,8 +34949,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "SAX",
       "_geoloc": {
-        "lat": 8.017,
-        "lng": -78.2
+        "latitude": 8.017,
+        "longitude": -78.2
       },
       "links_count": 2,
       "objectID": "5958"
@@ -34961,8 +34961,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "OTD",
       "_geoloc": {
-        "lat": 8.62876,
-        "lng": -79.0347
+        "latitude": 8.62876,
+        "longitude": -79.0347
       },
       "links_count": 2,
       "objectID": "5957"
@@ -34973,8 +34973,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "BFQ",
       "_geoloc": {
-        "lat": 7.583,
-        "lng": -78.2
+        "latitude": 7.583,
+        "longitude": -78.2
       },
       "links_count": 2,
       "objectID": "5955"
@@ -34985,8 +34985,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "KDU",
       "_geoloc": {
-        "lat": 35.335508,
-        "lng": 75.536047
+        "latitude": 35.335508,
+        "longitude": 75.536047
       },
       "links_count": 2,
       "objectID": "5949"
@@ -34997,8 +34997,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "DBA",
       "_geoloc": {
-        "lat": 28.8783,
-        "lng": 64.3998
+        "latitude": 28.8783,
+        "longitude": 64.3998
       },
       "links_count": 2,
       "objectID": "5941"
@@ -35009,8 +35009,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "AFZ",
       "_geoloc": {
-        "lat": 36.168083,
-        "lng": 57.595183
+        "latitude": 36.168083,
+        "longitude": 57.595183
       },
       "links_count": 2,
       "objectID": "5931"
@@ -35021,8 +35021,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "BJB",
       "_geoloc": {
-        "lat": 37.492958,
-        "lng": 57.308219
+        "latitude": 37.492958,
+        "longitude": 57.308219
       },
       "links_count": 2,
       "objectID": "5930"
@@ -35033,8 +35033,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "BXR",
       "_geoloc": {
-        "lat": 29.084169,
-        "lng": 58.450042
+        "latitude": 29.084169,
+        "longitude": 58.450042
       },
       "links_count": 2,
       "objectID": "5928"
@@ -35045,8 +35045,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "KHD",
       "_geoloc": {
-        "lat": 33.435378,
-        "lng": 48.282889
+        "latitude": 33.435378,
+        "longitude": 48.282889
       },
       "links_count": 2,
       "objectID": "5927"
@@ -35057,8 +35057,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "ILP",
       "_geoloc": {
-        "lat": -22.5889,
-        "lng": 167.456
+        "latitude": -22.5889,
+        "longitude": 167.456
       },
       "links_count": 2,
       "objectID": "5921"
@@ -35069,8 +35069,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "AUY",
       "_geoloc": {
-        "lat": -20.2492,
-        "lng": 169.771
+        "latitude": -20.2492,
+        "longitude": 169.771
       },
       "links_count": 2,
       "objectID": "5914"
@@ -35081,8 +35081,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "VLS",
       "_geoloc": {
-        "lat": -16.7961,
-        "lng": 168.177
+        "latitude": -16.7961,
+        "longitude": 168.177
       },
       "links_count": 2,
       "objectID": "5911"
@@ -35093,8 +35093,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "TGH",
       "_geoloc": {
-        "lat": -16.8911,
-        "lng": 168.551
+        "latitude": -16.8911,
+        "longitude": 168.551
       },
       "links_count": 2,
       "objectID": "5909"
@@ -35105,8 +35105,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "MWF",
       "_geoloc": {
-        "lat": -15.0,
-        "lng": 168.083
+        "latitude": -15.0,
+        "longitude": 168.083
       },
       "links_count": 2,
       "objectID": "5903"
@@ -35117,8 +35117,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "SSR",
       "_geoloc": {
-        "lat": -15.4708,
-        "lng": 168.152
+        "latitude": -15.4708,
+        "longitude": 168.152
       },
       "links_count": 2,
       "objectID": "5899"
@@ -35129,8 +35129,8 @@ const airports = [
       "country": "Vanuatu",
       "iata_code": "EAE",
       "_geoloc": {
-        "lat": -17.0903,
-        "lng": 168.343
+        "latitude": -17.0903,
+        "longitude": 168.343
       },
       "links_count": 2,
       "objectID": "5896"
@@ -35141,8 +35141,8 @@ const airports = [
       "country": "Wallis and Futuna",
       "iata_code": "FUT",
       "_geoloc": {
-        "lat": -14.3114,
-        "lng": -178.066
+        "latitude": -14.3114,
+        "longitude": -178.066
       },
       "links_count": 2,
       "objectID": "5885"
@@ -35153,8 +35153,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "VBV",
       "_geoloc": {
-        "lat": -17.269,
-        "lng": -178.976
+        "latitude": -17.269,
+        "longitude": -178.976
       },
       "links_count": 2,
       "objectID": "5883"
@@ -35165,8 +35165,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "RTA",
       "_geoloc": {
-        "lat": -12.4825,
-        "lng": 177.071
+        "latitude": -12.4825,
+        "longitude": 177.071
       },
       "links_count": 2,
       "objectID": "5877"
@@ -35177,8 +35177,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "LKB",
       "_geoloc": {
-        "lat": -18.1992,
-        "lng": -178.817
+        "latitude": -18.1992,
+        "longitude": -178.817
       },
       "links_count": 2,
       "objectID": "5873"
@@ -35189,8 +35189,8 @@ const airports = [
       "country": "Fiji",
       "iata_code": "ICI",
       "_geoloc": {
-        "lat": -17.7433,
-        "lng": -179.342
+        "latitude": -17.7433,
+        "longitude": -179.342
       },
       "links_count": 2,
       "objectID": "5867"
@@ -35201,8 +35201,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "MOI",
       "_geoloc": {
-        "lat": -19.8425,
-        "lng": -157.703
+        "latitude": -19.8425,
+        "longitude": -157.703
       },
       "links_count": 2,
       "objectID": "5865"
@@ -35213,8 +35213,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "MUK",
       "_geoloc": {
-        "lat": -20.1361,
-        "lng": -157.345
+        "latitude": -20.1361,
+        "longitude": -157.345
       },
       "links_count": 2,
       "objectID": "5864"
@@ -35225,8 +35225,8 @@ const airports = [
       "country": "Cook Islands",
       "iata_code": "MGS",
       "_geoloc": {
-        "lat": -21.8956,
-        "lng": -157.905
+        "latitude": -21.8956,
+        "longitude": -157.905
       },
       "links_count": 2,
       "objectID": "5862"
@@ -35237,8 +35237,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LBP",
       "_geoloc": {
-        "lat": 3.18495,
-        "lng": 115.454
+        "latitude": 3.18495,
+        "longitude": 115.454
       },
       "links_count": 2,
       "objectID": "5855"
@@ -35249,8 +35249,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "SYQ",
       "_geoloc": {
-        "lat": 9.957053,
-        "lng": -84.139797
+        "latitude": 9.957053,
+        "longitude": -84.139797
       },
       "links_count": 2,
       "objectID": "5848"
@@ -35261,8 +35261,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "TTQ",
       "_geoloc": {
-        "lat": 10.569,
-        "lng": -83.5148
+        "latitude": 10.569,
+        "longitude": -83.5148
       },
       "links_count": 2,
       "objectID": "5842"
@@ -35273,8 +35273,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "JQE",
       "_geoloc": {
-        "lat": 7.51778,
-        "lng": -78.1572
+        "latitude": 7.51778,
+        "longitude": -78.1572
       },
       "links_count": 2,
       "objectID": "5840"
@@ -35285,8 +35285,8 @@ const airports = [
       "country": "Turks and Caicos Islands",
       "iata_code": "SLX",
       "_geoloc": {
-        "lat": 21.333,
-        "lng": -71.2
+        "latitude": 21.333,
+        "longitude": -71.2
       },
       "links_count": 2,
       "objectID": "5809"
@@ -35297,8 +35297,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "QUB",
       "_geoloc": {
-        "lat": 26.5675,
-        "lng": 12.8231
+        "latitude": 26.5675,
+        "longitude": 12.8231
       },
       "links_count": 2,
       "objectID": "5805"
@@ -35309,8 +35309,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "EDO",
       "_geoloc": {
-        "lat": 39.5546,
-        "lng": 27.0138
+        "latitude": 39.5546,
+        "longitude": 27.0138
       },
       "links_count": 2,
       "objectID": "5802"
@@ -35321,8 +35321,8 @@ const airports = [
       "country": "Turkey",
       "iata_code": "ISE",
       "_geoloc": {
-        "lat": 37.8554,
-        "lng": 30.3684
+        "latitude": 37.8554,
+        "longitude": 30.3684
       },
       "links_count": 2,
       "objectID": "5801"
@@ -35333,8 +35333,8 @@ const airports = [
       "country": "Falkland Islands",
       "iata_code": "MPN",
       "_geoloc": {
-        "lat": -51.822777,
-        "lng": -58.447222
+        "latitude": -51.822777,
+        "longitude": -58.447222
       },
       "links_count": 2,
       "objectID": "579"
@@ -35345,8 +35345,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "RJL",
       "_geoloc": {
-        "lat": 42.4542,
-        "lng": -2.32083
+        "latitude": 42.4542,
+        "longitude": -2.32083
       },
       "links_count": 2,
       "objectID": "5781"
@@ -35357,8 +35357,8 @@ const airports = [
       "country": "United States",
       "iata_code": "YKM",
       "_geoloc": {
-        "lat": 46.5682,
-        "lng": -120.544
+        "latitude": 46.5682,
+        "longitude": -120.544
       },
       "links_count": 2,
       "objectID": "5779"
@@ -35369,8 +35369,8 @@ const airports = [
       "country": "United States",
       "iata_code": "VCT",
       "_geoloc": {
-        "lat": 28.8526,
-        "lng": -96.9185
+        "latitude": 28.8526,
+        "longitude": -96.9185
       },
       "links_count": 2,
       "objectID": "5775"
@@ -35381,8 +35381,8 @@ const airports = [
       "country": "United States",
       "iata_code": "UIN",
       "_geoloc": {
-        "lat": 39.9427,
-        "lng": -91.1946
+        "latitude": 39.9427,
+        "longitude": -91.1946
       },
       "links_count": 2,
       "objectID": "5774"
@@ -35393,8 +35393,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SLN",
       "_geoloc": {
-        "lat": 38.791,
-        "lng": -97.6522
+        "latitude": 38.791,
+        "longitude": -97.6522
       },
       "links_count": 2,
       "objectID": "5771"
@@ -35405,8 +35405,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SLK",
       "_geoloc": {
-        "lat": 44.3853,
-        "lng": -74.2062
+        "latitude": 44.3853,
+        "longitude": -74.2062
       },
       "links_count": 2,
       "objectID": "5770"
@@ -35417,8 +35417,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SHR",
       "_geoloc": {
-        "lat": 44.7692,
-        "lng": -106.98
+        "latitude": 44.7692,
+        "longitude": -106.98
       },
       "links_count": 2,
       "objectID": "5769"
@@ -35429,8 +35429,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RUT",
       "_geoloc": {
-        "lat": 43.5294,
-        "lng": -72.9496
+        "latitude": 43.5294,
+        "longitude": -72.9496
       },
       "links_count": 2,
       "objectID": "5767"
@@ -35441,8 +35441,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PSM",
       "_geoloc": {
-        "lat": 43.0779,
-        "lng": -70.8233
+        "latitude": 43.0779,
+        "longitude": -70.8233
       },
       "links_count": 2,
       "objectID": "5763"
@@ -35453,8 +35453,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PLN",
       "_geoloc": {
-        "lat": 45.5709,
-        "lng": -84.7967
+        "latitude": 45.5709,
+        "longitude": -84.7967
       },
       "links_count": 2,
       "objectID": "5762"
@@ -35465,8 +35465,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIH",
       "_geoloc": {
-        "lat": 42.9098,
-        "lng": -112.596
+        "latitude": 42.9098,
+        "longitude": -112.596
       },
       "links_count": 2,
       "objectID": "5760"
@@ -35477,8 +35477,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PIB",
       "_geoloc": {
-        "lat": 31.4671,
-        "lng": -89.3371
+        "latitude": 31.4671,
+        "longitude": -89.3371
       },
       "links_count": 2,
       "objectID": "5759"
@@ -35489,8 +35489,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSL",
       "_geoloc": {
-        "lat": 34.7453,
-        "lng": -87.6102
+        "latitude": 34.7453,
+        "longitude": -87.6102
       },
       "links_count": 2,
       "objectID": "5756"
@@ -35501,8 +35501,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MKG",
       "_geoloc": {
-        "lat": 43.1695,
-        "lng": -86.2382
+        "latitude": 43.1695,
+        "longitude": -86.2382
       },
       "links_count": 2,
       "objectID": "5754"
@@ -35513,8 +35513,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LNS",
       "_geoloc": {
-        "lat": 40.1217,
-        "lng": -76.2961
+        "latitude": 40.1217,
+        "longitude": -76.2961
       },
       "links_count": 2,
       "objectID": "5751"
@@ -35525,8 +35525,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LBF",
       "_geoloc": {
-        "lat": 41.1262,
-        "lng": -100.684
+        "latitude": 41.1262,
+        "longitude": -100.684
       },
       "links_count": 2,
       "objectID": "5748"
@@ -35537,8 +35537,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LAR",
       "_geoloc": {
-        "lat": 41.3121,
-        "lng": -105.675
+        "latitude": 41.3121,
+        "longitude": -105.675
       },
       "links_count": 2,
       "objectID": "5746"
@@ -35549,8 +35549,8 @@ const airports = [
       "country": "United States",
       "iata_code": "IRK",
       "_geoloc": {
-        "lat": 40.0935,
-        "lng": -92.5449
+        "latitude": 40.0935,
+        "longitude": -92.5449
       },
       "links_count": 2,
       "objectID": "5744"
@@ -35561,8 +35561,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GGW",
       "_geoloc": {
-        "lat": 48.2125,
-        "lng": -106.615
+        "latitude": 48.2125,
+        "longitude": -106.615
       },
       "links_count": 2,
       "objectID": "5739"
@@ -35573,8 +35573,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EKO",
       "_geoloc": {
-        "lat": 40.8249,
-        "lng": -115.792
+        "latitude": 40.8249,
+        "longitude": -115.792
       },
       "links_count": 2,
       "objectID": "5736"
@@ -35585,8 +35585,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EAU",
       "_geoloc": {
-        "lat": 44.8658,
-        "lng": -91.4843
+        "latitude": 44.8658,
+        "longitude": -91.4843
       },
       "links_count": 2,
       "objectID": "5735"
@@ -35597,8 +35597,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CMX",
       "_geoloc": {
-        "lat": 47.1684,
-        "lng": -88.4891
+        "latitude": 47.1684,
+        "longitude": -88.4891
       },
       "links_count": 2,
       "objectID": "5732"
@@ -35609,8 +35609,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CLM",
       "_geoloc": {
-        "lat": 48.1202,
-        "lng": -123.5
+        "latitude": 48.1202,
+        "longitude": -123.5
       },
       "links_count": 2,
       "objectID": "5731"
@@ -35621,8 +35621,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CIU",
       "_geoloc": {
-        "lat": 46.2508,
-        "lng": -84.4724
+        "latitude": 46.2508,
+        "longitude": -84.4724
       },
       "links_count": 2,
       "objectID": "5729"
@@ -35633,8 +35633,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CGI",
       "_geoloc": {
-        "lat": 37.2253,
-        "lng": -89.5708
+        "latitude": 37.2253,
+        "longitude": -89.5708
       },
       "links_count": 2,
       "objectID": "5728"
@@ -35645,8 +35645,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BFF",
       "_geoloc": {
-        "lat": 41.874,
-        "lng": -103.596
+        "latitude": 41.874,
+        "longitude": -103.596
       },
       "links_count": 2,
       "objectID": "5723"
@@ -35657,8 +35657,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ALW",
       "_geoloc": {
-        "lat": 46.0949,
-        "lng": -118.288
+        "latitude": 46.0949,
+        "longitude": -118.288
       },
       "links_count": 2,
       "objectID": "5719"
@@ -35669,8 +35669,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AHN",
       "_geoloc": {
-        "lat": 33.9486,
-        "lng": -83.3263
+        "latitude": 33.9486,
+        "longitude": -83.3263
       },
       "links_count": 2,
       "objectID": "5716"
@@ -35681,8 +35681,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ABR",
       "_geoloc": {
-        "lat": 45.4491,
-        "lng": -98.4218
+        "latitude": 45.4491,
+        "longitude": -98.4218
       },
       "links_count": 2,
       "objectID": "5714"
@@ -35693,8 +35693,8 @@ const airports = [
       "country": "Uganda",
       "iata_code": "RUA",
       "_geoloc": {
-        "lat": 3.05,
-        "lng": 30.917
+        "latitude": 3.05,
+        "longitude": 30.917
       },
       "links_count": 2,
       "objectID": "5709"
@@ -35705,8 +35705,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "BKZ",
       "_geoloc": {
-        "lat": -1.3,
-        "lng": 31.8
+        "latitude": -1.3,
+        "longitude": 31.8
       },
       "links_count": 2,
       "objectID": "5703"
@@ -35717,8 +35717,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "LKG",
       "_geoloc": {
-        "lat": 4.204117,
-        "lng": 34.348186
+        "latitude": 4.204117,
+        "longitude": 34.348186
       },
       "links_count": 2,
       "objectID": "5693"
@@ -35729,8 +35729,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "GDE",
       "_geoloc": {
-        "lat": 5.935128,
-        "lng": 43.578567
+        "latitude": 5.935128,
+        "longitude": 43.578567
       },
       "links_count": 2,
       "objectID": "5680"
@@ -35741,8 +35741,8 @@ const airports = [
       "country": "Fogo Island",
       "iata_code": "SFL",
       "_geoloc": {
-        "lat": 0.0,
-        "lng": 14.885
+        "latitude": 0.0,
+        "longitude": 14.885
       },
       "links_count": 2,
       "objectID": "5675"
@@ -35753,8 +35753,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "GMZ",
       "_geoloc": {
-        "lat": 28.0296,
-        "lng": -17.2146
+        "latitude": 28.0296,
+        "longitude": -17.2146
       },
       "links_count": 2,
       "objectID": "5659"
@@ -35765,8 +35765,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "OMD",
       "_geoloc": {
-        "lat": -28.5847,
-        "lng": 16.4467
+        "latitude": -28.5847,
+        "longitude": 16.4467
       },
       "links_count": 2,
       "objectID": "5643"
@@ -35777,8 +35777,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "OND",
       "_geoloc": {
-        "lat": -17.8782,
-        "lng": 15.9526
+        "latitude": -17.8782,
+        "longitude": 15.9526
       },
       "links_count": 2,
       "objectID": "5642"
@@ -35789,8 +35789,8 @@ const airports = [
       "country": "Namibia",
       "iata_code": "LUD",
       "_geoloc": {
-        "lat": -26.6874,
-        "lng": 15.2429
+        "latitude": -26.6874,
+        "longitude": 15.2429
       },
       "links_count": 2,
       "objectID": "5641"
@@ -35801,8 +35801,8 @@ const airports = [
       "country": "Mozambique",
       "iata_code": "VPY",
       "_geoloc": {
-        "lat": -19.151267,
-        "lng": 33.428958
+        "latitude": -19.151267,
+        "longitude": 33.428958
       },
       "links_count": 2,
       "objectID": "5637"
@@ -35813,8 +35813,8 @@ const airports = [
       "country": "Angola",
       "iata_code": "MSZ",
       "_geoloc": {
-        "lat": -15.261222,
-        "lng": 12.146756
+        "latitude": -15.261222,
+        "longitude": 12.146756
       },
       "links_count": 2,
       "objectID": "5633"
@@ -35825,8 +35825,8 @@ const airports = [
       "country": "Zambia",
       "iata_code": "CIP",
       "_geoloc": {
-        "lat": -13.5583,
-        "lng": 32.5872
+        "latitude": -13.5583,
+        "longitude": 32.5872
       },
       "links_count": 2,
       "objectID": "5612"
@@ -35837,8 +35837,8 @@ const airports = [
       "country": "Ethiopia",
       "iata_code": "SHC",
       "_geoloc": {
-        "lat": 14.0781,
-        "lng": 38.2725
+        "latitude": 14.0781,
+        "longitude": 38.2725
       },
       "links_count": 2,
       "objectID": "5601"
@@ -35849,8 +35849,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "BRR",
       "_geoloc": {
-        "lat": 57.0228,
-        "lng": -7.44306
+        "latitude": 57.0228,
+        "longitude": -7.44306
       },
       "links_count": 2,
       "objectID": "5575"
@@ -35861,8 +35861,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "LEQ",
       "_geoloc": {
-        "lat": 50.1028,
-        "lng": -5.67056
+        "latitude": 50.1028,
+        "longitude": -5.67056
       },
       "links_count": 2,
       "objectID": "5572"
@@ -35873,8 +35873,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "CAL",
       "_geoloc": {
-        "lat": 55.4372,
-        "lng": -5.68639
+        "latitude": 55.4372,
+        "longitude": -5.68639
       },
       "links_count": 2,
       "objectID": "5563"
@@ -35885,8 +35885,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "ELU",
       "_geoloc": {
-        "lat": 33.5114,
-        "lng": 6.77679
+        "latitude": 33.5114,
+        "longitude": 6.77679
       },
       "links_count": 2,
       "objectID": "5555"
@@ -35897,8 +35897,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "BMW",
       "_geoloc": {
-        "lat": 21.375,
-        "lng": 0.923889
+        "latitude": 21.375,
+        "longitude": 0.923889
       },
       "links_count": 2,
       "objectID": "5554"
@@ -35909,8 +35909,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "CBH",
       "_geoloc": {
-        "lat": 31.6457,
-        "lng": -2.26986
+        "latitude": 31.6457,
+        "longitude": -2.26986
       },
       "links_count": 2,
       "objectID": "5553"
@@ -35921,8 +35921,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZMT",
       "_geoloc": {
-        "lat": 54.0275,
-        "lng": -132.125
+        "latitude": 54.0275,
+        "longitude": -132.125
       },
       "links_count": 2,
       "objectID": "5545"
@@ -35933,8 +35933,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YRA",
       "_geoloc": {
-        "lat": 64.1161,
-        "lng": -117.31
+        "latitude": 64.1161,
+        "longitude": -117.31
       },
       "links_count": 2,
       "objectID": "5526"
@@ -35945,8 +35945,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPW",
       "_geoloc": {
-        "lat": 49.8342,
-        "lng": -124.5
+        "latitude": 49.8342,
+        "longitude": -124.5
       },
       "links_count": 2,
       "objectID": "5523"
@@ -35957,8 +35957,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPO",
       "_geoloc": {
-        "lat": 54.9881,
-        "lng": -85.4433
+        "latitude": 54.9881,
+        "longitude": -85.4433
       },
       "links_count": 2,
       "objectID": "5522"
@@ -35969,8 +35969,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "XGR",
       "_geoloc": {
-        "lat": 58.7114,
-        "lng": -65.9928
+        "latitude": 58.7114,
+        "longitude": -65.9928
       },
       "links_count": 2,
       "objectID": "5512"
@@ -35981,8 +35981,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YSG",
       "_geoloc": {
-        "lat": 62.4183,
-        "lng": -110.682
+        "latitude": 62.4183,
+        "longitude": -110.682
       },
       "links_count": 2,
       "objectID": "5511"
@@ -35993,8 +35993,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YLC",
       "_geoloc": {
-        "lat": 62.85,
-        "lng": -69.8833
+        "latitude": 62.85,
+        "longitude": -69.8833
       },
       "links_count": 2,
       "objectID": "5509"
@@ -36005,8 +36005,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YGZ",
       "_geoloc": {
-        "lat": 76.4261,
-        "lng": -82.9092
+        "latitude": 76.4261,
+        "longitude": -82.9092
       },
       "links_count": 2,
       "objectID": "5498"
@@ -36017,8 +36017,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "TCD",
       "_geoloc": {
-        "lat": -2.867,
-        "lng": -69.733
+        "latitude": -2.867,
+        "longitude": -69.733
       },
       "links_count": 2,
       "objectID": "5477"
@@ -36029,8 +36029,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YOG",
       "_geoloc": {
-        "lat": 51.6586,
-        "lng": -85.9017
+        "latitude": 51.6586,
+        "longitude": -85.9017
       },
       "links_count": 2,
       "objectID": "5470"
@@ -36041,8 +36041,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "SUR",
       "_geoloc": {
-        "lat": 52.7086,
-        "lng": -88.5419
+        "latitude": 52.7086,
+        "longitude": -88.5419
       },
       "links_count": 2,
       "objectID": "5464"
@@ -36053,8 +36053,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YLE",
       "_geoloc": {
-        "lat": 63.1317,
-        "lng": -117.246
+        "latitude": 63.1317,
+        "longitude": -117.246
       },
       "links_count": 2,
       "objectID": "5463"
@@ -36065,8 +36065,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YAA",
       "_geoloc": {
-        "lat": 52.4525,
-        "lng": -125.303
+        "latitude": 52.4525,
+        "longitude": -125.303
       },
       "links_count": 2,
       "objectID": "5457"
@@ -36077,8 +36077,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "WBM",
       "_geoloc": {
-        "lat": -5.6433,
-        "lng": 143.895
+        "latitude": -5.6433,
+        "longitude": 143.895
       },
       "links_count": 2,
       "objectID": "5437"
@@ -36089,8 +36089,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "MDU",
       "_geoloc": {
-        "lat": -6.14774,
-        "lng": 143.657
+        "latitude": -6.14774,
+        "longitude": 143.657
       },
       "links_count": 2,
       "objectID": "5429"
@@ -36101,8 +36101,8 @@ const airports = [
       "country": "Papua New Guinea",
       "iata_code": "CMU",
       "_geoloc": {
-        "lat": -6.02429,
-        "lng": 144.971
+        "latitude": -6.02429,
+        "longitude": 144.971
       },
       "links_count": 2,
       "objectID": "5420"
@@ -36113,8 +36113,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "TRE",
       "_geoloc": {
-        "lat": 56.499167,
-        "lng": -6.869167
+        "latitude": 56.499167,
+        "longitude": -6.869167
       },
       "links_count": 2,
       "objectID": "542"
@@ -36125,8 +36125,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "RUS",
       "_geoloc": {
-        "lat": -9.86167,
-        "lng": 160.825
+        "latitude": -9.86167,
+        "longitude": 160.825
       },
       "links_count": 2,
       "objectID": "5415"
@@ -36137,8 +36137,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "SCZ",
       "_geoloc": {
-        "lat": -10.7203,
-        "lng": 165.795
+        "latitude": -10.7203,
+        "longitude": 165.795
       },
       "links_count": 2,
       "objectID": "5410"
@@ -36149,8 +36149,8 @@ const airports = [
       "country": "Solomon Islands",
       "iata_code": "ATD",
       "_geoloc": {
-        "lat": -8.87333,
-        "lng": 161.011
+        "latitude": -8.87333,
+        "longitude": 161.011
       },
       "links_count": 2,
       "objectID": "5404"
@@ -36161,8 +36161,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "DND",
       "_geoloc": {
-        "lat": 56.452499,
-        "lng": -3.025833
+        "latitude": 56.452499,
+        "longitude": -3.025833
       },
       "links_count": 2,
       "objectID": "540"
@@ -36173,8 +36173,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "ILY",
       "_geoloc": {
-        "lat": 55.681944,
-        "lng": -6.256667
+        "latitude": 55.681944,
+        "longitude": -6.256667
       },
       "links_count": 2,
       "objectID": "536"
@@ -36185,8 +36185,8 @@ const airports = [
       "country": "United Kingdom",
       "iata_code": "GLO",
       "_geoloc": {
-        "lat": 51.894167,
-        "lng": -2.167222
+        "latitude": 51.894167,
+        "longitude": -2.167222
       },
       "links_count": 2,
       "objectID": "472"
@@ -36197,8 +36197,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KUO",
       "_geoloc": {
-        "lat": 63.00715,
-        "lng": 27.797756
+        "latitude": 63.00715,
+        "longitude": 27.797756
       },
       "links_count": 2,
       "objectID": "439"
@@ -36209,8 +36209,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "KGP",
       "_geoloc": {
-        "lat": 62.18,
-        "lng": 74.53
+        "latitude": 62.18,
+        "longitude": 74.53
       },
       "links_count": 2,
       "objectID": "4373"
@@ -36221,8 +36221,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "KAO",
       "_geoloc": {
-        "lat": 65.987575,
-        "lng": 29.239381
+        "latitude": 65.987575,
+        "longitude": 29.239381
       },
       "links_count": 2,
       "objectID": "437"
@@ -36233,8 +36233,8 @@ const airports = [
       "country": "Norway",
       "iata_code": "NVK",
       "_geoloc": {
-        "lat": 68.435833,
-        "lng": 17.388056
+        "latitude": 68.435833,
+        "longitude": 17.388056
       },
       "links_count": 2,
       "objectID": "4349"
@@ -36245,8 +36245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HDN",
       "_geoloc": {
-        "lat": 40.481181,
-        "lng": -107.21766
+        "latitude": 40.481181,
+        "longitude": -107.21766
       },
       "links_count": 2,
       "objectID": "4339"
@@ -36257,8 +36257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CEZ",
       "_geoloc": {
-        "lat": 37.303,
-        "lng": -108.628056
+        "latitude": 37.303,
+        "longitude": -108.628056
       },
       "links_count": 2,
       "objectID": "4338"
@@ -36269,8 +36269,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MEI",
       "_geoloc": {
-        "lat": 32.332624,
-        "lng": -88.751868
+        "latitude": 32.332624,
+        "longitude": -88.751868
       },
       "links_count": 2,
       "objectID": "4335"
@@ -36281,8 +36281,8 @@ const airports = [
       "country": "Guyana",
       "iata_code": "OGL",
       "_geoloc": {
-        "lat": 6.806944,
-        "lng": -58.104444
+        "latitude": 6.806944,
+        "longitude": -58.104444
       },
       "links_count": 2,
       "objectID": "4306"
@@ -36293,8 +36293,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "CJM",
       "_geoloc": {
-        "lat": 10.7112,
-        "lng": 99.361706
+        "latitude": 10.7112,
+        "longitude": 99.361706
       },
       "links_count": 2,
       "objectID": "4300"
@@ -36305,8 +36305,8 @@ const airports = [
       "country": "Finland",
       "iata_code": "JOE",
       "_geoloc": {
-        "lat": 62.662906,
-        "lng": 29.60755
+        "latitude": 62.662906,
+        "longitude": 29.60755
       },
       "links_count": 2,
       "objectID": "429"
@@ -36317,8 +36317,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BJI",
       "_geoloc": {
-        "lat": 47.510722,
-        "lng": -94.934722
+        "latitude": 47.510722,
+        "longitude": -94.934722
       },
       "links_count": 2,
       "objectID": "4287"
@@ -36329,8 +36329,8 @@ const airports = [
       "country": "Monaco",
       "iata_code": "MCM",
       "_geoloc": {
-        "lat": 43.73333333,
-        "lng": 7.41666666
+        "latitude": 43.73333333,
+        "longitude": 7.41666666
       },
       "links_count": 2,
       "objectID": "4264"
@@ -36341,8 +36341,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TWF",
       "_geoloc": {
-        "lat": 42.481803,
-        "lng": -114.487733
+        "latitude": 42.481803,
+        "longitude": -114.487733
       },
       "links_count": 2,
       "objectID": "4263"
@@ -36353,8 +36353,8 @@ const airports = [
       "country": "United States",
       "iata_code": "EGE",
       "_geoloc": {
-        "lat": 39.642556,
-        "lng": -106.917694
+        "latitude": 39.642556,
+        "longitude": -106.917694
       },
       "links_count": 2,
       "objectID": "4250"
@@ -36365,8 +36365,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPC",
       "_geoloc": {
-        "lat": 62.35,
-        "lng": -124.3333
+        "latitude": 62.35,
+        "longitude": -124.3333
       },
       "links_count": 2,
       "objectID": "4244"
@@ -36377,8 +36377,8 @@ const airports = [
       "country": "United States",
       "iata_code": "GCN",
       "_geoloc": {
-        "lat": 35.9523611,
-        "lng": -112.1469722
+        "latitude": 35.9523611,
+        "longitude": -112.1469722
       },
       "links_count": 2,
       "objectID": "4219"
@@ -36389,8 +36389,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "DHI",
       "_geoloc": {
-        "lat": 28.753333,
-        "lng": 80.581944
+        "latitude": 28.753333,
+        "longitude": 80.581944
       },
       "links_count": 2,
       "objectID": "4188"
@@ -36401,8 +36401,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "TMI",
       "_geoloc": {
-        "lat": 27.315,
-        "lng": 87.193333
+        "latitude": 27.315,
+        "longitude": 87.193333
       },
       "links_count": 2,
       "objectID": "4183"
@@ -36413,8 +36413,8 @@ const airports = [
       "country": "Croatia",
       "iata_code": "BWK",
       "_geoloc": {
-        "lat": 43.285719,
-        "lng": 16.679719
+        "latitude": 43.285719,
+        "longitude": 16.679719
       },
       "links_count": 2,
       "objectID": "4160"
@@ -36425,8 +36425,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "PYY",
       "_geoloc": {
-        "lat": 19.372,
-        "lng": 98.437
+        "latitude": 19.372,
+        "longitude": 98.437
       },
       "links_count": 2,
       "objectID": "4159"
@@ -36437,8 +36437,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "CAH",
       "_geoloc": {
-        "lat": 9.188049,
-        "lng": 105.174721
+        "latitude": 9.188049,
+        "longitude": 105.174721
       },
       "links_count": 2,
       "objectID": "4156"
@@ -36449,8 +36449,8 @@ const airports = [
       "country": "Vietnam",
       "iata_code": "VKG",
       "_geoloc": {
-        "lat": 9.949676,
-        "lng": 105.133659
+        "latitude": 9.949676,
+        "longitude": 105.133659
       },
       "links_count": 2,
       "objectID": "4155"
@@ -36461,8 +36461,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "ODY",
       "_geoloc": {
-        "lat": 20.6827,
-        "lng": 101.994
+        "latitude": 20.6827,
+        "longitude": 101.994
       },
       "links_count": 2,
       "objectID": "4143"
@@ -36473,8 +36473,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "LXG",
       "_geoloc": {
-        "lat": 20.960556,
-        "lng": 101.4025
+        "latitude": 20.960556,
+        "longitude": 101.4025
       },
       "links_count": 2,
       "objectID": "4142"
@@ -36485,8 +36485,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "TDX",
       "_geoloc": {
-        "lat": 12.274572,
-        "lng": 102.318958
+        "latitude": 12.274572,
+        "longitude": 102.318958
       },
       "links_count": 2,
       "objectID": "4135"
@@ -36497,8 +36497,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "UNN",
       "_geoloc": {
-        "lat": 9.777622,
-        "lng": 98.585483
+        "latitude": 9.777622,
+        "longitude": 98.585483
       },
       "links_count": 2,
       "objectID": "4134"
@@ -36509,8 +36509,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "BFV",
       "_geoloc": {
-        "lat": 15.229539,
-        "lng": 103.253231
+        "latitude": 15.229539,
+        "longitude": 103.253231
       },
       "links_count": 2,
       "objectID": "4133"
@@ -36521,8 +36521,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "ROI",
       "_geoloc": {
-        "lat": 16.116761,
-        "lng": 103.773797
+        "latitude": 16.116761,
+        "longitude": 103.773797
       },
       "links_count": 2,
       "objectID": "4132"
@@ -36533,8 +36533,8 @@ const airports = [
       "country": "Estonia",
       "iata_code": "URE",
       "_geoloc": {
-        "lat": 58.229883,
-        "lng": 22.509494
+        "latitude": 58.229883,
+        "longitude": 22.509494
       },
       "links_count": 2,
       "objectID": "413"
@@ -36545,8 +36545,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "SNV",
       "_geoloc": {
-        "lat": 4.554722,
-        "lng": -61.144922
+        "latitude": 4.554722,
+        "longitude": -61.144922
       },
       "links_count": 2,
       "objectID": "4126"
@@ -36557,8 +36557,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PAH",
       "_geoloc": {
-        "lat": 37.0602875,
-        "lng": -88.7729583
+        "latitude": 37.0602875,
+        "longitude": -88.7729583
       },
       "links_count": 2,
       "objectID": "4117"
@@ -36569,8 +36569,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PKB",
       "_geoloc": {
-        "lat": 39.3451039,
-        "lng": -81.4392031
+        "latitude": 39.3451039,
+        "longitude": -81.4392031
       },
       "links_count": 2,
       "objectID": "4114"
@@ -36581,8 +36581,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "CXH",
       "_geoloc": {
-        "lat": 49.289722,
-        "lng": -123.115833
+        "latitude": 49.289722,
+        "longitude": -123.115833
       },
       "links_count": 2,
       "objectID": "4107"
@@ -36593,8 +36593,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RDD",
       "_geoloc": {
-        "lat": 40.509,
-        "lng": -122.293389
+        "latitude": 40.509,
+        "longitude": -122.293389
       },
       "links_count": 2,
       "objectID": "4098"
@@ -36605,8 +36605,8 @@ const airports = [
       "country": "Cambodia",
       "iata_code": "KOS",
       "_geoloc": {
-        "lat": 10.579686,
-        "lng": 103.636828
+        "latitude": 10.579686,
+        "longitude": 103.636828
       },
       "links_count": 2,
       "objectID": "4093"
@@ -36617,8 +36617,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CLD",
       "_geoloc": {
-        "lat": 33.0742,
-        "lng": -117.1648
+        "latitude": 33.0742,
+        "longitude": -117.1648
       },
       "links_count": 2,
       "objectID": "4088"
@@ -36629,8 +36629,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "HGN",
       "_geoloc": {
-        "lat": 19.301667,
-        "lng": 97.975
+        "latitude": 19.301667,
+        "longitude": 97.975
       },
       "links_count": 2,
       "objectID": "4086"
@@ -36641,8 +36641,8 @@ const airports = [
       "country": "Laos",
       "iata_code": "XKH",
       "_geoloc": {
-        "lat": 19.449997,
-        "lng": 103.158333
+        "latitude": 19.449997,
+        "longitude": 103.158333
       },
       "links_count": 2,
       "objectID": "4081"
@@ -36653,8 +36653,8 @@ const airports = [
       "country": "Tuvalu",
       "iata_code": "FUN",
       "_geoloc": {
-        "lat": -8.525,
-        "lng": 179.196389
+        "latitude": -8.525,
+        "longitude": 179.196389
       },
       "links_count": 2,
       "objectID": "4077"
@@ -36665,8 +36665,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "KGC",
       "_geoloc": {
-        "lat": -35.713889,
-        "lng": 137.521389
+        "latitude": -35.713889,
+        "longitude": 137.521389
       },
       "links_count": 2,
       "objectID": "4051"
@@ -36677,8 +36677,8 @@ const airports = [
       "country": "United States",
       "iata_code": "RKD",
       "_geoloc": {
-        "lat": 44.0601111,
-        "lng": -69.0992303
+        "latitude": 44.0601111,
+        "longitude": -69.0992303
       },
       "links_count": 2,
       "objectID": "4026"
@@ -36689,8 +36689,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BHB",
       "_geoloc": {
-        "lat": 44.4497689,
-        "lng": -68.3615653
+        "latitude": 44.4497689,
+        "longitude": -68.3615653
       },
       "links_count": 2,
       "objectID": "4025"
@@ -36701,8 +36701,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BTM",
       "_geoloc": {
-        "lat": 45.954806,
-        "lng": -112.497472
+        "latitude": 45.954806,
+        "longitude": -112.497472
       },
       "links_count": 2,
       "objectID": "4022"
@@ -36713,8 +36713,8 @@ const airports = [
       "country": "United States",
       "iata_code": "APF",
       "_geoloc": {
-        "lat": 26.152619,
-        "lng": -81.775294
+        "latitude": 26.152619,
+        "longitude": -81.775294
       },
       "links_count": 2,
       "objectID": "4012"
@@ -36725,8 +36725,8 @@ const airports = [
       "country": "Yemen",
       "iata_code": "AXK",
       "_geoloc": {
-        "lat": 14.551322,
-        "lng": 46.826183
+        "latitude": 14.551322,
+        "longitude": 46.826183
       },
       "links_count": 2,
       "objectID": "3978"
@@ -36737,8 +36737,8 @@ const airports = [
       "country": "Armenia",
       "iata_code": "LWN",
       "_geoloc": {
-        "lat": 40.750369,
-        "lng": 43.859342
+        "latitude": 40.750369,
+        "longitude": 43.859342
       },
       "links_count": 2,
       "objectID": "3965"
@@ -36749,8 +36749,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "THS",
       "_geoloc": {
-        "lat": 17.237992,
-        "lng": 99.818183
+        "latitude": 17.237992,
+        "longitude": 99.818183
       },
       "links_count": 2,
       "objectID": "3939"
@@ -36761,8 +36761,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "WGP",
       "_geoloc": {
-        "lat": -9.669217,
-        "lng": 120.302006
+        "latitude": -9.669217,
+        "longitude": 120.302006
       },
       "links_count": 2,
       "objectID": "3927"
@@ -36773,8 +36773,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "NAH",
       "_geoloc": {
-        "lat": 3.683214,
-        "lng": 125.528019
+        "latitude": 3.683214,
+        "longitude": 125.528019
       },
       "links_count": 2,
       "objectID": "3886"
@@ -36785,8 +36785,8 @@ const airports = [
       "country": "United States",
       "iata_code": "FOE",
       "_geoloc": {
-        "lat": 38.950944,
-        "lng": -95.663611
+        "latitude": 38.950944,
+        "longitude": -95.663611
       },
       "links_count": 2,
       "objectID": "3843"
@@ -36797,8 +36797,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CDC",
       "_geoloc": {
-        "lat": 37.700967,
-        "lng": -113.098847
+        "latitude": 37.700967,
+        "longitude": -113.098847
       },
       "links_count": 2,
       "objectID": "3824"
@@ -36809,8 +36809,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MOD",
       "_geoloc": {
-        "lat": 37.625817,
-        "lng": -120.954422
+        "latitude": 37.625817,
+        "longitude": -120.954422
       },
       "links_count": 2,
       "objectID": "3816"
@@ -36821,8 +36821,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SCK",
       "_geoloc": {
-        "lat": 37.894167,
-        "lng": -121.238306
+        "latitude": 37.894167,
+        "longitude": -121.238306
       },
       "links_count": 2,
       "objectID": "3805"
@@ -36833,8 +36833,8 @@ const airports = [
       "country": "United States",
       "iata_code": "BLV",
       "_geoloc": {
-        "lat": 38.545178,
-        "lng": -89.835183
+        "latitude": 38.545178,
+        "longitude": -89.835183
       },
       "links_count": 2,
       "objectID": "3790"
@@ -36845,8 +36845,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HOB",
       "_geoloc": {
-        "lat": 32.687528,
-        "lng": -103.217028
+        "latitude": 32.687528,
+        "longitude": -103.217028
       },
       "links_count": 2,
       "objectID": "3749"
@@ -36857,8 +36857,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "AGB",
       "_geoloc": {
-        "lat": 48.425158,
-        "lng": 10.931764
+        "latitude": 48.425158,
+        "longitude": 10.931764
       },
       "links_count": 2,
       "objectID": "374"
@@ -36869,8 +36869,8 @@ const airports = [
       "country": "United States",
       "iata_code": "OGS",
       "_geoloc": {
-        "lat": 44.681854,
-        "lng": -75.4655
+        "latitude": 44.681854,
+        "longitude": -75.4655
       },
       "links_count": 2,
       "objectID": "3724"
@@ -36881,8 +36881,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CIC",
       "_geoloc": {
-        "lat": 39.795383,
-        "lng": -121.858422
+        "latitude": 39.795383,
+        "longitude": -121.858422
       },
       "links_count": 2,
       "objectID": "3710"
@@ -36893,8 +36893,8 @@ const airports = [
       "country": "United States",
       "iata_code": "AUG",
       "_geoloc": {
-        "lat": 44.320647,
-        "lng": -69.797317
+        "latitude": 44.320647,
+        "longitude": -69.797317
       },
       "links_count": 2,
       "objectID": "3701"
@@ -36905,8 +36905,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TBN",
       "_geoloc": {
-        "lat": 37.741631,
-        "lng": -92.140736
+        "latitude": 37.741631,
+        "longitude": -92.140736
       },
       "links_count": 2,
       "objectID": "3665"
@@ -36917,8 +36917,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HIB",
       "_geoloc": {
-        "lat": 47.3866,
-        "lng": -92.838994
+        "latitude": 47.3866,
+        "longitude": -92.838994
       },
       "links_count": 2,
       "objectID": "3650"
@@ -36929,8 +36929,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TEB",
       "_geoloc": {
-        "lat": 40.850103,
-        "lng": -74.060837
+        "latitude": 40.850103,
+        "longitude": -74.060837
       },
       "links_count": 2,
       "objectID": "3624"
@@ -36941,8 +36941,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "XFW",
       "_geoloc": {
-        "lat": 53.535886,
-        "lng": 9.837025
+        "latitude": 53.535886,
+        "longitude": 9.837025
       },
       "links_count": 2,
       "objectID": "362"
@@ -36953,8 +36953,8 @@ const airports = [
       "country": "United States",
       "iata_code": "SPB",
       "_geoloc": {
-        "lat": 45.771028,
-        "lng": -122.861833
+        "latitude": 45.771028,
+        "longitude": -122.861833
       },
       "links_count": 2,
       "objectID": "3616"
@@ -36965,8 +36965,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HVR",
       "_geoloc": {
-        "lat": 48.542983,
-        "lng": -109.762342
+        "latitude": 48.542983,
+        "longitude": -109.762342
       },
       "links_count": 2,
       "objectID": "3604"
@@ -36977,8 +36977,8 @@ const airports = [
       "country": "United States",
       "iata_code": "CNM",
       "_geoloc": {
-        "lat": 32.337472,
-        "lng": -104.263278
+        "latitude": 32.337472,
+        "longitude": -104.263278
       },
       "links_count": 2,
       "objectID": "3597"
@@ -36989,8 +36989,8 @@ const airports = [
       "country": "United States",
       "iata_code": "JBR",
       "_geoloc": {
-        "lat": 35.831708,
-        "lng": -90.646417
+        "latitude": 35.831708,
+        "longitude": -90.646417
       },
       "links_count": 2,
       "objectID": "3591"
@@ -37001,8 +37001,8 @@ const airports = [
       "country": "Germany",
       "iata_code": "MHG",
       "_geoloc": {
-        "lat": 49.472706,
-        "lng": 8.514264
+        "latitude": 49.472706,
+        "longitude": 8.514264
       },
       "links_count": 2,
       "objectID": "356"
@@ -37013,8 +37013,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MSS",
       "_geoloc": {
-        "lat": 44.935833,
-        "lng": -74.845547
+        "latitude": 44.935833,
+        "longitude": -74.845547
       },
       "links_count": 2,
       "objectID": "3546"
@@ -37025,8 +37025,8 @@ const airports = [
       "country": "United States",
       "iata_code": "MUE",
       "_geoloc": {
-        "lat": 20.001328,
-        "lng": -155.668108
+        "latitude": 20.001328,
+        "longitude": -155.668108
       },
       "links_count": 2,
       "objectID": "3545"
@@ -37037,8 +37037,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PUB",
       "_geoloc": {
-        "lat": 38.289085,
-        "lng": -104.496572
+        "latitude": 38.289085,
+        "longitude": -104.496572
       },
       "links_count": 2,
       "objectID": "3527"
@@ -37049,8 +37049,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PRC",
       "_geoloc": {
-        "lat": 34.654472,
-        "lng": -112.419583
+        "latitude": 34.654472,
+        "longitude": -112.419583
       },
       "links_count": 2,
       "objectID": "3446"
@@ -37061,8 +37061,8 @@ const airports = [
       "country": "United States",
       "iata_code": "HNM",
       "_geoloc": {
-        "lat": 20.795636,
-        "lng": -156.014439
+        "latitude": 20.795636,
+        "longitude": -156.014439
       },
       "links_count": 2,
       "objectID": "3445"
@@ -37073,8 +37073,8 @@ const airports = [
       "country": "United States",
       "iata_code": "PTU",
       "_geoloc": {
-        "lat": 59.011356,
-        "lng": -161.819664
+        "latitude": 59.011356,
+        "longitude": -161.819664
       },
       "links_count": 2,
       "objectID": "3430"
@@ -37085,8 +37085,8 @@ const airports = [
       "country": "United States",
       "iata_code": "ILI",
       "_geoloc": {
-        "lat": 59.754356,
-        "lng": -154.910961
+        "latitude": 59.754356,
+        "longitude": -154.910961
       },
       "links_count": 2,
       "objectID": "3429"
@@ -37097,8 +37097,8 @@ const airports = [
       "country": "United States",
       "iata_code": "TLJ",
       "_geoloc": {
-        "lat": 62.894369,
-        "lng": -155.976525
+        "latitude": 62.894369,
+        "longitude": -155.976525
       },
       "links_count": 2,
       "objectID": "3423"
@@ -37109,8 +37109,8 @@ const airports = [
       "country": "United States",
       "iata_code": "LUR",
       "_geoloc": {
-        "lat": 68.875133,
-        "lng": -166.110022
+        "latitude": 68.875133,
+        "longitude": -166.110022
       },
       "links_count": 2,
       "objectID": "3413"
@@ -37121,8 +37121,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "NTQ",
       "_geoloc": {
-        "lat": 37.293097,
-        "lng": 136.961853
+        "latitude": 37.293097,
+        "longitude": 136.961853
       },
       "links_count": 2,
       "objectID": "3409"
@@ -37133,8 +37133,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "TMW",
       "_geoloc": {
-        "lat": -31.083889,
-        "lng": 150.846667
+        "latitude": -31.083889,
+        "longitude": 150.846667
       },
       "links_count": 2,
       "objectID": "3362"
@@ -37145,8 +37145,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "RCM",
       "_geoloc": {
-        "lat": -33.600556,
-        "lng": 150.780833
+        "latitude": -33.600556,
+        "longitude": 150.780833
       },
       "links_count": 2,
       "objectID": "3360"
@@ -37157,8 +37157,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "MEB",
       "_geoloc": {
-        "lat": -37.728056,
-        "lng": 144.901944
+        "latitude": -37.728056,
+        "longitude": 144.901944
       },
       "links_count": 2,
       "objectID": "3334"
@@ -37169,8 +37169,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "AVV",
       "_geoloc": {
-        "lat": -38.039444,
-        "lng": 144.469444
+        "latitude": -38.039444,
+        "longitude": 144.469444
       },
       "links_count": 2,
       "objectID": "3332"
@@ -37181,8 +37181,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "ABM",
       "_geoloc": {
-        "lat": -10.950833,
-        "lng": 142.459444
+        "latitude": -10.950833,
+        "longitude": 142.459444
       },
       "links_count": 2,
       "objectID": "3318"
@@ -37193,8 +37193,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LDU",
       "_geoloc": {
-        "lat": 5.032247,
-        "lng": 118.324036
+        "latitude": 5.032247,
+        "longitude": 118.324036
       },
       "links_count": 2,
       "objectID": "3268"
@@ -37205,8 +37205,8 @@ const airports = [
       "country": "Malaysia",
       "iata_code": "LMN",
       "_geoloc": {
-        "lat": 4.808303,
-        "lng": 115.010439
+        "latitude": 4.808303,
+        "longitude": 115.010439
       },
       "links_count": 2,
       "objectID": "3264"
@@ -37217,8 +37217,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "BXB",
       "_geoloc": {
-        "lat": -2.532242,
-        "lng": 133.438894
+        "latitude": -2.532242,
+        "longitude": 133.438894
       },
       "links_count": 2,
       "objectID": "3259"
@@ -37229,8 +37229,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "PSJ",
       "_geoloc": {
-        "lat": -1.416753,
-        "lng": 120.657669
+        "latitude": -1.416753,
+        "longitude": 120.657669
       },
       "links_count": 2,
       "objectID": "3251"
@@ -37241,8 +37241,8 @@ const airports = [
       "country": "Indonesia",
       "iata_code": "WMX",
       "_geoloc": {
-        "lat": -4.102511,
-        "lng": 138.957372
+        "latitude": -4.102511,
+        "longitude": 138.957372
       },
       "links_count": 2,
       "objectID": "3245"
@@ -37253,8 +37253,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "PBU",
       "_geoloc": {
-        "lat": 27.329922,
-        "lng": 97.426269
+        "latitude": 27.329922,
+        "longitude": 97.426269
       },
       "links_count": 2,
       "objectID": "3232"
@@ -37265,8 +37265,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "KYP",
       "_geoloc": {
-        "lat": 19.426447,
-        "lng": 93.534836
+        "latitude": 19.426447,
+        "longitude": 93.534836
       },
       "links_count": 2,
       "objectID": "3217"
@@ -37277,8 +37277,8 @@ const airports = [
       "country": "Burma",
       "iata_code": "KET",
       "_geoloc": {
-        "lat": 21.301611,
-        "lng": 99.635997
+        "latitude": 21.301611,
+        "longitude": 99.635997
       },
       "links_count": 2,
       "objectID": "3215"
@@ -37289,8 +37289,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "LOE",
       "_geoloc": {
-        "lat": 17.439133,
-        "lng": 101.722064
+        "latitude": 17.439133,
+        "longitude": 101.722064
       },
       "links_count": 2,
       "objectID": "3186"
@@ -37301,8 +37301,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "SNO",
       "_geoloc": {
-        "lat": 17.195142,
-        "lng": 104.118625
+        "latitude": 17.195142,
+        "longitude": 104.118625
       },
       "links_count": 2,
       "objectID": "3184"
@@ -37313,8 +37313,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "NAW",
       "_geoloc": {
-        "lat": 6.519922,
-        "lng": 101.7434
+        "latitude": 6.519922,
+        "longitude": 101.7434
       },
       "links_count": 2,
       "objectID": "3173"
@@ -37325,8 +37325,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "PRH",
       "_geoloc": {
-        "lat": 18.132169,
-        "lng": 100.164664
+        "latitude": 18.132169,
+        "longitude": 100.164664
       },
       "links_count": 2,
       "objectID": "3164"
@@ -37337,8 +37337,8 @@ const airports = [
       "country": "Thailand",
       "iata_code": "LPT",
       "_geoloc": {
-        "lat": 18.270933,
-        "lng": 99.504167
+        "latitude": 18.270933,
+        "longitude": 99.504167
       },
       "links_count": 2,
       "objectID": "3163"
@@ -37349,8 +37349,8 @@ const airports = [
       "country": "India",
       "iata_code": "AGX",
       "_geoloc": {
-        "lat": 10.823656,
-        "lng": 72.176042
+        "latitude": 10.823656,
+        "longitude": 72.176042
       },
       "links_count": 2,
       "objectID": "3130"
@@ -37361,8 +37361,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "BIR",
       "_geoloc": {
-        "lat": 26.481453,
-        "lng": 87.264036
+        "latitude": 26.481453,
+        "longitude": 87.264036
       },
       "links_count": 2,
       "objectID": "3129"
@@ -37373,8 +37373,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "PKR",
       "_geoloc": {
-        "lat": 28.200881,
-        "lng": 83.982056
+        "latitude": 28.200881,
+        "longitude": 83.982056
       },
       "links_count": 2,
       "objectID": "3127"
@@ -37385,8 +37385,8 @@ const airports = [
       "country": "Nepal",
       "iata_code": "BWA",
       "_geoloc": {
-        "lat": 27.505703,
-        "lng": 83.41625
+        "latitude": 27.505703,
+        "longitude": 83.41625
       },
       "links_count": 2,
       "objectID": "3122"
@@ -37397,8 +37397,8 @@ const airports = [
       "country": "India",
       "iata_code": "LUH",
       "_geoloc": {
-        "lat": 30.854681,
-        "lng": 75.952592
+        "latitude": 30.854681,
+        "longitude": 75.952592
       },
       "links_count": 2,
       "objectID": "3103"
@@ -37409,8 +37409,8 @@ const airports = [
       "country": "India",
       "iata_code": "KNU",
       "_geoloc": {
-        "lat": 26.441444,
-        "lng": 80.364864
+        "latitude": 26.441444,
+        "longitude": 80.364864
       },
       "links_count": 2,
       "objectID": "3101"
@@ -37421,8 +37421,8 @@ const airports = [
       "country": "Belgium",
       "iata_code": "OST",
       "_geoloc": {
-        "lat": 51.198889,
-        "lng": 2.862222
+        "latitude": 51.198889,
+        "longitude": 2.862222
       },
       "links_count": 2,
       "objectID": "310"
@@ -37433,8 +37433,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YBR",
       "_geoloc": {
-        "lat": 49.91,
-        "lng": -99.951944
+        "latitude": 49.91,
+        "longitude": -99.951944
       },
       "links_count": 2,
       "objectID": "31"
@@ -37445,8 +37445,8 @@ const airports = [
       "country": "India",
       "iata_code": "GWL",
       "_geoloc": {
-        "lat": 26.293336,
-        "lng": 78.227753
+        "latitude": 26.293336,
+        "longitude": 78.227753
       },
       "links_count": 2,
       "objectID": "3094"
@@ -37457,8 +37457,8 @@ const airports = [
       "country": "India",
       "iata_code": "KUU",
       "_geoloc": {
-        "lat": 31.876706,
-        "lng": 77.154367
+        "latitude": 31.876706,
+        "longitude": 77.154367
       },
       "links_count": 2,
       "objectID": "3085"
@@ -37469,8 +37469,8 @@ const airports = [
       "country": "Bangladesh",
       "iata_code": "RJH",
       "_geoloc": {
-        "lat": 24.437219,
-        "lng": 88.616511
+        "latitude": 24.437219,
+        "longitude": 88.616511
       },
       "links_count": 2,
       "objectID": "3072"
@@ -37481,8 +37481,8 @@ const airports = [
       "country": "Sri Lanka",
       "iata_code": "TRR",
       "_geoloc": {
-        "lat": 8.538514,
-        "lng": 81.181853
+        "latitude": 8.538514,
+        "longitude": 81.181853
       },
       "links_count": 2,
       "objectID": "3030"
@@ -37493,8 +37493,8 @@ const airports = [
       "country": "India",
       "iata_code": "HJR",
       "_geoloc": {
-        "lat": 24.817197,
-        "lng": 79.918597
+        "latitude": 24.817197,
+        "longitude": 79.918597
       },
       "links_count": 2,
       "objectID": "3012"
@@ -37505,8 +37505,8 @@ const airports = [
       "country": "India",
       "iata_code": "JGA",
       "_geoloc": {
-        "lat": 22.465522,
-        "lng": 70.012556
+        "latitude": 22.465522,
+        "longitude": 70.012556
       },
       "links_count": 2,
       "objectID": "3010"
@@ -37517,8 +37517,8 @@ const airports = [
       "country": "India",
       "iata_code": "IXG",
       "_geoloc": {
-        "lat": 15.859286,
-        "lng": 74.618292
+        "latitude": 15.859286,
+        "longitude": 74.618292
       },
       "links_count": 2,
       "objectID": "3000"
@@ -37529,8 +37529,8 @@ const airports = [
       "country": "Russia",
       "iata_code": "PWE",
       "_geoloc": {
-        "lat": 69.783283,
-        "lng": 170.597006
+        "latitude": 69.783283,
+        "longitude": 170.597006
       },
       "links_count": 2,
       "objectID": "2931"
@@ -37541,8 +37541,8 @@ const airports = [
       "country": "Netherlands Antilles",
       "iata_code": "EUX",
       "_geoloc": {
-        "lat": 17.496492,
-        "lng": -62.979439
+        "latitude": 17.496492,
+        "longitude": -62.979439
       },
       "links_count": 2,
       "objectID": "2898"
@@ -37553,8 +37553,8 @@ const airports = [
       "country": "Puerto Rico",
       "iata_code": "MAZ",
       "_geoloc": {
-        "lat": 18.255694,
-        "lng": -67.148472
+        "latitude": 18.255694,
+        "longitude": -67.148472
       },
       "links_count": 2,
       "objectID": "2888"
@@ -37565,8 +37565,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "SOM",
       "_geoloc": {
-        "lat": 8.945147,
-        "lng": -64.151083
+        "latitude": 8.945147,
+        "longitude": -64.151083
       },
       "links_count": 2,
       "objectID": "2864"
@@ -37577,8 +37577,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "SVZ",
       "_geoloc": {
-        "lat": 7.840831,
-        "lng": -72.439742
+        "latitude": 7.840831,
+        "longitude": -72.439742
       },
       "links_count": 2,
       "objectID": "2858"
@@ -37589,8 +37589,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "PYH",
       "_geoloc": {
-        "lat": 5.619992,
-        "lng": -67.606103
+        "latitude": 5.619992,
+        "longitude": -67.606103
       },
       "links_count": 2,
       "objectID": "2853"
@@ -37601,8 +37601,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "LFR",
       "_geoloc": {
-        "lat": 8.239167,
-        "lng": -72.271028
+        "latitude": 8.239167,
+        "longitude": -72.271028
       },
       "links_count": 2,
       "objectID": "2846"
@@ -37613,8 +37613,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "CUM",
       "_geoloc": {
-        "lat": 10.450333,
-        "lng": -64.130472
+        "latitude": 10.450333,
+        "longitude": -64.130472
       },
       "links_count": 2,
       "objectID": "2835"
@@ -37625,8 +37625,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "CZE",
       "_geoloc": {
-        "lat": 11.414867,
-        "lng": -69.681656
+        "latitude": 11.414867,
+        "longitude": -69.681656
       },
       "links_count": 2,
       "objectID": "2833"
@@ -37637,8 +37637,8 @@ const airports = [
       "country": "Venezuela",
       "iata_code": "CAJ",
       "_geoloc": {
-        "lat": 6.231989,
-        "lng": -62.854433
+        "latitude": 6.231989,
+        "longitude": -62.854433
       },
       "links_count": 2,
       "objectID": "2830"
@@ -37649,8 +37649,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "TRU",
       "_geoloc": {
-        "lat": -8.081411,
-        "lng": -79.108761
+        "latitude": -8.081411,
+        "longitude": -79.108761
       },
       "links_count": 2,
       "objectID": "2804"
@@ -37661,8 +37661,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "TBP",
       "_geoloc": {
-        "lat": -3.552528,
-        "lng": -80.381356
+        "latitude": -3.552528,
+        "longitude": -80.381356
       },
       "links_count": 2,
       "objectID": "2796"
@@ -37673,8 +37673,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "ATA",
       "_geoloc": {
-        "lat": -9.347444,
-        "lng": -77.598392
+        "latitude": -9.347444,
+        "longitude": -77.598392
       },
       "links_count": 2,
       "objectID": "2788"
@@ -37685,8 +37685,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "ANS",
       "_geoloc": {
-        "lat": -13.706408,
-        "lng": -73.350378
+        "latitude": -13.706408,
+        "longitude": -73.350378
       },
       "links_count": 2,
       "objectID": "2787"
@@ -37697,8 +37697,8 @@ const airports = [
       "country": "Peru",
       "iata_code": "CIX",
       "_geoloc": {
-        "lat": -6.787475,
-        "lng": -79.828097
+        "latitude": -6.787475,
+        "longitude": -79.828097
       },
       "links_count": 2,
       "objectID": "2785"
@@ -37709,8 +37709,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "YOL",
       "_geoloc": {
-        "lat": 9.257553,
-        "lng": 12.430422
+        "latitude": 9.257553,
+        "longitude": 12.430422
       },
       "links_count": 2,
       "objectID": "277"
@@ -37721,8 +37721,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "SKO",
       "_geoloc": {
-        "lat": 12.916322,
-        "lng": 5.207189
+        "latitude": 12.916322,
+        "longitude": 5.207189
       },
       "links_count": 2,
       "objectID": "276"
@@ -37733,8 +37733,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "RCH",
       "_geoloc": {
-        "lat": 11.526222,
-        "lng": -72.925958
+        "latitude": 11.526222,
+        "longitude": -72.925958
       },
       "links_count": 2,
       "objectID": "2746"
@@ -37745,8 +37745,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PVA",
       "_geoloc": {
-        "lat": 13.356944,
-        "lng": -81.35833
+        "latitude": 13.356944,
+        "longitude": -81.35833
       },
       "links_count": 2,
       "objectID": "2743"
@@ -37757,8 +37757,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "PPN",
       "_geoloc": {
-        "lat": 2.4544,
-        "lng": -76.609319
+        "latitude": 2.4544,
+        "longitude": -76.609319
       },
       "links_count": 2,
       "objectID": "2741"
@@ -37769,8 +37769,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "MZL",
       "_geoloc": {
-        "lat": 5.029597,
-        "lng": -75.464708
+        "latitude": 5.029597,
+        "longitude": -75.464708
       },
       "links_count": 2,
       "objectID": "2733"
@@ -37781,8 +37781,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "IPI",
       "_geoloc": {
-        "lat": 0.861925,
-        "lng": -77.671764
+        "latitude": 0.861925,
+        "longitude": -77.671764
       },
       "links_count": 2,
       "objectID": "2725"
@@ -37793,8 +37793,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "EJA",
       "_geoloc": {
-        "lat": 7.024331,
-        "lng": -73.8068
+        "latitude": 7.024331,
+        "longitude": -73.8068
       },
       "links_count": 2,
       "objectID": "2718"
@@ -37805,8 +37805,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "TCO",
       "_geoloc": {
-        "lat": 1.814417,
-        "lng": -78.749228
+        "latitude": 1.814417,
+        "longitude": -78.749228
       },
       "links_count": 2,
       "objectID": "2716"
@@ -37817,8 +37817,8 @@ const airports = [
       "country": "Colombia",
       "iata_code": "BSC",
       "_geoloc": {
-        "lat": 6.202917,
-        "lng": -77.394675
+        "latitude": 6.202917,
+        "longitude": -77.394675
       },
       "links_count": 2,
       "objectID": "2711"
@@ -37829,8 +37829,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "KAD",
       "_geoloc": {
-        "lat": 10.696025,
-        "lng": 7.320114
+        "latitude": 10.696025,
+        "longitude": 7.320114
       },
       "links_count": 2,
       "objectID": "269"
@@ -37841,8 +37841,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "MEC",
       "_geoloc": {
-        "lat": -0.946078,
-        "lng": -80.678808
+        "latitude": -0.946078,
+        "longitude": -80.678808
       },
       "links_count": 2,
       "objectID": "2683"
@@ -37853,8 +37853,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "XMS",
       "_geoloc": {
-        "lat": -2.299167,
-        "lng": -78.12075
+        "latitude": -2.299167,
+        "longitude": -78.12075
       },
       "links_count": 2,
       "objectID": "2680"
@@ -37865,8 +37865,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "JOS",
       "_geoloc": {
-        "lat": 9.639828,
-        "lng": 8.86905
+        "latitude": 9.639828,
+        "longitude": 8.86905
       },
       "links_count": 2,
       "objectID": "268"
@@ -37877,8 +37877,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "ILR",
       "_geoloc": {
-        "lat": 8.440211,
-        "lng": 4.493919
+        "latitude": 8.440211,
+        "longitude": 4.493919
       },
       "links_count": 2,
       "objectID": "267"
@@ -37889,8 +37889,8 @@ const airports = [
       "country": "Nigeria",
       "iata_code": "IBA",
       "_geoloc": {
-        "lat": 7.362458,
-        "lng": 3.978333
+        "latitude": 7.362458,
+        "longitude": 3.978333
       },
       "links_count": 2,
       "objectID": "266"
@@ -37901,8 +37901,8 @@ const airports = [
       "country": "Chile",
       "iata_code": "ZOS",
       "_geoloc": {
-        "lat": -40.611208,
-        "lng": -73.061042
+        "latitude": -40.611208,
+        "longitude": -73.061042
       },
       "links_count": 2,
       "objectID": "2658"
@@ -37913,8 +37913,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BVH",
       "_geoloc": {
-        "lat": -12.694375,
-        "lng": -60.098269
+        "latitude": -12.694375,
+        "longitude": -60.098269
       },
       "links_count": 2,
       "objectID": "2637"
@@ -37925,8 +37925,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "URG",
       "_geoloc": {
-        "lat": -29.782178,
-        "lng": -57.038189
+        "latitude": -29.782178,
+        "longitude": -57.038189
       },
       "links_count": 2,
       "objectID": "2632"
@@ -37937,8 +37937,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "PAV",
       "_geoloc": {
-        "lat": -9.400878,
-        "lng": -38.250575
+        "latitude": -9.400878,
+        "longitude": -38.250575
       },
       "links_count": 2,
       "objectID": "2631"
@@ -37949,8 +37949,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "TUR",
       "_geoloc": {
-        "lat": -3.786008,
-        "lng": -49.720267
+        "latitude": -3.786008,
+        "longitude": -49.720267
       },
       "links_count": 2,
       "objectID": "2629"
@@ -37961,8 +37961,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "TBT",
       "_geoloc": {
-        "lat": -4.255669,
-        "lng": -69.935828
+        "latitude": -4.255669,
+        "longitude": -69.935828
       },
       "links_count": 2,
       "objectID": "2628"
@@ -37973,8 +37973,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "TMT",
       "_geoloc": {
-        "lat": -1.4896,
-        "lng": -56.396803
+        "latitude": -1.4896,
+        "longitude": -56.396803
       },
       "links_count": 2,
       "objectID": "2622"
@@ -37985,8 +37985,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "LAZ",
       "_geoloc": {
-        "lat": -13.262086,
-        "lng": -43.408114
+        "latitude": -13.262086,
+        "longitude": -43.408114
       },
       "links_count": 2,
       "objectID": "2582"
@@ -37997,8 +37997,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CZS",
       "_geoloc": {
-        "lat": -7.599906,
-        "lng": -72.769489
+        "latitude": -7.599906,
+        "longitude": -72.769489
       },
       "links_count": 2,
       "objectID": "2549"
@@ -38009,8 +38009,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CMG",
       "_geoloc": {
-        "lat": -19.011931,
-        "lng": -57.673053
+        "latitude": -19.011931,
+        "longitude": -57.673053
       },
       "links_count": 2,
       "objectID": "2544"
@@ -38021,8 +38021,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "AFL",
       "_geoloc": {
-        "lat": -9.866092,
-        "lng": -56.106206
+        "latitude": -9.866092,
+        "longitude": -56.106206
       },
       "links_count": 2,
       "objectID": "2524"
@@ -38033,8 +38033,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "AQA",
       "_geoloc": {
-        "lat": -21.812,
-        "lng": -48.133028
+        "latitude": -21.812,
+        "longitude": -48.133028
       },
       "links_count": 2,
       "objectID": "2521"
@@ -38045,8 +38045,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CDJ",
       "_geoloc": {
-        "lat": -8.348347,
-        "lng": -49.301528
+        "latitude": -8.348347,
+        "longitude": -49.301528
       },
       "links_count": 2,
       "objectID": "2518"
@@ -38057,8 +38057,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "CPC",
       "_geoloc": {
-        "lat": -40.075383,
-        "lng": -71.137294
+        "latitude": -40.075383,
+        "longitude": -71.137294
       },
       "links_count": 2,
       "objectID": "2517"
@@ -38069,8 +38069,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "RSA",
       "_geoloc": {
-        "lat": -36.588322,
-        "lng": -64.275694
+        "latitude": -36.588322,
+        "longitude": -64.275694
       },
       "links_count": 2,
       "objectID": "2512"
@@ -38081,8 +38081,8 @@ const airports = [
       "country": "Ghana",
       "iata_code": "NYI",
       "_geoloc": {
-        "lat": 7.361828,
-        "lng": -2.328756
+        "latitude": 7.361828,
+        "longitude": -2.328756
       },
       "links_count": 2,
       "objectID": "251"
@@ -38093,8 +38093,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "PMY",
       "_geoloc": {
-        "lat": -42.759161,
-        "lng": -65.102725
+        "latitude": -42.759161,
+        "longitude": -65.102725
       },
       "links_count": 2,
       "objectID": "2492"
@@ -38105,8 +38105,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "VDM",
       "_geoloc": {
-        "lat": -40.869222,
-        "lng": -63.000389
+        "latitude": -40.869222,
+        "longitude": -63.000389
       },
       "links_count": 2,
       "objectID": "2491"
@@ -38117,8 +38117,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "PSS",
       "_geoloc": {
-        "lat": -27.385839,
-        "lng": -55.970728
+        "latitude": -27.385839,
+        "longitude": -55.970728
       },
       "links_count": 2,
       "objectID": "2474"
@@ -38129,8 +38129,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "FMA",
       "_geoloc": {
-        "lat": -26.212722,
-        "lng": -58.228111
+        "latitude": -26.212722,
+        "longitude": -58.228111
       },
       "links_count": 2,
       "objectID": "2470"
@@ -38141,8 +38141,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "RES",
       "_geoloc": {
-        "lat": -27.449986,
-        "lng": -59.056125
+        "latitude": -27.449986,
+        "longitude": -59.056125
       },
       "links_count": 2,
       "objectID": "2469"
@@ -38153,8 +38153,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "IRJ",
       "_geoloc": {
-        "lat": -29.381636,
-        "lng": -66.795839
+        "latitude": -29.381636,
+        "longitude": -66.795839
       },
       "links_count": 2,
       "objectID": "2458"
@@ -38165,8 +38165,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "SDE",
       "_geoloc": {
-        "lat": -27.765617,
-        "lng": -64.310122
+        "latitude": -27.765617,
+        "longitude": -64.310122
       },
       "links_count": 2,
       "objectID": "2456"
@@ -38177,8 +38177,8 @@ const airports = [
       "country": "Argentina",
       "iata_code": "CTC",
       "_geoloc": {
-        "lat": -28.593214,
-        "lng": -65.750925
+        "latitude": -28.593214,
+        "longitude": -65.750925
       },
       "links_count": 2,
       "objectID": "2455"
@@ -38189,8 +38189,8 @@ const airports = [
       "country": "Philippines",
       "iata_code": "SJI",
       "_geoloc": {
-        "lat": 10.766044,
-        "lng": 121.933439
+        "latitude": 10.766044,
+        "longitude": 121.933439
       },
       "links_count": 2,
       "objectID": "2435"
@@ -38201,8 +38201,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "TGR",
       "_geoloc": {
-        "lat": 33.067803,
-        "lng": 6.088672
+        "latitude": 33.067803,
+        "longitude": 6.088672
       },
       "links_count": 2,
       "objectID": "240"
@@ -38213,8 +38213,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "UEO",
       "_geoloc": {
-        "lat": 26.363506,
-        "lng": 126.713806
+        "latitude": 26.363506,
+        "longitude": 126.713806
       },
       "links_count": 2,
       "objectID": "2388"
@@ -38225,8 +38225,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "OIM",
       "_geoloc": {
-        "lat": 34.782033,
-        "lng": 139.360306
+        "latitude": 34.782033,
+        "longitude": 139.360306
       },
       "links_count": 2,
       "objectID": "2356"
@@ -38237,8 +38237,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "HAC",
       "_geoloc": {
-        "lat": 33.115,
-        "lng": 139.785833
+        "latitude": 33.115,
+        "longitude": 139.785833
       },
       "links_count": 2,
       "objectID": "2352"
@@ -38249,8 +38249,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "TTJ",
       "_geoloc": {
-        "lat": 35.530069,
-        "lng": 134.166553
+        "latitude": 35.530069,
+        "longitude": 134.166553
       },
       "links_count": 2,
       "objectID": "2335"
@@ -38261,8 +38261,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "IZO",
       "_geoloc": {
-        "lat": 35.413611,
-        "lng": 132.89
+        "latitude": 35.413611,
+        "longitude": 132.89
       },
       "links_count": 2,
       "objectID": "2328"
@@ -38273,8 +38273,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "MBE",
       "_geoloc": {
-        "lat": 44.303914,
-        "lng": 143.404028
+        "latitude": 44.303914,
+        "longitude": 143.404028
       },
       "links_count": 2,
       "objectID": "2298"
@@ -38285,8 +38285,8 @@ const airports = [
       "country": "Japan",
       "iata_code": "SHM",
       "_geoloc": {
-        "lat": 33.662222,
-        "lng": 135.364444
+        "latitude": 33.662222,
+        "longitude": 135.364444
       },
       "links_count": 2,
       "objectID": "2284"
@@ -38297,8 +38297,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "TNN",
       "_geoloc": {
-        "lat": 22.950361,
-        "lng": 120.205778
+        "latitude": 22.950361,
+        "longitude": 120.205778
       },
       "links_count": 2,
       "objectID": "2270"
@@ -38309,8 +38309,8 @@ const airports = [
       "country": "Taiwan",
       "iata_code": "TTT",
       "_geoloc": {
-        "lat": 22.754986,
-        "lng": 121.101681
+        "latitude": 22.754986,
+        "longitude": 121.101681
       },
       "links_count": 2,
       "objectID": "2262"
@@ -38321,8 +38321,8 @@ const airports = [
       "country": "Algeria",
       "iata_code": "TEE",
       "_geoloc": {
-        "lat": 35.431611,
-        "lng": 8.120717
+        "latitude": 35.431611,
+        "longitude": 8.120717
       },
       "links_count": 2,
       "objectID": "222"
@@ -38333,8 +38333,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "PJG",
       "_geoloc": {
-        "lat": 26.954547,
-        "lng": 64.132517
+        "latitude": 26.954547,
+        "longitude": 64.132517
       },
       "links_count": 2,
       "objectID": "2217"
@@ -38345,8 +38345,8 @@ const airports = [
       "country": "Pakistan",
       "iata_code": "GIL",
       "_geoloc": {
-        "lat": 35.918786,
-        "lng": 74.333644
+        "latitude": 35.918786,
+        "longitude": 74.333644
       },
       "links_count": 2,
       "objectID": "2204"
@@ -38357,8 +38357,8 @@ const airports = [
       "country": "Oman",
       "iata_code": "KHS",
       "_geoloc": {
-        "lat": 26.170986,
-        "lng": 56.240569
+        "latitude": 26.170986,
+        "longitude": 56.240569
       },
       "links_count": 2,
       "objectID": "2192"
@@ -38369,8 +38369,8 @@ const airports = [
       "country": "United Arab Emirates",
       "iata_code": "FJR",
       "_geoloc": {
-        "lat": 25.112225,
-        "lng": 56.323964
+        "latitude": 25.112225,
+        "longitude": 56.323964
       },
       "links_count": 2,
       "objectID": "2189"
@@ -38381,8 +38381,8 @@ const airports = [
       "country": "Iran",
       "iata_code": "SDG",
       "_geoloc": {
-        "lat": 35.245856,
-        "lng": 47.009247
+        "latitude": 35.245856,
+        "longitude": 47.009247
       },
       "links_count": 2,
       "objectID": "2117"
@@ -38393,8 +38393,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "EJH",
       "_geoloc": {
-        "lat": 26.198553,
-        "lng": 36.476381
+        "latitude": 26.198553,
+        "longitude": 36.476381
       },
       "links_count": 2,
       "objectID": "2095"
@@ -38405,8 +38405,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "TUI",
       "_geoloc": {
-        "lat": 31.692683,
-        "lng": 38.7312
+        "latitude": 31.692683,
+        "longitude": 38.7312
       },
       "links_count": 2,
       "objectID": "2093"
@@ -38417,8 +38417,8 @@ const airports = [
       "country": "Saudi Arabia",
       "iata_code": "RAH",
       "_geoloc": {
-        "lat": 29.626419,
-        "lng": 43.490614
+        "latitude": 29.626419,
+        "longitude": 43.490614
       },
       "links_count": 2,
       "objectID": "2081"
@@ -38429,8 +38429,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "ZFM",
       "_geoloc": {
-        "lat": 67.4075,
-        "lng": -134.860556
+        "latitude": 67.4075,
+        "longitude": -134.860556
       },
       "links_count": 2,
       "objectID": "206"
@@ -38441,8 +38441,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "WAG",
       "_geoloc": {
-        "lat": -39.962222,
-        "lng": 175.025278
+        "latitude": -39.962222,
+        "longitude": 175.025278
       },
       "links_count": 2,
       "objectID": "2047"
@@ -38453,8 +38453,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "WSZ",
       "_geoloc": {
-        "lat": -41.738056,
-        "lng": 171.580833
+        "latitude": -41.738056,
+        "longitude": 171.580833
       },
       "links_count": 2,
       "objectID": "2046"
@@ -38465,8 +38465,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "WHK",
       "_geoloc": {
-        "lat": -37.920556,
-        "lng": 176.914167
+        "latitude": -37.920556,
+        "longitude": 176.914167
       },
       "links_count": 2,
       "objectID": "2041"
@@ -38477,8 +38477,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "TIU",
       "_geoloc": {
-        "lat": -44.302778,
-        "lng": 171.225278
+        "latitude": -44.302778,
+        "longitude": 171.225278
       },
       "links_count": 2,
       "objectID": "2035"
@@ -38489,8 +38489,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "KAT",
       "_geoloc": {
-        "lat": -35.07,
-        "lng": 173.285278
+        "latitude": -35.07,
+        "longitude": 173.285278
       },
       "links_count": 2,
       "objectID": "2018"
@@ -38501,8 +38501,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "KKE",
       "_geoloc": {
-        "lat": -35.262779,
-        "lng": 173.911944
+        "latitude": -35.262779,
+        "longitude": 173.911944
       },
       "links_count": 2,
       "objectID": "2017"
@@ -38513,8 +38513,8 @@ const airports = [
       "country": "New Zealand",
       "iata_code": "HKK",
       "_geoloc": {
-        "lat": -42.713611,
-        "lng": 170.985278
+        "latitude": -42.713611,
+        "longitude": 170.985278
       },
       "links_count": 2,
       "objectID": "2014"
@@ -38525,8 +38525,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "TOU",
       "_geoloc": {
-        "lat": -20.790028,
-        "lng": 165.259486
+        "latitude": -20.790028,
+        "longitude": 165.259486
       },
       "links_count": 2,
       "objectID": "2003"
@@ -38537,8 +38537,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "MEE",
       "_geoloc": {
-        "lat": -21.481678,
-        "lng": 168.037508
+        "latitude": -21.481678,
+        "longitude": 168.037508
       },
       "links_count": 2,
       "objectID": "2002"
@@ -38549,8 +38549,8 @@ const airports = [
       "country": "New Caledonia",
       "iata_code": "KNQ",
       "_geoloc": {
-        "lat": -21.053428,
-        "lng": 164.837806
+        "latitude": -21.053428,
+        "longitude": 164.837806
       },
       "links_count": 2,
       "objectID": "1998"
@@ -38561,8 +38561,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZR",
       "_geoloc": {
-        "lat": 42.999444,
-        "lng": -82.308889
+        "latitude": 42.999444,
+        "longitude": -82.308889
       },
       "links_count": 2,
       "objectID": "199"
@@ -38573,8 +38573,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "AXR",
       "_geoloc": {
-        "lat": -15.248289,
-        "lng": -146.616708
+        "latitude": -15.248289,
+        "longitude": -146.616708
       },
       "links_count": 2,
       "objectID": "1984"
@@ -38585,8 +38585,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "TKP",
       "_geoloc": {
-        "lat": -14.709544,
-        "lng": -145.245814
+        "latitude": -14.709544,
+        "longitude": -145.245814
       },
       "links_count": 2,
       "objectID": "1983"
@@ -38597,8 +38597,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "MKP",
       "_geoloc": {
-        "lat": -16.583919,
-        "lng": -143.658369
+        "latitude": -16.583919,
+        "longitude": -143.658369
       },
       "links_count": 2,
       "objectID": "1981"
@@ -38609,8 +38609,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "KKR",
       "_geoloc": {
-        "lat": -15.663333,
-        "lng": -146.884769
+        "latitude": -15.663333,
+        "longitude": -146.884769
       },
       "links_count": 2,
       "objectID": "1980"
@@ -38621,8 +38621,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YZP",
       "_geoloc": {
-        "lat": 53.254333,
-        "lng": -131.813833
+        "latitude": 53.254333,
+        "longitude": -131.813833
       },
       "links_count": 2,
       "objectID": "198"
@@ -38633,8 +38633,8 @@ const airports = [
       "country": "French Polynesia",
       "iata_code": "GMR",
       "_geoloc": {
-        "lat": -23.079861,
-        "lng": -134.890333
+        "latitude": -23.079861,
+        "longitude": -134.890333
       },
       "links_count": 2,
       "objectID": "1979"
@@ -38645,8 +38645,8 @@ const airports = [
       "country": "American Samoa",
       "iata_code": "PPG",
       "_geoloc": {
-        "lat": -14.331,
-        "lng": -170.7105
+        "latitude": -14.331,
+        "longitude": -170.7105
       },
       "links_count": 2,
       "objectID": "1970"
@@ -38657,8 +38657,8 @@ const airports = [
       "country": "Cuba",
       "iata_code": "GAO",
       "_geoloc": {
-        "lat": 20.085419,
-        "lng": -75.158328
+        "latitude": 20.085419,
+        "longitude": -75.158328
       },
       "links_count": 2,
       "objectID": "1908"
@@ -38669,8 +38669,8 @@ const airports = [
       "country": "Costa Rica",
       "iata_code": "NOB",
       "_geoloc": {
-        "lat": 9.97649,
-        "lng": -85.653
+        "latitude": 9.97649,
+        "longitude": -85.653
       },
       "links_count": 2,
       "objectID": "1884"
@@ -38681,8 +38681,8 @@ const airports = [
       "country": "Panama",
       "iata_code": "CHX",
       "_geoloc": {
-        "lat": 9.458636,
-        "lng": -82.516806
+        "latitude": 9.458636,
+        "longitude": -82.516806
       },
       "links_count": 2,
       "objectID": "1866"
@@ -38693,8 +38693,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "NLD",
       "_geoloc": {
-        "lat": 27.443918,
-        "lng": -99.57046
+        "latitude": 27.443918,
+        "longitude": -99.57046
       },
       "links_count": 2,
       "objectID": "1828"
@@ -38705,8 +38705,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "LTO",
       "_geoloc": {
-        "lat": 25.989194,
-        "lng": -111.348361
+        "latitude": 25.989194,
+        "longitude": -111.348361
       },
       "links_count": 2,
       "objectID": "1817"
@@ -38717,8 +38717,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YYF",
       "_geoloc": {
-        "lat": 49.463056,
-        "lng": -119.602222
+        "latitude": 49.463056,
+        "longitude": -119.602222
       },
       "links_count": 2,
       "objectID": "181"
@@ -38729,8 +38729,8 @@ const airports = [
       "country": "Mexico",
       "iata_code": "CTM",
       "_geoloc": {
-        "lat": 18.504667,
-        "lng": -88.326847
+        "latitude": 18.504667,
+        "longitude": -88.326847
       },
       "links_count": 2,
       "objectID": "1793"
@@ -38741,8 +38741,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "GJA",
       "_geoloc": {
-        "lat": 16.445367,
-        "lng": -85.906611
+        "latitude": 16.445367,
+        "longitude": -85.906611
       },
       "links_count": 2,
       "objectID": "1773"
@@ -38753,8 +38753,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YXH",
       "_geoloc": {
-        "lat": 50.01889,
-        "lng": -110.720833
+        "latitude": 50.01889,
+        "longitude": -110.720833
       },
       "links_count": 2,
       "objectID": "167"
@@ -38765,8 +38765,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "CND",
       "_geoloc": {
-        "lat": 44.362222,
-        "lng": 28.488333
+        "latitude": 44.362222,
+        "longitude": 28.488333
       },
       "links_count": 2,
       "objectID": "1651"
@@ -38777,8 +38777,8 @@ const airports = [
       "country": "Romania",
       "iata_code": "ARW",
       "_geoloc": {
-        "lat": 46.17655,
-        "lng": 21.262022
+        "latitude": 46.17655,
+        "longitude": 21.262022
       },
       "links_count": 2,
       "objectID": "1647"
@@ -38789,8 +38789,8 @@ const airports = [
       "country": "Bosnia and Herzegovina",
       "iata_code": "OMO",
       "_geoloc": {
-        "lat": 43.2829,
-        "lng": 17.845878
+        "latitude": 43.2829,
+        "longitude": 17.845878
       },
       "links_count": 2,
       "objectID": "1645"
@@ -38801,8 +38801,8 @@ const airports = [
       "country": "Portugal",
       "iata_code": "GRW",
       "_geoloc": {
-        "lat": 39.092169,
-        "lng": -28.029847
+        "latitude": 39.092169,
+        "longitude": -28.029847
       },
       "links_count": 2,
       "objectID": "1627"
@@ -38813,8 +38813,8 @@ const airports = [
       "country": "Czech Republic",
       "iata_code": "BRQ",
       "_geoloc": {
-        "lat": 49.151269,
-        "lng": 16.694433
+        "latitude": 49.151269,
+        "longitude": 16.694433
       },
       "links_count": 2,
       "objectID": "1588"
@@ -38825,8 +38825,8 @@ const airports = [
       "country": "Iceland",
       "iata_code": "IFJ",
       "_geoloc": {
-        "lat": 66.058056,
-        "lng": -23.135278
+        "latitude": 66.058056,
+        "longitude": -23.135278
       },
       "links_count": 2,
       "objectID": "15"
@@ -38837,8 +38837,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KSO",
       "_geoloc": {
-        "lat": 40.446294,
-        "lng": 21.282186
+        "latitude": 40.446294,
+        "longitude": 21.282186
       },
       "links_count": 2,
       "objectID": "1453"
@@ -38849,8 +38849,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YUB",
       "_geoloc": {
-        "lat": 69.433334,
-        "lng": -133.026389
+        "latitude": 69.433334,
+        "longitude": -133.026389
       },
       "links_count": 2,
       "objectID": "145"
@@ -38861,8 +38861,8 @@ const airports = [
       "country": "France",
       "iata_code": "DIJ",
       "_geoloc": {
-        "lat": 47.26889,
-        "lng": 5.09
+        "latitude": 47.26889,
+        "longitude": 5.09
       },
       "links_count": 2,
       "objectID": "1425"
@@ -38873,8 +38873,8 @@ const airports = [
       "country": "France",
       "iata_code": "UIP",
       "_geoloc": {
-        "lat": 47.974981,
-        "lng": -4.167786
+        "latitude": 47.974981,
+        "longitude": -4.167786
       },
       "links_count": 2,
       "objectID": "1417"
@@ -38885,8 +38885,8 @@ const airports = [
       "country": "France",
       "iata_code": "LAI",
       "_geoloc": {
-        "lat": 48.754378,
-        "lng": -3.471656
+        "latitude": 48.754378,
+        "longitude": -3.471656
       },
       "links_count": 2,
       "objectID": "1416"
@@ -38897,8 +38897,8 @@ const airports = [
       "country": "France",
       "iata_code": "LEH",
       "_geoloc": {
-        "lat": 49.533889,
-        "lng": 0.088056
+        "latitude": 49.533889,
+        "longitude": 0.088056
       },
       "links_count": 2,
       "objectID": "1371"
@@ -38909,8 +38909,8 @@ const airports = [
       "country": "France",
       "iata_code": "AUR",
       "_geoloc": {
-        "lat": 44.891388,
-        "lng": 2.421944
+        "latitude": 44.891388,
+        "longitude": 2.421944
       },
       "links_count": 2,
       "objectID": "1344"
@@ -38921,8 +38921,8 @@ const airports = [
       "country": "France",
       "iata_code": "LPY",
       "_geoloc": {
-        "lat": 45.080689,
-        "lng": 3.762889
+        "latitude": 45.080689,
+        "longitude": 3.762889
       },
       "links_count": 2,
       "objectID": "1313"
@@ -38933,8 +38933,8 @@ const airports = [
       "country": "France",
       "iata_code": "ANG",
       "_geoloc": {
-        "lat": 45.729247,
-        "lng": 0.221456
+        "latitude": 45.729247,
+        "longitude": 0.221456
       },
       "links_count": 2,
       "objectID": "1277"
@@ -38945,8 +38945,8 @@ const airports = [
       "country": "Spain",
       "iata_code": "SLM",
       "_geoloc": {
-        "lat": 40.952117,
-        "lng": -5.501986
+        "latitude": 40.952117,
+        "longitude": -5.501986
       },
       "links_count": 2,
       "objectID": "1238"
@@ -38957,8 +38957,8 @@ const airports = [
       "country": "Iceland",
       "iata_code": "EGS",
       "_geoloc": {
-        "lat": 65.283333,
-        "lng": -14.401389
+        "latitude": 65.283333,
+        "longitude": -14.401389
       },
       "links_count": 2,
       "objectID": "12"
@@ -38969,8 +38969,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "MYW",
       "_geoloc": {
-        "lat": -10.339058,
-        "lng": 40.181781
+        "latitude": -10.339058,
+        "longitude": 40.181781
       },
       "links_count": 2,
       "objectID": "1182"
@@ -38981,8 +38981,8 @@ const airports = [
       "country": "Tanzania",
       "iata_code": "ARK",
       "_geoloc": {
-        "lat": -3.367794,
-        "lng": 36.633333
+        "latitude": -3.367794,
+        "longitude": 36.633333
       },
       "links_count": 2,
       "objectID": "1176"
@@ -38993,8 +38993,8 @@ const airports = [
       "country": "Rwanda",
       "iata_code": "KME",
       "_geoloc": {
-        "lat": -2.462242,
-        "lng": 28.90795
+        "latitude": -2.462242,
+        "longitude": 28.90795
       },
       "links_count": 2,
       "objectID": "1166"
@@ -39005,8 +39005,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "LTD",
       "_geoloc": {
-        "lat": 30.151695,
-        "lng": 9.715305
+        "latitude": 30.151695,
+        "longitude": 9.715305
       },
       "links_count": 2,
       "objectID": "1162"
@@ -39017,8 +39017,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YQL",
       "_geoloc": {
-        "lat": 49.630278,
-        "lng": -112.799722
+        "latitude": 49.630278,
+        "longitude": -112.799722
       },
       "links_count": 2,
       "objectID": "116"
@@ -39029,8 +39029,8 @@ const airports = [
       "country": "Libya",
       "iata_code": "GHT",
       "_geoloc": {
-        "lat": 25.145564,
-        "lng": 10.142647
+        "latitude": 25.145564,
+        "longitude": 10.142647
       },
       "links_count": 2,
       "objectID": "1152"
@@ -39041,8 +39041,8 @@ const airports = [
       "country": "Kenya",
       "iata_code": "KTL",
       "_geoloc": {
-        "lat": 0.971989,
-        "lng": 34.958556
+        "latitude": 0.971989,
+        "longitude": 34.958556
       },
       "links_count": 2,
       "objectID": "1141"
@@ -39053,8 +39053,8 @@ const airports = [
       "country": "Egypt",
       "iata_code": "ABS",
       "_geoloc": {
-        "lat": 22.375953,
-        "lng": 31.611722
+        "latitude": 22.375953,
+        "longitude": 31.611722
       },
       "links_count": 2,
       "objectID": "1127"
@@ -39065,8 +39065,8 @@ const airports = [
       "country": "Cape Verde",
       "iata_code": "MMO",
       "_geoloc": {
-        "lat": 15.155928,
-        "lng": -23.213703
+        "latitude": 15.155928,
+        "longitude": -23.213703
       },
       "links_count": 2,
       "objectID": "1104"
@@ -39077,8 +39077,8 @@ const airports = [
       "country": "Iceland",
       "iata_code": "AEY",
       "_geoloc": {
-        "lat": 65.659994,
-        "lng": -18.072703
+        "latitude": 65.659994,
+        "longitude": -18.072703
       },
       "links_count": 2,
       "objectID": "11"
@@ -39089,8 +39089,8 @@ const airports = [
       "country": "Senegal",
       "iata_code": "CSK",
       "_geoloc": {
-        "lat": 12.4102,
-        "lng": -16.746125
+        "latitude": 12.4102,
+        "longitude": -16.746125
       },
       "links_count": 2,
       "objectID": "1082"
@@ -39101,8 +39101,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "TTU",
       "_geoloc": {
-        "lat": 35.594333,
-        "lng": -5.320019
+        "latitude": 35.594333,
+        "longitude": -5.320019
       },
       "links_count": 2,
       "objectID": "1079"
@@ -39113,8 +39113,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "AHU",
       "_geoloc": {
-        "lat": 35.177103,
-        "lng": -3.839525
+        "latitude": 35.177103,
+        "longitude": -3.839525
       },
       "links_count": 2,
       "objectID": "1078"
@@ -39125,8 +39125,8 @@ const airports = [
       "country": "Morocco",
       "iata_code": "TTA",
       "_geoloc": {
-        "lat": 28.448194,
-        "lng": -11.161347
+        "latitude": 28.448194,
+        "longitude": -11.161347
       },
       "links_count": 2,
       "objectID": "1065"
@@ -39137,8 +39137,8 @@ const airports = [
       "country": "Canada",
       "iata_code": "YPL",
       "_geoloc": {
-        "lat": 51.446388,
-        "lng": -90.214167
+        "latitude": 51.446388,
+        "longitude": -90.214167
       },
       "links_count": 2,
       "objectID": "105"
@@ -39149,8 +39149,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "IRP",
       "_geoloc": {
-        "lat": 2.827606,
-        "lng": 27.588253
+        "latitude": 2.827606,
+        "longitude": 27.588253
       },
       "links_count": 2,
       "objectID": "1032"
@@ -39161,8 +39161,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "GMA",
       "_geoloc": {
-        "lat": 3.235369,
-        "lng": 19.771258
+        "latitude": 3.235369,
+        "longitude": 19.771258
       },
       "links_count": 2,
       "objectID": "1028"
@@ -39173,8 +39173,8 @@ const airports = [
       "country": "Lesotho",
       "iata_code": "MSU",
       "_geoloc": {
-        "lat": -29.462256,
-        "lng": 27.552503
+        "latitude": -29.462256,
+        "longitude": 27.552503
       },
       "links_count": 2,
       "objectID": "1018"
@@ -39185,8 +39185,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "SXX",
       "_geoloc": {
-        "lat": -6.641389,
-        "lng": -51.952222
+        "latitude": -6.641389,
+        "longitude": -51.952222
       },
       "links_count": 1,
       "objectID": "8241"
@@ -39197,8 +39197,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "STZ",
       "_geoloc": {
-        "lat": -10.47,
-        "lng": -50.502778
+        "latitude": -10.47,
+        "longitude": -50.502778
       },
       "links_count": 1,
       "objectID": "7374"
@@ -39209,8 +39209,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "BVS",
       "_geoloc": {
-        "lat": -1.681944,
-        "lng": -50.48
+        "latitude": -1.681944,
+        "longitude": -50.48
       },
       "links_count": 1,
       "objectID": "7370"
@@ -39221,8 +39221,8 @@ const airports = [
       "country": "Brazil",
       "iata_code": "CMP",
       "_geoloc": {
-        "lat": -9.505,
-        "lng": -50.625
+        "latitude": -9.505,
+        "longitude": -50.625
       },
       "links_count": 1,
       "objectID": "7369"
@@ -39233,8 +39233,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KZB",
       "_geoloc": {
-        "lat": 57.55,
-        "lng": -153.75
+        "latitude": 57.55,
+        "longitude": -153.75
       },
       "links_count": 1,
       "objectID": "7176"
@@ -39245,8 +39245,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KPR",
       "_geoloc": {
-        "lat": 58.49,
-        "lng": -152.582222
+        "latitude": 58.49,
+        "longitude": -152.582222
       },
       "links_count": 1,
       "objectID": "7172"
@@ -39257,8 +39257,8 @@ const airports = [
       "country": "United States",
       "iata_code": "KYK",
       "_geoloc": {
-        "lat": 57.566944,
-        "lng": -154.450278
+        "latitude": 57.566944,
+        "longitude": -154.450278
       },
       "links_count": 1,
       "objectID": "7161"
@@ -39269,8 +39269,8 @@ const airports = [
       "country": "Mongolia",
       "iata_code": "DLZ",
       "_geoloc": {
-        "lat": 43.5917,
-        "lng": 104.43
+        "latitude": 43.5917,
+        "longitude": 104.43
       },
       "links_count": 1,
       "objectID": "6372"
@@ -39281,8 +39281,8 @@ const airports = [
       "country": "Australia",
       "iata_code": "PTJ",
       "_geoloc": {
-        "lat": -38.3181,
-        "lng": 141.471
+        "latitude": -38.3181,
+        "longitude": 141.471
       },
       "links_count": 1,
       "objectID": "6321"
@@ -39293,8 +39293,8 @@ const airports = [
       "country": "Niue",
       "iata_code": "IUE",
       "_geoloc": {
-        "lat": -19.080028,
-        "lng": -169.925639
+        "latitude": -19.080028,
+        "longitude": -169.925639
       },
       "links_count": 1,
       "objectID": "5884"
@@ -39305,8 +39305,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "LJA",
       "_geoloc": {
-        "lat": -3.417,
-        "lng": 23.45
+        "latitude": -3.417,
+        "longitude": 23.45
       },
       "links_count": 1,
       "objectID": "5653"
@@ -39317,8 +39317,8 @@ const airports = [
       "country": "Honduras",
       "iata_code": "UII",
       "_geoloc": {
-        "lat": 16.091667,
-        "lng": -86.8875
+        "latitude": 16.091667,
+        "longitude": -86.8875
       },
       "links_count": 1,
       "objectID": "4125"
@@ -39329,8 +39329,8 @@ const airports = [
       "country": "Eritrea",
       "iata_code": "MSW",
       "_geoloc": {
-        "lat": 15.669989,
-        "lng": 39.370103
+        "latitude": 15.669989,
+        "longitude": 39.370103
       },
       "links_count": 1,
       "objectID": "3968"
@@ -39341,8 +39341,8 @@ const airports = [
       "country": "Ecuador",
       "iata_code": "TUA",
       "_geoloc": {
-        "lat": 0.809506,
-        "lng": -77.708056
+        "latitude": 0.809506,
+        "longitude": -77.708056
       },
       "links_count": 1,
       "objectID": "2697"
@@ -39353,8 +39353,8 @@ const airports = [
       "country": "Israel",
       "iata_code": "VDA",
       "_geoloc": {
-        "lat": 29.94025,
-        "lng": 34.93585
+        "latitude": 29.94025,
+        "longitude": 34.93585
       },
       "links_count": 1,
       "objectID": "1602"
@@ -39365,8 +39365,8 @@ const airports = [
       "country": "Greece",
       "iata_code": "KZI",
       "_geoloc": {
-        "lat": 40.28611,
-        "lng": 21.840834
+        "latitude": 40.28611,
+        "longitude": 21.840834
       },
       "links_count": 1,
       "objectID": "1463"
@@ -39377,8 +39377,8 @@ const airports = [
       "country": "Congo (Kinshasa)",
       "iata_code": "FMI",
       "_geoloc": {
-        "lat": -5.875556,
-        "lng": 29.25
+        "latitude": -5.875556,
+        "longitude": 29.25
       },
       "links_count": 1,
       "objectID": "1040"
