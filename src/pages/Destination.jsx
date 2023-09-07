@@ -5,6 +5,8 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
+import travelPhrases from '../assets/data/travelPhrases';
+import languagesWithCodes from '../assets/data/languageCodes';
 
 export default function Destination({
     departureAirportInputLabel,
@@ -35,6 +37,8 @@ export default function Destination({
     const [weatherForecast, setWeatherForecast] = useState([]);
     const [weatherForecastTemperatures, setWeatherForecastTemperatures] = useState([]);
 
+    const [phrasesAndTranslations, setPhrasesAndTranslations] = useState([]);
+
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.getFreeCurrencyAPIExchangeRate(baseCurrency, targetCurrency)
             .then((response) => {
@@ -51,14 +55,14 @@ export default function Destination({
     useEffect(() => {
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
-        const departureInfo = airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase())
-        setDepartureAirport(departureInfo);
-        const destinationInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
-        setDestinationAirport(destinationInfo);
+        const departureAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase())
+        setDepartureAirport(departureAirportInfo);
+        const destinationAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
+        setDestinationAirport(destinationAirportInfo);
 
         // Entry Requirements
-        if (departureInfo[0].country === "United Kingdom") {
-            api.getGovUKForeignTravelAdvice(destinationInfo[0].country)
+        if (departureAirportInfo[0].country === "United Kingdom") {
+            api.getGovUKForeignTravelAdvice(destinationAirportInfo[0].country)
             .then((response) => {
                 setGovUKForeignTravelAdvice(response);
                 const entryRequirements = response.details.parts.filter((part) => {
@@ -75,18 +79,19 @@ export default function Destination({
         // Entry Requirements
 
         // Country Information
-        api.getInfoForDepartureAndDestinationCountries(departureInfo[0].country)
+        api.getInfoForDepartureAndDestinationCountries(departureAirportInfo[0].country)
             .then((response) => {
                 const infoForDepartureCountry = response.filter((country) => {
-                    return country.name.common === departureInfo[0].country || country.name.official === departureInfo[0].country;
+                    return country.name.common === departureAirportInfo[0].country || country.name.official === departureAirportInfo[0].country;
                 })
                 setDepartureCountryInfo(infoForDepartureCountry);
-                return api.getInfoForDepartureAndDestinationCountries(destinationInfo[0].country)
+                return api.getInfoForDepartureAndDestinationCountries(destinationAirportInfo[0].country)
             })
             .then((response) => {
                 const infoForDestinationCountry = response.filter((country) => {
-                    return country.name.common === destinationInfo[0].country || country.name.official === destinationInfo[0].country;
+                    return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
+                const language = languagesWithCodes.filter((language) => language.name === Object.values(infoForDestinationCountry[0].languages)[0]);
                 setDestinationCountryInfo(infoForDestinationCountry);
                 setDepartureCountryInfo((currentDepartureCountryInfo) => {
                     if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
@@ -104,7 +109,7 @@ export default function Destination({
         // Country Information
 
         // Weather Forecast
-        api.getOpenMateoWeatherForeCast(destinationInfo[0]._geoloc.latitude, destinationInfo[0]._geoloc.longitude)
+        api.getOpenMateoWeatherForeCast(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
             .then((response) => {
                 const weatherForecastInfo = [];
                 for (let date = 0; date < response.daily.time.length; date++) {
@@ -200,7 +205,7 @@ export default function Destination({
 
                 {weatherForecast.length > 0
                     ? <section>
-                        <h2 id="weather-forecast">Weather Forecast (14 days)</h2>
+                        <h2 id="weather-forecast">Weather Forecast (10 days)</h2>
                         <div>Temperatures in {weatherForecast[0].maxTempUnits}.</div>
                         <BarChart data={weatherForecast} />
                     </section>
