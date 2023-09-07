@@ -76,4 +76,33 @@ footer {
     display: grid;
     gap: 10px;
 }
+
+.bar-chart {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(10, 1fr);
+    align-items: end;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.bar-chart-bar-and-date {
+    display: grid;
+    gap: 10px;
+}
+  
+.bar-chart-bar {
+    background-color: #007bff; /* Set your desired color here */
+    color: white;
+    font-weight: bold;
+    padding-top: 5px;
+}
 /************************* DESTINATION *************************/
+
+
+@media only screen and (min-width: 600px) {
+    .bar-chart {
+        gap: 10px;
+        font-size: initial;
+    }
+}

@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
+import BarChart from '../components/BarChart';
 
 export default function Destination({
     departureAirportInputLabel,
@@ -31,7 +32,8 @@ export default function Destination({
 
     const [currencyExchange, setCurrencyExchange] = useState([]);
 
-    const [weatherForecast, setWeatherForecast] = useState({});
+    const [weatherForecast, setWeatherForecast] = useState([]);
+    const [weatherForecastTemperatures, setWeatherForecastTemperatures] = useState([]);
 
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.getFreeCurrencyAPIExchangeRate(baseCurrency, targetCurrency)
@@ -117,14 +119,14 @@ export default function Destination({
                     });
                 }
                 setWeatherForecast(weatherForecastInfo);
+                const temperatures = weatherForecastInfo.map((temperature) => temperature.maxTemp);
+                setWeatherForecastTemperatures(temperatures);
             })
             .catch((error) => {
                 setWeatherForecast({});
             })
         // Weather Forecast
     }, [destination_airport_id, departure_airport_id])
-
-    
 
     return (
         <div>
@@ -148,7 +150,8 @@ export default function Destination({
             />
 
             <main>
-                <h2>{departureAirport[0].city} ({departureAirport[0].country}) ---&gt; {destinationAirport[0].city} ({destinationAirport[0].country})</h2>
+                <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
+                <p>Travelling from {departureAirport[0].city}, {departureAirport[0].country}.</p>
 
                 {govUKForeignTravelAdviceEntryRequirements || destinationCountryInfo.length > 0
                     ? <section>
@@ -198,21 +201,8 @@ export default function Destination({
                 {weatherForecast.length > 0
                     ? <section>
                         <h2 id="weather-forecast">Weather Forecast (14 days)</h2>
-                        <div id="weather-forecast-hour-and-temperature">
-                            {weatherForecast.map((date) => {
-                                return (
-                                    <div key={date.date}>
-                                        <div key={date.date}>{new Date(date.date).toDateString()}</div>
-                                        <div>Min: {date.minTemp}{date.minTempUnits}</div>
-                                        <div>Max: {date.maxTemp}{date.maxTempUnits}</div>
-                                        {date.maxPrecipitationProbability
-                                            ? <div>Chance of rain: {date.maxPrecipitationProbability}{date.maxPrecipitationProbabilityUnits}</div>
-                                            : <div>Chance of rain: Unknown</div>
-                                        }
-                                    </div>
-                                )
-                            })}
-                        </div>
+                        <div>Temperatures in {weatherForecast[0].maxTempUnits}.</div>
+                        <BarChart data={weatherForecast} />
                     </section>
                     : null
                 }
