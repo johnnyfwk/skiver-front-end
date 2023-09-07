@@ -33,7 +33,7 @@ export default function AirportInput({
         setAirportInput(event.target.attributes.name.value + " (" + event.target.attributes.code.value + "), " + event.target.attributes.city.value + ", " + event.target.attributes.country.value);
         setSelectedAirportId(event.target.attributes.id.value);
         setAirportsMatchingInput(null);
-        if (airportInputLabel === "Departure Airport:") {
+        if (airportInputLabel === "Departing from:") {
             setDestinationAirports(airports.filter((airport) => {
                 return airport.city !== event.target.attributes.city.value || airport.country !== event.target.attributes.country.value;
             }));
