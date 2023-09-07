@@ -87,8 +87,12 @@ export default function Destination({
                 })
                 setDestinationCountryInfo(infoForDestinationCountry);
                 setDepartureCountryInfo((currentDepartureCountryInfo) => {
-                    // getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
-                    return currentDepartureCountryInfo;
+                    if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
+                        getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
+                        return currentDepartureCountryInfo;
+                    } else {
+                        setCurrencyExchange([]);
+                    }
                 })
             })
             .catch((error) => {
@@ -154,10 +158,10 @@ export default function Destination({
                                 ? <li><a href="#country-information">Country Information</a></li>
                                 : null
                             }
-                            {/* {Object.keys(currencyExchange).length > 0
+                            {Object.keys(currencyExchange).length > 0
                                 ? <li><a href="#currency-exchange">Currency Exchange</a></li>
                                 : null
-                            } */}
+                            }
                             {weatherForecast.length > 0
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
@@ -183,13 +187,13 @@ export default function Destination({
                     : null
                 }
 
-                {/* {Object.keys(currencyExchange).length > 0
+                {Object.keys(currencyExchange).length > 0
                     ? <section>
                         <h2 id="currency-exchange">Currency Exchange</h2>
                         <p>1 {currencyExchange.baseCurrency} = {Object.values(currencyExchange.targetCurrencyAndRate)[0]} {Object.keys(currencyExchange.targetCurrencyAndRate)[0]}</p>
                     </section>
                     : null
-                } */}
+                }
 
                 {weatherForecast.length > 0
                     ? <section>
