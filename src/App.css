@@ -74,6 +74,6 @@ footer {
 /************************* DESTINATION *************************/
 #weather-forecast-hour-and-temperature {
     display: grid;
-    gap: 10px;
+    gap: 5px;
 }
 /************************* DESTINATION *************************/

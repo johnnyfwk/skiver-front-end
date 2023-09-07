@@ -20,21 +20,41 @@ export default function Destination({
     const { destination_airport_id } = useParams();
     const { departure_airport_id } = useParams();
 
-    const [departure, setDeparture] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase()));
-    const [destination, setDestination] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
+    const [departureAirport, setDepartureAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase()));
+    const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
 
     const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
     const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
-    const [countryInfo, setCountryInfo] = useState({});
+
+    const [departureCountryInfo, setDepartureCountryInfo] = useState([]);
+    const [destinationCountryInfo, setDestinationCountryInfo] = useState([]);
+
+    const [currencyExchange, setCurrencyExchange] = useState([]);
+
     const [weatherForecast, setWeatherForecast] = useState({});
+
+    function getCurrencyExchange(baseCurrency, targetCurrency) {
+        api.getFreeCurrencyAPIExchangeRate(baseCurrency, targetCurrency)
+            .then((response) => {
+                setCurrencyExchange({
+                    baseCurrency: baseCurrency,
+                    targetCurrencyAndRate: response
+                });
+            })
+            .catch((error) => {
+                setCurrencyExchange([]);
+            })
+    }
 
     useEffect(() => {
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
         const departureInfo = airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase())
-        setDeparture(departureInfo);
+        setDepartureAirport(departureInfo);
         const destinationInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
-        setDestination(destinationInfo);
+        setDestinationAirport(destinationInfo);
+
+        // Entry Requirements
         if (departureInfo[0].country === "United Kingdom") {
             api.getGovUKForeignTravelAdvice(destinationInfo[0].country)
             .then((response) => {
@@ -50,19 +70,36 @@ export default function Destination({
                 setGovUKForeignTravelAdviceEntryRequirements("");
             })
         }
-        api.getRESTCountriesCountryInfo(destinationInfo[0].country)
+        // Entry Requirements
+
+        // Country Information
+        api.getInfoForDepartureAndDestinationCountries(departureInfo[0].country)
             .then((response) => {
-                const infoForCountry = response.filter((country) => {
+                const infoForDepartureCountry = response.filter((country) => {
+                    return country.name.common === departureInfo[0].country || country.name.official === departureInfo[0].country;
+                })
+                setDepartureCountryInfo(infoForDepartureCountry);
+                return api.getInfoForDepartureAndDestinationCountries(destinationInfo[0].country)
+            })
+            .then((response) => {
+                const infoForDestinationCountry = response.filter((country) => {
                     return country.name.common === destinationInfo[0].country || country.name.official === destinationInfo[0].country;
                 })
-                setCountryInfo(infoForCountry);
+                setDestinationCountryInfo(infoForDestinationCountry);
+                setDepartureCountryInfo((currentDepartureCountryInfo) => {
+                    getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
+                    return currentDepartureCountryInfo;
+                })
             })
             .catch((error) => {
-                setCountryInfo({});
+                setDepartureCountryInfo([]);
+                setDestinationCountryInfo([]);
             })
+        // Country Information
+
+        // Weather Forecast
         api.getOpenMateoWeatherForeCast(destinationInfo[0]._geoloc.latitude, destinationInfo[0]._geoloc.longitude)
             .then((response) => {
-                console.log(response);
                 let timeAndTemperature = [];
                 for (let hour = 0; hour < response.hourly.time.length; hour ++) {
                     timeAndTemperature.push({hour: response.hourly.time[hour], temperature: response.hourly.temperature_2m
@@ -73,16 +110,15 @@ export default function Destination({
             .catch((error) => {
                 setWeatherForecast({});
             })
+        // Weather Forecast
     }, [destination_airport_id, departure_airport_id])
-
-    console.log(weatherForecast);
 
     return (
         <div>
             <Helmet>
                 <link rel="canonical" href={`https://skiver.co.uk/destination/${destination_airport_id}`} />
-                <title>Travel information for {destination[0].city}, {destination[0].country} • Skiver</title>
-                <meta name="description" content={`Entry requirements, flight, accommodation, weather, and events information for ${destination[0].city}, ${destination[0].country}.`} />
+                <title>Travel information for {destinationAirport[0].city}, {destinationAirport[0].country} • Skiver</title>
+                <meta name="description" content={`Entry requirements, flight, accommodation, weather, and events information for ${destinationAirport[0].city}, ${destinationAirport[0].country}.`} />
             </Helmet>
 
             <TravelInput
@@ -99,14 +135,18 @@ export default function Destination({
             />
 
             <main>
-                <h2>{destination[0].city},  {destination[0].country}</h2>
+                <h2>{departureAirport[0].city} ({departureAirport[0].country}) ---&gt; {destinationAirport[0].city} ({destinationAirport[0].country})</h2>
 
-                {govUKForeignTravelAdviceEntryRequirements || countryInfo.length > 0
+                {govUKForeignTravelAdviceEntryRequirements || destinationCountryInfo.length > 0
                     ? <section>
                         <h2>Contents</h2>
                         <ul>
-                            {countryInfo.length > 0
-                                ? <li><a href="#country-information">General Information</a></li>
+                            {destinationCountryInfo.length > 0
+                                ? <li><a href="#country-information">Country Information</a></li>
+                                : null
+                            }
+                            {Object.keys(currencyExchange).length > 0
+                                ? <li><a href="#currency-exchange">Currency Exchange</a></li>
                                 : null
                             }
                             {govUKForeignTravelAdviceEntryRequirements
@@ -122,14 +162,22 @@ export default function Destination({
                     : <div>No information to display</div>
                 }
 
-                {countryInfo.length > 0
+                {destinationCountryInfo.length > 0
                     ? <section id="country-information">
-                        <h2>General Information</h2>
-                        <img src={countryInfo[0].flags.svg} alt={countryInfo[0].flags.alt} />
-                        <div><b>Population</b>: {countryInfo[0].population.toLocaleString()}</div>
-                        <div><b>Languages</b>: {Object.values(countryInfo[0].languages).join(", ")}</div>
-                        <div><b>Currencies</b>: {Object.values(countryInfo[0].currencies).map((currency) => currency.name).join(", ")}</div>
-                        <div><b>Continents</b>: {countryInfo[0].continents.join(", ")}</div>
+                        <h2>Country Information</h2>
+                        <img src={destinationCountryInfo[0].flags.svg} alt={destinationCountryInfo[0].flags.alt} />
+                        <div><b>Population</b>: {destinationCountryInfo[0].population.toLocaleString()}</div>
+                        <div><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</div>
+                        <div><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</div>
+                        <div><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</div>
+                    </section>
+                    : null
+                }
+
+                {Object.keys(currencyExchange).length > 0
+                    ? <section>
+                        <h2 id="currency-exchange">Currency Exchange</h2>
+                        <p>1 {currencyExchange.baseCurrency} = {Object.values(currencyExchange.targetCurrencyAndRate)[0]} {Object.keys(currencyExchange.targetCurrencyAndRate)[0]}</p>
                     </section>
                     : null
                 }
