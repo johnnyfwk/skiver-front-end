@@ -25,6 +25,7 @@ export default function AirportInput({
             setAirportsMatchingInput(matchingAirports);
         }
         else {
+            setSelectedAirportId("");
             setAirportsMatchingInput([]);
         }
     }

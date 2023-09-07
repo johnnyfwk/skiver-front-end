@@ -87,7 +87,7 @@ export default function Destination({
                 })
                 setDestinationCountryInfo(infoForDestinationCountry);
                 setDepartureCountryInfo((currentDepartureCountryInfo) => {
-                    getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
+                    // getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
                     return currentDepartureCountryInfo;
                 })
             })
@@ -100,18 +100,27 @@ export default function Destination({
         // Weather Forecast
         api.getOpenMateoWeatherForeCast(destinationInfo[0]._geoloc.latitude, destinationInfo[0]._geoloc.longitude)
             .then((response) => {
-                let timeAndTemperature = [];
-                for (let hour = 0; hour < response.hourly.time.length; hour ++) {
-                    timeAndTemperature.push({hour: response.hourly.time[hour], temperature: response.hourly.temperature_2m
-                        [hour]});
+                const weatherForecastInfo = [];
+                for (let date = 0; date < response.daily.time.length; date++) {
+                    weatherForecastInfo.push({
+                        date: response.daily.time[date],
+                        minTemp: response.daily.temperature_2m_min[date],
+                        minTempUnits: response.daily_units.temperature_2m_min,
+                        maxTemp: response.daily.temperature_2m_max[date],
+                        maxTempUnits: response.daily_units.temperature_2m_max,
+                        maxPrecipitationProbability: response.daily.precipitation_probability_max[date],
+                        maxPrecipitationProbabilityUnits: response.daily_units.precipitation_probability_max
+                    });
                 }
-                setWeatherForecast(timeAndTemperature);
+                setWeatherForecast(weatherForecastInfo);
             })
             .catch((error) => {
                 setWeatherForecast({});
             })
         // Weather Forecast
     }, [destination_airport_id, departure_airport_id])
+
+    
 
     return (
         <div>
@@ -145,16 +154,16 @@ export default function Destination({
                                 ? <li><a href="#country-information">Country Information</a></li>
                                 : null
                             }
-                            {Object.keys(currencyExchange).length > 0
+                            {/* {Object.keys(currencyExchange).length > 0
                                 ? <li><a href="#currency-exchange">Currency Exchange</a></li>
+                                : null
+                            } */}
+                            {weatherForecast.length > 0
+                                ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
                             }
                             {govUKForeignTravelAdviceEntryRequirements
                                 ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
-                                : null
-                            }
-                            {weatherForecast.length > 0
-                                ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
                             }
                         </ul>
@@ -174,10 +183,32 @@ export default function Destination({
                     : null
                 }
 
-                {Object.keys(currencyExchange).length > 0
+                {/* {Object.keys(currencyExchange).length > 0
                     ? <section>
                         <h2 id="currency-exchange">Currency Exchange</h2>
                         <p>1 {currencyExchange.baseCurrency} = {Object.values(currencyExchange.targetCurrencyAndRate)[0]} {Object.keys(currencyExchange.targetCurrencyAndRate)[0]}</p>
+                    </section>
+                    : null
+                } */}
+
+                {weatherForecast.length > 0
+                    ? <section>
+                        <h2 id="weather-forecast">Weather Forecast (14 days)</h2>
+                        <div id="weather-forecast-hour-and-temperature">
+                            {weatherForecast.map((date) => {
+                                return (
+                                    <div key={date.date}>
+                                        <div key={date.date}>{new Date(date.date).toDateString()}</div>
+                                        <div>Min: {date.minTemp}{date.minTempUnits}</div>
+                                        <div>Max: {date.maxTemp}{date.maxTempUnits}</div>
+                                        {date.maxPrecipitationProbability
+                                            ? <div>Chance of rain: {date.maxPrecipitationProbability}{date.maxPrecipitationProbabilityUnits}</div>
+                                            : <div>Chance of rain: Unknown</div>
+                                        }
+                                    </div>
+                                )
+                            })}
+                        </div>
                     </section>
                     : null
                 }
@@ -190,18 +221,6 @@ export default function Destination({
                             dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
                             className="body"
                         />
-                    </section>
-                    : null
-                }
-
-                {weatherForecast.length > 0
-                    ? <section>
-                        <h2 id="weather-forecast">Weather Forecast (14 days)</h2>
-                        <div id="weather-forecast-hour-and-temperature">
-                            {weatherForecast.map((hour) => {
-                                return <div key={hour.hour}>{new Date(hour.hour).toLocaleString()}: <b>{hour.temperature}°C</b></div>
-                            })}
-                        </div>
                     </section>
                     : null
                 }

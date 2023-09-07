@@ -35,7 +35,7 @@ export function getInfoForDepartureAndDestinationCountries(country) {
 
 // Source: https://api.open-meteo.com
 export function getOpenMateoWeatherForeCast(latitude, longitude) {
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&hourly=temperature_2m&forecast_days=14`;
+    const url =`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=GMT&forecast_days=14`;
 
     return axios
         .get(url)
