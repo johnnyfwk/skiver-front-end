@@ -45,8 +45,6 @@ export function openMateo(latitude, longitude) {
 }
 
 export function freeCurrencyAPI(baseCurrency, targetCurrency) {
-    console.log(baseCurrency, "<------ baseCurrency")
-    console.log(targetCurrency, "<------ targetCurrency")
     const url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_UtsDQp4rrzZtoCXxgNQGPV1JHMn1uGy2bG1GXlfC&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
 
     return axios(url)

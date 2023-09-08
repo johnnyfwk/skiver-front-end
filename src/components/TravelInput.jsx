@@ -4,63 +4,63 @@ import AirportInput from "./AirportInput";
 import airports from "../assets/data/airports";
 
 export default function TravelInput({
-    departureAirportInputLabel,
-    departureAirportInputName,
-    departureAirportInputPlaceholder,
-    departureAirportInput,
-    setDepartureAirportInput,
-    arrivalAirportInputLabel,
-    arrivalAirportInputName,
-    arrivalAirportInputPlaceholder,
-    arrivalAirportInput,
-    setArrivalAirportInput
+    originAirportInputLabel,
+    originAirportInputName,
+    originAirportInputPlaceholder,
+    originAirportInput,
+    setOriginAirportInput,
+    destinationAirportInputLabel,
+    destinationAirportInputName,
+    destinationAirportInputPlaceholder,
+    destinationAirportInput,
+    setDestinationAirportInput
 }) {
-    const [selectedDepartureAirportId, setSelectedDepartureAirportId] = useState("");
-    const [selectedArrivalAirportId, setSelectedArrivalAirportId] = useState("");
+    const [selectedOriginAirportId, setSelectedOriginAirportId] = useState("");
+    const [selectedDestinationAirportId, setSelectedDestinationAirportId] = useState("");
     const [destinationAirports, setDestinationAirports] = useState([]);
 
     const navigate = useNavigate();
     
     function handleSubmit(event) {
         event.preventDefault();
-        navigate(`/destination/${selectedArrivalAirportId.toLowerCase()}/departure/${selectedDepartureAirportId.toLowerCase()}`);
-        setDepartureAirportInput("");
-        setArrivalAirportInput("");
-        setSelectedDepartureAirportId("");
-        setSelectedArrivalAirportId("");
+        navigate(`/destination/${selectedDestinationAirportId.toLowerCase()}/origin/${selectedOriginAirportId.toLowerCase()}`);
+        setOriginAirportInput("");
+        setDestinationAirportInput("");
+        setSelectedOriginAirportId("");
+        setSelectedDestinationAirportId("");
     }
 
     function handleResetForm() {
-        setDepartureAirportInput("");
-        setArrivalAirportInput("");
-        setSelectedDepartureAirportId("");
-        setSelectedArrivalAirportId("");
+        setOriginAirportInput("");
+        setDestinationAirportInput("");
+        setSelectedOriginAirportId("");
+        setSelectedDestinationAirportId("");
     }
 
     return (
         <header>
-            <h1>Get travel information for your holiday destination</h1>
-            <p>Enter departure and arrival locations to get city and country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
+            <h1>Get travel information for holiday destinations</h1>
+            <p>Enter origin and destination locations to get city and country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
             <form>
                 <AirportInput
-                    airportInputLabel={departureAirportInputLabel}
-                    airportInputName={departureAirportInputName}
-                    airportInputPlaceholder={departureAirportInputPlaceholder}
-                    airportInput={departureAirportInput}
-                    setAirportInput={setDepartureAirportInput}
+                    airportInputLabel={originAirportInputLabel}
+                    airportInputName={originAirportInputName}
+                    airportInputPlaceholder={originAirportInputPlaceholder}
+                    airportInput={originAirportInput}
+                    setAirportInput={setOriginAirportInput}
                     airports={airports}
-                    setSelectedAirportId={setSelectedDepartureAirportId}
+                    setSelectedAirportId={setSelectedOriginAirportId}
                     setDestinationAirports={setDestinationAirports}
                 />
-                {selectedDepartureAirportId
+                {selectedOriginAirportId
                     ? <AirportInput
-                        airportInputLabel={arrivalAirportInputLabel}
-                        airportInputName={arrivalAirportInputName}
-                        airportInputPlaceholder={arrivalAirportInputPlaceholder}
-                        airportInput={arrivalAirportInput}
-                        setAirportInput={setArrivalAirportInput}
+                        airportInputLabel={destinationAirportInputLabel}
+                        airportInputName={destinationAirportInputName}
+                        airportInputPlaceholder={destinationAirportInputPlaceholder}
+                        airportInput={destinationAirportInput}
+                        setAirportInput={setDestinationAirportInput}
                         airports={destinationAirports}
-                        setSelectedAirportId={setSelectedArrivalAirportId}
+                        setSelectedAirportId={setSelectedDestinationAirportId}
                     />
                     : null
                 }
@@ -68,13 +68,13 @@ export default function TravelInput({
                     type="submit"
                     value="Submit"
                     onClick={handleSubmit}
-                    disabled={!selectedDepartureAirportId || !selectedArrivalAirportId}
+                    disabled={!selectedOriginAirportId || !selectedDestinationAirportId}
                 />
                 <input
                     type="reset"
                     value="Reset"
                     onClick={handleResetForm}
-                    disabled={!departureAirportInput && !arrivalAirportInput}
+                    disabled={!originAirportInput && !destinationAirportInput}
                 />
             </form>
         </header>

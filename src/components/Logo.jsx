@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom";
 
 export default function Logo({
-    setDepartureAirportInput,
-    setArrivalAirportInput
+    setOriginAirportInput,
+    setDestinationAirportInput
 }) {
     function handleLogo() {
         window.scrollTo(0, 0);
-        setDepartureAirportInput("");
-        setArrivalAirportInput("");
+        setOriginAirportInput("");
+        setDestinationAirportInput("");
     }
 
     return (
