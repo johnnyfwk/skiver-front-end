@@ -35,9 +35,6 @@ export default function Destination({
     const [currencyExchange, setCurrencyExchange] = useState([]);
 
     const [weatherForecast, setWeatherForecast] = useState([]);
-    const [weatherForecastTemperatures, setWeatherForecastTemperatures] = useState([]);
-
-    const [phrasesAndTranslations, setPhrasesAndTranslations] = useState([]);
 
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.freeCurrencyAPI(baseCurrency, targetCurrency)
@@ -126,8 +123,6 @@ export default function Destination({
                     });
                 }
                 setWeatherForecast(weatherForecastInfo);
-                const temperatures = weatherForecastInfo.map((temperature) => temperature.maxTemp);
-                setWeatherForecastTemperatures(temperatures);
             })
             .catch((error) => {
                 setWeatherForecast({});
