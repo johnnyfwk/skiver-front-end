@@ -5,6 +5,7 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
+import countryList from 'country-list';
 
 export default function Destination({
     originAirportInputLabel,
@@ -20,6 +21,8 @@ export default function Destination({
 }) {
     const { destination_airport_id } = useParams();
     const { origin_airport_id } = useParams();
+
+    const countryCodes = countryList.getData();
 
     const [originAirport, setOriginAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
@@ -59,6 +62,9 @@ export default function Destination({
         setOriginAirport(originAirportInfo);
         const destinationAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
         setDestinationAirport(destinationAirportInfo);
+        const countryCode = countryCodes.filter((country) => {
+            return country.name === destinationAirportInfo[0].country;
+        })
 
         // Entry Requirements
         if (originAirportInfo[0].country === "United Kingdom") {
@@ -78,16 +84,6 @@ export default function Destination({
         }
         // Entry Requirements
 
-        // City Information
-        api.cityAPI(destinationAirportInfo[0].city)
-            .then((response) => {
-                setDestinationCityInfo(response);
-            })
-            .catch((error) => {
-                setDestinationCityInfo([]);
-            })
-        // City Information
-
         // Country Information
         api.restCountries(originAirportInfo[0].country)
             .then((response) => {
@@ -105,7 +101,7 @@ export default function Destination({
                 setOriginCountryInfo((currentOriginCountryInfo) => {
                     if (Object.keys(currentOriginCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
                         // Calls function to get currency exchange rate
-                        getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
+                        // getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
                         // Calls function to get currency exchange rate
                         return currentOriginCountryInfo;
                     } else {
@@ -118,6 +114,16 @@ export default function Destination({
                 setDestinationCountryInfo([]);
             })
         // Country Information
+
+        // City Information
+        // api.cityAPI(destinationAirportInfo[0].city)
+        //     .then((response) => {
+        //         setDestinationCityInfo(response);
+        //     })
+        //     .catch((error) => {
+        //         setDestinationCityInfo([]);
+        //     })
+        // City Information
 
         // Weather Forecast
         api.openMateo(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
@@ -142,20 +148,20 @@ export default function Destination({
         // Weather Forecast
 
         // Holidays
-        api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
-            .then((response) => {
-                setHolidays(response);
-                return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
-            })
-            .then((response) => {
-                setHolidays((currentHolidays) => {
-                    const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
-                        return new Date(a.date) - new Date(b.date);
-                    })
-                    const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
-                    return holidaysForBothYearsUniques;
-                })
-            })
+        // api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
+        //     .then((response) => {
+        //         setHolidays(response);
+        //         return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
+        //     })
+        //     .then((response) => {
+        //         setHolidays((currentHolidays) => {
+        //             const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
+        //                 return new Date(a.date) - new Date(b.date);
+        //             })
+        //             const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
+        //             return holidaysForBothYearsUniques;
+        //         })
+        //     })
         // Holidays
     }, [destination_airport_id, origin_airport_id])
 

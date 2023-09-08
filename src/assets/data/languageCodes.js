@@ -1,4 +1,4 @@
-const languagesWithCodes = [
+const languageCodes = [
     { name: "Afrikaans", code: "af" },
     { name: "Albanian", code: "sq" },
     { name: "Amharic", code: "am" },
@@ -105,5 +105,5 @@ const languagesWithCodes = [
     { name: "Zulu", code: "zu" },
   ];
 
-  module.exports = languagesWithCodes;
+  module.exports = languageCodes;
   

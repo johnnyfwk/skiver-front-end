@@ -9,14 +9,14 @@ import Destination from './pages/Destination';
 import Footer from './components/Footer';
 
 function App() {
-    const originAirportInputLabel = "Origin:";
+    const originAirportInputLabel = "Origin Airport:";
     const originAirportInputName = "origin-airport-input";
-    const originAirportInputPlaceholder = "Enter origin";
+    const originAirportInputPlaceholder = "Enter origin airport";
     const [originAirportInput, setOriginAirportInput] = useState("");
 
-    const destinationAirportInputLabel = "Destination:";
+    const destinationAirportInputLabel = "Destination Airport:";
     const destinationAirportInputName = "destination-airport-input";
-    const destinationAirportInputPlaceholder = "Enter destination";
+    const destinationAirportInputPlaceholder = "Enter destination airport";
     const [destinationAirportInput, setDestinationAirportInput] = useState("");
 
     return (
