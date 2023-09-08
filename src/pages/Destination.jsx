@@ -5,8 +5,6 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
-import travelPhrases from '../assets/data/travelPhrases';
-import languagesWithCodes from '../assets/data/languageCodes';
 
 export default function Destination({
     departureAirportInputLabel,
@@ -31,12 +29,14 @@ export default function Destination({
 
     const [destinationCityInfo, setDestinationCityInfo] = useState([]);
 
-    const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
-    const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
-
     const [currencyExchange, setCurrencyExchange] = useState([]);
 
     const [weatherForecast, setWeatherForecast] = useState([]);
+
+    const [holidays, setHolidays] = useState([]);
+
+    const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
+    const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
 
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.freeCurrencyAPI(baseCurrency, targetCurrency)
@@ -52,6 +52,7 @@ export default function Destination({
     }
 
     useEffect(() => {
+        const date = new Date();
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
         const departureAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase())
@@ -78,7 +79,7 @@ export default function Destination({
         // Entry Requirements
 
         // City Information
-        api.cityAPI(destinationAirport[0].city)
+        api.cityAPI(destinationAirportInfo[0].city)
             .then((response) => {
                 setDestinationCityInfo(response);
             })
@@ -105,8 +106,8 @@ export default function Destination({
                     if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
                         // Calls function to get currency exchange rate
                         getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
-                        return currentDepartureCountryInfo;
                         // Calls function to get currency exchange rate
+                        return currentDepartureCountryInfo;
                     } else {
                         setCurrencyExchange([]);
                     }
@@ -139,6 +140,23 @@ export default function Destination({
                 setWeatherForecast({});
             })
         // Weather Forecast
+
+        // Holidays
+        api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
+            .then((response) => {
+                setHolidays(response);
+                return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
+            })
+            .then((response) => {
+                setHolidays((currentHolidays) => {
+                    const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
+                        return new Date(a.date) - new Date(b.date);
+                    })
+                    const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
+                    return holidaysForBothYearsUniques;
+                })
+            })
+        // Holidays
     }, [destination_airport_id, departure_airport_id])
 
     return (
@@ -185,6 +203,10 @@ export default function Destination({
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
                             }
+                            {holidays.length > 0
+                                ? <li><a href="#holidays">Holidays</a></li>
+                                : null
+                            }
                             {govUKForeignTravelAdviceEntryRequirements
                                 ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
                                 : null
@@ -222,6 +244,21 @@ export default function Destination({
                         <h2 id="weather-forecast">Weather Forecast (10 days)</h2>
                         <div>Temperatures in {weatherForecast[0].maxTempUnits}.</div>
                         <BarChart data={weatherForecast} />
+                    </section>
+                    : null
+                }
+
+                {holidays.length > 0
+                    ? <section>
+                        <h2 id="holidays">Holidays</h2>
+                        <p>A list of holidays in your selected destination country, including public, bank, and religious holidays.</p>
+                        <div id="holidays-dates-container">
+                            {holidays.map((holiday, index) => {
+                                return (
+                                    <div key={index}>{new Date(holiday.date).toLocaleDateString()} - {holiday.name}</div>
+                                )
+                            })}
+                        </div>
                     </section>
                     : null
                 }
