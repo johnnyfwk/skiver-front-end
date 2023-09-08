@@ -1,13 +1,13 @@
 import { Link } from "react-router-dom"
 
 export default function Footer({
-    setDepartureAirportInput,
-    setArrivalAirportInput
+    setOriginAirportInput,
+    setDestinationAirportInput
 }) {
     function handleFooterLinks() {
         window.scrollTo(0, 0);
-        setDepartureAirportInput("");
-        setArrivalAirportInput("");
+        setOriginAirportInput("");
+        setDestinationAirportInput("");
     }
 
     return (

@@ -7,24 +7,24 @@ import * as api from '../api';
 import BarChart from '../components/BarChart';
 
 export default function Destination({
-    departureAirportInputLabel,
-    departureAirportInputName,
-    departureAirportInputPlaceholder,
-    departureAirportInput,
-    setDepartureAirportInput,
-    arrivalAirportInputLabel,
-    arrivalAirportInputName,
-    arrivalAirportInputPlaceholder,
-    arrivalAirportInput,
-    setArrivalAirportInput
+    originAirportInputLabel,
+    originAirportInputName,
+    originAirportInputPlaceholder,
+    originAirportInput,
+    setOriginAirportInput,
+    destinationAirportInputLabel,
+    destinationAirportInputName,
+    destinationAirportInputPlaceholder,
+    destinationAirportInput,
+    setDestinationAirportInput
 }) {
     const { destination_airport_id } = useParams();
-    const { departure_airport_id } = useParams();
+    const { origin_airport_id } = useParams();
 
-    const [departureAirport, setDepartureAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase()));
+    const [originAirport, setOriginAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
 
-    const [departureCountryInfo, setDepartureCountryInfo] = useState([]);
+    const [originCountryInfo, setOriginCountryInfo] = useState([]);
     const [destinationCountryInfo, setDestinationCountryInfo] = useState([]);
 
     const [destinationCityInfo, setDestinationCityInfo] = useState([]);
@@ -55,13 +55,13 @@ export default function Destination({
         const date = new Date();
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
-        const departureAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase())
-        setDepartureAirport(departureAirportInfo);
+        const originAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase())
+        setOriginAirport(originAirportInfo);
         const destinationAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
         setDestinationAirport(destinationAirportInfo);
 
         // Entry Requirements
-        if (departureAirportInfo[0].country === "United Kingdom") {
+        if (originAirportInfo[0].country === "United Kingdom") {
             api.getGovUKForeignTravelAdvice(destinationAirportInfo[0].country)
             .then((response) => {
                 setGovUKForeignTravelAdvice(response);
@@ -89,12 +89,12 @@ export default function Destination({
         // City Information
 
         // Country Information
-        api.restCountries(departureAirportInfo[0].country)
+        api.restCountries(originAirportInfo[0].country)
             .then((response) => {
-                const infoForDepartureCountry = response.filter((country) => {
-                    return country.name.common === departureAirportInfo[0].country || country.name.official === departureAirportInfo[0].country;
+                const infoForOriginCountry = response.filter((country) => {
+                    return country.name.common === originAirportInfo[0].country || country.name.official === originAirportInfo[0].country;
                 })
-                setDepartureCountryInfo(infoForDepartureCountry);
+                setOriginCountryInfo(infoForOriginCountry);
                 return api.restCountries(destinationAirportInfo[0].country)
             })
             .then((response) => {
@@ -102,19 +102,19 @@ export default function Destination({
                     return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
                 setDestinationCountryInfo(infoForDestinationCountry);
-                setDepartureCountryInfo((currentDepartureCountryInfo) => {
-                    if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
+                setOriginCountryInfo((currentOriginCountryInfo) => {
+                    if (Object.keys(currentOriginCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
                         // Calls function to get currency exchange rate
-                        getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
+                        getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
                         // Calls function to get currency exchange rate
-                        return currentDepartureCountryInfo;
+                        return currentOriginCountryInfo;
                     } else {
                         setCurrencyExchange([]);
                     }
                 })
             })
             .catch((error) => {
-                setDepartureCountryInfo([]);
+                setOriginCountryInfo([]);
                 setDestinationCountryInfo([]);
             })
         // Country Information
@@ -157,7 +157,7 @@ export default function Destination({
                 })
             })
         // Holidays
-    }, [destination_airport_id, departure_airport_id])
+    }, [destination_airport_id, origin_airport_id])
 
     return (
         <div>
@@ -168,21 +168,21 @@ export default function Destination({
             </Helmet>
 
             <TravelInput
-                departureAirportInputLabel={departureAirportInputLabel}
-                departureAirportInputName={departureAirportInputName}
-                departureAirportInputPlaceholder={departureAirportInputPlaceholder}
-                departureAirportInput={departureAirportInput}
-                setDepartureAirportInput={setDepartureAirportInput}
-                arrivalAirportInputLabel={arrivalAirportInputLabel}
-                arrivalAirportInputName={arrivalAirportInputName}
-                arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
-                arrivalAirportInput={arrivalAirportInput}
-                setArrivalAirportInput={setArrivalAirportInput}
+                originAirportInputLabel={originAirportInputLabel}
+                originAirportInputName={originAirportInputName}
+                originAirportInputPlaceholder={originAirportInputPlaceholder}
+                originAirportInput={originAirportInput}
+                setOriginAirportInput={setOriginAirportInput}
+                destinationAirportInputLabel={destinationAirportInputLabel}
+                destinationAirportInputName={destinationAirportInputName}
+                destinationAirportInputPlaceholder={destinationAirportInputPlaceholder}
+                destinationAirportInput={destinationAirportInput}
+                setDestinationAirportInput={setDestinationAirportInput}
             />
 
             <main>
                 <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
-                <p>Travelling from {departureAirport[0].city}, {departureAirport[0].country}.</p>
+                <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
 
                 {destinationCountryInfo.length > 0 ||
                 Object.keys(currencyExchange).length > 0 ||
@@ -264,7 +264,7 @@ export default function Destination({
                 {holidays.length > 0
                     ? <section>
                         <h2 id="holidays">Holidays</h2>
-                        <p>A list of holidays in your selected destination country, including public, bank, and religious holidays.</p>
+                        <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
                         <div id="holidays-dates-container">
                             {holidays.map((holiday, index) => {
                                 return (

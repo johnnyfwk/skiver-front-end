@@ -5,26 +5,25 @@ import Logo from './components/Logo';
 import Nav from './components/Nav';
 import Home from './pages/Home';
 import About from './pages/About';
-import TravelInput from './components/TravelInput';
 import Destination from './pages/Destination';
 import Footer from './components/Footer';
 
 function App() {
-    const departureAirportInputLabel = "Departing from:";
-    const departureAirportInputName = "departure-airport-input";
-    const departureAirportInputPlaceholder = "Enter departure location";
-    const [departureAirportInput, setDepartureAirportInput] = useState("");
+    const originAirportInputLabel = "Origin:";
+    const originAirportInputName = "origin-airport-input";
+    const originAirportInputPlaceholder = "Enter origin";
+    const [originAirportInput, setOriginAirportInput] = useState("");
 
-    const arrivalAirportInputLabel = "Arriving at:";
-    const arrivalAirportInputName = "arrival-airport-input";
-    const arrivalAirportInputPlaceholder = "Enter arrival location";
-    const [arrivalAirportInput, setArrivalAirportInput] = useState("");
+    const destinationAirportInputLabel = "Destination:";
+    const destinationAirportInputName = "destination-airport-input";
+    const destinationAirportInputPlaceholder = "Enter destination";
+    const [destinationAirportInput, setDestinationAirportInput] = useState("");
 
     return (
         <div className="App">
             <Logo
-                setDepartureAirportInput={setDepartureAirportInput}
-                setArrivalAirportInput={setArrivalAirportInput}
+                setOriginAirportInput={setOriginAirportInput}
+                setDestinationAirportInput={setDestinationAirportInput}
             />
 
             <Nav />
@@ -34,33 +33,33 @@ function App() {
                     path="/"
                     element={
                         <Home
-                            departureAirportInputLabel={departureAirportInputLabel}
-                            departureAirportInputName={departureAirportInputName}
-                            departureAirportInputPlaceholder={departureAirportInputPlaceholder}
-                            departureAirportInput={departureAirportInput}
-                            setDepartureAirportInput={setDepartureAirportInput}
-                            arrivalAirportInputLabel={arrivalAirportInputLabel}
-                            arrivalAirportInputName={arrivalAirportInputName}
-                            arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
-                            arrivalAirportInput={arrivalAirportInput}
-                            setArrivalAirportInput={setArrivalAirportInput}
+                            originAirportInputLabel={originAirportInputLabel}
+                            originAirportInputName={originAirportInputName}
+                            originAirportInputPlaceholder={originAirportInputPlaceholder}
+                            originAirportInput={originAirportInput}
+                            setOriginAirportInput={setOriginAirportInput}
+                            destinationAirportInputLabel={destinationAirportInputLabel}
+                            destinationAirportInputName={destinationAirportInputName}
+                            destinationAirportInputPlaceholder={destinationAirportInputPlaceholder}
+                            destinationAirportInput={destinationAirportInput}
+                            setDestinationAirportInput={setDestinationAirportInput}
                         />
                     }
                 />
                 <Route
-                    path="/destination/:destination_airport_id/departure/:departure_airport_id"
+                    path="/destination/:destination_airport_id/origin/:origin_airport_id"
                     element={
                         <Destination
-                            departureAirportInputLabel={departureAirportInputLabel}
-                            departureAirportInputName={departureAirportInputName}
-                            departureAirportInputPlaceholder={departureAirportInputPlaceholder}
-                            departureAirportInput={departureAirportInput}
-                            setDepartureAirportInput={setDepartureAirportInput}
-                            arrivalAirportInputLabel={arrivalAirportInputLabel}
-                            arrivalAirportInputName={arrivalAirportInputName}
-                            arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
-                            arrivalAirportInput={arrivalAirportInput}
-                            setArrivalAirportInput={setArrivalAirportInput}
+                            originAirportInputLabel={originAirportInputLabel}
+                            originAirportInputName={originAirportInputName}
+                            originAirportInputPlaceholder={originAirportInputPlaceholder}
+                            originAirportInput={originAirportInput}
+                            setOriginAirportInput={setOriginAirportInput}
+                            destinationAirportInputLabel={destinationAirportInputLabel}
+                            destinationAirportInputName={destinationAirportInputName}
+                            destinationAirportInputPlaceholder={destinationAirportInputPlaceholder}
+                            destinationAirportInput={destinationAirportInput}
+                            setDestinationAirportInput={setDestinationAirportInput}
                         />
                     }
                 />
@@ -73,8 +72,8 @@ function App() {
             </Routes>
 
             <Footer
-                setDepartureAirportInput={setDepartureAirportInput}
-                setArrivalAirportInput={setArrivalAirportInput}
+                setOriginAirportInput={setOriginAirportInput}
+                setDestinationAirportInput={setDestinationAirportInput}
             />
         </div>
     );

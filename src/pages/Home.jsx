@@ -2,16 +2,16 @@ import { Helmet } from 'react-helmet';
 import TravelInput from '../components/TravelInput';
 
 export default function Home({
-    departureAirportInputLabel,
-    departureAirportInputName,
-    departureAirportInputPlaceholder,
-    departureAirportInput,
-    setDepartureAirportInput,
-    arrivalAirportInputLabel,
-    arrivalAirportInputName,
-    arrivalAirportInputPlaceholder,
-    arrivalAirportInput,
-    setArrivalAirportInput
+    originAirportInputLabel,
+    originAirportInputName,
+    originAirportInputPlaceholder,
+    originAirportInput,
+    setOriginAirportInput,
+    destinationAirportInputLabel,
+    destinationAirportInputName,
+    destinationAirportInputPlaceholder,
+    destinationAirportInput,
+    setDestinationAirportInput
 }) {
     return (
         <div>
@@ -22,16 +22,16 @@ export default function Home({
             </Helmet>
 
             <TravelInput
-                departureAirportInputLabel={departureAirportInputLabel}
-                departureAirportInputName={departureAirportInputName}
-                departureAirportInputPlaceholder={departureAirportInputPlaceholder}
-                departureAirportInput={departureAirportInput}
-                setDepartureAirportInput={setDepartureAirportInput}
-                arrivalAirportInputLabel={arrivalAirportInputLabel}
-                arrivalAirportInputName={arrivalAirportInputName}
-                arrivalAirportInputPlaceholder={arrivalAirportInputPlaceholder}
-                arrivalAirportInput={arrivalAirportInput}
-                setArrivalAirportInput={setArrivalAirportInput}
+                originAirportInputLabel={originAirportInputLabel}
+                originAirportInputName={originAirportInputName}
+                originAirportInputPlaceholder={originAirportInputPlaceholder}
+                originAirportInput={originAirportInput}
+                setOriginAirportInput={setOriginAirportInput}
+                destinationAirportInputLabel={destinationAirportInputLabel}
+                destinationAirportInputName={destinationAirportInputName}
+                destinationAirportInputPlaceholder={destinationAirportInputPlaceholder}
+                destinationAirportInput={destinationAirportInput}
+                setDestinationAirportInput={setDestinationAirportInput}
             />
 
             <main>
