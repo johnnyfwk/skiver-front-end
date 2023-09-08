@@ -52,3 +52,15 @@ export function freeCurrencyAPI(baseCurrency, targetCurrency) {
             return response.data.data;
         })
 }
+
+export function cityAPI(city) {
+    const url = 'https://api.api-ninjas.com/v1/city?name=' + city;
+    const headers = {
+        'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
+    };
+    
+    return axios.get(url, { headers })
+        .then(response => {
+            return response.data;
+        })
+}

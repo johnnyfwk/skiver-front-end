@@ -26,11 +26,13 @@ export default function Destination({
     const [departureAirport, setDepartureAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === departure_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
 
-    const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
-    const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
-
     const [departureCountryInfo, setDepartureCountryInfo] = useState([]);
     const [destinationCountryInfo, setDestinationCountryInfo] = useState([]);
+
+    const [destinationCityInfo, setDestinationCityInfo] = useState([]);
+
+    const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
+    const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
 
     const [currencyExchange, setCurrencyExchange] = useState([]);
 
@@ -75,6 +77,16 @@ export default function Destination({
         }
         // Entry Requirements
 
+        // City Information
+        api.cityAPI(destinationAirport[0].city)
+            .then((response) => {
+                setDestinationCityInfo(response);
+            })
+            .catch((error) => {
+                setDestinationCityInfo([]);
+            })
+        // City Information
+
         // Country Information
         api.restCountries(departureAirportInfo[0].country)
             .then((response) => {
@@ -88,7 +100,6 @@ export default function Destination({
                 const infoForDestinationCountry = response.filter((country) => {
                     return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
-                const language = languagesWithCodes.filter((language) => language.name === Object.values(infoForDestinationCountry[0].languages)[0]);
                 setDestinationCountryInfo(infoForDestinationCountry);
                 setDepartureCountryInfo((currentDepartureCountryInfo) => {
                     if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
@@ -163,7 +174,7 @@ export default function Destination({
                         <h2>Contents</h2>
                         <ul>
                             {destinationCountryInfo.length > 0
-                                ? <li><a href="#country-information">Country Information</a></li>
+                                ? <li><a href="#general-information">General Information</a></li>
                                 : null
                             }
                             {Object.keys(currencyExchange).length > 0
@@ -184,10 +195,13 @@ export default function Destination({
                 }
 
                 {destinationCountryInfo.length > 0
-                    ? <section id="country-information">
-                        <h2>Country Information</h2>
+                    ? <section id="general-information">
+                        <h2>General Information</h2>
                         <img src={destinationCountryInfo[0].flags.svg} alt={destinationCountryInfo[0].flags.alt} />
-                        <div><b>Population</b>: {destinationCountryInfo[0].population.toLocaleString()}</div>
+                        {destinationCityInfo.length > 0
+                            ? <div><b>Population</b>: {destinationCityInfo[0].population.toLocaleString()}</div>
+                            : null
+                        }
                         <div><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</div>
                         <div><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</div>
                         <div><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</div>
