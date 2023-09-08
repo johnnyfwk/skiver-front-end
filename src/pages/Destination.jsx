@@ -5,7 +5,6 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
-import countryList from 'country-list';
 
 export default function Destination({
     originAirportInputLabel,
@@ -21,8 +20,6 @@ export default function Destination({
 }) {
     const { destination_airport_id } = useParams();
     const { origin_airport_id } = useParams();
-
-    const countryCodes = countryList.getData();
 
     const [originAirport, setOriginAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
@@ -62,9 +59,6 @@ export default function Destination({
         setOriginAirport(originAirportInfo);
         const destinationAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase());
         setDestinationAirport(destinationAirportInfo);
-        const countryCode = countryCodes.filter((country) => {
-            return country.name === destinationAirportInfo[0].country;
-        })
 
         // Entry Requirements
         if (originAirportInfo[0].country === "United Kingdom") {
