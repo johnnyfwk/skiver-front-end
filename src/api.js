@@ -24,7 +24,7 @@ export function convertCountryToSlug(country) {
 }
 
 // Source: https://restcountries.com/
-export function getInfoForDepartureAndDestinationCountries(country) {
+export function restCountries(country) {
     const baseURL = "https://restcountries.com/v3.1/all";
     return axios
         .get(baseURL)
@@ -34,7 +34,7 @@ export function getInfoForDepartureAndDestinationCountries(country) {
 }
 
 // Source: https://api.open-meteo.com
-export function getOpenMateoWeatherForeCast(latitude, longitude) {
+export function openMateo(latitude, longitude) {
     const url =`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=GMT&forecast_days=10`;
 
     return axios
@@ -44,7 +44,7 @@ export function getOpenMateoWeatherForeCast(latitude, longitude) {
         })
 }
 
-export function getFreeCurrencyAPIExchangeRate(baseCurrency, targetCurrency) {
+export function freeCurrencyAPI(baseCurrency, targetCurrency) {
     const url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_UtsDQp4rrzZtoCXxgNQGPV1JHMn1uGy2bG1GXlfC&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
 
     return axios(url)

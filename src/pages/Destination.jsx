@@ -40,7 +40,7 @@ export default function Destination({
     const [phrasesAndTranslations, setPhrasesAndTranslations] = useState([]);
 
     function getCurrencyExchange(baseCurrency, targetCurrency) {
-        api.getFreeCurrencyAPIExchangeRate(baseCurrency, targetCurrency)
+        api.freeCurrencyAPI(baseCurrency, targetCurrency)
             .then((response) => {
                 setCurrencyExchange({
                     baseCurrency: baseCurrency,
@@ -79,13 +79,13 @@ export default function Destination({
         // Entry Requirements
 
         // Country Information
-        api.getInfoForDepartureAndDestinationCountries(departureAirportInfo[0].country)
+        api.restCountries(departureAirportInfo[0].country)
             .then((response) => {
                 const infoForDepartureCountry = response.filter((country) => {
                     return country.name.common === departureAirportInfo[0].country || country.name.official === departureAirportInfo[0].country;
                 })
                 setDepartureCountryInfo(infoForDepartureCountry);
-                return api.getInfoForDepartureAndDestinationCountries(destinationAirportInfo[0].country)
+                return api.restCountries(destinationAirportInfo[0].country)
             })
             .then((response) => {
                 const infoForDestinationCountry = response.filter((country) => {
@@ -95,8 +95,10 @@ export default function Destination({
                 setDestinationCountryInfo(infoForDestinationCountry);
                 setDepartureCountryInfo((currentDepartureCountryInfo) => {
                     if (Object.keys(currentDepartureCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
+                        // Calls function to get currency exchange rate
                         getCurrencyExchange(Object.keys(currentDepartureCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
                         return currentDepartureCountryInfo;
+                        // Calls function to get currency exchange rate
                     } else {
                         setCurrencyExchange([]);
                     }
@@ -109,7 +111,7 @@ export default function Destination({
         // Country Information
 
         // Weather Forecast
-        api.getOpenMateoWeatherForeCast(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
+        api.openMateo(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
             .then((response) => {
                 const weatherForecastInfo = [];
                 for (let date = 0; date < response.daily.time.length; date++) {
@@ -158,7 +160,10 @@ export default function Destination({
                 <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
                 <p>Travelling from {departureAirport[0].city}, {departureAirport[0].country}.</p>
 
-                {govUKForeignTravelAdviceEntryRequirements || destinationCountryInfo.length > 0
+                {destinationCountryInfo.length > 0 ||
+                Object.keys(currencyExchange).length > 0 ||
+                weatherForecast.length > 0 ||
+                govUKForeignTravelAdviceEntryRequirements
                     ? <section>
                         <h2>Contents</h2>
                         <ul>
