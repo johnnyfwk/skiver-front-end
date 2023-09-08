@@ -7,7 +7,7 @@ export default function BarChart({ data }) {
                         <div
                             key={index}
                             className="bar-chart-bar"
-                            style={{ height: `${temperature.maxTemp * 10}px` }}
+                            style={{ height: `${temperature.maxTemp * 7}px` }}
                         >
                             {Math.round(temperature.maxTemp)}
                         </div>

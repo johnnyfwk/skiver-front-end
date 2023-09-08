@@ -187,7 +187,8 @@ export default function Destination({
                 {destinationCountryInfo.length > 0 ||
                 Object.keys(currencyExchange).length > 0 ||
                 weatherForecast.length > 0 ||
-                govUKForeignTravelAdviceEntryRequirements
+                govUKForeignTravelAdviceEntryRequirements ||
+                holidays.length > 0
                     ? <section>
                         <h2>Contents</h2>
                         <ul>
@@ -203,12 +204,12 @@ export default function Destination({
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
                             }
-                            {holidays.length > 0
-                                ? <li><a href="#holidays">Holidays</a></li>
-                                : null
-                            }
                             {govUKForeignTravelAdviceEntryRequirements
                                 ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
+                                : null
+                            }
+                            {holidays.length > 0
+                                ? <li><a href="#holidays">Holidays</a></li>
                                 : null
                             }
                         </ul>
@@ -248,6 +249,18 @@ export default function Destination({
                     : null
                 }
 
+                {govUKForeignTravelAdviceEntryRequirements
+                    ? <section>
+                        <h2 id="entry-requirements">Entry Requirements for UK Travellers</h2>
+                        <p><b>Source</b>: UK Government site <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
+                        <div
+                            dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
+                            className="body"
+                        />
+                    </section>
+                    : null
+                }
+
                 {holidays.length > 0
                     ? <section>
                         <h2 id="holidays">Holidays</h2>
@@ -259,18 +272,6 @@ export default function Destination({
                                 )
                             })}
                         </div>
-                    </section>
-                    : null
-                }
-                
-                {govUKForeignTravelAdviceEntryRequirements
-                    ? <section>
-                        <h2 id="entry-requirements">Entry Requirements for UK Travellers</h2>
-                        <p><b>Source</b>: UK Government site <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
-                        <div
-                            dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
-                            className="body"
-                        />
                     </section>
                     : null
                 }
