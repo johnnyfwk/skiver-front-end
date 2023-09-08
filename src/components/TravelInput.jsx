@@ -40,7 +40,7 @@ export default function TravelInput({
     return (
         <header>
             <h1>Get travel information for your holiday destination</h1>
-            <p>Enter departure and arrival locations to get country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
+            <p>Enter departure and arrival locations to get city and country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
             <form>
                 <AirportInput
                     airportInputLabel={departureAirportInputLabel}

@@ -1440,7 +1440,7 @@ const airports = [
       "objectID": "3339"
     },
     {
-      "name": "Cote D\\\\'Azur",
+      "name": "Cote D'Azur",
       "city": "Nice",
       "country": "France",
       "iata_code": "NCE",
