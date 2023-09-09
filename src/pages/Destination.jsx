@@ -6,7 +6,7 @@ import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
-// import 'mapbox-gl/dist/mapbox-gl.css';
+import photos from '../assets/data/photos';
 
 
 export default function Destination({
@@ -35,6 +35,8 @@ export default function Destination({
     const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
     const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
     const [emergencyNumbersFire, setEmergencyNumbersFire] = useState(null);
+
+    const [cityPhotos, setCityPhotos] = useState(photos);
 
     const [currencyExchangeRate, setCurrencyExchangeRate] = useState(null);
 
@@ -153,6 +155,16 @@ export default function Destination({
         //     })
         // City Information
 
+        // Photos of city
+        api.pexels(destinationAirportInfo[0].city)
+            .then((response) => {
+                setCityPhotos(response);
+            })
+            .catch((error) => {
+                setCityPhotos(null);
+            })
+        // Photos of city
+
         // Weather Forecast
         api.openMateo(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
             .then((response) => {
@@ -201,6 +213,8 @@ export default function Destination({
         height: destinationCityInfo ? "400px" : "0px"
     }
 
+    console.log(cityPhotos)
+
     return (
         <div>
             <Helmet>
@@ -235,6 +249,7 @@ export default function Destination({
                 emergencyNumbersPolice ||
                 emergencyNumbersAmbulance ||
                 emergencyNumbersFire ||
+                cityPhotos ||
                 currencyExchangeRate ||
                 weatherForecast ||
                 govUKForeignTravelAdviceEntryRequirements ||
@@ -256,6 +271,10 @@ export default function Destination({
                             }
                             {weatherForecast
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
+                                : null
+                            }
+                            {cityPhotos
+                                ? <li><a href="#city-photos">Photos</a></li>
                                 : null
                             }
                             {govUKForeignTravelAdviceEntryRequirements
@@ -331,6 +350,18 @@ export default function Destination({
                         <p><b>Source</b>: <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">open-meteo.com</a></p>
                         <p>Temperatures in {weatherForecast[0].maxTempUnits}.</p>
                         <BarChart data={weatherForecast} />
+                    </section>
+                    : null
+                }
+
+                {cityPhotos
+                    ? <section>
+                        <h2 id="city-photos">Photos</h2>
+                        <div id="city-photos-container">
+                            {cityPhotos.map((photo, index) => {
+                                return <img key={index} src={photo.src.medium} alt={photo.alt} loading="lazy" />
+                            })}
+                        </div>
                     </section>
                     : null
                 }
