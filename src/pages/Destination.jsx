@@ -6,8 +6,6 @@ import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
-// import 'mapbox-gl/dist/mapbox-gl.css';
-
 
 export default function Destination({
     originAirportInputLabel,
@@ -35,6 +33,10 @@ export default function Destination({
     const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
     const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
     const [emergencyNumbersFire, setEmergencyNumbersFire] = useState(null);
+
+    const [cityPhotos, setCityPhotos] = useState(null);
+    const [selectedPhoto, setSelectedPhoto] = useState(null);
+    const [isFullSizeCityPhotoVisible, setIsFullSizeCityPhotoVisible] = useState(false);
 
     const [currencyExchangeRate, setCurrencyExchangeRate] = useState(null);
 
@@ -128,7 +130,7 @@ export default function Destination({
                 getEmergencyNumbers(infoForDestinationCountry[0].cca2) // Calls function to get emergency numbers
                 setOriginCountryInfo((currentOriginCountryInfo) => {
                     if (Object.keys(currentOriginCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
-                        // getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]); // Calls function to get currency exchange rate
+                        getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]); // Calls function to get currency exchange rate
                         return currentOriginCountryInfo;
                     } else {
                         setCurrencyExchangeRate(null);
@@ -143,15 +145,31 @@ export default function Destination({
 
         // City Information
         setDestinationCityInfo(null)
-        // api.cityAPI(destinationAirportInfo[0].city)
-        //     .then((response) => {
-        //         setDestinationCityInfo(response);
-        //         mapbox(response[0].latitude, response[0].longitude); // Render mapbox
-        //     })
-        //     .catch((error) => {
-        //         setDestinationCityInfo(null);
-        //     })
+        api.cityAPI(destinationAirportInfo[0].city)
+            .then((response) => {
+                setDestinationCityInfo(response);
+                mapbox(response[0].latitude, response[0].longitude); // Render mapbox
+            })
+            .catch((error) => {
+                setDestinationCityInfo(null);
+            })
         // City Information
+
+        // Photos of city
+        api.pexels(destinationAirportInfo[0].city)
+            .then((response) => {
+                const pexelsPhotos = [];
+                response.map((photo) => {
+                    const photoObject = {...photo};
+                    photoObject.site = "Pexels";
+                    pexelsPhotos.push(photoObject)
+                })
+                setCityPhotos(pexelsPhotos);
+            })
+            .catch((error) => {
+                setCityPhotos(null);
+            })
+        // Photos of city
 
         // Weather Forecast
         api.openMateo(destinationAirportInfo[0]._geoloc.latitude, destinationAirportInfo[0]._geoloc.longitude)
@@ -176,25 +194,45 @@ export default function Destination({
         // Weather Forecast
 
         // Holidays
-        // api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
-        //     .then((response) => {
-        //         setHolidays(response);
-        //         return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
-        //     })
-        //     .then((response) => {
-        //         setHolidays((currentHolidays) => {
-        //             const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
-        //                 return new Date(a.date) - new Date(b.date);
-        //             })
-        //             const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
-        //             return holidaysForBothYearsUniques;
-        //         })
-        //     })
-        //     .catch((error) => {
-        //         setHolidays(null);
-        //     })
+        api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
+            .then((response) => {
+                setHolidays(response);
+                return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
+            })
+            .then((response) => {
+                setHolidays((currentHolidays) => {
+                    const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
+                        return new Date(a.date) - new Date(b.date);
+                    })
+                    const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
+                    return holidaysForBothYearsUniques;
+                })
+            })
+            .catch((error) => {
+                setHolidays(null);
+            })
         // Holidays
     }, [destination_airport_id, origin_airport_id])
+
+    function handleCityPhoto(event) {
+        setIsFullSizeCityPhotoVisible((currentFullSizeCityPhotoVisibility) => !currentFullSizeCityPhotoVisibility);
+        const photo = {};
+        photo.fullSizePhotoSrc = event.target.attributes.srcfullsize.value ? event.target.attributes.srcfullsize.value : "";
+        photo.alt = event.target.attributes.alt.value ? event.target.attributes.alt.value : "";
+        photo.photoUrl = event.target.attributes.photourl.value ? event.target.attributes.photourl.value : "";
+        photo.site = event.target.attributes.site.value ? event.target.attributes.site.value : "";
+        photo.photographerName = event.target.attributes.photographername.value ? event.target.attributes.photographername.value : "";
+        photo.photographerUrl = event.target.attributes.photographerurl.value ? event.target.attributes.photographerurl.value : "";
+        setSelectedPhoto(photo);
+    }
+
+    function handleFullSizePhotoContainer() {
+        setIsFullSizeCityPhotoVisible((currentFullSizeCityPhotoVisibility) => !currentFullSizeCityPhotoVisibility);
+    }
+
+    function handleFullSizePhotoBackground() {
+        setIsFullSizeCityPhotoVisible((currentFullSizeCityPhotoVisibility) => !currentFullSizeCityPhotoVisibility);
+    }
 
     const styleMapbox = {
         width: "100%",
@@ -235,6 +273,7 @@ export default function Destination({
                 emergencyNumbersPolice ||
                 emergencyNumbersAmbulance ||
                 emergencyNumbersFire ||
+                cityPhotos ||
                 currencyExchangeRate ||
                 weatherForecast ||
                 govUKForeignTravelAdviceEntryRequirements ||
@@ -256,6 +295,10 @@ export default function Destination({
                             }
                             {weatherForecast
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
+                                : null
+                            }
+                            {cityPhotos
+                                ? <li><a href="#city-photos">Photos</a></li>
                                 : null
                             }
                             {govUKForeignTravelAdviceEntryRequirements
@@ -332,6 +375,46 @@ export default function Destination({
                         <p>Temperatures in {weatherForecast[0].maxTempUnits}.</p>
                         <BarChart data={weatherForecast} />
                     </section>
+                    : null
+                }
+
+                {cityPhotos
+                    ? <section>
+                        <h2 id="city-photos">Photos</h2>
+                        <div id="city-photos-container">
+                            {cityPhotos.map((photo, index) => {
+                                return (
+                                    <img
+                                        key={index}
+                                        className="city-photo-preview"
+                                        photourl={photo.url}
+                                        site={photo.site}
+                                        src={photo.src.medium}
+                                        srcfullsize={photo.src.large2x}
+                                        photographername={photo.photographer}
+                                        photographerurl={photo.photographer_url}
+                                        alt={photo.alt}
+                                        loading="lazy"
+                                        onClick={handleCityPhoto}
+                                    />
+                                )
+                            })}
+                        </div>
+                    </section>
+                    : null
+                }
+
+                {isFullSizeCityPhotoVisible
+                    ? <div id="full-size-photo-container" onClick={handleFullSizePhotoContainer}>
+                        <div id="full-size-photo-name">{selectedPhoto.alt}</div>
+                        <img src={selectedPhoto.fullSizePhotoSrc} alt={selectedPhoto.alt} />
+                        <div>Photo by <a href={selectedPhoto.photographerUrl} target="_blank" rel="noopener noreferrer">{selectedPhoto.photographerName}</a> from <a href={selectedPhoto.photoUrl} target="_blank" rel="noopener noreferrer">{selectedPhoto.site}</a></div>
+                    </div>
+                    : null
+                }
+
+                {isFullSizeCityPhotoVisible
+                    ? <div id="full-size-photo-background" onClick={handleFullSizePhotoBackground}></div>
                     : null
                 }
 

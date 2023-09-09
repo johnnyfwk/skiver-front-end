@@ -1,5 +1,10 @@
 import axios from 'axios';
+import { createClient } from 'pexels';
 const proxyUrl = "https://cors-anywhere.herokuapp.com/";
+
+export function convertCountryToSlug(country) {
+    return country.replaceAll(" ", "-").toLowerCase();
+}
 
 // Source: https://content-api.publishing.service.gov.uk/reference.html
 export function getGovUKForeignTravelAdvice(country) {
@@ -11,7 +16,6 @@ export function getGovUKForeignTravelAdvice(country) {
         countryCopy = country;
     }
     const countryAsSlug = convertCountryToSlug(countryCopy);
-
     const baseURL = "https://www.gov.uk/api/content/foreign-travel-advice/";
     return axios
         .get(baseURL + countryAsSlug)
@@ -20,11 +24,6 @@ export function getGovUKForeignTravelAdvice(country) {
         })
 }
 
-export function convertCountryToSlug(country) {
-    return country.replaceAll(" ", "-").toLowerCase();
-}
-
-// Source: https://restcountries.com/
 export function restCountries(country) {
     const baseURL = "https://restcountries.com/v3.1/all";
     return axios
@@ -34,10 +33,8 @@ export function restCountries(country) {
         })
 }
 
-// Source: https://api.open-meteo.com
 export function openMateo(latitude, longitude) {
     const url =`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=GMT&forecast_days=10`;
-
     return axios
         .get(url)
         .then((response) => {
@@ -47,7 +44,6 @@ export function openMateo(latitude, longitude) {
 
 export function freeCurrencyAPI(baseCurrency, targetCurrency) {
     const url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_UtsDQp4rrzZtoCXxgNQGPV1JHMn1uGy2bG1GXlfC&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
-
     return axios
         .get(url)
         .then((response) => {
@@ -60,7 +56,6 @@ export function cityAPI(city) {
     const headers = {
         'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
     };
-    
     return axios
         .get(url, { headers })
         .then(response => {
@@ -73,7 +68,6 @@ export function holidaysAPI(country, year) {
     const headers = {
         'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
     };
-    
     return axios
         .get(url, { headers })
         .then(response => {
@@ -83,10 +77,17 @@ export function holidaysAPI(country, year) {
 
 export function emergencyNumbersAPI(countryCode) {
     const url = `https://emergencynumberapi.com/api/country/${countryCode}`;
-
     return axios
         .get(proxyUrl + url)
         .then((response) => {
             return response.data;
         })
+}
+
+export function pexels(query) {
+    const client = createClient('ylc7MKWwfUEu7dcM5gQJ2o8MAGoDhEHBg6pOl3H6j1lTFaw2dMF07PpS');
+    return client.photos.search({ query, per_page: 80 })
+        .then((response) => {
+            return response.photos;
+        });
 }
