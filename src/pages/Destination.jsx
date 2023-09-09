@@ -5,6 +5,9 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
+import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
+// import 'mapbox-gl/dist/mapbox-gl.css';
+
 
 export default function Destination({
     originAirportInputLabel,
@@ -71,6 +74,16 @@ export default function Destination({
             })
     }
 
+    function mapbox(latitude, longitude) {
+        mapboxgl.accessToken = 'pk.eyJ1Ijoic2tpdmVyIiwiYSI6ImNsbWJzMHZ6cjA3bDMza3A0dXNvMzd2MTUifQ.CNPHYPg_roixMB4IfSlBWw';
+        var map = new mapboxgl.Map({
+            container: 'mapbox',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [longitude, latitude],
+            zoom: 12
+        });
+    }
+
     useEffect(() => {
         const date = new Date();
         setGovUKForeignTravelAdvice({});
@@ -129,9 +142,11 @@ export default function Destination({
         // Country Information
 
         // City Information
+        setDestinationCityInfo(null)
         // api.cityAPI(destinationAirportInfo[0].city)
         //     .then((response) => {
         //         setDestinationCityInfo(response);
+        //         mapbox(response[0].latitude, response[0].longitude); // Render mapbox
         //     })
         //     .catch((error) => {
         //         setDestinationCityInfo(null);
@@ -181,6 +196,11 @@ export default function Destination({
         // Holidays
     }, [destination_airport_id, origin_airport_id])
 
+    const styleMapbox = {
+        width: "100%",
+        height: destinationCityInfo ? "400px" : "0px"
+    }
+
     return (
         <div>
             <Helmet>
@@ -204,8 +224,12 @@ export default function Destination({
 
             <main>
                 <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
-                <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
 
+                <section>
+                    <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
+                    <div id="mapbox" style={styleMapbox}></div>
+                </section>
+                
                 {destinationCountryInfo ||
                 emergencyNumbersAll ||
                 emergencyNumbersPolice ||
