@@ -1,4 +1,5 @@
 import axios from 'axios';
+const proxyUrl = "https://cors-anywhere.herokuapp.com/";
 
 // Source: https://content-api.publishing.service.gov.uk/reference.html
 export function getGovUKForeignTravelAdvice(country) {
@@ -47,7 +48,8 @@ export function openMateo(latitude, longitude) {
 export function freeCurrencyAPI(baseCurrency, targetCurrency) {
     const url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_UtsDQp4rrzZtoCXxgNQGPV1JHMn1uGy2bG1GXlfC&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
 
-    return axios(url)
+    return axios
+        .get(url)
         .then((response) => {
             return response.data.data;
         })
@@ -59,7 +61,8 @@ export function cityAPI(city) {
         'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
     };
     
-    return axios.get(url, { headers })
+    return axios
+        .get(url, { headers })
         .then(response => {
             return response.data;
         })
@@ -71,8 +74,19 @@ export function holidaysAPI(country, year) {
         'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
     };
     
-    return axios.get(url, { headers })
+    return axios
+        .get(url, { headers })
         .then(response => {
+            return response.data;
+        })
+}
+
+export function emergencyNumbersAPI(countryCode) {
+    const url = `https://emergencynumberapi.com/api/country/${countryCode}`;
+
+    return axios
+        .get(proxyUrl + url)
+        .then((response) => {
             return response.data;
         })
 }

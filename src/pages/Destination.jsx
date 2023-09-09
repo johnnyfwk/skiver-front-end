@@ -24,16 +24,21 @@ export default function Destination({
     const [originAirport, setOriginAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
 
-    const [originCountryInfo, setOriginCountryInfo] = useState([]);
-    const [destinationCountryInfo, setDestinationCountryInfo] = useState([]);
+    const [originCountryInfo, setOriginCountryInfo] = useState(null);
+    const [destinationCountryInfo, setDestinationCountryInfo] = useState(null);
+    const [destinationCityInfo, setDestinationCityInfo] = useState(null);
 
-    const [destinationCityInfo, setDestinationCityInfo] = useState([]);
+    const [emergencyNumbersAll, setEmergencyNumbersAll] = useState(null);
+    const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
+    const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
+    const [emergencyNumbersFire, setEmergencyNumbersFire] = useState(null);
 
-    const [currencyExchange, setCurrencyExchange] = useState([]);
 
-    const [weatherForecast, setWeatherForecast] = useState([]);
+    const [currencyExchangeRate, setCurrencyExchangeRate] = useState(null);
 
-    const [holidays, setHolidays] = useState([]);
+    const [weatherForecast, setWeatherForecast] = useState(null);
+
+    const [holidays, setHolidays] = useState(null);
 
     const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
     const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
@@ -41,13 +46,29 @@ export default function Destination({
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.freeCurrencyAPI(baseCurrency, targetCurrency)
             .then((response) => {
-                setCurrencyExchange({
+                setCurrencyExchangeRate({
                     baseCurrency: baseCurrency,
                     targetCurrencyAndRate: response
                 });
             })
             .catch((error) => {
-                setCurrencyExchange([]);
+                setCurrencyExchangeRate(null);
+            })
+    }
+
+    function getEmergencyNumbers(countryCode) {
+        api.emergencyNumbersAPI(countryCode)
+            .then((response) => {
+                setEmergencyNumbersAll(response.data.dispatch.all[0]);
+                setEmergencyNumbersPolice(response.data.police.all[0]);
+                setEmergencyNumbersAmbulance(response.data.ambulance.all[0]);
+                setEmergencyNumbersFire(response.data.fire.all[0]);
+            })
+            .catch((error) => {
+                setEmergencyNumbersAll(null);
+                setEmergencyNumbersPolice(null);
+                setEmergencyNumbersAmbulance(null);
+                setEmergencyNumbersFire(null);
             })
     }
 
@@ -92,20 +113,19 @@ export default function Destination({
                     return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
                 setDestinationCountryInfo(infoForDestinationCountry);
+                getEmergencyNumbers(infoForDestinationCountry[0].cca2) // Calls function to get emergency numbers
                 setOriginCountryInfo((currentOriginCountryInfo) => {
                     if (Object.keys(currentOriginCountryInfo[0].currencies)[0] !== Object.keys(infoForDestinationCountry[0].currencies)[0]) {
-                        // Calls function to get currency exchange rate
-                        // getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]);
-                        // Calls function to get currency exchange rate
+                        // getCurrencyExchange(Object.keys(currentOriginCountryInfo[0].currencies)[0], Object.keys(infoForDestinationCountry[0].currencies)[0]); // Calls function to get currency exchange rate
                         return currentOriginCountryInfo;
                     } else {
-                        setCurrencyExchange([]);
+                        setCurrencyExchangeRate(null);
                     }
                 })
             })
             .catch((error) => {
-                setOriginCountryInfo([]);
-                setDestinationCountryInfo([]);
+                setOriginCountryInfo(null);
+                setDestinationCountryInfo(null);
             })
         // Country Information
 
@@ -115,7 +135,7 @@ export default function Destination({
         //         setDestinationCityInfo(response);
         //     })
         //     .catch((error) => {
-        //         setDestinationCityInfo([]);
+        //         setDestinationCityInfo(null);
         //     })
         // City Information
 
@@ -137,7 +157,7 @@ export default function Destination({
                 setWeatherForecast(weatherForecastInfo);
             })
             .catch((error) => {
-                setWeatherForecast({});
+                setWeatherForecast(null);
             })
         // Weather Forecast
 
@@ -156,6 +176,9 @@ export default function Destination({
         //             return holidaysForBothYearsUniques;
         //         })
         //     })
+        //     .catch((error) => {
+        //         setHolidays(null);
+        //     })
         // Holidays
     }, [destination_airport_id, origin_airport_id])
 
@@ -164,7 +187,7 @@ export default function Destination({
             <Helmet>
                 <link rel="canonical" href={`https://skiver.co.uk/destination/${destination_airport_id}`} />
                 <title>Travel information for {destinationAirport[0].city}, {destinationAirport[0].country} • Skiver</title>
-                <meta name="description" content={`Entry requirements, flight, accommodation, weather, and events information for ${destinationAirport[0].city}, ${destinationAirport[0].country}.`} />
+                <meta name="description" content={`Emergency numbers, entry requirements, currency converter, weather forecast, and holidays information for ${destinationAirport[0].city}, ${destinationAirport[0].country}.`} />
             </Helmet>
 
             <TravelInput
@@ -184,23 +207,31 @@ export default function Destination({
                 <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
                 <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
 
-                {destinationCountryInfo.length > 0 ||
-                Object.keys(currencyExchange).length > 0 ||
-                weatherForecast.length > 0 ||
+                {destinationCountryInfo ||
+                emergencyNumbersAll ||
+                emergencyNumbersPolice ||
+                emergencyNumbersAmbulance ||
+                emergencyNumbersFire ||
+                currencyExchangeRate ||
+                weatherForecast ||
                 govUKForeignTravelAdviceEntryRequirements ||
-                holidays.length > 0
+                holidays
                     ? <section>
                         <h2>Contents</h2>
                         <ul>
-                            {destinationCountryInfo.length > 0
+                            {destinationCountryInfo
                                 ? <li><a href="#general-information">General Information</a></li>
                                 : null
                             }
-                            {Object.keys(currencyExchange).length > 0
-                                ? <li><a href="#currency-exchange">Currency Exchange</a></li>
+                            {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire
+                                ? <li><a href="#emergency-numbers">Emergency Numbers</a></li>
                                 : null
                             }
-                            {weatherForecast.length > 0
+                            {currencyExchangeRate
+                                ? <li><a href="#currency-exchange-rate">Currency Exchange Rate</a></li>
+                                : null
+                            }
+                            {weatherForecast
                                 ? <li><a href="#weather-forecast">Weather Forecast</a></li>
                                 : null
                             }
@@ -208,7 +239,7 @@ export default function Destination({
                                 ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
                                 : null
                             }
-                            {holidays.length > 0
+                            {holidays
                                 ? <li><a href="#holidays">Holidays</a></li>
                                 : null
                             }
@@ -217,33 +248,65 @@ export default function Destination({
                     : <div>No information to display</div>
                 }
 
-                {destinationCountryInfo.length > 0
+                {destinationCountryInfo
                     ? <section id="general-information">
                         <h2>General Information</h2>
+                        <p><b>Sources</b>: <a href="https://restcountries.com" target="_blank" rel="noopener noreferrer">restcountries.com</a>, <a href="https://api-ninjas.com/api/city" target="_blank" rel="noopener noreferrer">api-ninjas.com/api/city</a></p>
                         <img src={destinationCountryInfo[0].flags.svg} alt={destinationCountryInfo[0].flags.alt} />
-                        {destinationCityInfo.length > 0
-                            ? <div><b>Population</b>: {destinationCityInfo[0].population.toLocaleString()}</div>
+                        {destinationCityInfo
+                            ? <p><b>Population</b>: {destinationCityInfo[0].population.toLocaleString()}</p>
                             : null
                         }
-                        <div><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</div>
-                        <div><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</div>
-                        <div><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</div>
+                        <p><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</p>
+                        <p><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</p>
+                        <p><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</p>
                     </section>
                     : null
                 }
 
-                {Object.keys(currencyExchange).length > 0
+                {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire
                     ? <section>
-                        <h2 id="currency-exchange">Currency Exchange</h2>
-                        <p>1 {currencyExchange.baseCurrency} = {Object.values(currencyExchange.targetCurrencyAndRate)[0]} {Object.keys(currencyExchange.targetCurrencyAndRate)[0]}</p>
+                        <h2 id="emergency-numbers">Emergency Numbers</h2>
+                        <p><b>Source</b>: <a href="https://emergencynumberapi.com/" target="_blank" rel="noopener noreferrer">emergencynumberapi.com</a></p>
+                        {emergencyNumbersAll
+                            ? <div>
+                                <p><b>Police</b>: {emergencyNumbersAll}</p>
+                                <p><b>Ambulance</b>: {emergencyNumbersAll}</p>
+                                <p><b>Fire</b>: {emergencyNumbersAll}</p>
+                            </div>
+                            : <div>
+                                {emergencyNumbersPolice
+                                    ? <p><b>Police</b>: {emergencyNumbersPolice}</p>
+                                    : null
+                                }
+                                {emergencyNumbersAmbulance
+                                    ? <p><b>Ambulance</b>: {emergencyNumbersAmbulance}</p>
+                                    : null
+                                }
+                                {emergencyNumbersFire
+                                    ? <p><b>Fire</b>: {emergencyNumbersFire}</p>
+                                    : null
+                                }
+                            </div>
+                        }
                     </section>
                     : null
                 }
 
-                {weatherForecast.length > 0
+                {currencyExchangeRate
+                    ? <section>
+                        <h2 id="currency-exchange-rate">Currency Exchange Rate</h2>
+                        <p><b>Source</b>: <a href="https://freecurrencyapi.com/" target="_blank" rel="noopener noreferrer">freecurrencyapi.com</a></p>
+                        <p>1 {currencyExchangeRate.baseCurrency} = {Object.values(currencyExchangeRate.targetCurrencyAndRate)[0]} {Object.keys(currencyExchangeRate.targetCurrencyAndRate)[0]}</p>
+                    </section>
+                    : null
+                }
+
+                {weatherForecast
                     ? <section>
                         <h2 id="weather-forecast">Weather Forecast (10 days)</h2>
-                        <div>Temperatures in {weatherForecast[0].maxTempUnits}.</div>
+                        <p><b>Source</b>: <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">open-meteo.com</a></p>
+                        <p>Temperatures in {weatherForecast[0].maxTempUnits}.</p>
                         <BarChart data={weatherForecast} />
                     </section>
                     : null
@@ -252,7 +315,7 @@ export default function Destination({
                 {govUKForeignTravelAdviceEntryRequirements
                     ? <section>
                         <h2 id="entry-requirements">Entry Requirements for UK Travellers</h2>
-                        <p><b>Source</b>: UK Government site <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
+                        <p><b>Source</b>: <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
                         <div
                             dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
                             className="body"
@@ -261,14 +324,15 @@ export default function Destination({
                     : null
                 }
 
-                {holidays.length > 0
+                {holidays
                     ? <section>
                         <h2 id="holidays">Holidays</h2>
+                        <p><b>Source</b>: <a href="https://api-ninjas.com/api/holidays" target="_blank" rel="noopener noreferrer">api-ninjas.com/api/holidays</a></p>
                         <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
                         <div id="holidays-dates-container">
                             {holidays.map((holiday, index) => {
                                 return (
-                                    <div key={index}>{new Date(holiday.date).toLocaleDateString()} - {holiday.name}</div>
+                                    <p key={index}>{new Date(holiday.date).toLocaleDateString()} - {holiday.name}</p>
                                 )
                             })}
                         </div>
