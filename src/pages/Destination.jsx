@@ -79,7 +79,7 @@ export default function Destination({
     function mapbox(latitude, longitude) {
         mapboxgl.accessToken = 'pk.eyJ1Ijoic2tpdmVyIiwiYSI6ImNsbWJzMHZ6cjA3bDMza3A0dXNvMzd2MTUifQ.CNPHYPg_roixMB4IfSlBWw';
         var map = new mapboxgl.Map({
-            container: 'mapbox',
+            container: "mapbox-container",
             style: 'mapbox://styles/mapbox/streets-v11',
             center: [longitude, latitude],
             zoom: 12
@@ -234,9 +234,9 @@ export default function Destination({
         setIsFullSizeCityPhotoVisible((currentFullSizeCityPhotoVisibility) => !currentFullSizeCityPhotoVisibility);
     }
 
-    const styleMapbox = {
+    const styleMapboxContainer = {
         width: "100%",
-        height: destinationCityInfo ? "400px" : "0px"
+        height: "400px"
     }
 
     return (
@@ -265,7 +265,7 @@ export default function Destination({
 
                 <section>
                     <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
-                    <div id="mapbox" style={styleMapbox}></div>
+                    <div id="mapbox-container" style={styleMapboxContainer}></div>
                 </section>
                 
                 {destinationCountryInfo ||
