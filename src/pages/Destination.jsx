@@ -33,7 +33,6 @@ export default function Destination({
     const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
     const [emergencyNumbersFire, setEmergencyNumbersFire] = useState(null);
 
-
     const [currencyExchangeRate, setCurrencyExchangeRate] = useState(null);
 
     const [weatherForecast, setWeatherForecast] = useState(null);
