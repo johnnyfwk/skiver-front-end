@@ -28,6 +28,7 @@ export default function TravelInput({
         setDestinationAirportInput("");
         setSelectedOriginAirportId("");
         setSelectedDestinationAirportId("");
+        window.scrollTo(0, 0);
     }
 
     function handleResetForm() {
