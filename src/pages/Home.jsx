@@ -14,7 +14,7 @@ export default function Home({
     setDestinationAirportInput
 }) {
     return (
-        <div>
+        <div id="home">
             <Helmet>
                 <link rel="canonical" href="https://skiver.co.uk/" />
                 <title>Get travel information for your holiday destinations • Skiver</title>
