@@ -169,7 +169,7 @@ export default function Destination({
         // Country Information
 
         // City Information
-        setDestinationCityInfo(null)
+        setDestinationCityInfo(null);
         api.cityAPI(destinationAirportInfo[0].city)
             .then((response) => {
                 setDestinationCityInfo(response);
