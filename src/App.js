@@ -14,12 +14,12 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 
 function App() {
     const [isNavVisible, setIsNavVisible] = useState(false);
-    const originAirportInputLabel = "Origin Airport:";
+    const originAirportInputLabel = "Departing from:";
     const originAirportInputName = "origin-airport-input";
-    const originAirportInputPlaceholder = "Enter origin airport";
+    const originAirportInputPlaceholder = "Enter departure airport";
     const [originAirportInput, setOriginAirportInput] = useState("");
 
-    const destinationAirportInputLabel = "Destination Airport:";
+    const destinationAirportInputLabel = "Destination:";
     const destinationAirportInputName = "destination-airport-input";
     const destinationAirportInputPlaceholder = "Enter destination airport";
     const [destinationAirportInput, setDestinationAirportInput] = useState("");
@@ -27,7 +27,7 @@ function App() {
     return (
         <div className="App">
             <div id="logo-nav-and-nav-button-container">
-                <div id="logo-nav-and-nav-button"className="max-width">
+                <div id="logo-nav-and-nav-button" className="max-width">
                     <Logo
                         setIsNavVisible={setIsNavVisible}
                         setOriginAirportInput={setOriginAirportInput}

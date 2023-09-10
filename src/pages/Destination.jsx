@@ -37,6 +37,7 @@ export default function Destination({
     const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
     const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
     const [emergencyNumbersFire, setEmergencyNumbersFire] = useState(null);
+    const [emergencyNumbersMember112, setEmergencyNumbersMember112] = useState(null);
 
     const [cityPhotos, setCityPhotos] = useState(null);
     const [selectedPhoto, setSelectedPhoto] = useState(null);
@@ -71,12 +72,14 @@ export default function Destination({
                 setEmergencyNumbersPolice(response.data.police.all[0]);
                 setEmergencyNumbersAmbulance(response.data.ambulance.all[0]);
                 setEmergencyNumbersFire(response.data.fire.all[0]);
+                setEmergencyNumbersMember112(response.data.member_112);
             })
             .catch((error) => {
                 setEmergencyNumbersAll(null);
                 setEmergencyNumbersPolice(null);
                 setEmergencyNumbersAmbulance(null);
                 setEmergencyNumbersFire(null);
+                setEmergencyNumbersMember112(null);
             })
     }
 
@@ -91,11 +94,11 @@ export default function Destination({
         });
     }
 
-    function getHolidays(countryCode) {
-        api.holidaysAPI(countryCode, date.getFullYear())
+    function getHolidays(country) {
+        api.holidaysAPI(country, date.getFullYear())
             .then((response) => {
                 setHolidays(response);
-                return api.holidaysAPI(countryCode, date.getFullYear() + 1)
+                return api.holidaysAPI(country, date.getFullYear() + 1)
             })
             .then((response) => {
                 setHolidays((currentHolidays) => {
@@ -103,7 +106,7 @@ export default function Destination({
                         return new Date(a.date) - new Date(b.date);
                     })
                     const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => {
-                        return holiday.iso === countryCode
+                        return holiday.country === country
                     });
                     return holidaysForBothYearsUniques;
                 })
@@ -152,7 +155,7 @@ export default function Destination({
                 const infoForDestinationCountry = response.filter((country) => {
                     return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
-                getHolidays(infoForDestinationCountry[0].cca2) // Get holidays
+                getHolidays(infoForDestinationCountry[0].name.common) // Get holidays
                 setDestinationCountryInfo(infoForDestinationCountry);
                 getEmergencyNumbers(infoForDestinationCountry[0].cca2) // Calls function to get emergency numbers
                 setOriginCountryInfo((currentOriginCountryInfo) => {
@@ -275,150 +278,167 @@ export default function Destination({
                 setDestinationAirportInput={setDestinationAirportInput}
             />
 
-            <main>
-                <h2>{destinationAirport[0].city}, {destinationAirport[0].country}</h2>
-
-                <section>
-                    <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
-                    {isMapboxVisible
-                        ? <div id="mapbox-container" style={styleMapboxContainer}></div>
-                        : null
-                    }
-                </section>
+            <main id="destination">
+                <div className="section-container">
+                    <section className="max-width">
+                        <h1>{destinationAirport[0].city}, {destinationAirport[0].country}</h1>
+                        <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
+                        {isMapboxVisible
+                            ? <div id="mapbox-container" style={styleMapboxContainer}></div>
+                            : null
+                        }
+                    </section>
+                </div>
                 
                 {destinationCountryInfo ||
                 emergencyNumbersAll ||
                 emergencyNumbersPolice ||
                 emergencyNumbersAmbulance ||
                 emergencyNumbersFire ||
+                emergencyNumbersMember112 ||
                 cityPhotos ||
                 currencyExchangeRate ||
                 weatherForecast ||
                 govUKForeignTravelAdviceEntryRequirements ||
                 holidays
-                    ? <section>
-                        <h2>Contents</h2>
-                        <ul>
-                            {destinationCountryInfo
-                                ? <li><a href="#general-information">General Information</a></li>
-                                : null
-                            }
-                            {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire
-                                ? <li><a href="#emergency-numbers">Emergency Numbers</a></li>
-                                : null
-                            }
-                            {currencyExchangeRate
-                                ? <li><a href="#currency-exchange-rate">Currency Exchange Rate</a></li>
-                                : null
-                            }
-                            {weatherForecast
-                                ? <li><a href="#weather-forecast">Weather Forecast</a></li>
-                                : null
-                            }
-                            {cityPhotos
-                                ? <li><a href="#city-photos">Photos</a></li>
-                                : null
-                            }
-                            {govUKForeignTravelAdviceEntryRequirements
-                                ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
-                                : null
-                            }
-                            {holidays
-                                ? <li><a href="#holidays">Holidays</a></li>
-                                : null
-                            }
-                        </ul>
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 className="destination-h2">Contents</h2>
+                            <ul>
+                                {destinationCountryInfo
+                                    ? <li><a href="#general-information">General Information</a></li>
+                                    : null
+                                }
+                                {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire || emergencyNumbersMember112
+                                    ? <li><a href="#emergency-numbers">Emergency Numbers</a></li>
+                                    : null
+                                }
+                                {currencyExchangeRate
+                                    ? <li><a href="#currency-exchange-rate">Currency Exchange Rate</a></li>
+                                    : null
+                                }
+                                {weatherForecast
+                                    ? <li><a href="#weather-forecast">Weather Forecast</a></li>
+                                    : null
+                                }
+                                {cityPhotos
+                                    ? <li><a href="#city-photos">Photos</a></li>
+                                    : null
+                                }
+                                {govUKForeignTravelAdviceEntryRequirements
+                                    ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
+                                    : null
+                                }
+                                {holidays
+                                    ? <li><a href="#holidays">Holidays</a></li>
+                                    : null
+                                }
+                            </ul>
+                        </section>
+                    </div>
                     : <div>No information to display</div>
                 }
 
                 {destinationCountryInfo
-                    ? <section id="general-information">
-                        <h2>General Information</h2>
-                        <p><b>Sources</b>: <a href="https://restcountries.com" target="_blank" rel="noopener noreferrer">restcountries.com</a>, <a href="https://api-ninjas.com/api/city" target="_blank" rel="noopener noreferrer">api-ninjas.com/api/city</a></p>
-                        <img src={destinationCountryInfo[0].flags.svg} alt={destinationCountryInfo[0].flags.alt} />
-                        {destinationCityInfo
-                            ? <p><b>Population</b>: {destinationCityInfo[0].population.toLocaleString()}</p>
-                            : null
-                        }
-                        <p><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</p>
-                        <p><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</p>
-                        <p><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</p>
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="general-information" className="destination-h2">General Information</h2>
+                            <img id="destination-flag" src={destinationCountryInfo[0].flags.svg} alt={destinationCountryInfo[0].flags.alt}/>
+                            <div id="general-information-text">
+                                {destinationCityInfo
+                                    ? <p><b>Population</b>: {destinationCityInfo[0].population.toLocaleString()}</p>
+                                    : null
+                                }
+                                <p><b>Languages</b>: {Object.values(destinationCountryInfo[0].languages).join(", ")}</p>
+                                <p><b>Currency</b>: {Object.values(destinationCountryInfo[0].currencies).map((currency) => currency.name).join(", ")} ({Object.keys(destinationCountryInfo[0].currencies)[0]})</p>
+                                <p><b>Continent</b>: {destinationCountryInfo[0].continents.join(", ")}</p>
+                            </div>
+                        </section>
+                    </div>
+                    
                     : null
                 }
 
-                {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire
-                    ? <section>
-                        <h2 id="emergency-numbers">Emergency Numbers</h2>
-                        <p><b>Source</b>: <a href="https://emergencynumberapi.com/" target="_blank" rel="noopener noreferrer">emergencynumberapi.com</a></p>
-                        {emergencyNumbersAll
-                            ? <div>
-                                <p><b>Police</b>: {emergencyNumbersAll}</p>
-                                <p><b>Ambulance</b>: {emergencyNumbersAll}</p>
-                                <p><b>Fire</b>: {emergencyNumbersAll}</p>
-                            </div>
-                            : <div>
-                                {emergencyNumbersPolice
-                                    ? <p><b>Police</b>: {emergencyNumbersPolice}</p>
-                                    : null
-                                }
-                                {emergencyNumbersAmbulance
-                                    ? <p><b>Ambulance</b>: {emergencyNumbersAmbulance}</p>
-                                    : null
-                                }
-                                {emergencyNumbersFire
-                                    ? <p><b>Fire</b>: {emergencyNumbersFire}</p>
-                                    : null
-                                }
-                            </div>
-                        }
-                    </section>
+                {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire || emergencyNumbersMember112
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="emergency-numbers" className="destination-h2">Emergency Numbers</h2>
+                            {emergencyNumbersAll
+                                ? <div className="emergency-numbers-text">
+                                    <p><b>Police</b>: {emergencyNumbersAll}</p>
+                                    <p><b>Ambulance</b>: {emergencyNumbersAll}</p>
+                                    <p><b>Fire</b>: {emergencyNumbersAll}</p>
+                                </div>
+                                : <div className="emergency-numbers-text">
+                                    {emergencyNumbersPolice
+                                        ? <p><b>Police</b>: {emergencyNumbersPolice}</p>
+                                        : null
+                                    }
+                                    {emergencyNumbersAmbulance
+                                        ? <p><b>Ambulance</b>: {emergencyNumbersAmbulance}</p>
+                                        : null
+                                    }
+                                    {emergencyNumbersFire
+                                        ? <p><b>Fire</b>: {emergencyNumbersFire}</p>
+                                        : null
+                                    }
+                                    {emergencyNumbersMember112
+                                        ? <p><b>Universal Number</b>: 112</p>
+                                        : null
+                                    }
+                                </div>
+                            }
+                        </section>
+                    </div>
                     : null
                 }
 
                 {currencyExchangeRate
-                    ? <section>
-                        <h2 id="currency-exchange-rate">Currency Exchange Rate</h2>
-                        <p><b>Source</b>: <a href="https://freecurrencyapi.com/" target="_blank" rel="noopener noreferrer">freecurrencyapi.com</a></p>
-                        <p>1 {currencyExchangeRate.baseCurrency} = {Object.values(currencyExchangeRate.targetCurrencyAndRate)[0]} {Object.keys(currencyExchangeRate.targetCurrencyAndRate)[0]}</p>
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="currency-exchange-rate" className="destination-h2">Currency Exchange Rate</h2>
+                            <p>1 {currencyExchangeRate.baseCurrency} = {Object.values(currencyExchangeRate.targetCurrencyAndRate)[0]} {Object.keys(currencyExchangeRate.targetCurrencyAndRate)[0]}</p>
+                        </section>
+                    </div>
                     : null
                 }
 
                 {weatherForecast
-                    ? <section>
-                        <h2 id="weather-forecast">Weather Forecast (10 days)</h2>
-                        <p><b>Source</b>: <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">open-meteo.com</a></p>
-                        <p>Temperatures in {weatherForecast[0].maxTempUnits}.</p>
-                        <BarChart data={weatherForecast} />
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="weather-forecast" className="destination-h2">Weather Forecast (10 days)</h2>
+                            <p>Temperatures in {weatherForecast[0].maxTempUnits}</p>
+                            <BarChart data={weatherForecast} />
+                        </section>
+                    </div>
                     : null
                 }
 
                 {cityPhotos
-                    ? <section>
-                        <h2 id="city-photos">Photos</h2>
-                        <div id="city-photos-container">
-                            {cityPhotos.map((photo, index) => {
-                                return (
-                                    <img
-                                        key={index}
-                                        className="city-photo-preview"
-                                        photourl={photo.url}
-                                        site={photo.site}
-                                        src={photo.src.medium}
-                                        srcfullsize={photo.src.large2x}
-                                        photographername={photo.photographer}
-                                        photographerurl={photo.photographer_url}
-                                        alt={photo.alt}
-                                        loading="lazy"
-                                        onClick={handleCityPhoto}
-                                    />
-                                )
-                            })}
-                        </div>
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="city-photos" className="destination-h2">Photos</h2>
+                            <div id="city-photos-container">
+                                {cityPhotos.map((photo, index) => {
+                                    return (
+                                        <img
+                                            key={index}
+                                            className="city-photo-preview"
+                                            photourl={photo.url}
+                                            site={photo.site}
+                                            src={photo.src.medium}
+                                            srcfullsize={photo.src.large2x}
+                                            photographername={photo.photographer}
+                                            photographerurl={photo.photographer_url}
+                                            alt={photo.alt}
+                                            loading="lazy"
+                                            onClick={handleCityPhoto}
+                                        />
+                                    )
+                                })}
+                            </div>
+                        </section>
+                    </div>
                     : null
                 }
 
@@ -437,30 +457,33 @@ export default function Destination({
                 }
 
                 {govUKForeignTravelAdviceEntryRequirements
-                    ? <section>
-                        <h2 id="entry-requirements">Entry Requirements for UK Travellers</h2>
-                        <p><b>Source</b>: <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
-                        <div
-                            dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
-                            className="body"
-                        />
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="entry-requirements" className="destination-h2">Entry Requirements for UK Travellers</h2>
+                            <p><b>Source</b>: <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
+                            <div
+                                dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
+                                className="text-container"
+                            />
+                        </section>
+                    </div>
                     : null
                 }
 
                 {holidays
-                    ? <section>
-                        <h2 id="holidays">Holidays</h2>
-                        <p><b>Source</b>: <a href="https://api-ninjas.com/api/holidays" target="_blank" rel="noopener noreferrer">api-ninjas.com/api/holidays</a></p>
-                        <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
-                        <div id="holidays-dates-container">
-                            {holidays.map((holiday, index) => {
-                                return (
-                                    <p key={index}><b>{new Date(holiday.date).toLocaleDateString()}</b> - {holiday.name}</p>
-                                )
-                            })}
-                        </div>
-                    </section>
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="holidays" className="destination-h2">Holidays</h2>
+                            <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
+                            <div id="holidays-dates-container">
+                                {holidays.map((holiday, index) => {
+                                    return (
+                                        <p key={index}><b>{new Date(holiday.date).toLocaleDateString()}</b> - {holiday.name}</p>
+                                    )
+                                })}
+                            </div>
+                        </section>
+                    </div>
                     : null
                 }
             </main>
