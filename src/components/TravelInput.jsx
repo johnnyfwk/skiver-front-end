@@ -80,6 +80,7 @@ export default function TravelInput({
                         />
                     </div>
                 </form>
+                <div id="travel-input-photo-credit">Photo by <a href="https://unsplash.com/@zacong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener noreferrer">Zac Ong</a> on <a href="https://unsplash.com/photos/JHN1-mpgXjo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="noopener noreferrer">Unsplash</a></div>
             </div>
         </div>
     )

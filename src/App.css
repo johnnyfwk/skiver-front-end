@@ -3,6 +3,7 @@
     --padding-left-and-right: 20px;
     --nav-button-dimensions: 20px;
 
+    --black: #000000;
     --white: #ffffff;
     --lighter-grey: #f0f0f0;
     --light-grey: #d3d3d3;
@@ -37,12 +38,12 @@
 }
 
 body {
-    background: var(--raisin-black);
+    background: var(--black);
     font-family: Quicksand;
 }
 
 #logo-nav-and-nav-button-container {
-    background: var(--raisin-black);
+    background: var(--black);
     position: sticky;
     top: 0;
     z-index: 3;
@@ -95,7 +96,7 @@ body {
 }
 
 nav {
-    background: var(--raisin-black);
+    background: var(--black);
     padding: var(--padding-left-and-right);
     position: absolute;
     top: 100%;
@@ -160,6 +161,7 @@ ol {
 
 label {
     font-weight: bold;
+    color: var(--white);
 }
 
 input {
@@ -218,10 +220,20 @@ footer a:hover {
     color: var(--grey);
 }
 
+/************************* HOME *************************/
+#home #travel-input {
+    padding: 100px var(--padding-left-and-right);
+}
+/************************* HOME *************************/
+
+
 /************************* TRAVEL INPUT *************************/
 #travel-input-container {
     background: var(--verdigris);
-    color: var(--raisin-black);
+    background-image: url("assets/photos/zac-ong-JHN1-mpgXjo-unsplash.webp");
+    background-position: center;
+    background-size: cover;
+    color: var(--black);
 }
 
 #travel-input {
@@ -235,12 +247,14 @@ footer a:hover {
 
 #travel-input-main-heading {
     font-size: 2.5rem;
-    font-weight: bold
+    font-weight: bold;
+    color: var(--white);
 }
 
 #travel-input p {
     font-size: 1.3rem;
     line-height: 1.8rem;
+    color: var(--white);
 }
 
 #travel-input form {
@@ -271,8 +285,21 @@ footer a:hover {
 }
 
 .matching-airports > div:hover {
-    background: var(--raisin-black);
+    background: var(--black);
     color: var(--white);
+}
+
+#travel-input-photo-credit {
+    color: var(--white);
+}
+
+#travel-input-photo-credit a:link,
+#travel-input-photo-credit a:visited {
+    color: var(--verdigris);
+}
+
+#travel-input-photo-credit a:hover {
+    text-decoration: underline;
 }
 /************************* TRAVEL INPUT *************************/
 
@@ -293,7 +320,7 @@ footer a:hover {
 }
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 
 .destination-h2 {
@@ -303,6 +330,7 @@ h1 {
 #destination-flag {
     width: 100%;
     max-width: 400px;
+    border: 1px solid var(--light-grey);
 }
 
 #general-information-text,
@@ -421,6 +449,18 @@ h1 {
     #nav-terms-and-conditions,
     #nav-privacy-policy {
         display: none;
+    }
+
+    #home #travel-input {
+        padding: 250px var(--padding-left-and-right);
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+    
+    .destination-h2 {
+        font-size: 2.5rem;
     }
 
     .bar-chart {
