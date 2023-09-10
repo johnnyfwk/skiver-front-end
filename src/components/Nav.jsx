@@ -5,6 +5,7 @@ export default function Nav() {
         <nav>
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
+            <Link to="/contact">Contact</Link>
         </nav>
     )
 }

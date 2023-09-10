@@ -5,8 +5,11 @@ import Logo from './components/Logo';
 import Nav from './components/Nav';
 import Home from './pages/Home';
 import About from './pages/About';
+import Contact from './pages/Contact';
 import Destination from './pages/Destination';
 import Footer from './components/Footer';
+import TermsAndConditions from './pages/TermsAndConditions';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 
 function App() {
     const originAirportInputLabel = "Origin Airport:";
@@ -67,6 +70,24 @@ function App() {
                     path="/about"
                     element={
                         <About />
+                    }
+                />
+                <Route
+                    path="/contact"
+                    element={
+                        <Contact />
+                    }
+                />
+                <Route
+                    path="/terms-and-conditions"
+                    element={
+                        <TermsAndConditions />
+                    }
+                />
+                <Route
+                    path="/privacy-policy"
+                    element={
+                        <PrivacyPolicy />
                     }
                 />
             </Routes>

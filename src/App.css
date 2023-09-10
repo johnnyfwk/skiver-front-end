@@ -53,10 +53,6 @@ section {
     gap: 15px;
 }
 
-main {
-    padding: 0 var(--padding-left-and-right);
-}
-
 footer {
     background: grey;
 }
