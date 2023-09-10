@@ -12,6 +12,7 @@ export default function Nav({ isNavVisible, setIsNavVisible }) {
 
     return (
         <nav onClick={handleNav} style={styleNav}>
+            <Link to="/" id="nav-home">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
             <Link to="/terms-and-conditions" id="nav-terms-and-conditions">Terms & Conditions</Link>
