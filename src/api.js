@@ -43,7 +43,8 @@ export function openMateo(latitude, longitude) {
 }
 
 export function freeCurrencyAPI(baseCurrency, targetCurrency) {
-    const url = `https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_UtsDQp4rrzZtoCXxgNQGPV1JHMn1uGy2bG1GXlfC&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
+    const apiKey = process.env.REACT_APP_FREE_CURRENCY_API;
+    const url = `https://api.freecurrencyapi.com/v1/latest?apikey=${apiKey}&base_currency=${baseCurrency}&currencies=${targetCurrency}`;
     return axios
         .get(url)
         .then((response) => {
@@ -52,9 +53,10 @@ export function freeCurrencyAPI(baseCurrency, targetCurrency) {
 }
 
 export function cityAPI(city) {
+    const apiKey = process.env.REACT_APP_API_NINJAS;
     const url = 'https://api.api-ninjas.com/v1/city?name=' + city;
     const headers = {
-        'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
+        'X-Api-Key': apiKey
     };
     return axios
         .get(url, { headers })
@@ -64,6 +66,7 @@ export function cityAPI(city) {
 }
 
 export function holidaysAPI(country, year) {
+    const apiKey = process.env.REACT_APP_API_NINJAS;
     const url = 'https://api.api-ninjas.com/v1/holidays?country=' + country + `&year=` + year;
     const headers = {
         'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
@@ -85,7 +88,8 @@ export function emergencyNumbersAPI(countryCode) {
 }
 
 export function pexels(query) {
-    const client = createClient('ylc7MKWwfUEu7dcM5gQJ2o8MAGoDhEHBg6pOl3H6j1lTFaw2dMF07PpS');
+    const apiKey = process.env.REACT_APP_PEXELS;
+    const client = createClient(apiKey);
     return client.photos.search({ query, per_page: 80 })
         .then((response) => {
             return response.photos;
