@@ -69,7 +69,7 @@ export function holidaysAPI(country, year) {
     const apiKey = process.env.REACT_APP_API_NINJAS;
     const url = 'https://api.api-ninjas.com/v1/holidays?country=' + country + `&year=` + year;
     const headers = {
-        'X-Api-Key': '+kV19tA+YAIHqcM2Ogf8Ww==BEAEmOPlpP7Tc0KM'
+        'X-Api-Key': apiKey
     };
     return axios
         .get(url, { headers })
