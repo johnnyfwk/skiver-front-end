@@ -98,14 +98,14 @@ body {
 nav {
     background: var(--black);
     padding: var(--padding-left-and-right);
-    position: absolute;
-    top: 100%;
+    position: fixed;
+    top: 0;
     display: grid;
     gap: 20px;
     width: 100%;
     height: 100vh;
     align-content: start;
-    left: 100%;
+    left: 50%;
     text-transform: uppercase;
     font-weight: bold;
     transition: left 0.2s;
@@ -252,7 +252,7 @@ footer a:hover {
 }
 
 #travel-input p {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     line-height: 1.8rem;
     color: var(--white);
 }
@@ -446,6 +446,7 @@ h1 {
         padding: initial;
     }
 
+    #nav-home,
     #nav-terms-and-conditions,
     #nav-privacy-policy {
         display: none;
