@@ -23,7 +23,7 @@ export default function TravelInput({
     
     function handleSubmit(event) {
         event.preventDefault();
-        navigate(`/destination/${selectedDestinationAirportId.toLowerCase()}/origin/${selectedOriginAirportId.toLowerCase()}`);
+        navigate(`/origin/${selectedOriginAirportId.toLowerCase()}/destination/${selectedDestinationAirportId.toLowerCase()}`);
         setOriginAirportInput("");
         setDestinationAirportInput("");
         setSelectedOriginAirportId("");
