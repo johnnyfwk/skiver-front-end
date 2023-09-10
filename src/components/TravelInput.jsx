@@ -38,45 +38,49 @@ export default function TravelInput({
     }
 
     return (
-        <header>
-            <h1>Get travel information for your holiday destination</h1>
-            <p>Enter origin and destination airports to get city and country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
-            <form>
-                <AirportInput
-                    airportInputLabel={originAirportInputLabel}
-                    airportInputName={originAirportInputName}
-                    airportInputPlaceholder={originAirportInputPlaceholder}
-                    airportInput={originAirportInput}
-                    setAirportInput={setOriginAirportInput}
-                    airports={airports}
-                    setSelectedAirportId={setSelectedOriginAirportId}
-                    setDestinationAirports={setDestinationAirports}
-                />
-                {selectedOriginAirportId
-                    ? <AirportInput
-                        airportInputLabel={destinationAirportInputLabel}
-                        airportInputName={destinationAirportInputName}
-                        airportInputPlaceholder={destinationAirportInputPlaceholder}
-                        airportInput={destinationAirportInput}
-                        setAirportInput={setDestinationAirportInput}
-                        airports={destinationAirports}
-                        setSelectedAirportId={setSelectedDestinationAirportId}
+        <div id="travel-input-container">
+            <div id="travel-input" className="max-width">
+                <div id="travel-input-main-heading">Get travel information for your holiday destination</div>
+                <p>Enter origin and destination airports to get city and country information, entry requirements (UK travellers), currency exchange, and weather information for your destination.</p>
+                <form>
+                    <AirportInput
+                        airportInputLabel={originAirportInputLabel}
+                        airportInputName={originAirportInputName}
+                        airportInputPlaceholder={originAirportInputPlaceholder}
+                        airportInput={originAirportInput}
+                        setAirportInput={setOriginAirportInput}
+                        airports={airports}
+                        setSelectedAirportId={setSelectedOriginAirportId}
+                        setDestinationAirports={setDestinationAirports}
                     />
-                    : null
-                }
-                <input
-                    type="submit"
-                    value="Submit"
-                    onClick={handleSubmit}
-                    disabled={!selectedOriginAirportId || !selectedDestinationAirportId}
-                />
-                <input
-                    type="reset"
-                    value="Reset"
-                    onClick={handleResetForm}
-                    disabled={!originAirportInput && !destinationAirportInput}
-                />
-            </form>
-        </header>
+                    {selectedOriginAirportId
+                        ? <AirportInput
+                            airportInputLabel={destinationAirportInputLabel}
+                            airportInputName={destinationAirportInputName}
+                            airportInputPlaceholder={destinationAirportInputPlaceholder}
+                            airportInput={destinationAirportInput}
+                            setAirportInput={setDestinationAirportInput}
+                            airports={destinationAirports}
+                            setSelectedAirportId={setSelectedDestinationAirportId}
+                        />
+                        : null
+                    }
+                    <div className="buttons">
+                        <input
+                            type="submit"
+                            value="Submit"
+                            onClick={handleSubmit}
+                            disabled={!selectedOriginAirportId || !selectedDestinationAirportId}
+                        />
+                        <input
+                            type="reset"
+                            value="Reset"
+                            onClick={handleResetForm}
+                            disabled={!originAirportInput && !destinationAirportInput}
+                        />
+                    </div>
+                </form>
+            </div>
+        </div>
     )
 }

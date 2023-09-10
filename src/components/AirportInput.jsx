@@ -34,7 +34,7 @@ export default function AirportInput({
         setAirportInput(event.target.attributes.name.value + " (" + event.target.attributes.code.value + "), " + event.target.attributes.city.value + ", " + event.target.attributes.country.value);
         setSelectedAirportId(event.target.attributes.id.value);
         setAirportsMatchingInput(null);
-        if (airportInputLabel === "Origin Airport:") {
+        if (airportInputLabel === "Departing from:") {
             setDestinationAirports(airports.filter((airport) => {
                 return airport.city !== event.target.attributes.city.value || airport.country !== event.target.attributes.country.value;
             }));
@@ -42,12 +42,13 @@ export default function AirportInput({
     }
 
     return (
-        <div className="airport-input">
+        <div className="airport-input-container">
             <label htmlFor={airportInputName}>{airportInputLabel}</label>
             
             <input
                 type="text"
                 id={airportInputName}
+                className="airport-input"
                 name={airportInputName}
                 value={airportInput}
                 onChange={handleAirportInput}

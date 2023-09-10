@@ -13,7 +13,7 @@ export default function Footer({
     }
 
     return (
-        <footer>
+        <footer className="max-width">
             <div className="footer-links" onClick={handleFooterLinks}>
                 <div className="footer-links-section">
                     <Link to="/about">About</Link>
