@@ -31,6 +31,8 @@ export default function Destination({
     const [destinationCountryInfo, setDestinationCountryInfo] = useState(null);
     const [destinationCityInfo, setDestinationCityInfo] = useState(null);
 
+    const [isMapboxVisible, setIsMapboxVisible] = useState(true);
+
     const [emergencyNumbersAll, setEmergencyNumbersAll] = useState(null);
     const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
     const [emergencyNumbersAmbulance, setEmergencyNumbersAmbulance] = useState(null);
@@ -78,7 +80,7 @@ export default function Destination({
             })
     }
 
-    function mapbox(latitude, longitude) {
+    function getMapbox(latitude, longitude) {
         const mapBoxApiKey = process.env.REACT_APP_MAPBOX_TOKEN;
         mapboxgl.accessToken = mapBoxApiKey;
         var map = new mapboxgl.Map({
@@ -170,13 +172,21 @@ export default function Destination({
 
         // City Information
         setDestinationCityInfo(null);
+        setIsMapboxVisible(true);
         api.cityAPI(destinationAirportInfo[0].city)
             .then((response) => {
                 setDestinationCityInfo(response);
-                mapbox(response[0].latitude, response[0].longitude); // Render mapbox
+                if (response.length > 0) {
+                    setIsMapboxVisible(true);
+                }
+                else {
+                    setIsMapboxVisible(false);
+                }
+                getMapbox(response[0].latitude, response[0].longitude); // Render mapbox
             })
             .catch((error) => {
                 setDestinationCityInfo(null);
+                setIsMapboxVisible(false);
             })
         // City Information
 
@@ -270,7 +280,10 @@ export default function Destination({
 
                 <section>
                     <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
-                    <div id="mapbox-container" style={styleMapboxContainer}></div>
+                    {isMapboxVisible
+                        ? <div id="mapbox-container" style={styleMapboxContainer}></div>
+                        : null
+                    }
                 </section>
                 
                 {destinationCountryInfo ||

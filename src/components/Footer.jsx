@@ -2,10 +2,12 @@ import { Link } from "react-router-dom"
 
 export default function Footer({
     setOriginAirportInput,
-    setDestinationAirportInput
+    setDestinationAirportInput,
+    setIsNavVisible
 }) {
     function handleFooterLinks() {
         window.scrollTo(0, 0);
+        setIsNavVisible(false);
         setOriginAirportInput("");
         setDestinationAirportInput("");
     }
@@ -14,12 +16,10 @@ export default function Footer({
         <footer>
             <div className="footer-links" onClick={handleFooterLinks}>
                 <div className="footer-links-section">
-                    <div>Skiver.co.uk</div>
-                    <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
+                    <Link to="/contact">Contact</Link>
                 </div>
                 <div className="footer-links-section">
-                    <div>Legal Stuff</div>
                     <Link to="/terms-and-conditions">Terms & Conditions</Link>
                     <Link to="/privacy-policy">Privacy Policy</Link>
                 </div>
