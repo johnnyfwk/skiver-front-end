@@ -22,6 +22,8 @@ export default function Destination({
     const { destination_airport_id } = useParams();
     const { origin_airport_id } = useParams();
 
+    const date = new Date();
+
     const [originAirport, setOriginAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase()));
     const [destinationAirport, setDestinationAirport] = useState(airports.filter((airport) => airport.objectID.toLowerCase() === destination_airport_id.toLowerCase()));
 
@@ -77,7 +79,8 @@ export default function Destination({
     }
 
     function mapbox(latitude, longitude) {
-        mapboxgl.accessToken = 'pk.eyJ1Ijoic2tpdmVyIiwiYSI6ImNsbWJzMHZ6cjA3bDMza3A0dXNvMzd2MTUifQ.CNPHYPg_roixMB4IfSlBWw';
+        const mapBoxApiKey = process.env.REACT_APP_MAPBOX_TOKEN;
+        mapboxgl.accessToken = mapBoxApiKey;
         var map = new mapboxgl.Map({
             container: "mapbox-container",
             style: 'mapbox://styles/mapbox/streets-v11',
@@ -86,8 +89,29 @@ export default function Destination({
         });
     }
 
+    function getHolidays(countryCode) {
+        api.holidaysAPI(countryCode, date.getFullYear())
+            .then((response) => {
+                setHolidays(response);
+                return api.holidaysAPI(countryCode, date.getFullYear() + 1)
+            })
+            .then((response) => {
+                setHolidays((currentHolidays) => {
+                    const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
+                        return new Date(a.date) - new Date(b.date);
+                    })
+                    const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => {
+                        return holiday.iso === countryCode
+                    });
+                    return holidaysForBothYearsUniques;
+                })
+            })
+        .catch((error) => {
+            setHolidays(null);
+        })
+    }
+
     useEffect(() => {
-        const date = new Date();
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
         const originAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase())
@@ -126,6 +150,7 @@ export default function Destination({
                 const infoForDestinationCountry = response.filter((country) => {
                     return country.name.common === destinationAirportInfo[0].country || country.name.official === destinationAirportInfo[0].country;
                 })
+                getHolidays(infoForDestinationCountry[0].cca2) // Get holidays
                 setDestinationCountryInfo(infoForDestinationCountry);
                 getEmergencyNumbers(infoForDestinationCountry[0].cca2) // Calls function to get emergency numbers
                 setOriginCountryInfo((currentOriginCountryInfo) => {
@@ -192,26 +217,6 @@ export default function Destination({
                 setWeatherForecast(null);
             })
         // Weather Forecast
-
-        // Holidays
-        api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear())
-            .then((response) => {
-                setHolidays(response);
-                return api.holidaysAPI(destinationAirportInfo[0].country, date.getFullYear() + 1)
-            })
-            .then((response) => {
-                setHolidays((currentHolidays) => {
-                    const holidaysForBothYears = [...currentHolidays, ...response].sort((a, b) => {
-                        return new Date(a.date) - new Date(b.date);
-                    })
-                    const holidaysForBothYearsUniques = holidaysForBothYears.filter((holiday) => holiday.country === destinationAirportInfo[0].country);
-                    return holidaysForBothYearsUniques;
-                })
-            })
-            .catch((error) => {
-                setHolidays(null);
-            })
-        // Holidays
     }, [destination_airport_id, origin_airport_id])
 
     function handleCityPhoto(event) {
@@ -438,7 +443,7 @@ export default function Destination({
                         <div id="holidays-dates-container">
                             {holidays.map((holiday, index) => {
                                 return (
-                                    <p key={index}>{new Date(holiday.date).toLocaleDateString()} - {holiday.name}</p>
+                                    <p key={index}><b>{new Date(holiday.date).toLocaleDateString()}</b> - {holiday.name}</p>
                                 )
                             })}
                         </div>
