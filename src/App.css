@@ -97,7 +97,7 @@ body {
 
 nav {
     background: var(--black);
-    padding: var(--padding-left-and-right);
+    padding: 70px var(--padding-left-and-right);
     position: fixed;
     top: 0;
     display: grid;
@@ -156,7 +156,8 @@ main a:visited {
 p,
 ul,
 ol {
-    line-height: 1.7rem;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
 }
 
 label {
@@ -327,6 +328,22 @@ h1 {
     font-size: 2rem;
 }
 
+#destination-contents-list {
+    display: grid;
+    gap: 10px;
+    cursor: pointer;
+}
+
+#destination-contents-list a:link,
+#destination-contents-list a:active,
+#destination-contents-list a:visited {
+    color: var(--black);
+}
+
+#destination-contents-list a:hover {
+    text-decoration: underline;
+}
+
 #destination-flag {
     width: 100%;
     max-width: 400px;
@@ -401,7 +418,7 @@ h1 {
 }
 
 #full-size-photo-name {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 

@@ -117,6 +117,11 @@ export default function Destination({
     }
 
     useEffect(() => {
+        const destinationH1 = document.getElementById('destination-h1');
+        if (destinationH1) {
+            const scrollPosition = destinationH1.offsetTop - 70;
+            window.scrollTo({ top: scrollPosition, behavior: 'smooth' });
+        }
         setGovUKForeignTravelAdvice({});
         setGovUKForeignTravelAdviceEntryRequirements("");
         const originAirportInfo = airports.filter((airport) => airport.objectID.toLowerCase() === origin_airport_id.toLowerCase())
@@ -252,6 +257,16 @@ export default function Destination({
         setIsFullSizeCityPhotoVisible((currentFullSizeCityPhotoVisibility) => !currentFullSizeCityPhotoVisibility);
     }
 
+    function handleAnchorLink(event) {
+        console.log(event)
+        console.log(event.target.id.slice(12))
+        const anchorLink = document.getElementById(event.target.id.slice(12));
+        if (anchorLink) {
+            const scrollPosition = anchorLink.offsetTop - 70;
+            window.scrollTo({ top: scrollPosition, behavior: 'smooth'});
+        }
+    }
+
     const styleMapboxContainer = {
         width: "100%",
         height: "400px"
@@ -281,7 +296,7 @@ export default function Destination({
             <main id="destination">
                 <div className="section-container">
                     <section className="max-width">
-                        <h1>{destinationAirport[0].city}, {destinationAirport[0].country}</h1>
+                        <h1 id="destination-h1">{destinationAirport[0].city}, {destinationAirport[0].country}</h1>
                         <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
                         {isMapboxVisible
                             ? <div id="mapbox-container" style={styleMapboxContainer}></div>
@@ -304,33 +319,33 @@ export default function Destination({
                     ? <div className="section-container">
                         <section className="max-width">
                             <h2 className="destination-h2">Contents</h2>
-                            <ul>
+                            <ul id="destination-contents-list" onClick={handleAnchorLink}>
                                 {destinationCountryInfo
-                                    ? <li><a href="#general-information">General Information</a></li>
+                                    ? <li id="anchor-link-general-information">General Information</li>
                                     : null
                                 }
                                 {emergencyNumbersAll || emergencyNumbersPolice || emergencyNumbersAmbulance || emergencyNumbersFire || emergencyNumbersMember112
-                                    ? <li><a href="#emergency-numbers">Emergency Numbers</a></li>
+                                    ? <li id="anchor-link-general-information">Emergency Numbers</li>
                                     : null
                                 }
                                 {currencyExchangeRate
-                                    ? <li><a href="#currency-exchange-rate">Currency Exchange Rate</a></li>
+                                    ? <li id="anchor-link-currency-exchange-rate">Currency Exchange Rate</li>
                                     : null
                                 }
                                 {weatherForecast
-                                    ? <li><a href="#weather-forecast">Weather Forecast</a></li>
-                                    : null
-                                }
-                                {cityPhotos
-                                    ? <li><a href="#city-photos">Photos</a></li>
+                                    ? <li id="anchor-link-weather-forecast">Weather Forecast</li>
                                     : null
                                 }
                                 {govUKForeignTravelAdviceEntryRequirements
-                                    ? <li><a href="#entry-requirements">Entry Requirements for UK Travellers</a></li>
+                                    ? <li id="anchor-link-entry-requirements">Entry Requirements for UK Travellers</li>
                                     : null
                                 }
                                 {holidays
-                                    ? <li><a href="#holidays">Holidays</a></li>
+                                    ? <li id="anchor-link-holidays">Holidays</li>
+                                    : null
+                                }
+                                {cityPhotos
+                                    ? <li id="anchor-link-city-photos">Photos</li>
                                     : null
                                 }
                             </ul>
@@ -414,6 +429,37 @@ export default function Destination({
                     : null
                 }
 
+                {govUKForeignTravelAdviceEntryRequirements
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="entry-requirements" className="destination-h2">Entry Requirements for UK Travellers</h2>
+                            <p><b>Source</b>: <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
+                            <div
+                                dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
+                                className="text-container"
+                            />
+                        </section>
+                    </div>
+                    : null
+                }
+
+                {holidays
+                    ? <div className="section-container">
+                        <section className="max-width">
+                            <h2 id="holidays" className="destination-h2">Holidays</h2>
+                            <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
+                            <div id="holidays-dates-container">
+                                {holidays.map((holiday, index) => {
+                                    return (
+                                        <p key={index}><b>{new Date(holiday.date).toLocaleDateString()}</b> - {holiday.name}</p>
+                                    )
+                                })}
+                            </div>
+                        </section>
+                    </div>
+                    : null
+                }
+
                 {cityPhotos
                     ? <div className="section-container">
                         <section className="max-width">
@@ -453,37 +499,6 @@ export default function Destination({
 
                 {isFullSizeCityPhotoVisible
                     ? <div id="full-size-photo-background" onClick={handleFullSizePhotoBackground}></div>
-                    : null
-                }
-
-                {govUKForeignTravelAdviceEntryRequirements
-                    ? <div className="section-container">
-                        <section className="max-width">
-                            <h2 id="entry-requirements" className="destination-h2">Entry Requirements for UK Travellers</h2>
-                            <p><b>Source</b>: <a href={`https://gov.uk/${govUKForeignTravelAdvice.base_path}`} target="_blank" rel="noopener noreferrer">GOV.UK</a></p>
-                            <div
-                                dangerouslySetInnerHTML={{ __html: govUKForeignTravelAdviceEntryRequirements }}
-                                className="text-container"
-                            />
-                        </section>
-                    </div>
-                    : null
-                }
-
-                {holidays
-                    ? <div className="section-container">
-                        <section className="max-width">
-                            <h2 id="holidays" className="destination-h2">Holidays</h2>
-                            <p>A list of holidays in the selected destination country, including public, bank, and religious holidays.</p>
-                            <div id="holidays-dates-container">
-                                {holidays.map((holiday, index) => {
-                                    return (
-                                        <p key={index}><b>{new Date(holiday.date).toLocaleDateString()}</b> - {holiday.name}</p>
-                                    )
-                                })}
-                            </div>
-                        </section>
-                    </div>
                     : null
                 }
             </main>
