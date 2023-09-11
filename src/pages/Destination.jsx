@@ -6,6 +6,7 @@ import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
 import mapboxgl from 'mapbox-gl';
+import 'mapbox-gl/dist/mapbox-gl.css';
 
 export default function Destination({
     originAirportInputLabel,
