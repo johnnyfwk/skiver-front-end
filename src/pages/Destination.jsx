@@ -5,7 +5,8 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
-import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
+// import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
+import mapboxgl from 'mapbox-gl';
 
 export default function Destination({
     originAirportInputLabel,
@@ -88,7 +89,7 @@ export default function Destination({
         mapboxgl.accessToken = mapBoxApiKey;
         var map = new mapboxgl.Map({
             container: "mapbox-container",
-            style: 'mapbox://styles/mapbox/streets-v11',
+            style: 'mapbox://styles/mapbox/streets-v12',
             center: [longitude, latitude],
             zoom: 12
         });
