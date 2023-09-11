@@ -5,7 +5,6 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
-// import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 import mapboxgl from 'mapbox-gl';
 
 export default function Destination({
