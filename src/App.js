@@ -24,6 +24,22 @@ function App() {
     const destinationAirportInputPlaceholder = "Enter destination airport";
     const [destinationAirportInput, setDestinationAirportInput] = useState("");
 
+    const [isScrollToTopButtonVisible, setIsScrollToTopButtonVisible] = useState(false);
+
+    function handleScrollToTop() {
+        if (window.scrollY > 200) {
+            setIsScrollToTopButtonVisible(true);
+        } else {
+            setIsScrollToTopButtonVisible(false);
+        }
+    }
+
+    function handleScrollToTopButton() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    window.addEventListener('scroll', handleScrollToTop);
+
     return (
         <div className="App">
             <div id="logo-nav-and-nav-button-container">
@@ -110,6 +126,13 @@ function App() {
                 setOriginAirportInput={setOriginAirportInput}
                 setDestinationAirportInput={setDestinationAirportInput}
             />
+
+            <div
+                className={`scroll-to-top-button ${isScrollToTopButtonVisible ? "visible" : ""}`}
+                onClick={handleScrollToTopButton}
+            >
+                <span className="scroll-to-top-button-arrow"></span>
+            </div>
         </div>
     );
 }
