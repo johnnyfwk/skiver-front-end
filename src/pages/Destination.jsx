@@ -49,6 +49,8 @@ export default function Destination({
     const [govUKForeignTravelAdvice, setGovUKForeignTravelAdvice] = useState({});
     const [govUKForeignTravelAdviceEntryRequirements, setGovUKForeignTravelAdviceEntryRequirements] = useState("");
 
+    const destinationH1 = document.getElementById('destination-h1');
+
     function getCurrencyExchange(baseCurrency, targetCurrency) {
         api.freeCurrencyAPI(baseCurrency, targetCurrency)
             .then((response) => {
@@ -103,7 +105,6 @@ export default function Destination({
     }
 
     useEffect(() => {
-        const destinationH1 = document.getElementById('destination-h1');
         if (destinationH1) {
             const scrollPosition = destinationH1.offsetTop - 70;
             window.scrollTo({ top: scrollPosition, behavior: 'smooth' });
