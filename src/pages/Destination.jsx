@@ -258,8 +258,6 @@ export default function Destination({
     }
 
     function handleAnchorLink(event) {
-        console.log(event)
-        console.log(event.target.id.slice(12))
         const anchorLink = document.getElementById(event.target.id.slice(12));
         if (anchorLink) {
             const scrollPosition = anchorLink.offsetTop - 70;
