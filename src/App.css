@@ -253,7 +253,7 @@ footer a:hover {
 
 /************************* HOME *************************/
 #home #travel-input {
-    padding: 100px var(--padding-left-and-right);
+    padding: 50px var(--padding-left-and-right) 150px var(--padding-left-and-right);
 }
 /************************* HOME *************************/
 
@@ -265,10 +265,6 @@ footer a:hover {
     background-position: center;
     background-size: cover;
     color: var(--black);
-}
-
-#travel-input {
-    padding: 70px var(--padding-left-and-right);
 }
 
 #travel-input {
@@ -336,6 +332,10 @@ footer a:hover {
 
 
 /************************* DESTINATION *************************/
+#destination #travel-input {
+    padding: 50px var(--padding-left-and-right);
+}
+
 #destination .section-container:nth-of-type(odd) {
     background: var(--white);
 }
@@ -500,7 +500,7 @@ h1 {
     }
 
     #home #travel-input {
-        padding: 250px var(--padding-left-and-right);
+        padding: 100px var(--padding-left-and-right) 300px var(--padding-left-and-right);
     }
 
     h1 {

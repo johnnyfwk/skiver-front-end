@@ -244,7 +244,7 @@ export default function Destination({
     }
 
     return (
-        <div>
+        <div id="destination">
             <Helmet>
                 <link rel="canonical" href={`https://skiver.co.uk/destination/${destination_airport_id}`} />
                 <title>Travel information for {destinationAirport[0].city}, {destinationAirport[0].country} • Skiver</title>
