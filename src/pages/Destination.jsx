@@ -5,8 +5,6 @@ import TravelInput from '../components/TravelInput';
 import airports from '../assets/data/airports';
 import * as api from '../api';
 import BarChart from '../components/BarChart';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
 
 export default function Destination({
     originAirportInputLabel,
@@ -31,8 +29,6 @@ export default function Destination({
     const [originCountryInfo, setOriginCountryInfo] = useState(null);
     const [destinationCountryInfo, setDestinationCountryInfo] = useState(null);
     const [destinationCityInfo, setDestinationCityInfo] = useState(null);
-
-    const [isMapboxVisible, setIsMapboxVisible] = useState(true);
 
     const [emergencyNumbersAll, setEmergencyNumbersAll] = useState(null);
     const [emergencyNumbersPolice, setEmergencyNumbersPolice] = useState(null);
@@ -82,17 +78,6 @@ export default function Destination({
                 setEmergencyNumbersFire(null);
                 setEmergencyNumbersMember112(null);
             })
-    }
-
-    function getMapbox(latitude, longitude) {
-        const mapBoxApiKey = process.env.REACT_APP_MAPBOX_TOKEN;
-        mapboxgl.accessToken = mapBoxApiKey;
-        var map = new mapboxgl.Map({
-            container: "mapbox-container",
-            style: 'mapbox://styles/mapbox/streets-v12',
-            center: [longitude, latitude],
-            zoom: 12
-        });
     }
 
     function getHolidays(country) {
@@ -181,21 +166,12 @@ export default function Destination({
 
         // City Information
         setDestinationCityInfo(null);
-        setIsMapboxVisible(true);
         api.cityAPI(destinationAirportInfo[0].city)
             .then((response) => {
                 setDestinationCityInfo(response);
-                if (response.length > 0) {
-                    setIsMapboxVisible(true);
-                }
-                else {
-                    setIsMapboxVisible(false);
-                }
-                getMapbox(response[0].latitude, response[0].longitude); // Render mapbox
             })
             .catch((error) => {
                 setDestinationCityInfo(null);
-                setIsMapboxVisible(false);
             })
         // City Information
 
@@ -266,11 +242,6 @@ export default function Destination({
         }
     }
 
-    const styleMapboxContainer = {
-        width: "100%",
-        height: "400px"
-    }
-
     return (
         <div>
             <Helmet>
@@ -292,18 +263,7 @@ export default function Destination({
                 setDestinationAirportInput={setDestinationAirportInput}
             />
 
-            <main id="destination">
-                <div className="section-container">
-                    <section className="max-width">
-                        <h1 id="destination-h1">{destinationAirport[0].city}, {destinationAirport[0].country}</h1>
-                        <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
-                        {isMapboxVisible
-                            ? <div id="mapbox-container" style={styleMapboxContainer}></div>
-                            : null
-                        }
-                    </section>
-                </div>
-                
+            <main id="destination">                
                 {destinationCountryInfo ||
                 emergencyNumbersAll ||
                 emergencyNumbersPolice ||
@@ -317,6 +277,8 @@ export default function Destination({
                 holidays
                     ? <div className="section-container">
                         <section className="max-width">
+                            <h1 id="destination-h1">{destinationAirport[0].city}, {destinationAirport[0].country}</h1>
+                            <p>Travelling from {originAirport[0].city}, {originAirport[0].country}.</p>
                             <h2 className="destination-h2">Contents</h2>
                             <ul id="destination-contents-list" onClick={handleAnchorLink}>
                                 {destinationCountryInfo
